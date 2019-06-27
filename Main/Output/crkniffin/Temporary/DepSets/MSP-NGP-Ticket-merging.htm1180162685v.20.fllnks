@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
+    <Link
+      Url="Content/MSP-Turn-inbound-email-into-tickets.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
+    <Link
+      Url="Content/MSP-Turn-inbound-email-into-tickets.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="PDFVariables.ProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

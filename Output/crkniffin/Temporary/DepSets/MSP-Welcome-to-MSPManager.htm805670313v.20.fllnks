@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+    <Link
+      Url="https://www.youtube.com/playlist" />
+    <Link
+      Url="http://www.n-able.com/qa" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/SupportButton2.png" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/Support Resources2.png" />
+    <Link
+      Url="mailto:mspmanager-sales@solarwinds.com" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="https://www.youtube.com/watch?v=h1hRJH7jFgE&amp;index=1&amp;list=PLYriFemdHw-JEwpyEBqr0KHUExOath3K_" />
+    <Link
+      Url="https://www.youtube.com/playlist?list=PLYriFemdHw-JEwpyEBqr0KHUExOath3K_" />
+    <Link
+      Url="http://www.n-able.com/qa" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/SupportButton2.png" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/Support Resources2.png" />
+    <Link
+      Url="mailto:mspmanager-sales@solarwinds.com" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="PDFVariables.ProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/MainStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

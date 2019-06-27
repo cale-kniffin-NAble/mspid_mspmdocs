@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  DepSetCode="959674829"
+  SavedSource="file:///C:/doc/MSPManager/Docs/Flare/Main/Output/crkniffin/Temporary/MSPMgrPDF v.1.catapulttoccache">
+  <TocEntry
+    Title="Welcome">
+    <TocEntry
+      Title="Welcome to MSP Manager"
+      Link="/Content/MSP-Welcome-to-MSPManager.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Admin guide">
+    <TocEntry
+      Title="Get started with MSP Manager"
+      Link="/Content/MSP-Getting-Started.htm"></TocEntry>
+    <TocEntry
+      Title="Users"
+      Link="/Content/MSP-Users.htm">
+      <TocEntry
+        Title="Set roles and permissions for technicians"
+        Link="/Content/MSP-Roles-and-Permissions.htm" />
+      <TocEntry
+        Title="Create customer access groups"
+        Link="/Content/MSP-Create-customer-access-groups.htm"></TocEntry>
+      <TocEntry
+        Title="Track user stats and billable hours from the Company Dashboard"
+        Link="/Content/MSP-User-Stats.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Ticketing"
+      Link="/Content/MSP-Tickets.htm">
+      <TocEntry
+        Title="Track work with helpdesk tickets"
+        Link="/Content/MSP-Track-work-with-helpdesk-tickets.htm"></TocEntry>
+      <TocEntry
+        Title="Use timers to track time spent on tickets for accurate billing"
+        Link="/Content/MSP-Log-time-spent-on-a-ticket.htm">
+        <TocEntry
+          Title="Create a ticket and start a timer from the Quick Ticket menu"
+          Link="/Content/MSP-Create-a-quick-ticket.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/MSP-Start-timer-from-inside-ticket.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/MSP-Start-timer-from-ticket-list.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      </TocEntry>
+      <TocEntry
+        Title="Create multiple ticket mailboxes"
+        Link="/Content/MSP-Multiple-Ticket-Mailboxes.htm" />
+      <TocEntry
+        Title="Organize your tickets using ticket queues"
+        Link="/Content/MSP-Ticket-queues.htm" />
+      <TocEntry
+        Title="Merge tickets and ticket requests"
+        Link="/Content/MSP-Ticket-Merging.htm" />
+      <TocEntry
+        Title="Schedule recurring tickets"
+        Link="/Content/MSP-Schedule-recurring-tickets.htm" />
+      <TocEntry
+        Title="Email customers from inside a ticket"
+        Link="/Content/MSP-Add-Responses-to-Tickets.htm" />
+      <TocEntry
+        Title="Use the Customer Portal to give ticket access to your customers"
+        Link="/Content/MSP-Give-ticket-access-to-your-customers.htm"></TocEntry>
+      <TocEntry
+        Title="Configure ticket routing"
+        Link="/Content/MSP-Automatically-assign-inbound-tickets.htm">
+        <TocEntry
+          Title="Automatically assign inbound tickets"
+          Link="/Content/MSP-Prerequisites-for-ticket-routing.htm" />
+        <TocEntry
+          Title="Define rules for ticket routing"
+          Link="/Content/MSP-Define-rules-for-ticket-routing.htm" />
+        <TocEntry
+          Title="Create issue types, define user skills and group users into teams"
+          Link="/Content/MSP-Rate-users-and-group-into-teams.htm" />
+        <TocEntry
+          Title="How are users scored during ticket routing?"
+          Link="/Content/MSP-How-are-users-scored-during-ticket-routing.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Service items and billing"
+      Link="/Content/MSP-Bill-your-customers-to-collect-revenue.htm">
+      <TocEntry
+        Title="Create a Program Level and apply it to multiple customers"
+        Link="/Content/MSP-Create-program-levels-for-multiple-customers.htm" />
+      <TocEntry
+        Title="Create Service Plans and apply them to multiple customers"
+        Link="/Content/MSP-Service-Plans.htm" />
+      <TocEntry
+        Title="Charge for your work with service items"
+        Link="/Content/MSP-Charge-for-your-work-with-service-items.htm" />
+      <TocEntry
+        Title="Create Service Items for one-time projects"
+        Link="/Content/MSP-Project-Billing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Define your prices with rates"
+        Link="/Content/MSP-Define-your-prices-with-rates.htm" />
+      <TocEntry
+        Title="Bill for partially completed tickets"
+        Link="/Content/MSP-Bill-for-partially-complete-tickets1.htm" />
+      <TocEntry
+        Title="Run a billing batch"
+        Link="/Content/MSP-Run-a-billing-batch.htm"></TocEntry>
+      <TocEntry
+        Title="Deactivate service items"
+        Link="/Content/MSP-Delete-service-item-will-delete-tickets.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Integrations "
+      Link="/Content/MSP-Integrations.htm">
+      <TocEntry
+        Title="Accounting software integration"
+        Link="/Content/MSP-Accounting-software-integration.htm">
+        <TocEntry
+          Title="QuickBooks Desktop"
+          Link="/Content/MSP-Quickbooks-desktop-integration-folder.htm">
+          <TocEntry
+            Title="Integrate MSP Manager with QuickBooks Desktop and export invoices"
+            Link="/Content/MSP-QuickBooks-Desktop.htm"></TocEntry>
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/MSP-Support-Quickbooks-1039-error.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/MSP-Support-Remove-QB-Webconnector.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry
+          Title="QuickBooks Online"
+          Link="/Content/MSP-Quickbooks-online-integration-folder.htm">
+          <TocEntry
+            Title="Integrate MSP Manager with QuickBooks Online and export invoices"
+            Link="/Content/MSP-QuickBooks-Online.htm"></TocEntry>
+          <TocEntry
+            Title="Configure your tax rates in QuickBooks Online"
+            Link="/Content/MSP-Quickbooks-Tax.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Xero Accounting"
+          Link="/Content/MSP-Xero.htm" />
+        <TocEntry
+          Title="Export your invoices as a CSV file"
+          Link="/Content/MSP-CSV-billing-export.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Integrate MSP Manager with N-central"
+        Link="/Content/MSP-Integrate-Ncentral-and-MSPM.htm">
+        <TocEntry
+          Title="Configure the N-central Integration"
+          Link="/Content/MSP-Setup-Ncentral-Integration.htm" />
+        <TocEntry
+          Title="Export assets from N-central"
+          Link="/Content/MSP-Export-assets-from-Ncentral.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Integrate your MSP RMM account with MSP Manager "
+        Link="/Content/MSP-Integrate-MSPRM-with-MSPManager.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Notifications"
+      Link="/Content/MSP-Notifications.htm">
+      <TocEntry
+        Title="Customize HTML or plain text notifications to send to your customers and technicians"
+        Link="/Content/MSP-HTML-and-plain-text-notifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Configure your notification settings for system and user actions"
+        Link="/Content/MSP-Set-notifications-for-system-and-user-actions.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Assets"
+      Link="/Content/MSP-Assets.htm">
+      <TocEntry
+        Title="Create asset classes and statuses"
+        Link="/Content/MSP-Create-Asset-classes-and-statuses.htm" />
+      <TocEntry
+        Title="Add tags to your assets"
+        Link="/Content/MSP-Asset-tags.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Knowledge-and-Reporting.htm">
+      <TocEntry
+        Title="Share knowledge with your team"
+        Link="/Content/MSP-Share-knowledge-with-your-team.htm"></TocEntry>
+      <TocEntry
+        Title="Run reports to track business metrics"
+        Link="/Content/MSP-Run-reports-to-track-business.htm"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Scheduling-and-SLAs.htm">
+      <TocEntry
+        Title="Schedule your workday with appointments"
+        Link="/Content/MSP-Schedule-your-workday-with-appointments.htm" />
+      <TocEntry
+        Title="Create and assign service level agreements"
+        Link="/Content/MSP-SLA.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="FAQ">
+    <TocEntry
+      Title="Bill for a recurring service"
+      Link="/Content/MSP-Bill-for-a-recurring-service.htm"></TocEntry>
+    <TocEntry
+      Title="Billing errors"
+      Link="/Content/MSP-Billing-errors.htm" />
+    <TocEntry
+      Title="Billing scenarios"
+      Link="/Content/MSP-Billing-scenarios.htm">
+      <TocEntry
+        Title="Hourly retainer with overage"
+        Link="/Content/MSP-Hour-retainer-with-overage.htm" />
+      <TocEntry
+        Title="Hourly support"
+        Link="/Content/MSP-Hourly-support.htm" />
+      <TocEntry
+        Title="Managed desktops or servers"
+        Link="/Content/MSP-Managed-desktops-or-servers.htm" />
+      <TocEntry
+        Title="Monthly fee with additional hourly rate"
+        Link="/Content/MSP-Monthly-fee-with-additional-hourly-rate.htm" />
+      <TocEntry
+        Title="Off-site backup"
+        Link="/Content/MSP-Off-site-backup.htm" />
+      <TocEntry
+        Title="One-time fee"
+        Link="/Content/MSP-One-time-fee.htm" />
+      <TocEntry
+        Title="Project estimate with hourly rates"
+        Link="/Content/MSP-Project-estimate-with-hourly-rates.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Change the currency, date format, and time zone"
+      Link="/Content/MSP-Change-the-currency-date-format-and-time-zone.htm" />
+    <TocEntry
+      Title="Create a contract that does not expire"
+      Link="/Content/MSP-Create-a-contract-that-does-not-expire.htm" />
+    <TocEntry
+      Title="Override default mappings to accounting software"
+      Link="/Content/MSP-Override-default-mappings-to-accounting-software.htm" />
+    <TocEntry
+      Title="Reveal any password with the owner secret"
+      Link="/Content/MSP-Reveal-any-password-with-the-owner-secret.htm" />
+    <TocEntry
+      Title="Set customers as inactive"
+      Link="/Content/MSP-Set-customers-as-inactive.htm" />
+    <TocEntry
+      Title="Set individual services as taxable or not"
+      Link="/Content/MSP-Set-individual-services-as-taxable-or-not.htm" />
+    <TocEntry
+      Title="Share internal knowledge about your company"
+      Link="/Content/MSP-Share-internal-knowledge-about-your-company.htm" />
+    <TocEntry
+      Title="Store resolutions to common customer issues"
+      Link="/Content/MSP-Store-resolutions-to-common-customer-issues.htm" />
+    <TocEntry
+      Title="Ticket routing with multiple locations"
+      Link="/Content/MSP-Ticket-routing-with-multiple-locations.htm" />
+    <TocEntry
+      Title="Troubleshoot your ticket mailbox"
+      Link="/Content/MSP-Troubleshoot-your-ticket-mailbox.htm" />
+    <TocEntry
+      Title="Turn inbound email into tickets"
+      Link="/Content/MSP-Turn-inbound-email-into-tickets.htm" />
+  </TocEntry>
+</CatapultToc>

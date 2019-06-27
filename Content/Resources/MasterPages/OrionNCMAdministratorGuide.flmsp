@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/SWI_CustomStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p>&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p>&#160;</p>
+            <p>ii <span style="font-family: Wingdings;">³</span> About SolarWinds </p>
+        </div>
+    </body>
+</html>

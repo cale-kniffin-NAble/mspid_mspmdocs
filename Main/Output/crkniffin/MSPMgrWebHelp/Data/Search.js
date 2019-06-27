@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0,70,142],u:['../Content/Default.htm'],s:['$0','export','remain'],p:[['$0',7],['allows',90],['at',31],['click',148],['dashboard',185],['expense',30],['how',112],['items',29],['mspmanagerservice',36],['order',87],['requests',20],['settings',177],['the',104],['to',91],['when',156]]});

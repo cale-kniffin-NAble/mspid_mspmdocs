@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="TOC First" Width="800" Height="800" Padding="20pt" PageSize="Letter" PageType="first">
+        <Frame Flow="footer" Height="39.75pt" Anchors="Left,Right,Bottom" Right="24pt" Bottom="17.25pt" X="24pt" Y="694.5pt" BorderTopStyle="solid" BorderTopWidth="2pt" BorderTopColor="#005496" Width="698px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;"><MadCap:variable xhtml:name="System.PageNumber" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="32px" Y="40px" Width="698px" Height="227px" FlowIndex="1" BackgroundImage="none" Right="32px" Bottom="735px" Anchors="" BackgroundRepeat="no-repeat">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="TOC Left" Width="800" Height="800" Padding="20pt" PageSize="Letter" PageType="left">
+        <Frame Flow="body" Y="62.25pt" Bottom="69pt" X="24pt" Right="24pt" ColumnCount="1" Anchors="Left,Right,Top,Bottom" Width="698px" Height="827px">
+        </Frame>
+        <Frame Flow="footer" Height="39.75pt" Anchors="Left,Right,Bottom" Right="24pt" Bottom="17.25pt" X="24pt" Y="694.5pt" BorderTopStyle="solid" BorderTopWidth="2pt" BorderTopColor="#fbb034" VerticalAlign="middle" TextAlign="center" Width="698px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;"><MadCap:variable xhtml:name="System.PageNumber" /> </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="TOC Right" Width="800" Height="800" Padding="20pt" PageSize="Letter" PageType="right">
+        <Frame Flow="footer" Height="39.75pt" Anchors="Left,Right,Bottom" Right="24pt" Bottom="17.25pt" X="24pt" Y="694.5pt" BorderTopStyle="solid" BorderTopWidth="2pt" BorderTopColor="#005496" Width="698px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;"><MadCap:variable xhtml:name="System.PageNumber" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Y="62.25pt" Bottom="69pt" X="24pt" Right="24pt" ColumnCount="1" Anchors="Left,Right,Top,Bottom" Width="698px" Height="827px">
+        </Frame>
+    </Page>
+</PageStyles>

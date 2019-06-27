@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/MSP-Getting-Started.htm" />
+    <Link
+      Url="Content/MSP-Add-customer-information.htm" />
+    <Link
+      Url="Content/MSP-Users.htm" />
+    <Link
+      Url="Content/MSP-Roles-and-Permissions.htm" />
+    <Link
+      Url="Content/MSP-Create-customer-access-groups.htm" />
+    <Link
+      Url="Content/MSP-User-Stats.htm" />
+    <Link
+      Url="Content/MSP-Tickets.htm" />
+    <Link
+      Url="Content/MSP-Track-work-with-helpdesk-tickets.htm" />
+    <Link
+      Url="Content/MSP-Log-time-spent-on-a-ticket.htm" />
+    <Link
+      Url="Content/MSP-Create-a-quick-ticket.htm" />
+    <Link
+      Url="Content/MSP-Start-timer-from-inside-ticket.htm" />
+    <Link
+      Url="Content/MSP-Start-timer-from-ticket-list.htm" />
+    <Link
+      Url="Content/MSP-Multiple-Ticket-Mailboxes.htm" />
+    <Link
+      Url="Content/MSP-Ticket-queues.htm" />
+    <Link
+      Url="Content/MSP-Ticket-Merging.htm" />
+    <Link
+      Url="Content/MSP-Schedule-recurring-tickets.htm" />
+    <Link
+      Url="Content/MSP-Add-Responses-to-Tickets.htm" />
+    <Link
+      Url="Content/MSP-Give-ticket-access-to-your-customers.htm" />
+    <Link
+      Url="Content/MSP-Automatically-assign-inbound-tickets.htm" />
+    <Link
+      Url="Content/MSP-Prerequisites-for-ticket-routing.htm" />
+    <Link
+      Url="Content/MSP-Define-rules-for-ticket-routing.htm" />
+    <Link
+      Url="Content/MSP-Rate-users-and-group-into-teams.htm" />
+    <Link
+      Url="Content/MSP-How-are-users-scored-during-ticket-routing.htm" />
+    <Link
+      Url="Content/MSP-Bill-your-customers-to-collect-revenue.htm" />
+    <Link
+      Url="Content/MSP-Create-program-levels-for-multiple-customers.htm" />
+    <Link
+      Url="Content/MSP-Service-Plans.htm" />
+    <Link
+      Url="Content/MSP-Charge-for-your-work-with-service-items.htm" />
+    <Link
+      Url="Content/MSP-Project-Billing.htm" />
+    <Link
+      Url="Content/MSP-Define-your-prices-with-rates.htm" />
+    <Link
+      Url="Content/MSP-Bill-for-partially-complete-tickets1.htm" />
+    <Link
+      Url="Content/MSP-Run-a-billing-batch.htm" />
+    <Link
+      Url="Content/MSP-Delete-service-item-will-delete-tickets.htm" />
+    <Link
+      Url="Content/MSP-Integrations.htm" />
+    <Link
+      Url="Content/MSP-Accounting-software-integration.htm" />
+    <Link
+      Url="Content/MSP-Quickbooks-desktop-integration-folder.htm" />
+    <Link
+      Url="Content/MSP-QuickBooks-Desktop.htm" />
+    <Link
+      Url="Content/MSP-Support-Quickbooks-1039-error.htm" />
+    <Link
+      Url="Content/MSP-Support-Remove-QB-Webconnector.htm" />
+    <Link
+      Url="Content/MSP-Quickbooks-online-integration-folder.htm" />
+    <Link
+      Url="Content/MSP-QuickBooks-Online.htm" />
+    <Link
+      Url="Content/MSP-Quickbooks-Tax.htm" />
+    <Link
+      Url="Content/MSP-Xero.htm" />
+    <Link
+      Url="Content/MSP-CSV-billing-export.htm" />
+    <Link
+      Url="Content/MSP-Integrate-Ncentral-and-MSPM.htm" />
+    <Link
+      Url="Content/MSP-Setup-Ncentral-Integration.htm" />
+    <Link
+      Url="Content/MSP-Export-assets-from-Ncentral.htm" />
+    <Link
+      Url="Content/MSP-Integrate-MSPRM-with-MSPManager.htm" />
+    <Link
+      Url="Content/MSP-Notifications.htm" />
+    <Link
+      Url="Content/MSP-HTML-and-plain-text-notifications.htm" />
+    <Link
+      Url="Content/MSP-Set-notifications-for-system-and-user-actions.htm" />
+    <Link
+      Url="Content/MSP-Assets.htm" />
+    <Link
+      Url="Content/MSP-Create-Asset-classes-and-statuses.htm" />
+    <Link
+      Url="Content/MSP-Asset-tags.htm" />
+    <Link
+      Url="Content/MSP-Run-reports-to-track-business.htm" />
+    <Link
+      Url="Content/MSP-Share-knowledge-with-your-team.htm" />
+    <Link
+      Url="Content/MSP-Schedule-your-workday-with-appointments.htm" />
+    <Link
+      Url="Content/MSP-SLA.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Integrate <MadCap:variable name="MSPManager.ProductName_Long" /> with QuickBooks Desktop and export your invoices</h1>
+        <p><a href="https://www.youtube.com/watch?v=GV7GLGUsvqU" target="_blank"><img src="Resources/Images/MSPManagerIcons/video.png" style="vertical-align: middle; width: 20px;height: 15px;" />&#160;&#160;Watch a video on integrating QuickBooks Desktop.</a>
+        </p>
+        <h3>Configure QuickBooks Desktop integration with <MadCap:variable name="MSPManager.ProductName_Long" /></h3>
+        <ol>
+            <li>Disable the pop-up blocker in your browser.</li>
+            <li>Start QuickBooks Desktop, and click <span class="ButtonMenuNote">Lists</span> &gt; <span class="ButtonMenuNote">Item List</span>.</li>
+            <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, click <span class="ButtonMenuNote">Settings</span> &gt; <span class="ButtonMenuNote">Integrations</span> &gt; <span class="ButtonMenuNote">QuickBooks Desktop</span> &gt; <span class="ButtonMenuNote">Configure</span>.</li>
+            <li>Click <span class="ButtonMenuNote">Add a QuickBooks Desktop Item</span>.</li>
+            <li>Refer back to the Item List in QuickBooks, and add an item in <MadCap:variable name="MSPManager.ProductName_Long" /> for each item. </li>
+            <p class="warning">The names of items in QuickBooks and <MadCap:variable name="MSPManager.ProductName_Long" /> must match exactly, including spacing and capitalization, to successfully export invoices to QuickBooks Desktop. </p>
+            <li>In the <span class="ButtonMenuNote">Default Mappings</span> area, map each line item to the defaults listed, and click <span class="ButtonMenuNote">Save Default Mappings</span>.</li>
+        </ol>
+        <h3>Export an invoice to QuickBooks Desktop for the first time</h3>
+        <ol>
+            <li>Open QuickBooks Desktop and select your company file.</li>
+            <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, navigate to <span class="ButtonMenuNote">Billing</span>, select a billing batch and click the <span class="ButtonMenuNote">Review &amp;&#160;Export Invoices</span> tab.</li>
+            <li>Select <span class="ButtonMenuNote">QuickBooks Desktop</span> from the <span class="ButtonMenuNote">Export Format</span> list, and click <span class="ButtonMenuNote">Export Invoices</span>. This adds the invoices to a queue where the Quickbooks web connector can find and export them to Quickbooks. </li>
+            <li>Click the <span class="ButtonMenuNote">QuickBooks Web Connector</span> link to download the QWC file.</li>
+            <li>Open the downloaded QWC file and click <span class="ButtonMenuNote">OK&#160;</span>to authorize <MadCap:variable name="MSPManager.ProductName_Long" /> to connect with QuickBooks.</li>
+            <li>In the <span class="ButtonMenuNote">Application Certificate</span> window, click <span class="ButtonMenuNote">Yes, Always Allow Access Even If QuickBooks Is Not&#160;Running</span>, and click <span class="ButtonMenuNote">Continue</span>.</li>
+            <li>Click <span class="ButtonMenuNote">Done</span>.</li>
+            <li>In the <span class="ButtonMenuNote">QuickBooks Web Connector</span>, enter your <MadCap:variable name="MSPManager.ProductName_Long" /> password in the <span class="ButtonMenuNote">MSPManagerService</span> field.</li>
+            <li>Click in a blank portion of the window to confirm the addition of your password, and click&#160;<span class="ButtonMenuNote">Yes </span>to save the password.</li>
+            <li>Click the <span class="ButtonMenuNote">MSPManagerService</span> check box, and click <span class="ButtonMenuNote">Update Selected</span>. This activates the web connector, locates the invoices waiting in the queue and exports them to Quickbooks. </li>
+        </ol>
+        <h3>Export an invoice to QuickBooks Desktop moving forward</h3>
+        <ol>
+            <li>Navigate to <span class="ButtonMenuNote">Billing</span>, and <a href="MSP-NGP-Run-a-billing-batch.htm">run a billing batch</a>.</li>
+            <li>Select <span class="ButtonMenuNote">QuickBooks Desktop</span> from the <span class="ButtonMenuNote">Export Format</span> list, and click <span class="ButtonMenuNote">Export Invoices</span>.</li>
+            <li>In the <span class="ButtonMenuNote">QuickBooks Web Connector</span>, click&#160;<span class="ButtonMenuNote">Update Selected</span>.</li>
+            <li>Your invoices appear instantly in QuickBooks Desktop.</li>
+        </ol>
+    </body>
+</html>

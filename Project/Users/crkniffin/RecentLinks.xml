@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\doc\MSPManager\Docs\Flare\Main\Content\Resources\Snippets\DefaultServiceItem.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\crkniffin\AppData\Local\Temp\MadCap Software\Flare\SkinEditor\_21989B99\turq-line-bg.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\doc\MSPManager\Docs\Flare\Main\Content\MSP-Ncentral-Integration.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\doc\MSPManager - Copy\Docs\Flare\Main\Content\MSP-Schedule-Your-Workday-with-Appointments.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
+</RecentLinks>

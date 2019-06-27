@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="664" MadCap:lastWidth="1250">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Remove the web connector file from QuickBooks Desktop</h1>
+        <p>QuickBooks web connector errors can interfere with and prevent the export of invoices from <MadCap:variable name="PDFVariables.ProductName" /> to QuickBooks Desktop. Removing and reloading the web connector file  is a good way to diagnose and fix any errors that occur while exporting invoices. </p>
+        <ol>
+            <li>Open QuickBooks Desktop.</li>
+            <li>Select Edit &gt; Preferences.</li>
+            <li>Click Integrated Applications from the options on the left.</li>
+            <li>Select MSP Manager service and click Remove.<br /><img src="Resources/Images/MSPMScreenshots/RemoveQBWC.png" style="width: 477px;height: 305px;" /><br /></li>
+            <li>Open <MadCap:variable name="PDFVariables.ProductName" /> and select the billing tab.</li>
+            <li>Create a new billing batch or select an existing batch.</li>
+            <li>Click the Review and Export Invoices tab.</li>
+            <li>Select QuickBooks Desktop from the Export Format drop down menu.</li>
+            <li>Click the Downloaded QWC File link to download the QuickBooks Web Connector file.</li>
+        </ol>
+        <p>After the download is complete, the web connector will relaunch and ask for permission to re-establish the connection with <MadCap:variable name="PDFVariables.ProductName" />. Complete the set up process and run the web connector to import your invoices into QuickBooks.</p>
+    </body>
+</html>

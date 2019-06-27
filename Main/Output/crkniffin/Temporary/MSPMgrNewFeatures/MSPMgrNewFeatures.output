@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/crkniffin/MSPMgrNewFeatures/MSPMgrNewFeatures.pdf"
+  BuildVersion="14.0.6694.38542">
+  <Files>
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/logo-n-able-msp-manager.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/icons/icon_warn.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/icons/icon_info_flip.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/icons/icon_error.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/icons/icon_check.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/splash.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/logo-n-able-msp-manager-small.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/coverart/splash.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/icons/icon_hint.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/mspmscreenshots/testconnection.png" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/icons/icon_info.png" />
+    <Url
+      Source="Output/crkniffin/MSPMgrNewFeatures/MSPMgrNewFeatures.pdf" />
+    <Url
+      Source="Output/crkniffin/Temporary/MSPMgrNewFeatures/MSPMgrNewFeatures_4A8B849E/resources/images/mspmscreenshots/viewlog.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

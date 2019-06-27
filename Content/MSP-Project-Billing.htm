@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Create service items for one-time projects</h1>
+        <p>You can create  service items to bill your customers for project-based work.   Charge your customers a one-time  fee for the entire project, or bill by the hour with one or more hourly rates. Generate invoices prior to starting work or create them after the project is completed.</p>
+        <h2>Configure a project service item with multiple billing rates</h2>
+        <p>In order to create a project and bill a customer using multiple hourly rates, such as different rates for employees or scope of work, you need to create a project service item. </p>
+        <p>In this example, configure a project service item with a total estimated cost of $1,500, 15 estimated hours of work, and multiple hourly rates. </p>
+        <p>
+            <ol>
+                <li>
+                    <MadCap:snippetText src="Resources/Snippets/Customers.flsnp" />
+                </li>
+                <li>Click <span class="ButtonMenuNote">Service Items</span> &gt; <span class="ButtonMenuNote">Add a New Service Item</span>.</li>
+                <li>Select <span class="ButtonMenuNote">Project </span>from the <span class="ButtonMenuNote">Service Type</span> list.</li>
+                <li>Enter <span class="code">$1500</span> in the <span class="ButtonMenuNote">Project Estimate</span> field.</li>
+                <li>Enter <span class="code">15</span> in the <span class="ButtonMenuNote">Estimated Hours</span> field.</li>
+                <li>Select <span class="ButtonMenuNote">Actual Hours</span> in the <span class="ButtonMenuNote">Bill For</span> field.</li>
+                <li>Select an hourly rate from the <span class="ButtonMenuNote">Default Rate</span> list, or use the <span class="ButtonMenuNote">Add A New Rate</span> button to create a new hourly rate.</li>
+                <li>Select additional hourly rates from the <span class="ButtonMenuNote">Additional Rates</span> list.</li>
+                <li>Click&#160;<span class="ButtonMenuNote">Create Service Item</span>.</li>
+            </ol>
+            <p>The new service item is now assigned to the customer for whom it was created and can be applied to new tickets. Open and complete tickets in order to bill your customers. </p>
+        </p>
+        <h2>Configure a project service item with a one-time flat fee</h2>
+        <p>In this example, configure a project service item with a one-time project estimate fee of $700, 10 estimated hours, and an additional hourly rate.</p>
+        <p>
+            <ol>
+                <li style="font-weight: normal;">Follow steps 1 - 3 above.</li>
+                <li style="font-weight: normal;">Enter <span class="ButtonMenuNote">$700</span> in the <span class="ButtonMenuNote">Project Estimate</span> field.</li>
+                <li style="font-weight: normal;">Enter <span class="code">10</span> in the <span class="ButtonMenuNote">Estimated Hours</span> field.</li>
+                <p class="info">Estimated hours must be in whole numbers with no decimals. </p>
+                <li style="font-weight: normal;">Select <span class="ButtonMenuNote">Project Estimate</span> in the <span class="ButtonMenuNote">Bill For</span> field.</li>
+                <li style="font-weight: normal;">Select an hourly rate from the <span class="ButtonMenuNote">Default Rate</span> field.</li>
+                <li style="font-weight: normal;">Click <span class="ButtonMenuNote">Create Service Item</span>.</li>
+            </ol>
+        </p>
+        <p style="font-weight: normal;">Create a new billing batch  to generate an invoice and bill your customer up front for the estimated hours. Open tickets to bill for time at the attached hourly rate after the estimated hours are used up. </p>
+    </body>
+</html>

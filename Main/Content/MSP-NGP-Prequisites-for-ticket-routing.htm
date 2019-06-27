@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="774" MadCap:lastWidth="1143">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 class="chapter">Use ticket routing to automatically assign inbound tickets</h1>
+        <p>Configure <a href="MSP-NGP-Define-rules-for-ticket-routing.htm">ticket routing rules</a> so that email requests or  N-central alerts automatically create tickets in <MadCap:variable name="PDFVariables.ProductName" />. Ticket requests are generated from email, the customer portal, or N-central. Specify a default service item for your customers, and with  ticket routing rules in place, <MadCap:variable name="PDFVariables.ProductName" /> turns these emailed requests and alerts into tickets. </p>
+        <h3>Email ticket routing</h3>
+        <p>In order to route a ticket from email, <MadCap:variable name="MSPManager.ProductName_Long" /> determines the identity of the customer  in one of two ways:</p>
+        <ul>
+            <li>If the sender email address matches a customer contact.</li>
+            <li>If the sender email domain matches a customer email domain.</li>
+        </ul>
+        <h3>Assign an email domain to your customers</h3>
+        <p>Enter an email domain for each customer in <MadCap:variable name="PDFVariables.ProductName" /> for ticket routing to work correctly.  </p>
+        <ol>
+            <li>Click customers, and select a customer from the list.</li>
+            <li>Click Actions &gt; Edit Customer.</li>
+            <li>Enter the customer domain in the Email Domain field and click Save.</li>
+            <li>Click Save Customer. </li>
+        </ol>
+        <p>Tickets are created from incoming email after assigning an email domain and specifying a default service item.</p>
+        <h3>Specify a default service item</h3>
+        <ol>
+            <li>Click customers, and select a customer from the list.</li>
+            <li>Click Service Items.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 21px;height: 13px;"></img> to edit a service item.</li>
+            <li>Select the Default Service Item check box and click Save. </li>
+        </ol>
+        <p>Complete these steps for all customers in <MadCap:variable name="PDFVariables.ProductName" /> for ticket routing to work for everyone. </p>
+        <h3>Portal ticket routing</h3>
+        <p class="info">Customers with portal access must have a default service item specified for tickets to be created automatically in <MadCap:variable name="PDFVariables.ProductName" />.</p>
+        <h3>N-central ticket routing</h3>
+        <p>Is <a href="https://secure.n-able.com/webhelp/NC_10-2-1_Cust_en#N-central/PSA_Integration/MSP Manager/PSA_MSPMgr_BillingProfiles.htm?Highlight=service%20item%20mapping" target="_blank">service item mapping</a> configured in N-central?</p>
+        <ul>
+            <li>If yes, the ticket is routed to the mapped service item. No further action is required.</li>
+            <li>If no, the customer must have a default service item specified in <MadCap:variable name="MSPManager.ProductName_Long" />.</li>
+        </ul>
+        <p>Ticket requests from N-central, email, and the customer portal are automatically turned into tickets and routed correctly when a default service item and an email domain are assigned to all customers. </p>
+    </body>
+</html>

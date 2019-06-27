@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="986" MadCap:lastWidth="914">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 class="chapter">Create and assign service level agreements</h1>
+        <p>A service level agreement (SLA) is a contract between the service provider and the customer that defines the level of service expected from the service provider. <MadCap:variable name="MSPManager.ProductName_Long"></MadCap:variable> uses SLAs to sort tickets, send email notifications, and report on met and breached policies. SLAs do not affect ticket assignment or billing. They are defined globally and assigned to service items.</p>
+        <p>Create an SLA policy to specify the amount of time expected to create tickets and resolve issues for your customers. Three levels of alerts trigger notifications to remind technicians when a ticket is approaching a breach in SLA. Use your company business hours or specify custom hours to put an SLA&#160;policy on hold when business is closed. </p>
+        <h3>Add a new service level agreement (SLA)&#160;policy</h3>
+        <ol>
+            <li>Navigate to Settings &gt; SLA &gt; SLA Policies &gt; Add SLA Policy.</li>
+            <li>Enter a policy name and description.</li>
+            <li>Under Alert Thresholds, expand an alert level and define the following:<ul><li>The percentage to breach when the alert is triggered.</li><p class="info">The percentage reaches 200 to accommodate a breach of up to twice the length of the SLA&#160;policy.</p></ul><ul><li>The color displayed on the associated tickets.</li><li>The users to receive email notifications.</li></ul></li>
+            <li>Under Policy Settings, click the Default Setting and enter a time in hours for each ticket status.            <p class="hint">Repeat this step for each priority section that requires adjustments.</p></li>
+            <li>Click Save.</li>
+        </ol>
+        <h3>Specify hours to put service level agreements on hold</h3>
+        <p>During non-business hours, SLA timers stop running while your company is closed and continue when business hours resume. </p>
+        <ol>
+            <li>Navigate to Settings &gt; SLA &gt; SLA Policies &gt; Edit a policy. </li>
+            <li>Click each Policy Setting to expand additional options. </li>
+            <li>Select Only use business hours when calculating SLA.</li>
+            <li>Select each day in the list and choose an Open at and Close at time.</li>
+            <p class="info">Select Use default company business hours to use the hours specified in your default account settings. </p>
+            <li>Click Save Setting. </li>
+        </ol>
+        <p class="nugget">Go to Settings &gt; Company Settings &gt; Default Settings to specify your Company Business Hours.</p>
+        <h3>Assign an SLA&#160;policy to a service item</h3>
+        <ol>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/SelectCustomer.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 19px;height: 19px;" /> and select a customer from the list.</li>
+            <li>Click Service Items.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="vertical-align: middle;width: 17px;height: 13px;" /> next to a service item.</li>
+            <li>Under SLA, select an SLA&#160;Policy.</li>
+            <li>Click&#160;Save Service Item.</li>
+        </ol>
+        <p>Tickets that have service items with assigned SLA policies will send notifications based on your alert thresholds. </p>
+        <h3>Sort tickets by service level agreement (SLA)</h3>
+        <ol>
+            <li>Click Helpdesk.</li>
+            <li>Click the Sort by list, and select SLA.</li>
+            <li>The alert level color displays on the left side of each ticket.</li>
+            <li>The percentage to breach displays on the right side.</li>
+        </ol>
+    </body>
+</html>

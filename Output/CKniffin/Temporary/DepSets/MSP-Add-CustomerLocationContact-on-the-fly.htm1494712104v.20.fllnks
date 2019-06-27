@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/EditTicketInfo.png" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/AddCustomer.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/AddTicketInfo2.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/EditTicketInfo.png" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/AddCustomer.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/AddTicketInfo2.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="PDFVariables.ProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

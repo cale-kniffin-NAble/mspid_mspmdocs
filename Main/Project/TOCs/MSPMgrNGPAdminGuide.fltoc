@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Get started with MSP Manager"
+    Link="/Content/MSP-NGP-Getting-started.htm" />
+  <TocEntry
+    Title="Users"
+    Link="/Content/MSP-NGP-Users.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-Roles-and-permissions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create Customer Access Groups"
+      Link="/Content/MSP-NGP-Create-customer-access-groups.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-Company-Dashboard.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Ticketing"
+    Link="/Content/MSP-NGP-Ticketing.htm">
+    <TocEntry
+      Title="Track work with helpdesk tickets"
+      Link="/Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
+    <TocEntry
+      Title="Use timers to track time spent on tickets for accurate billing"
+      Link="/Content/MSP-NGP-Log-time-spent-on-tickets.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/MSP-NGP-Create-a-quick-ticket.htm" />
+      <TocEntry
+        Title="Start and pause a timer from inside a ticket"
+        Link="/Content/MSP-NGP-Start-timer-from-inside-ticket.htm" />
+      <TocEntry
+        Title="Start and pause timers from the ticket list"
+        Link="/Content/MSP-NGP-Start-timer-from-ticket-list.htm"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-Multiple-ticket-mailboxes.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-Ticket-queues.htm" />
+    <TocEntry
+      Title="Merge tickets and ticket requests"
+      Link="/Content/MSP-NGP-Ticket-merging.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-Schedule-recurring-tickets.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-Add-responses-to-tickets.htm"></TocEntry>
+    <TocEntry
+      Title="Create Ticket Tasks and Task Templates"
+      Link="/Content/MSP-NGP-Ticket-tasks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm"></TocEntry>
+    <TocEntry
+      Title="Configure ticket routing"
+      Link="/Content/MSP-NGP-Auto-assign-inbound-tickets.htm">
+      <TocEntry
+        Title="Automatically assign inbound tickets"
+        Link="/Content/MSP-NGP-Prequisites-for-ticket-routing.htm" />
+      <TocEntry
+        Title="Define rules for ticket routing"
+        Link="/Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
+      <TocEntry
+        Title="Create issue types, define user skills and group users into teams"
+        Link="/Content/MSP-NGP-Rate-users-and-groups-into-teams.htm" />
+      <TocEntry
+        Title="How are users scored during ticket routing?"
+        Link="/Content/MSP-NGP-How-are-users-scored-for-ticket-routing.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Workflow-and-routing-rules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Service items and billing"
+    Link="/Content/MSP-NGP-Bill-your-customers-to-collect-revenue.htm">
+    <TocEntry
+      Title="Create a Program Level and apply it to multiple customers"
+      Link="/Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm" />
+    <TocEntry
+      Title="Create Service Plans and apply them to multiple customers"
+      Link="/Content/MSP-NGP-Service-plans.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-Charge-for-your-work-with-Service-items.htm" />
+    <TocEntry
+      Title="Create Service Items for one-time projects"
+      Link="/Content/MSP-NGP-Project-billing.htm" />
+    <TocEntry
+      Title="Define your prices with rates"
+      Link="/Content/MSP-NGP-Define-your-prices-with-rates.htm" />
+    <TocEntry
+      Title="Bill for partially completed tickets"
+      Link="/Content/MSP-NGP-Bill-for-partially-complete-tickets.htm" />
+    <TocEntry
+      Title="Run a billing batch"
+      Link="/Content/MSP-NGP-Run-a-billing-batch.htm" />
+    <TocEntry
+      Title="Deactivate service items"
+      Link="/Content/MSP-NGP-Delete-service-items-will-delete-tickets.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Integrations"
+    Link="/Content/MSP-NGP-Integrations.htm">
+    <TocEntry
+      Title="Accounting software integrations"
+      Link="/Content/MSP-NGP-Accounting-software-integration.htm">
+      <TocEntry
+        Title="QuickBooks Desktop"
+        Link="/Content/MSP-NGP-Quickbooks-desktop-integration-folder.htm">
+        <TocEntry
+          Title="Integrate MSP Manager with QuickBooks Desktop and export invoices"
+          Link="/Content/MSP-NGP-Quickbooks-Desktop.htm" />
+        <TocEntry
+          Title="Diagnose and repair the QuickBooks web connector error"
+          Link="/Content/MSP-NGP-Support-Quickbooks-1039-error.htm" />
+        <TocEntry
+          Title="Remove the web connector file from QuickBooks Desktop"
+          Link="/Content/MSP-NGP-Support-remove-QB-webconnector.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="QuickBooks Online"
+        Link="/Content/MSP-NGP-Quickbooks-online-integration-folder.htm">
+        <TocEntry
+          Title="Integrate MSP Manager with QuickBooks Online and export invoices"
+          Link="/Content/MSP-NGP-Quickbooks-online.htm" />
+        <TocEntry
+          Title="Configure your tax rates in QuickBooks Online"
+          Link="/Content/MSP-NGP-Quickbooks-tax.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Xero Accounting"
+        Link="/Content/MSP-NGP-Xero-accounting.htm" />
+      <TocEntry
+        Title="Export your invoices as a CSV file"
+        Link="/Content/MSP-NGP-CSV-billing-export.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Integrate MSP Manager with N-central"
+      Link="/Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm">
+      <TocEntry
+        Title="Configure the N-central Integration"
+        Link="/Content/MSP-NGP-Setup-Ncentral-integration.htm" />
+      <TocEntry
+        Title="Export assets from N-central"
+        Link="/Content/MSP-NGP-export-assets-from-Ncentral.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Integrate your MSP RMM account with MSP Manager "
+      Link="/Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Service-Desk-Migration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/MSP-Uninstall-Service-Desk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Notifications"
+    Link="/Content/MSP-NGP-Notifications.htm">
+    <TocEntry
+      Title="Customize HTML or plain text notifications to send to your customers and technicians"
+      Link="/Content/MSP-NGP-HTML-and-plain-text-notifications.htm" />
+    <TocEntry
+      Title="Configure your notification settings for system and user actions"
+      Link="/Content/MSP-NGP-Set-notifications-for-system-and-user-actions.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Assets"
+    Link="/Content/MSP-NGP-Assets.htm">
+    <TocEntry
+      Title="Create asset classes and statuses"
+      Link="/Content/MSP-NGP-Create-asset-classes-and-statuses.htm" />
+    <TocEntry
+      Title="Add tags to your assets"
+      Link="/Content/MSP-NGP-Asset-tags.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Knowledge and Reporting"
+    Link="/Content/MSP-NGP-Knowledge-and-reporting.htm">
+    <TocEntry
+      Title="Share knowledge with your team"
+      Link="/Content/MSP-NGP-Share-knowledge-with-your-team.htm" />
+    <TocEntry
+      Title="Run reports to track business metrics"
+      Link="/Content/MSP-NGP-Run-reports-to-track-business.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Scheduling and SLAs"
+    Link="/Content/MSP-NGP-Scheduling-and-SLAs.htm">
+    <TocEntry
+      Title="Schedule your workday with appointments"
+      Link="/Content/MSP-NGP-Schedule-your-workday-with-appointments.htm" />
+    <TocEntry
+      Title="Create and assign service level agreements"
+      Link="/Content/MSP-NGP-SLA.htm" />
+  </TocEntry>
+</CatapultToc>

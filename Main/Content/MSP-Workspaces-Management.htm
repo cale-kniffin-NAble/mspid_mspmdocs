@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="711" MadCap:lastWidth="1390">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Create and manage Workspaces</h1>
+        <p>Workspaces are collections of workspace pages. Propose built workspaces act as templates and can be active, in preview or inactive. </p>
+        <p>https://projects.invisionapp.com/share/E3DBO00HX#/screens/261082817</p>
+        <p>Workspaces are collections of WorkspacePages that host "WorkspaceWidgets"</p>
+        <p>1. A system workspace is a "purpose-built" workspace.</p>
+        <p>2. It acts as a "template"</p>
+        <p>3. It may only be edited by a SuperUser, with permission to Manage System Workspaces</p>
+        <p>4. A System Workspace is [InActive, InPreview, Active]</p>
+        <p>5. A Inactive System Workspace may only be Edited by the SuperUser. It may be SEEN by any SuperUser.</p>
+        <p>6. A InPreview System Workspace may be seen by any MSP, but may not be copied (it is essentially beta)</p>
+        <p>7. A Active System Workspace may be SEEN and COPIED by any MSP.</p>
+        <p>9. When a SystemWorkspace is Edited, the CRUD must operate on ALL shards.</p>
+        <p>10. When the NAV-BAR opens to Workspaces, there are 3 sections: [User (the individual user - ie mine), MSP (the MSPs), System (the SystemWorkspaces).</p>
+        <p>(note: At this point, I would like to defer WorkspacePortal)</p>
+        <p>11. All MSPs see the SAME WorkspaceSystem "template" workspaces.</p>
+        <p>12. Separate schema is required for SystemWorkspaces</p>
+        <p>Workspace_MSP</p>
+        <p>1. A MSP may design a workspace specifically for his MSP.</p>
+        <p>2. He may do this 2 ways: COPY from a SYSTEM workspace, or CREATE a new Workspace from scratch, or COPY from a Workspace_User to a new Workspace.</p>
+        <p>3. When he SAAVES the Workspace, he designates this as a "MSP" workspace.</p>
+        <p>4. Typically, a Workspace_MSP is a "view-only" workspace, and MAY NOT be edited.</p>
+        <p>(note: This MAY cause issues related to changing filters etc)</p>
+        <p>5. In NAVBAR, WorkspaceMSP appear AFTER the Workspace_User in the menu selector.</p>
+        <p>6. WorkspaceMSP are stored in the main Workspace schema.</p>
+        <p>7. There are permissions to Manage MSP level workspaces.</p>
+    </body>
+</html>

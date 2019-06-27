@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/MSPMgrMaster.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/SWI_CustomStyles.css"
+  Medium="print"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
+  MasterPageLayout="/Content/PageLayouts/SW2015.flpgl"
+  InjectBookHeadings="true"
+  MakeFileLowerCase="true"
+  OutputFile="MSPManager">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Author="SolarWinds"
+    Title="SolarWinds MSP Manager Documentation" />
+  <PDF
+    ImageCompression="JPEG"
+    ShowUsedBookmarks="false"
+    Tagged="true"
+    InitialMagnification="100"
+    PageLayout="OneColumn"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true" />
+  <MetaTags
+    Enabled="false" />
+</CatapultTarget>

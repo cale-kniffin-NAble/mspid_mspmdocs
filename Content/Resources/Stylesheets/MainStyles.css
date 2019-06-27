@@ -1,0 +1,613 @@
+﻿/*<meta />*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+
+
+body
+{
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+    font-weight: 400;
+}
+
+
+/*******************************  	 Breadcrumbs */
+a.MCBreadcrumbsLink
+{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+a.MCBreadcrumbsLink:visited
+{
+	color: #000000;
+}
+
+a.MCBreadcrumbsLink:hover
+{
+	color: #BED230;
+}
+
+MadCap|breadcrumbsProxy
+{
+	border-bottom: none;
+	font-size: .7em;
+	font-style: italic;
+	mc-breadcrumbs-prefix: 'You are here: ';
+}
+
+/******************************** BODY STUFF */
+
+div.TopicContent
+{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 25px;
+}
+
+h1
+{
+	margin-bottom: 8px;
+	margin-top: 20px;
+	padding-bottom: 10px;
+	font-weight: 800;
+	font-size: 25px;
+	color: #2D5C77;
+	widows: 3;
+	orphans: 3;
+	mc-hyphenate: never;
+	page-break-after: avoid;
+	page-break-before: always;
+}
+
+h2
+{
+	margin-bottom: 4px;
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: 700;
+	color: #333;
+	mc-hyphenate: never;
+	page-break-before: auto;
+	padding-bottom: 0em;
+	margin-bottom: .5em;
+}
+
+h3
+{
+	margin-top: 16px;
+	font-size: 16px;
+	font-weight: 600;
+	color: #333;
+	mc-hyphenate: never;
+	padding-bottom: 0em;
+	margin-bottom: 0em;
+}
+
+
+h4
+{
+	font-weight: 600;
+	font-size: 14px;
+	padding-bottom: 0em;
+}
+
+
+
+MadCap|tocProxy
+{
+
+}
+
+p
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	font-size: 14px;
+	font-weight: 300;
+/*
+	margin-top: 1em;
+	margin-bottom: 1.2em; */
+	mc-hyphenate: never;
+	page-break-inside: avoid;
+	widows: 3;
+	orphans: 3;
+}
+
+.ButtonMenuNote
+{
+	font-weight: bold;
+	page-break-after: avoid;
+}
+
+.IfStatement
+{
+	font-style:italic;
+}
+
+.TermDefinition
+{
+	margin-left: 40px;
+	page-break-before: avoid;
+}
+
+.Term
+{
+	font-weight: bold;
+	font-style: normal;
+	page-break-after: avoid;
+	mc-next-clas: TermDefinition;
+}
+
+code
+{
+	font-size: 14px;
+	mc-toc-depth: 3;
+  margin-top: 3pt;
+	margin-bottom: 3pt;
+	font-family: "Courier New", monospace;
+}
+
+p.TaskIntro
+{
+	font-weight: bold;
+	page-break-after: avoid;
+}
+
+p.note
+{
+	mc-auto-number-format: '{b}Note: {/b}';
+	mc-auto-number-class: noteformat;
+}
+
+MadCap|xref.PageNumberOnly
+{
+	mc-format: '{page}';
+}
+
+
+
+/* Lists */
+ol, ul
+{
+	margin-top: 0px;
+	padding-top: 1px;
+	margin-bottom: 0px;
+}
+ol
+{
+	padding-bottom: 2px;
+
+	mc-hyphenate: never;
+}
+
+ul
+{
+	padding-top: 2px;
+}
+
+/*
+li
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+
+}
+*/
+li
+{
+	mc-hyphenate: never;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	page-break-inside: avoid;
+	page-break-before: avoid;
+	orphans: 2;
+	widows: 2;
+}
+
+ol ul li:first-child
+{
+  padding-top: 2px;
+
+}
+
+ul ol li:last-child
+{
+
+}
+
+ol ol
+{
+	list-style-type:lower-alpha;
+}
+
+/* Drop-down text */
+
+MadCap|expandingHead
+{
+	font-size: 15px;
+	font-weight: 600;
+	cursor: hand;
+	text-decoration: none;
+	color:#204a63;
+}
+
+/*
+MadCap|expandingBody
+{
+	
+	color: #777777;
+	font-style: italic;
+}
+
+*/
+
+MadCap|dropDownHotspot
+{
+	font-size: 15px;
+	font-weight: 600;
+	cursor: hand;
+	text-decoration: none;
+	color:#204a63;
+	line-height: 1.8em;
+}
+
+
+
+/****************************** DIV CONTAINER */
+
+div.sideContent
+{
+	float: right;
+    margin-left: 10px;
+	margin-bottom: 10px;
+    width: 25%;
+}
+/***************************************** LINKS */
+MadCap|xref
+{	mc-format: '{paratext}';
+		color: #0079aa;
+		
+}
+MadCap|xref:hover
+{
+	color: #2d5c77;
+	background-color:#f99d1f;
+	text-decoration: underline;
+}	
+MadCap|xref.ParaTextOnly
+{
+	mc-format: '{paratext}';
+	color: #0079aa;
+	text-decoration: underline;
+}
+a:link
+{
+	color: #0079aa;
+	text-decoration:none;
+}
+
+a:visited
+{
+	color: #13485a;
+	text-decoration:none;
+}
+
+a:hover
+{
+	color: #2d5c77;
+	background-color:#f99d1f;
+	text-decoration: underline;
+}
+
+/************************************ Table Styles */
+table
+{
+		border-collapse: collapse;
+		border-spacing: 0;
+		
+	}
+th
+{
+	border: 1px solid #ABD5E3;
+	padding: 2px;
+	font-variant: small-caps;
+	font-weight: 600;
+	font-size: 16px;
+}
+
+thead
+{
+	background-color:#EAEAEA;
+
+}
+
+td
+{
+	mc-hyphenate: never;
+	border: 1px solid #ABD5E3;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 7pt;
+	margin-bottom: 7pt;
+	border-collapse: collapse;
+	border-spacing: 0px 0px;
+	mc-cell-padding: 5pt 5pt 5pt 5pt;
+	padding: 5px;
+}
+
+tr:nth-child(even)
+{
+	background-color: #F6F6F6;
+
+}
+
+tr:nth-child(odd)
+{
+
+}
+
+
+
+
+/* Images */
+
+img
+{
+	border: none;
+}
+
+img.img_1
+{
+	visibility: visible;
+	mso-wrap-style: square;
+}
+
+
+/* Box Styles */
+
+
+p.nugget
+{
+	background-repeat: no-repeat;
+	background-position-y: center;
+	font-size: 12pt;
+	margin-bottom: 1.67em;
+	margin-top: 1.67em;
+	border-radius: 20px;
+	padding-left: 70px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-position-x: 15px;
+	background-color: #f5deb3;
+	min-height: 55px;
+	background-image: url('../Images/swgold24x24.png');
+}
+
+.info
+{
+	background-repeat:no-repeat;
+	background-position: left 5px top 5px;
+  padding: 5px 15px 5px 30px;
+
+	background-color: #F0F8FA;
+	border: 1px solid #d3e8ef;
+	background-image: url('../Images/icons/icon_info.png');
+}
+
+
+.hint
+{
+	background-repeat:no-repeat;
+	background-position: left 5px top 5px;
+  padding: 5px 15px 5px 30px;
+
+	background-color: #fff3ce;
+	border: 1px solid #D1BC6B;
+	background-image: url('../Images/icons/icon_hint.png');
+
+}
+
+
+.check
+{
+	background-repeat:no-repeat;
+	background-position: left 5px top 5px;
+  padding: 5px 15px 5px 30px;
+
+	background-color: #d3f0cc;
+	border: 1px solid #00D15D;
+	background-image: url('../Images/icons/icon_check.png');
+}
+
+.warning
+{
+	background-repeat:no-repeat;
+	background-position: left 5px top 5px;
+  padding: 5px 15px 5px 30px;
+
+	background-color: #FFF3CC;
+	border: 1px solid #FEC405;
+	background-image: url('../Images/icons/icon_warn.png');
+}
+
+.error
+{
+	background-repeat:no-repeat;
+	background-position: left 5px top 5px;
+  padding: 5px 15px 5px 30px;
+-webkit-print-color-adjust: exact;
+	background-color: #F5E6DF;
+	border: 1px solid #DA3838;
+	background-image: url('../Images/icons/icon_error.png');
+}
+
+
+@media print
+{
+
+	.warning:before
+	{
+		content: url('../images/icons/icon_warn.png');
+		position: absolute;
+		left:  20px;
+		background-color: #FFF3CC;
+	}
+	.error:before
+	{
+		content: url('../images/icons/icon_error.png');
+		position: absolute;
+		left:  20px;
+		background-color: #ccc;
+		display:inline;
+	}
+/*
+	body
+	{
+		font-size: 8pt;
+		line-height: 13px;
+		margin: 8px;
+	}
+*/
+
+
+	MadCap|tocProxy
+	{
+		border-top: none;
+		margin-right: 0.25in;
+		display:none;
+	}
+
+	h1
+	{
+		page-break-before: always;
+	}
+
+	h2, h3
+	{
+		page-break-after: avoid;
+	}
+
+	img
+	{
+		page-break-before: avoid;
+		max-height: auto;
+		max-width: 6.5in;
+	}
+
+	ol ul,
+	ol,
+	ul
+	{
+		page-break-before: avoid;
+	}
+
+	ol p img
+	{
+		page-break-before: avoid;
+	}
+
+	ul p img
+	{
+		page-break-before: avoid;
+	}
+
+	img.ignore
+	{
+		max-width: auto;
+	}
+
+	table
+	{
+		width: 100%;
+	}
+
+	.avoid_pagebreak
+	{
+		page-break-after: avoid;
+	}
+
+	li
+	{
+		page-break-inside: avoid;
+	}
+
+	/*
+
+	p
+	{
+		font-size: 8pt;
+	}
+
+	p.EmptyPageText
+	{
+		font-size: 10pt;
+		font-weight: bold;
+	}
+
+	p.FrameFooterText
+	{
+		font-family: 'Century Gothic';
+		font-size: 24pt;
+	}
+
+	p.IndexHeading
+	{
+		font-size: 11pt;
+		padding-top: 16px;
+		text-align: left;
+	}
+
+	p.ManualTitle1
+	{
+		font-family: 'Century Gothic';
+		font-size: 9pt;
+		margin-bottom: 0;
+		margin-top: 2.00in;
+		text-align: center;
+	}
+
+	p.ManualTitle2
+	{
+		color: #bed230;
+		font-family: 'Century Gothic';
+		font-size: 22pt;
+		line-height: 0;
+		margin-bottom: 0;
+		margin-top: 0;
+		text-align: center;
+	}
+
+	p.ManualVersionNumber
+	{
+		color: #b3b3b3;
+		font-family: 'Century Gothic';
+		font-size: 12pt;
+		margin-top: 12pt;
+		text-align: center;
+	}
+*/
+	p.TOC1
+	{
+		font-size: 12pt;
+		font-weight: normal;
+		margin-bottom: 6px;
+		margin-top: 12px;
+	}
+
+	p.TOC2
+	{
+		font-size: 8pt;
+		font-weight: normal;
+		margin-bottom: 2px;
+		margin-left: 0.10in;
+		margin-top: 2px;
+	}
+nav.tab-bar, div.sideContent, .noprint
+{
+display: none;
+}
+
+}

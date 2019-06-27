@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/MSPMgrMaster.fltoc"
+  ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.NewFeature or Default.PrintOnly] "
+  DefaultUrl="/Content/MSP-Welcome-to-MSPManager.htm"
+  ExcludeUnreferencedContent="true"
+  Skin="/Project/Skins/MSPManager.flskn"
+  EnableSitemap="true"
+  SitemapWebUrl="http://www.solarwinds.com/documentation/en/flarehelp/mspmanager/"
+  SearchEngine="MadCapSearch">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="MSPManager/CurrentVersion">2.13</Variable>
+  </Variables>
+  <RelationshipTables />
+  <MetaTags>
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge" />
+    <meta
+      name="products"
+      content="MSP Manager;" />
+  </MetaTags>
+</CatapultTarget>

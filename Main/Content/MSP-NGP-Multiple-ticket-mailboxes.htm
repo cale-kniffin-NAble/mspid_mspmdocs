@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Create multiple ticket mailboxes
+        </h1>
+        <p>If your company uses more than one email address for support, you can create multiple mailboxes for each address and assign them to specific customers. Choose which mailbox you want to send responses from when <a href="MSP-Add-Responses-to-Tickets.htm">emailing customers from inside a ticket.</a></p>
+        <h3>Set up separate mailboxes for your customers</h3>
+        <ol>
+            <li>Click Settings &gt; Company Setting &gt;  Ticket Mailboxes.</li>
+            <li>Click Add Mailbox.</li>
+            <li>Enter credentials for email address, server address, and server port.</li>
+            <li>Select Use SSL, if required, and select Is Default to make this the default ticket mailbox</li>
+            <li>Enter a user name and password.</li>
+            <li>Click Save Mailbox.</li>
+        </ol>
+        <h3>Assign a ticket mailbox to specific customers</h3>
+        <ol>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/SelectCustomer.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 17px;height: 17px;" /> and select a customer from the list.</li>
+            <li>Click Actions &gt; Edit Customer.</li>
+            <li>Select a default mailbox from the Send Emails From List.</li>
+            <li>Click Save Changes. </li>
+        </ol>
+        <h3>Send responses from any mailbox inside tickets</h3>
+        <ol>
+            <li>Click Helpdesk, and click a ticket to edit it. </li>
+            <li>Click Add response.</li>
+            <li>In the New Response window, click the From field to specify a mailbox.</li>
+        </ol>
+        <p class="info">If you are configuring an Office 365 mailbox to use as your Ticket Mailbox, DO NOT include 'domain\user' in the User Name. Instead, enter only the user from your Office365 account (i.e. Myuser@abccompany.com).</p>
+        <p class="warning">In some cases, you will receive the ticket notification before the ticket or ticket request is created in <MadCap:variable name="PDFVariables.ProductName" />.</p>
+        <h3>Enable IMAP for Gmail mailboxes</h3>
+        <p>When using a new Gmail account for your ticket mailbox, IMAP is not enabled by default. Follow these steps to enable IMAP and SSL:</p>
+        <ol>
+            <li>From your Gmail account, click <img src="Resources/Images/MSPManagerIcons/settings.png" style="width: 16px;height: 16px;" /> in the top right corner and select Settings.</li>
+            <li>Click the Forwarding and POP/IMAP tab.</li>
+            <li>In the IMAP Access section click Enable IMAP &gt; Save Changes. </li>
+            <li>Navigate to your <MadCap:variable name="MSPManager.ProductName_Long" /> account and select Account Settings &gt; Ticket Mailboxes. </li>
+            <li>Enter your Email and Server credentials, and set the Server Port to 993.</li>
+            <li>Select Use SSL and save your changes. </li>
+        </ol>
+    </body>
+</html>

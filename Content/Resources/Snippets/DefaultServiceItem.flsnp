@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>Specify a default service item</h2>
+        <ol>
+            <li>
+                <MadCap:snippetText src="Customers.flsnp" />
+            </li>
+            <li>Click <span class="ButtonMenuNote">Service Items</span>.</li>
+            <li>Click <img src="../Images/MSPManagerIcons/edit.png" style="vertical-align: middle;width: 19px;height: 15px;" class="no_border" /> next to a service item.</li>
+            <li>In the <span class="ButtonMenuNote">Service Info</span> area, click <span class="ButtonMenuNote">Default Service Item</span>.</li>
+            <li>Click&#160;<span class="ButtonMenuNote">Save Service Item</span>.</li>
+        </ol>
+    </body>
+</html>

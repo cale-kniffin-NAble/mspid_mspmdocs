@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Create and assign service level agreements</h1>
+        <p>Create service level agreements to specify the amount of time expected to create tickets and resolve issues for your customers. Three levels of alerts trigger notifications to remind technicians when a ticket is approaching a breach in SLA. Use your company business hours or specify custom hours to put an SLA&#160;policy on hold when business is closed. </p>
+        <h3>Add a new service level agreement (SLA)&#160;policy</h3>
+        <ol>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/settings.png" style="width: 15px;height: 15px;" class="no_border" /> &gt;&#160;<span class="ButtonMenuNote">Account Settings</span> &gt; <span class="ButtonMenuNote">SLA Policies</span>.</li>
+            <li>Click <span class="ButtonMenuNote">Add a New SLA Policy</span>.</li>
+            <li>Enter a policy name and description.</li>
+            <li>In the <span class="ButtonMenuNote">Alert Thresholds</span> area, expand an alert level and define the following:<ul><li>The percentage to breach when the alert is triggered.</li><li>The color displayed on the associated tickets.</li><li>The users to receive email notifications.</li><p class="info">The percentage reaches 200 to accommodate a breach of up to twice the length of the SLA&#160;policy.</p></ul></li>
+            <li>In the <span class="ButtonMenuNote">Policy Settings</span> area click the <span class="ButtonMenuNote">Default Setting</span> and enter a time in hours for each ticket status.
+            <p class="nugget">Repeat this step for each priority section that requires adjustments.</p></li>
+            <li>Click <span class="ButtonMenuNote">Save</span>.</li>
+        </ol>
+        <h3>Specify hours to put service level agreements on hold</h3>
+        <p>During non-business hours, SLA timers stop running while your company is closed and continue when business hours resume. </p>
+        <ol>
+            <li class="ButtonMenuNote">Click <img src="Resources/Images/MSPManagerIcons/settings.png" style="vertical-align: middle;width: 15px;height: 15px;" class="no_border" /> &gt;&#160;<span class="ButtonMenuNote">Account Settings</span> &gt; <span class="ButtonMenuNote">SLA Policies</span> &gt; <span class="ButtonMenuNote">Edit a policy</span>. </li>
+            <li>Click each <span class="ButtonMenuNote">Policy Setting</span> to expand additional options. </li>
+            <li>Select <span class="ButtonMenuNote">Only use business hours</span> when calculating SLA.</li>
+            <li>Select each day in the list and choose an <span class="ButtonMenuNote">Open at</span> and <span class="ButtonMenuNote">Close at</span> time.</li>
+            <li>
+                <p class="info">Select Use default company business hours to use the hours specified in your default account settings. </p>
+            </li>
+        </ol>
+        <ol MadCap:continue="true">
+            <li>Click <span class="ButtonMenuNote">Save Setting</span>. </li>
+        </ol>
+        <p class="nugget">Go to <span class="ButtonMenuNote">Account Settings</span> &gt; <span class="ButtonMenuNote">Default Settings</span> to specify your <span class="ButtonMenuNote">Company Business Hours</span>.</p>
+        <h2>Assign an SLA&#160;policy to a service item</h2>
+        <ol>
+            <li>
+                <MadCap:snippetText src="Resources/Snippets/Customers.flsnp" />
+            </li>
+            <li>Click <span class="ButtonMenuNote">Service Items</span>.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/edit.png" style="vertical-align: middle;width: 17px;height: 13px;" class="no_border" /> next to a service item.</li>
+            <li>In the <span class="ButtonMenuNote">SLA </span>area, select an <span class="ButtonMenuNote">SLA&#160;Policy</span>.</li>
+            <li>Click&#160;<span class="ButtonMenuNote">Save Service Item</span>.</li>
+        </ol>
+        <p>Tickets that have service items with assigned SLA policies will send notifications based on your alert thresholds. </p>
+    </body>
+</html>

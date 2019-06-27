@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Diagnose and repair QuickBooks web connector errors</h1>
+        <p>A QuickBooks web connector error QBWC-1039 can occur:</p>
+        <ul>
+            <li> After switching QuickBooks Desktop accounts.</li>
+            <li>When using QuickBooks Desktop on a new computer.</li>
+            <li>If your QuickBooks company file has been moved from its original location.</li>
+            <li>If a third party application was incorrectly removed from the web connector. </li>
+        </ul>
+        <p>To resolve this error:</p>
+        <ol>
+            <li>Click <span class="ButtonMenuNote">Billing</span> &gt; Select a billing batch  &gt; <span class="ButtonMenuNote">Click Review &amp; export invoices</span>.<br /><br /><img src="Resources/Images/MSPMScreenshots/Review&amp;ExportInvoices.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 544px;height: 270px;" /><br /></li>
+            <li>Select <span class="ButtonMenuNote">QuickBooks Desktop</span> as the export format.</li>
+            <li>Click the <span class="ButtonMenuNote">Downloaded QWC file</span> link to download the QuickBooks web connector. <br /><br /><img src="Resources/Images/MSPMScreenshots/QWC Link1.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 319px;height: 342px;" /><br /></li>
+            <li>Locate the folder to which the QuickBooks web connector file  was downloaded. </li>
+            <li>Right click the file and click <span class="ButtonMenuNote">Open with</span> &gt; <span class="ButtonMenuNote">Notepad</span> (or Textedit for MacOS X users).</li>
+            <li>Change the first number in the OwnerID to any other number. This reassigns the OwnerID to your user.</li>
+            <li>Save the file and close.</li>
+            <li>Right click the web connector file and click <span class="ButtonMenuNote">Open with</span> &gt; <span class="ButtonMenuNote">QuickBooks Web Connector</span>. </li>
+            <li>Click <span class="ButtonMenuNote">Update Selected</span> to run the QuickBooks web connector file, connect to <MadCap:variable name="PDFVariables.ProductName" /> and export your invoices to QuickBooks. </li>
+        </ol>
+        <p><a href="MSP-Billing-errors.htm">Here is a list of a few other errors </a>you might encounter when using QuickBooks Desktop with <MadCap:variable name="MSPManager.ProductName_Long" />.</p>
+        <p>&#160;</p>
+    </body>
+</html>

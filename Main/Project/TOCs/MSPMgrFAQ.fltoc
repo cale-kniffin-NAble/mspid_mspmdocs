@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Bill for a recurring service"
+    Link="/Content/MSP-Bill-for-a-recurring-service.htm"></TocEntry>
+  <TocEntry
+    Title="Billing errors"
+    Link="/Content/MSP-Billing-errors.htm" />
+  <TocEntry
+    Title="Billing scenarios"
+    Link="/Content/MSP-Billing-scenarios.htm">
+    <TocEntry
+      Title="Hourly retainer with overage"
+      Link="/Content/MSP-Hour-retainer-with-overage.htm" />
+    <TocEntry
+      Title="Hourly support"
+      Link="/Content/MSP-Hourly-support.htm" />
+    <TocEntry
+      Title="Managed desktops or servers"
+      Link="/Content/MSP-Managed-desktops-or-servers.htm" />
+    <TocEntry
+      Title="Monthly fee with additional hourly rate"
+      Link="/Content/MSP-Monthly-fee-with-additional-hourly-rate.htm" />
+    <TocEntry
+      Title="Off-site backup"
+      Link="/Content/MSP-Off-site-backup.htm" />
+    <TocEntry
+      Title="One-time fee"
+      Link="/Content/MSP-One-time-fee.htm" />
+    <TocEntry
+      Title="Project estimate with hourly rates"
+      Link="/Content/MSP-Project-estimate-with-hourly-rates.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Change the currency, date format, and time zone"
+    Link="/Content/MSP-Change-the-currency-date-format-and-time-zone.htm" />
+  <TocEntry
+    Title="Create a contract that does not expire"
+    Link="/Content/MSP-Create-a-contract-that-does-not-expire.htm" />
+  <TocEntry
+    Title="Override default mappings to accounting software"
+    Link="/Content/MSP-Override-default-mappings-to-accounting-software.htm" />
+  <TocEntry
+    Title="Reveal any password with the owner secret"
+    Link="/Content/MSP-Reveal-any-password-with-the-owner-secret.htm" />
+  <TocEntry
+    Title="Set customers as inactive"
+    Link="/Content/MSP-Set-customers-as-inactive.htm" />
+  <TocEntry
+    Title="Set individual services as taxable or not"
+    Link="/Content/MSP-Set-individual-services-as-taxable-or-not.htm" />
+  <TocEntry
+    Title="Share internal knowledge about your company"
+    Link="/Content/MSP-Share-internal-knowledge-about-your-company.htm" />
+  <TocEntry
+    Title="Store resolutions to common customer issues"
+    Link="/Content/MSP-Store-resolutions-to-common-customer-issues.htm" />
+  <TocEntry
+    Title="Ticket routing with multiple locations"
+    Link="/Content/MSP-Ticket-routing-with-multiple-locations.htm" />
+  <TocEntry
+    Title="Troubleshoot your ticket mailbox"
+    Link="/Content/MSP-Troubleshoot-your-ticket-mailbox.htm" />
+  <TocEntry
+    Title="Turn inbound email into tickets"
+    Link="/Content/MSP-Turn-inbound-email-into-tickets.htm" />
+</CatapultToc>

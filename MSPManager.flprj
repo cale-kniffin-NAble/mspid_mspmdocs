@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  SourceControlBound="false"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  xml:lang="en-us"
+  MasterToc="/Project/TOCs/MSPMgrMaster.fltoc"
+  IncludePattern="*.htm;*.html;*.png;*.bmp;*.jpg;*.jpeg;*.tif;*.tiff;*.gif;*.swd;*.emf;*.wmf;*.xaml;*.xps;*.exps;*.hdp;*.wdp;*.dib;*.svg;*.ps;*.eps;*.pdf;*.flmsp;*.flskn;*.css;*.fltar"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="false"
+  LastImport="2018-06-18T10:03:19.5463143-05:00">
+  <Files>
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Full-Guide-Template.flprj"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Full-Guide-Template.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Home.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Home.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/home.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/home.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/info.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/info.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/Menu.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/Menu.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/nugget.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/nugget.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/print.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/print.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/RedX.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/RedX.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/swmsp-white-bg.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/swmsp-white-bg.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/turq-line-bg-nav.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/turq-line-bg-nav.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/turq-line-bg.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/turq-line-bg.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/turq-line.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/turq-line.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/warning.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/warning.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/activity-c.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/activity-c.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/cloud_download.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/cloud_download.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/cloud_upload.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/cloud_upload.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/data-archive-c.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/data-archive-c.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/edit.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/edit.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/environment-management-c.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/environment-management-c.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/exchange-c.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/exchange-c.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/flag.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/flag.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/globe.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/globe.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/pause.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/pause.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/reporting-2-c.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/reporting-2-c.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/search.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/search.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/server-tool.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/server-tool.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/step-indicator.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/step-indicator.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/tools.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/tools.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/ulist.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/ulist.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/users.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/users.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/mspm.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/mspm.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/MasterPages/HomePage.flmsp"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/MasterPages/OtherTopics.flmsp"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Stylesheets/StylesForHomePage.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Stylesheets/SWI_CustomStyles.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/Default.flskn"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/Default.flskn" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/HTML5Top NavigationUnbranded.flskn"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/HTML5Top NavigationUnbranded.flskn" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/HTML5TopNavigation.flskn"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/HTML5TopNavigation.flskn" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/SideMenu.flskn"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/SideMenu.flskn" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/SW2015.flskn"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/SW2015.flskn" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/TopicToolBar.flskn"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/TopicToolBar.flskn" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/Online Output/HTML5 - Top Navigation - Unbranded.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/Online Output/HTML5 - Top Navigation - Unbranded.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/Online Output/HTML5 - Top Navigation.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/Online Output/HTML5 - Top Navigation.fltar" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/A-Folder1/topic-6.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/A-Folder1/topic-6.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/A-Folder1/topic1.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/A-Folder1/topic1.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/A-Folder1/topica.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/A-Folder1/topica.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/B-Folder2/topic2.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/B-Folder2/topic2.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/B-Folder2/topicb.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/B-Folder2/topicb.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/C-Folder3/topic c.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/C-Folder3/topic c.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/C-Folder3/topic3.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/C-Folder3/topic3.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/D-Folder4/topic d.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/D-Folder4/topic d.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/D-Folder4/topic4.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/D-Folder4/topic4.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Appendix.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Appendix.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Copyright.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Copyright.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Glossary.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Glossary.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Index.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Index.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Title.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Title.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/TOC.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/TOC.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Welcome.htm"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Print Only Topics/Welcome.htm" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/bulb1.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/bulb1.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/Bullet1.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/Bullet1.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/FacebookIcon.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/FacebookIcon.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/filter_button.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/filter_button.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/GreenCheck.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/GreenCheck.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/icon_hint.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/icon_hint.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/icon_info.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/icon_info.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/icon_warn_red.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/icon_warn_red.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/Image.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/Image.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/info1.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/info1.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/mail-assure-text.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/mail-assure-text.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/PDF Cover.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/PDF Cover.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/SaveButton.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/SaveButton.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/search_button_1.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/search_button_1.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/solarwindsmsp_logo_PRINT.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/solarwindsmsp_logo_PRINT.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/solarwindsmsp_logo_PRINT2.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/solarwindsmsp_logo_PRINT2.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/solarwindsmsp_logo_transparent.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/solarwindsmsp_logo_transparent.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/SWI_curvy-tile.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/SWI_curvy-tile.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/SWI_curvy-tile_645x5561.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/SWI_curvy-tile_645x5561.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/TwitterIcon.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/TwitterIcon.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/warning1.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/warning1.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/mail-spam-c.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/landing-page-icons/mail-spam-c.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/backup.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/backup.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/mail-assure.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/mail-assure.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/mspa.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/mspa.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/risk-intelligence.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/risk-intelligence.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/rmm.png"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/Images/product-name-pngs/rmm.png" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/MasterPages/ProductHelp.flmsp"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/MasterPages/ProductHelp.flmsp" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/Basic.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/Basic.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/PatternedRows.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/PatternedRows.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/PatternedRowsOnDarkBackground.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/PatternedRowsOnDarkBackground.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/Simple.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/Simple.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/SimpleWithPadding.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/SimpleWithPadding.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/Standard.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/Standard.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/StandardOnDarkBackground.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/StandardOnDarkBackground.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/TableSequence.css"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Content/Resources/TableStyles/TableSequence.css" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/HomeSearchBar.flskn"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Skins/HomeSearchBar.flskn" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/Word.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/Word.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF/UserGuideA7X9.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF/UserGuideA7X9.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF/UserGuideA8_5X11.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF/UserGuideA8_5X11.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF/UserGuideB7X9.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF/UserGuideB7X9.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF/UserGuideB8_5X11.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF/UserGuideB8_5X11.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideA7X9CRM.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideA7X9CRM.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideA8_5X11CRM.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideA8_5X11CRM.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideB7X9CRM.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideB7X9CRM.fltar" />
+    <Url
+      Source="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideB8_5X11CRM.fltar"
+      AbsoluteSource="file://mac/Home/Documents/Flare/My Projects/Full-Guide-Template/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideB8_5X11CRM.fltar" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="Content/Home.htm"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/home.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/info.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/Menu.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/nugget.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/print.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/RedX.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/swmsp-white-bg.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/turq-line-bg-nav.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/turq-line-bg.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/turq-line.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/warning.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/activity-c.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/cloud_download.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/cloud_upload.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/data-archive-c.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/edit.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/environment-management-c.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/exchange-c.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/flag.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/globe.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/pause.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/reporting-2-c.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/search.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/server-tool.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/step-indicator.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/tools.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/ulist.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/landing-page-icons/users.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Images/product-name-pngs/mspm.png"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/MasterPages/HomePage.flmsp"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/MasterPages/OtherTopics.flmsp"
+      TimeStamp="5/24/18 10:16:32 AM" />
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Project/Skins/Default.flskn"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Project/Skins/HTML5Top NavigationUnbranded.flskn"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Project/Skins/HTML5TopNavigation.flskn"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Project/Skins/SideMenu.flskn"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Project/Skins/SW2015.flskn"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Project/Skins/TopicToolBar.flskn"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Project/Targets/Online Output/HTML5 - Top Navigation - Unbranded.fltar"
+      TimeStamp="5/24/18 10:16:33 AM" />
+    <Url
+      Source="Project/Targets/Online Output/HTML5 - Top Navigation.fltar"
+      TimeStamp="5/24/18 10:16:33 AM" />
+  </GeneratedFiles>
+</CatapultProject>

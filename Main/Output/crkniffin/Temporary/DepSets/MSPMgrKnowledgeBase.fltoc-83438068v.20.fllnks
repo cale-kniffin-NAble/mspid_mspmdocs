@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/MSP-Bill-for-a-recurring-service.htm" />
+    <Link
+      Url="Content/MSP-Bill-for-open-tickets.htm" />
+    <Link
+      Url="Content/MSP-Bill-tickets-indiviudally.htm" />
+    <Link
+      Url="Content/MSP-Billing-errors.htm" />
+    <Link
+      Url="Content/MSP-Billing-scenarios.htm" />
+    <Link
+      Url="Content/MSP-Hour-retainer-with-overage.htm" />
+    <Link
+      Url="Content/MSP-Hourly-support.htm" />
+    <Link
+      Url="Content/MSP-Managed-desktops-or-servers.htm" />
+    <Link
+      Url="Content/MSP-Monthly-fee-with-additional-hourly-rate.htm" />
+    <Link
+      Url="Content/MSP-Off-site-backup.htm" />
+    <Link
+      Url="Content/MSP-One-time-fee.htm" />
+    <Link
+      Url="Content/MSP-Project-estimate-with-hourly-rates.htm" />
+    <Link
+      Url="Content/MSP-Change-the-currency-date-format-and-time-zone.htm" />
+    <Link
+      Url="Content/MSP-Create-a-contract-that-does-not-expire.htm" />
+    <Link
+      Url="Content/MSP-Override-default-mappings-to-accounting-software.htm" />
+    <Link
+      Url="Content/MSP-Set-customers-as-inactive.htm" />
+    <Link
+      Url="Content/MSP-Set-individual-services-as-taxable-or-not.htm" />
+    <Link
+      Url="Content/MSP-Share-internal-knowledge-about-your-company.htm" />
+    <Link
+      Url="Content/MSP-Store-resolutions-to-common-customer-issues.htm" />
+    <Link
+      Url="Content/MSP-Ticket-routing-with-multiple-locations.htm" />
+    <Link
+      Url="Content/MSP-Troubleshoot-your-ticket-mailbox.htm" />
+    <Link
+      Url="Content/MSP-Turn-inbound-email-into-tickets.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

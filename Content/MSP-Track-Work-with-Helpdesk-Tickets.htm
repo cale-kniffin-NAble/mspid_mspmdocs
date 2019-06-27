@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Track your work with helpdesk tickets</h1>
+        <p>Manage your helpdesk with <MadCap:variable name="MSPManager.ProductName_Long" />'s intuitive ticketing and time tracking system, designed for service providers with many customers.</p>
+        <h3>Add a new helpdesk ticket</h3>
+        <ol>
+            <li>Click <span class="ButtonMenuNote">Helpdesk</span>.</li>
+            <li>Click <span class="ButtonMenuNote">Add a New Ticket</span>.</li>
+            <li>Enter the ticket information.</li>
+            <li>Click <span class="ButtonMenuNote">Save Ticket</span>, or <span class="ButtonMenuNote">Save and Start a Timer</span> to start tracking your time.</li>
+            <li>To add additional information to a ticket, click <img src="Resources/Images/MSPManagerIcons/down.png" style="width: 20px;height: 15px;" class="no_border" /> to the right of the ticket in the Helpdesk to access a list of ticket options.</li>
+        </ol>
+        <p class="warning">The ticket subject has a limit of 256 characters, and truncates anything over that limit. </p>
+        <h3>Billable vs. non billable tickets</h3>
+        <p>When the Billable check box of a ticket is selected, and the ticket is marked complete, you can <a href="MSP-Run-a-billing-batch.htm">run a billing batch</a> to invoice your customer for all billable rates assigned to each time entry in the ticket. </p>
+        <p>You can also clear the Billable check box  for work that is completed but will not to be charged. The non billable ticket still appears in your billing batch after it is marked complete, but it has a $0 associated to it. This is a way to show your customer that the work was completed at no charge. </p>
+        <h3>Search for tickets</h3>
+        <p>Searching using the default search mechanism (without the '#') will only search within the current filter context. For example, the default list of tickets is 'Open Tickets', which is a filter on tickets with statuses 'Assigned', 'In Progress' and 'On Hold'. In the example provided, ticket 9081 currently is in status 'Reviewed', so it's not actually part of that view. So attempting to search returns no records.</p>
+        <p>Switching to 'Completed Tickets', ticket 9081 is included in that view.</p>
+        <p>The major difference when including the '#' prepend is that it searches for that exact ticket number, no matter its status, and opens the ticket editor for that ticket.</p>
+        <p>*From partner:*</p>
+        <p>1. Ticket 9081 was created and saved.  It was in the list of tickets for the partner.</p>
+        <p>2. They later searched for the ticket as 9081 and got the message "No tickets to display"</p>
+        <p>We do understand that adding the "#" in front of a ticket will search for a ticket number.</p>
+        <p>They can find the ticket by searching for #9081</p>
+        <p>However if the "#" is not included in front of the ticket why does the message say that there are not tickets even though the number of the ticket is being searched for?  It confuses the partner as there is not a message that the "#" needs to be included.</p>
+    </body>
+</html>

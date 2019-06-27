@@ -1,0 +1,6 @@
+# Perforce Ignore file for Flare projects
+Analyzer
+Output
+Project\Reports
+Project\Users
+SourceControl

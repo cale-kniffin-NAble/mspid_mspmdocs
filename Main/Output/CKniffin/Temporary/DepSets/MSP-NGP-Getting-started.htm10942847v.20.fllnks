@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Content/MSP-NGP-Roles-and-permissions.htm" />
+    <Link
+      Url="Content/MSP-NGP-Create-customer-access-groups.htm" />
+    <Link
+      Url="../../../../MSPManager/Docs/Flare/Main/Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
+    <Link
+      Url="Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
+    <Link
+      Url="../../../../MSPManager/Docs/Flare/Main/Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm" />
+    <Link
+      Url="../../../../MSPManager/Docs/Flare/Main/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Content/MSP-NGP-Roles-and-permissions.htm" />
+    <Link
+      Url="Content/MSP-NGP-Create-customer-access-groups.htm" />
+    <Link
+      Url="../../../../MSPManager/Docs/Flare/Main/Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
+    <Link
+      Url="Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
+    <Link
+      Url="../../../../MSPManager/Docs/Flare/Main/Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm" />
+    <Link
+      Url="../../../../MSPManager/Docs/Flare/Main/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="PDFVariables.ProductName" />
+    <Variable
+      Name="MSPManager.ProductName_Long" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
