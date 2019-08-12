@@ -115,58 +115,45 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="body-container" data-mc-content-body="True">
-                                <div class="topicheroslim">
-                                    <p>MSP Manager</p>
-                                </div>
-                                <div class="content">
-                                    <div class="clearfix">
-                                        <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component nocontent" style="mc-topic-toolbar-items: ;text-align: left;">
-                                            <div class="button-group-container-left">
-                                                <button class="button needs-pie print-button" title="Print">
-                                                    <img src="../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
-                                                </button>
-                                                <button class="button needs-pie home-button" onclick="window.open(&quot;../Default.htm&quot;,&quot;_self&quot;);" title="Home">
-                                                    <img src="../Skins/Default/Stylesheets/Images/transparent.gif" alt="home" />
-                                                </button>
+                            <div class="body-container">
+                                <div data-mc-content-body="True">
+                                    <div class="topicheroslim">
+                                        <p>MSP Manager</p>
+                                    </div>
+                                    <div class="content">
+                                        <div class="clearfix">
+                                            <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component nocontent" style="mc-topic-toolbar-items: ;text-align: left;">
+                                                <div class="button-group-container-left">
+                                                    <button class="button needs-pie print-button" title="Print">
+                                                        <img src="../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
+                                                    </button>
+                                                    <button class="button needs-pie home-button" onclick="window.open(&quot;../Default.htm&quot;,&quot;_self&quot;);" title="Home">
+                                                        <img src="../Skins/Default/Stylesheets/Images/transparent.gif" alt="home" />
+                                                    </button>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="sideContent">
-                                    </div>
-                                    <h1>Create and manage Workspaces</h1>
-                                    <p>Workspaces are collections of workspace pages. Propose built workspaces act as templates and can be active, in preview or inactive. </p>
-                                    <p>https://projects.invisionapp.com/share/E3DBO00HX#/screens/261082817</p>
-                                    <p>Workspaces are collections of WorkspacePages that host "WorkspaceWidgets"</p>
-                                    <p>1. A system workspace is a "purpose-built" workspace.</p>
-                                    <p>2. It acts as a "template"</p>
-                                    <p>3. It may only be edited by a SuperUser, with permission to Manage System Workspaces</p>
-                                    <p>4. A System Workspace is [InActive, InPreview, Active]</p>
-                                    <p>5. A Inactive System Workspace may only be Edited by the SuperUser. It may be SEEN by any SuperUser.</p>
-                                    <p>6. A InPreview System Workspace may be seen by any MSP, but may not be copied (it is essentially beta)</p>
-                                    <p>7. A Active System Workspace may be SEEN and COPIED by any MSP.</p>
-                                    <p>9. When a SystemWorkspace is Edited, the CRUD must operate on ALL shards.</p>
-                                    <p>10. When the NAV-BAR opens to Workspaces, there are 3 sections: [User (the individual user - ie mine), MSP (the MSPs), System (the SystemWorkspaces).</p>
-                                    <p>(note: At this point, I would like to defer WorkspacePortal)</p>
-                                    <p>11. All MSPs see the SAME WorkspaceSystem "template" workspaces.</p>
-                                    <p>12. Separate schema is required for SystemWorkspaces</p>
-                                    <p>Workspace_MSP</p>
-                                    <p>1. A MSP may design a workspace specifically for his MSP.</p>
-                                    <p>2. He may do this 2 ways: COPY from a SYSTEM workspace, or CREATE a new Workspace from scratch, or COPY from a Workspace_User to a new Workspace.</p>
-                                    <p>3. When he SAAVES the Workspace, he designates this as a "MSP" workspace.</p>
-                                    <p>4. Typically, a Workspace_MSP is a "view-only" workspace, and MAY NOT be edited.</p>
-                                    <p>(note: This MAY cause issues related to changing filters etc)</p>
-                                    <p>5. In NAVBAR, WorkspaceMSP appear AFTER the Workspace_User in the menu selector.</p>
-                                    <p>6. WorkspaceMSP are stored in the main Workspace schema.</p>
-                                    <p>7. There are permissions to Manage MSP level workspaces.</p>
-                                    <p>
-                                        <!-- Google Analytics -->
-                                        <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                        <div class="sideContent">
+                                        </div>
+                                        <h1>Create and manage Workspaces</h1>
+                                        <p>Workspaces are a collection of different Workspace Pages consisting of  customized Widgets that provide key information on a per user basis. Each user can create a personal Workspace with multiple Pages to track the information they need to monitor specific customers. A single Workspace Page can contain multiple Widgets to track things like the assigned customer's asset details, a list of tickets, contacts, locations, or service items. </p>
+                                        <p>Stay organized by creating and customizing workspaces for each of your assigned customers and view only the tickets, assets and service items for that one customer. With the Workspace grid, you can shape and re-size the Widgets on each page however you would like, and add as many Widgets to each workspace that you need. </p>
+                                        <p>Managers can create charts to track ticket progress, view specific user statistics or a real-time work time line for selected users to keep a close eye on progress. </p>
+                                        <h3>Create your Workspace and Workspace Pages</h3>
+                                        <ol>
+                                            <li value="1">From the navigation bar on the left of your <span class="MSPManagerProductName_Long">MSP&#160;Manager</span> account, select <b>Workspaces</b>.</li>
+                                            <li value="2">Click <b>Add Workspace</b>, enter a Title and select a Type, and click <b>Save Workspace</b>.</li>
+                                            <li value="3">To add Pages to your Workspace, click Add &gt; </li>
+                                        </ol>
+                                        <p>
+                                            <!-- Google Analytics -->
+                                            <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
-                                    </p>
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         </div>

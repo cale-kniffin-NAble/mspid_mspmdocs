@@ -1048,8 +1048,8 @@ div.NewRowClass1 > div:nth-child(4)
 
 span.ButtonMenuNote	/*UI Elements*/
 {
-	font-weight: normal;
 	font-style: normal;
+	font-weight: bold;
 }
 
 /* Hidden keyword style for better search results. Preferably, use this style in an H1 - H3 tag */

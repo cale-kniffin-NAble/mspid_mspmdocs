@@ -4,6 +4,6 @@
         <Link Value="C:\doc\MSPManager\Content\Resources\Images\MSPMScreenshots\AddNewRate-MoneyRet.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\doc\MSPManager\Content\MSP-NGP-Start-timer-from-ticket-list.htm" />
+        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-NGP-Service-plans.htm" />
     </Dialog>
 </RecentLinks>
