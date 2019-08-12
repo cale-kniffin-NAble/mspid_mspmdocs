@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="770" MadCap:lastWidth="1448">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
         <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
@@ -19,6 +19,7 @@
             <li><b>Use Asset Count (Manual)</b> – users can manually associate an asset to a Service Item. Be aware that if the Asset is mapped in N-central, this will override an manual associations within <MadCap:variable name="MSPManager.ProductName_Long" />.</li>
             <li><b>Use Asset Count based on Asset Class and Asset Tags</b> – this is the typical configuration for stand-alone <MadCap:variable name="MSPManager.ProductName_Long" />and RMM integrated assets. <MadCap:variable name="MSPManager.ProductName_Long" /> examines asset classes and tags, and automatically associates all assets that match these criteria. For instance, an easy way to associate an Asset with an AV service would be to add a AV tag to the asset, and then set up the Service Item Asset count to match on AV.</li>
         </ul>
-        <p>&#160;</p>
+        <h3>Full period billing</h3>
+        <p>Full period billing only applies to Flat Fee Service Items with 'Use asset count' enabled, and will invoice customers for new assets at the beginning of the next full billing period. Any work completed during the current billing period is invoiced at the start of the next full billing period.</p>
     </body>
 </html>

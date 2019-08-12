@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2018-12-06T16:47:39.8313313-06:00"
+  ProjectName="MSPManager"
+  ProjectFolder="C:\doc\MSPManager\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2018-12-06T16:48:16.8743303-06:00">
+  <Files>
+    <Url
+      Source="../../../MSPM-SD Migration Guide (v3).docx"
+      AbsoluteSource="file:///C:/doc/MSPM-SD Migration Guide (v3).docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/MSPM-SD Migration Guide (v3)/Migrate your Service Desk.htm"
+      TimeStamp="12/6/2018 4:47:58 PM" />
+    <Url
+      Source="../../Content/MSPM-SD Migration Guide (v3)/Configure your MSP Manager.htm"
+      TimeStamp="12/6/2018 4:47:58 PM" />
+    <Url
+      Source="../../Content/MSPM-SD Migration Guide (v3)/Test the migration process.htm"
+      TimeStamp="12/6/2018 4:47:58 PM" />
+    <Url
+      Source="../../Content/MSPM-SD Migration Guide (v3)/Start migrating your Service.htm"
+      TimeStamp="12/6/2018 4:47:58 PM" />
+    <Url
+      Source="../../Content/MSPM-SD Migration Guide (v3)/Service Desk pain points that.htm"
+      TimeStamp="12/6/2018 4:47:58 PM" />
+    <Url
+      Source="../TOCs/MSPM-SD Migration Guide (v3).fltoc"
+      TimeStamp="12/6/2018 4:47:58 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/MSPM-SD Migration Guide (v3).flmsp"
+      TimeStamp="12/6/2018 4:47:58 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MSPM-SD Migration Guide (v3).css"
+      TimeStamp="12/6/2018 4:47:58 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Body Text" />
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Table Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

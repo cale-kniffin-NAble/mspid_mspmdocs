@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PageStyles>
+<PageStyles MadCap:conditions="Default.comment" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.25in" PaddingRight="1.25in" PaddingTop="2in" PaddingBottom="1.25in" BackgroundPositionX="left" BackgroundPositionY="top">
         <Frame X="-83px" Y="-156px" Width="390px" Height="90px" Flow="decoration0" Right="269px" Bottom="810px" Anchors="">
             <Content>

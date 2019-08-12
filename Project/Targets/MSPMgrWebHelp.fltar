@@ -14,7 +14,10 @@
   TopicToolbarSkin="/Project/Skins/TopicToolBar.flskn"
   SearchBarSkin="/Project/Skins/HomeSearchBar.flskn"
   MasterStylesheet="/Content/Resources/Stylesheets/SWI_CustomStyles.css"
-  MasterStylesheetOverride="true">
+  MasterStylesheetOverride="true"
+  EnableSitemap="true"
+  SitemapWebUrl="https://documentation.solarwindsmsp.com/MSPM/documentation/en/"
+  SearchEngine="MadCapSearch">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
@@ -28,4 +31,8 @@
       name="products"
       content="MSP Manager;" />
   </MetaTags>
+  <Variables>
+    <Variable
+      Name="MSPManager/CurrentVersion">4.8</Variable>
+  </Variables>
 </CatapultTarget>

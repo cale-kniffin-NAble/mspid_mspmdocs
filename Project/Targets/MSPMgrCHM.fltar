@@ -5,7 +5,6 @@
   Type="HtmlHelp"
   Destinations=""
   GlossaryTermConversion="marked"
-  MasterToc="/Project/TOCs/MSPMgrAdminGuide.fltoc"
   ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.NewFeature or Default.PrintOnly] "
   ExcludeUnreferencedContent="true">
   <PrintedOutput

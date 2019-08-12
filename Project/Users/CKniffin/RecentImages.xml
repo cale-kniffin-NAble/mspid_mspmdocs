@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
-    <Url Source="Resources/Images/MSPMScreenshots/ExpandORcondition.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/MarkUnreadResponse.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/AddNewRate-MoneyRet.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/AddNewRate.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/LinkKnowledgeItem.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/TicketSearch.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/down.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewFilter.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/UndeleteServiceItem.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/ViewDeletedServiceItem.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/ExpandDeletedServiceItem.png" />
     <Url Source="Resources/Images/MSPManagerIcons/MarkResponseAsRead.png" />
     <Url Source="Resources/Images/MSPManagerIcons/UnreadResponse.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/WorkspaceNavBar.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/EditDetailsWidget.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/ChartWidgetConfiguration.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/LinkageWidgets.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/FilterWidgets.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/TicketListWidget.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/ConfigureWidget.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/LockLayout.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/UnlockLayout.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/MSPM Help.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/exclamation.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/SelectCustomer.png" />
 </UrlList>
