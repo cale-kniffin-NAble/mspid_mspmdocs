@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Workflow Conditions and Actions</h1>
+        <p>Below is a list of all conditions for each trigger type, an explanation of what the condition does, as well as a description of all available actions.</p>
+        <h3 style="text-align: left;">Email Conditions </h3>
+        <table style="width: 717px;">
+            <col style="width: 214px;" />
+            <col style="width: 669px;" />
+            <tbody>
+                <tr>
+                    <td style="text-align: center;font-weight: bold;">Condition Display Name</td>
+                    <td style="text-align: center;font-weight: bold;">Description</td>
+                </tr>
+                <tr>
+                    <td>Contact Location</td>
+                    <td>Checks the Contact's location that is associated to the contact email address</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Customer contains contract</p>
+                    </td>
+                    <td>Checks if the selected Customer has a contract with the specified name</td>
+                </tr>
+                <tr>
+                    <td>Sender Email</td>
+                    <td>Checks the email address of the sender</td>
+                </tr>
+                <tr>
+                    <td>Email Body</td>
+                    <td>
+                        <p>Checks the body of the incoming email </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Email Subject</p>
+                    </td>
+                    <td>	Checks the subject of the incoming email</td>
+                </tr>
+                <tr>
+                    <td>Customer Name</td>
+                    <td>	Checks the Customer name</td>
+                </tr>
+                <tr>
+                    <td>Sender Domain</td>
+                    <td>	Checks the email domain of the sender of the incoming email</td>
+                </tr>
+                <tr>
+                    <td>Monitored Mailbox Email Address</td>
+                    <td>Checks the email address of the monitored mailbox. This is used to only process messages from a specified mailbox address, for example. </td>
+                </tr>
+                <tr>
+                    <td>Program Level Name</td>
+                    <td>	Checks the name of the program level </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Outage Conditions <br /></h3>
+        <table style="width: 717px;">
+            <col style="width: 298px;" />
+            <col style="width: 702px;" />
+            <tbody>
+                <tr>
+                    <td style="text-align: center;font-weight: bold;">Condition Display Name</td>
+                    <td style="text-align: center;font-weight: bold;">Description</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Asset - Description</p>
+                    </td>
+                    <td>Checks the Asset Description associated to the incoming outage </td>
+                </tr>
+                <tr>
+                    <td>Asset - Domain</td>
+                    <td>Checks the Asset Domain associated to the incoming outage</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Asset - External IP</p>
+                    </td>
+                    <td>Checks the Asset's external IP address that is associated to the incoming outage </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Asset - Install Date</p>
+                    </td>
+                    <td>Checks the install date of the Asset associated to the incoming outage </td>
+                </tr>
+                <tr>
+                    <td>Asset - Location</td>
+                    <td>Checks the location name of the Asset  associated to incoming outage </td>
+                </tr>
+                <tr>
+                    <td>Asset - OS Type</td>
+                    <td>Checks Asset OS Type associated to incoming outage </td>
+                </tr>
+                <tr>
+                    <td>Asset - Owner</td>
+                    <td>Checks the incoming outage's Asset Owner</td>
+                </tr>
+                <tr>
+                    <td>Asset - Server role name</td>
+                    <td>Checks  the Server Role Name of the Asset associated to the incoming outage </td>
+                </tr>
+                <tr>
+                    <td>Asset - System type</td>
+                    <td>
+                        <p>Checks the System Type of the Asset associated to the incoming outage. </p>
+                        <p class="nugget">The system type in RMM is determined by the Servers tab, the Workstations tab or the Type Columns for Network Devices.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Asset Class</td>
+                    <td>Checks the incoming outage's associated Asset Class and compares the Asset Id to determine if the Asset Class is located in the drop down menu of the condition builder</td>
+                </tr>
+                <tr>
+                    <td>Asset Class Name</td>
+                    <td>Checks the name of the Asset Class associated to the incoming outage</td>
+                </tr>
+                <tr>
+                    <td>Asset Location Address 1</td>
+                    <td>Checks the primary Location address of the Asset which is associated to the incoming outage</td>
+                </tr>
+                <tr>
+                    <td>Asset Location Address 2</td>
+                    <td>Checks the secondary  Location Address of the Asset associated to the incoming outage </td>
+                </tr>
+                <tr>
+                    <td>Asset Location City</td>
+                    <td>Checks the city of the Asset associated to the incoming outage </td>
+                </tr>
+                <tr>
+                    <td>Asset Location Zip code</td>
+                    <td>Checks the Zip Code of the Location of the Asset associated to the incoming outage</td>
+                </tr>
+                <tr>
+                    <td>Asset Status</td>
+                    <td>Checks the Asset Status name associated to the incoming outage</td>
+                </tr>
+                <tr>
+                    <td>Assigned Service Item</td>
+                    <td>Checks if the Service item with given name exists in many-to-many table that stores associations between assets and service items</td>
+                </tr>
+                <tr>
+                    <td>Check Category Name</td>
+                    <td>Checks the Category Id of the Asset associated to the incoming outage</td>
+                </tr>
+                <tr>
+                    <td>Customer has Service Item</td>
+                    <td>Checks if the customer to which the incoming outage is associated has a Service Item with specified name</td>
+                </tr>
+                <tr>
+                    <td>Customer Name</td>
+                    <td>Checks the name of the Customer to which the incoming outage is associated</td>
+                </tr>
+                <tr>
+                    <td>Customer Since</td>
+                    <td>Checks the Created Date of the customer to which the incoming outage is associated</td>
+                </tr>
+                <tr>
+                    <td>Customer Status</td>
+                    <td>Checks the status of the customer to which the incoming outage is associated</td>
+                </tr>
+                <tr>
+                    <td>Location - State</td>
+                    <td>Checks the state in which the Asset is located </td>
+                </tr>
+                <tr>
+                    <td>Outage - Description</td>
+                    <td>Checks the description of the incoming outage </td>
+                </tr>
+                <tr>
+                    <td>Outage - Created Date</td>
+                    <td>Checks the creation date of the incoming outage</td>
+                </tr>
+                <tr>
+                    <td>Outage - Subject</td>
+                    <td>Checks the subject of the incoming outage</td>
+                </tr>
+                <tr>
+                    <td>Previous Ticket - Closed Date</td>
+                    <td>Checks the Closed Date of previous tickets associated with prior outages</td>
+                </tr>
+                <tr>
+                    <td>Previous Ticket - Date of Last Activity</td>
+                    <td>Checks the last updated date of previous tickets associated with prior outages</td>
+                </tr>
+                <tr>
+                    <td>Previous Ticket - Details</td>
+                    <td>Checks the details of previous tickets associated with prior outages</td>
+                </tr>
+                <tr>
+                    <td>Previous Ticket - Opened Date</td>
+                    <td>Checks the opened date of previous tickets associated with prior outages</td>
+                </tr>
+                <tr>
+                    <td>Previous Ticket - Title</td>
+                    <td>Checks the title of previous tickets  associated with prior outages</td>
+                </tr>
+                <tr>
+                    <td>Program Level</td>
+                    <td>Checks the name of the customer's program level associated to the incoming outage</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3> Portal Ticket Request &amp; Easy Ticket Request Conditions <br /></h3>
+        <table style="width: 717px;">
+            <col style="width: 214px;" />
+            <col style="width: 495px;" />
+            <tbody>
+                <tr>
+                    <td style="text-align: center;font-weight: bold;">Condition Display Name</td>
+                    <td style="text-align: center;font-weight: bold;">Description</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Contact Email Address</p>
+                    </td>
+                    <td>Checks the Contact's email address that is associated to the Ticket Request </td>
+                </tr>
+                <tr>
+                    <td>Contact Location</td>
+                    <td>Checks the Contact's location that is associated to the Ticket Request</td>
+                </tr>
+                <tr>
+                    <td>Ticket Category </td>
+                    <td>Checks the Ticket Request Category. This is only available for Portal Ticket Requests, as there is no way to determine the Ticket Category for Easy Ticket Requests</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Ticket Request Details</p>
+                    </td>
+                    <td>Checks the details of the ticket request</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Ticket Request Title</p>
+                    </td>
+                    <td>Checks the title of the ticket request</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Actions</h3>
+        <table style="width: 1002px;">
+            <col style="width: 297px;" />
+            <col style="width: -16px;" />
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;text-align: center;">Action Name</td>
+                    <td style="font-weight: bold;text-align: center;">Description </td>
+                </tr>
+                <tr>
+                    <td>Set Property</td>
+                    <td>
+                        <p>Sets property of the created ticket to one of the available options:</p>
+                        <ul>
+                            <li>
+
+    Priority
+    </li>
+                            <li>Ticket Status
+    </li>
+                            <li>Is Taxable
+</li>
+                            <li>    Is Billable
+    </li>
+                            <li>Description</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Create Ticket</td>
+                    <td>This is the default action for all workflows </td>
+                </tr>
+                <tr>
+                    <td>Assign Technician</td>
+                    <td>Uses <a href="MSP-NGP-Define-rules-for-ticket-routing.htm">Ticket Routing rules</a> to assign a technician to the created ticket</td>
+                </tr>
+                <tr>
+                    <td>Assign Service Plan</td>
+                    <td>
+                        <p>Assigns a service item by one of two methods:
+</p>
+                        <ul>
+                            <li>
+    Default Service Item of customer (if configured)
+    </li>
+                            <li>Selected Service Plan - assigns a service item which was created using the selected Service Plan. (If the service item that was created by the selected Service Plan is not found, the action does nothing)</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Assign Contact</td>
+                    <td>
+                        <p>Assigns a Contact to the created Ticket. There is a primary and secondary method of finding and assigning a contact. If the primary option fails, the secondary method is applied. </p>
+                        <ul>
+                            <li>
+    Contact which created Ticket Request - Customer contact that initiated the ticket request
+</li>
+                            <li>Default Customer Contact - if the default Contact for the customer is configured, it will be assigned</li>
+                            <li>    Named Contact - finds specified contact by email address</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Assign Queue</td>
+                    <td>Assigns the ticket to the selected Ticket Queue</td>
+                </tr>
+                <tr>
+                    <td>Do Not Create Ticket</td>
+                    <td>
+                        <p>Overrides the Create Ticket action</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Set Ticket Issue Type</td>
+                    <td>
+                        <p>Assigns the selected Ticket Issue Type and Sub-Issue Type to the ticket</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Delete Ticket Request</td>
+                    <td>
+                        <p>Deletes Ticket Request. </p>
+                        <p>For example:
+
+Your company does not want any tickets created for requests from a specific email address:
+
+</p>
+                        <p>Condition : Sender Email Address contains 'Email@domain.com'
+</p>
+                        <p>Action: Delete Ticket Request</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

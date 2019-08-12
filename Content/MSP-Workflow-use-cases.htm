@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Common Workflow use cases</h1>
+        <p>Here are a few common ways that workflows can help to automate your ticketing process. </p>
+        <h3>Suppress tickets for specific checks &amp; outages</h3>
+        <p class="nugget">In order to suppress ticket creation for specific types of outages, make sure ticket routing is not enabled for RMM outages. Then create a Workflow for RMM Outage:</p>
+        <ol>
+            <li>In the Condition section, select the <b>Outage</b> &gt; <b>Created Date</b> Attribute.</li>
+            <li>Select '=' as the operator.</li>
+            <li>Select <b>Today</b> as the value.</li>
+            <p class="warning">Do not select the checkbox to Use Absolute Date.</p>
+            <li>In the Actions section, select <b>Do Not Create Ticket</b> and save the Rule.</li>
+        </ol>
+        <h3>Assign emails from a specific domain to a target queue</h3>
+        <p>Create a workflow for Incoming Email using the following conditions and actions:</p>
+        <ol>
+            <li>Select the <b>Sender Domain</b> condition.</li>
+            <li>Select '=' as the operator. </li>
+            <li>Enter the customer's specific email domain as the value for the Sender Domain. </li>
+            <li>In the actions section, select <b>Create Ticket</b> and <b>Assign Queue</b>.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" />next to the Assign Queue action, select a queue from the list and save the action. </li>
+        </ol>
+        <p>Save the Rule to confirm the addition of the new conditions and actions to the workflow. </p>
+        <h3>Mark tickets from a VIP email address as high priority</h3>
+        <p>This scenario can be configured using 3 different workflow categories. </p>
+        <p>Create a workflow for Incoming Email:</p>
+        <ol>
+            <li>In the Condition section, select <b>Sender Email</b>.</li>
+            <li>Select '=' as the operator. </li>
+            <li>Enter the customer's full email address as the value.</li>
+            <li>In the Actions section, select <b>Create Ticket</b> and <b>Set Property</b>.</li>
+            <li> Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" />next to the Set Property action, select <b>Ticket Priority</b> from the Property drop-down list </li>
+            <li>Select <b>High</b> as the value and click <b>Save Action</b>. Save the Rule when finished. </li>
+        </ol>
+        <p>Create a workflow for Portal Ticket Request or Easy Ticket Request:</p>
+        <ol>
+            <li>In the Condition section, select <b>Contact Email Address</b>.</li>
+            <li>Select '=' as the operator. </li>
+            <li>Enter the contact's full email address as the value.</li>
+            <li>In the Actions section, select <b>Create Ticket</b> and <b>Set Property</b>.</li>
+            <li> Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" />next to the Set Property action, select <b>Ticket Priority</b> from the Property drop-down list </li>
+            <li>Select <b>High</b> as the value and click <b>Save Action</b>. Save the Rule when finished.</li>
+        </ol>
+        <h3>Set the contact of a ticket based on their email address</h3>
+        <p>Create a workflow for Incoming Email using the following conditions and actions:</p>
+        <ol>
+            <li>In the Condition section, select <b>Sender Email</b>.</li>
+            <li>Select '=' as the operator. </li>
+            <li>Enter the customer's full email address as the value.</li>
+            <li>In the Actions section, select <b>Create Ticket</b> and <b>Assign Contact</b>.</li>
+            <li> Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" />next to the Assign Contact action and select from the following options for the Primary and Secondary criteria methods used for assigning a contact:<ol><li><b>Contact Which Created The Ticket Request</b> – the contact email address from which the request originated.</li><li><b>Use Default Customer Contact</b> – the contact labeled as the primary point of contact (POC) for the customer.</li><li style="font-weight: normal;"><b>Named User</b> – enter a specific email address.</li></ol></li>
+        </ol>
+        <p>Save the Action and the Rule to confirm the addition of the new conditions and actions to the workflow. </p>
+        <h3>If an email contains a specific subject or text in the body, assign to a specific technician</h3>
+        <p>Create a workflow for Incoming Email using the following conditions and actions:</p>
+        <ol>
+            <li>In the Condition section, select <b> Email Subject</b>.</li>
+            <li>Select <b>contains</b> as the operator. </li>
+            <li>Enter the specific text contained in the email subject as the condition value.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/AddCondition.png" sstyle="width: 20px;height: 20px;" class="no_border" /> and select <b>Add Condition Block</b>.</li>
+            <li>Select <b>Email Body</b> as the Attribute and <b>contains</b> as the operator. </li>
+            <li>Enter the specific text contained in the email body as the condition value.</li>
+            <li>In the Actions section, select <b>Create Ticket</b> and <b>Assign Technician</b>.</li>
+            <li> Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" />next to the Assign Technician Action, select to assign a technician based on <b>Specific User</b> and select a user from the list. </li>
+        </ol>
+        <p>Save the Action and the Rule to confirm the addition of the new conditions and actions to the workflow. </p>
+        <h3>Based on RMM outage subject, create a ticket, assign a queue and set specific customer contact</h3>
+        <p>Create a workflow for RMM Outage using the following conditions and actions:</p>
+        <ol>
+            <li>In the Condition section, select <b>Outage &gt; Subject</b>.</li>
+            <li>Select <b>contains</b> as the operator and enter the specific text contained in the Outage Subject as the condition value.</li>
+            <li>In the Actions section, select <b>Create Ticket</b> and <b>Assign Queue.</b></li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" /> next to the Assign Queue action, select a queue to apply to the action and click Save Action.</li>
+            <li>Select <b>Assign Contact</b> as an additional action and click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" />to edit the action.</li>
+            <li> Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" />next to the Assign Contact action and select from the following options for the Primary and Secondary criteria methods used for assigning a contact:<ol><li><b>Use Default Customer Contact</b> – the contact labeled as the primary point of contact (POC) for the customer.</li><li><b>Use Default Location Assigned Contact</b> – the default contact assigned to a specific customer's location. </li><li><b>Named User</b> – enter a specific email address.</li></ol></li>
+        </ol>
+        <p>Save the Action and the Rule to confirm the addition of the new conditions and actions to the workflow. </p>
+    </body>
+</html>
