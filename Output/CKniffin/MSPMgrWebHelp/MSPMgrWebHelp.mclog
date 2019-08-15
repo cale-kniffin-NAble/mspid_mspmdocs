@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated MSPMgrWebHelp.fltar" Date="2019-08-12T16:03:17.3797149-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated MSPMgrWebHelp.fltar" Date="2019-08-13T16:10:03.7772592-05:00">
     <Messages>Compiling target MSPMgrWebHelp...
 Removing previously generated content...
 Loading skin info...
@@ -20,10 +20,14 @@ Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Add-ticket-
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Asset-tags.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Assets.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Automatically-assign-inbound-tickets.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Create-custom-knowledge-types.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Create-custom-ticket-status.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Migrate-Service-Desk-data.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Service-Desk-Migration.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Uninstall-Service-Desk.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-What-is-OData.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Workflow-and-routing-rules.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Workflow-edit-widgets.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Workspaces-Management.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Bill-for-open-tickets.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Bill-for-partially-complete-tickets.htm.
@@ -418,15 +422,6 @@ Generated Default.htm
 Processing topic: Front Matter\copyright information.htm...
 Applying master page ProductHelp.flmsp...
 Generated Front Matter\copyright information.htm
-Processing topic: MSP-BETA-Create-custom-knowledge-types.htm...
-Link points outside project file://swdev.local/files/N-Able/Documentation Team/MSPM_4-5_Flare_Project/Content/Resources/Images/MSPManagerIcons/NewEdit.png
-Link points outside project file://swdev.local/files/N-Able/Documentation Team/MSPM_4-5_Flare_Project/Content/Resources/Images/MSPManagerIcons/AddKnowledgeType.png
-Link points outside project file://swdev.local/files/N-Able/Documentation Team/MSPM_4-5_Flare_Project/Content/Resources/Images/MSPManagerIcons/NewSave.png
-Applying master page ProductHelp.flmsp...
-Generated MSP-BETA-Create-custom-knowledge-types.htm
-Processing topic: MSP-BETA-Create-custom-ticket-status.htm...
-Applying master page ProductHelp.flmsp...
-Generated MSP-BETA-Create-custom-ticket-status.htm
 Processing topic: MSP-NGP-Scheduling-and-SLAs.htm...
 Applying master page ProductHelp.flmsp...
 Generated MSP-NGP-Scheduling-and-SLAs.htm
@@ -436,9 +431,6 @@ Generated Resources\MSP-Customer-Access-Groups.htm
 Processing topic: Front Matter\TOC.htm...
 Applying master page ProductHelp.flmsp...
 Generated Front Matter\TOC.htm
-Processing topic: MSP-BETA-Workflow-and-routing-rules.htm...
-Applying master page ProductHelp.flmsp...
-Generated MSP-BETA-Workflow-and-routing-rules.htm
 Processing topic: Front Matter\About-SolarWinds.htm...
 Applying master page ProductHelp.flmsp...
 Generated Front Matter\About-SolarWinds.htm
@@ -482,8 +474,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 162
-Output generated in 29 second(s).
+Ignored Compiler Warnings: 152
+Output generated in 21 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrWebHelp.mclog"
@@ -494,9 +486,6 @@ Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrW
         <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\icon_info_flip.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\icon_check.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10001" />
         <LogEntry File="../../../Content/MSP-Set-customers-as-inactive.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_mspmdocs/Resources/Images/MSPManagerIcons/SelectCustomer.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-BETA-Create-custom-knowledge-types.htm" Message="Link points outside project file://swdev.local/files/N-Able/Documentation Team/MSPM_4-5_Flare_Project/Content/Resources/Images/MSPManagerIcons/NewEdit.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-BETA-Create-custom-knowledge-types.htm" Message="Link points outside project file://swdev.local/files/N-Able/Documentation Team/MSPM_4-5_Flare_Project/Content/Resources/Images/MSPManagerIcons/AddKnowledgeType.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-BETA-Create-custom-knowledge-types.htm" Message="Link points outside project file://swdev.local/files/N-Able/Documentation Team/MSPM_4-5_Flare_Project/Content/Resources/Images/MSPManagerIcons/NewSave.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10056" />
         <LogEntry File="../../../Content/MSP-Customer-Access-Groups.htm" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Stylesheets\MainStyles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10001" />
     </Warnings>
     <Errors />

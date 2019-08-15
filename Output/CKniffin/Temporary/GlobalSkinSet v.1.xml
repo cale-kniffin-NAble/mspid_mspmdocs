@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalSkinCache
-  SavedSource="file:///C:/doc/MSPManager - Copy/Docs/Flare/Main/Output/CKniffin/Temporary/GlobalSkinSet v.1.xml">
+  SavedSource="file:///C:/Bitbucket/mspid_mspmdocs/Output/CKniffin/Temporary/GlobalSkinSet v.1.xml">
   <Map>
     <Tag
       Name="Search Bar" />
@@ -341,6 +341,6 @@
     <Url
       Source="../Project/Skins/TopicToolBar.flskn" />
     <Url
-      Source="../../../../../../Program Files/MadCap Software/MadCap Flare 14/Flare.app/Resources/Stylesheets/MasterSkin.xmlstylesdef" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Stylesheets/MasterSkin.xmlstylesdef" />
   </SourceUrls>
 </CatapultGlobalSkinCache>

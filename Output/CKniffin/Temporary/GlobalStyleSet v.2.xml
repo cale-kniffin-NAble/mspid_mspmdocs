@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalStyleCache
-  SavedSource="file:///C:/doc/MSPManager - Copy/Docs/Flare/Main/Output/CKniffin/Temporary/GlobalStyleSet v.2.xml">
+  SavedSource="file:///C:/Bitbucket/mspid_mspmdocs/Output/CKniffin/Temporary/GlobalStyleSet v.2.xml">
   <Media>
     <Medium
       Name="print" />
@@ -51,6 +51,22 @@
       <Class
         Name="sideContent" />
       <Class
+        Name="div_1" />
+      <Class
+        Name="div_2" />
+      <Class
+        Name="div_3" />
+      <Class
+        Name="div_4" />
+      <Class
+        Name="div_5" />
+      <Class
+        Name="div_6" />
+      <Class
+        Name="div_7" />
+      <Class
+        Name="div_8" />
+      <Class
         Name="button-group" />
       <Class
         Name="topichero" />
@@ -96,6 +112,10 @@
     <Tag
       Name="h1">
       <Class
+        Name="Heading1" />
+      <Class
+        Name="Heading1_1" />
+      <Class
         Name="whiteheader" />
       <Class
         Name="chapter" />
@@ -132,6 +152,104 @@
       <Class
         Name="example" />
       <Class
+        Name="BodyText" />
+      <Class
+        Name="TableParagraph" />
+      <Class
+        Name="p_1" />
+      <Class
+        Name="BodyText_1" />
+      <Class
+        Name="BodyText_2" />
+      <Class
+        Name="BodyText_3" />
+      <Class
+        Name="TableParagraph_1" />
+      <Class
+        Name="TableParagraph_2" />
+      <Class
+        Name="BodyText_4" />
+      <Class
+        Name="BodyText_5" />
+      <Class
+        Name="p_2" />
+      <Class
+        Name="BodyText_6" />
+      <Class
+        Name="p_3" />
+      <Class
+        Name="p_4" />
+      <Class
+        Name="p_5" />
+      <Class
+        Name="p_6" />
+      <Class
+        Name="BodyText_7" />
+      <Class
+        Name="BodyText_8" />
+      <Class
+        Name="BodyText_9" />
+      <Class
+        Name="p_7" />
+      <Class
+        Name="BodyText_10" />
+      <Class
+        Name="BodyText_11" />
+      <Class
+        Name="p_8" />
+      <Class
+        Name="BodyText_12" />
+      <Class
+        Name="BodyText_13" />
+      <Class
+        Name="BodyText_14" />
+      <Class
+        Name="BodyText_15" />
+      <Class
+        Name="BodyText_16" />
+      <Class
+        Name="BodyText_17" />
+      <Class
+        Name="BodyText_18" />
+      <Class
+        Name="p_9" />
+      <Class
+        Name="BodyText_19" />
+      <Class
+        Name="p_10" />
+      <Class
+        Name="p_11" />
+      <Class
+        Name="BodyText_20" />
+      <Class
+        Name="BodyText_21" />
+      <Class
+        Name="BodyText_22" />
+      <Class
+        Name="TableParagraph_3" />
+      <Class
+        Name="TableParagraph_4" />
+      <Class
+        Name="TableParagraph_5" />
+      <Class
+        Name="TableParagraph_6" />
+      <Class
+        Name="TableParagraph_7" />
+      <Class
+        Name="TableParagraph_8" />
+      <Class
+        Name="TableParagraph_9" />
+      <Class
+        Name="TableParagraph_10" />
+      <Class
+        Name="TableParagraph_11" />
+      <Class
+        Name="p_12" />
+      <Class
+        Name="BodyText_23" />
+      <Class
+        Name="BodyText_24" />
+      <Class
         Name="Copyright" />
       <Class
         Name="frontmatter_h1" />
@@ -147,8 +265,6 @@
         Name="Index1" />
       <Class
         Name="titleImage" />
-      <Class
-        Name="p_1" />
       <Class
         Name="Term" />
       <Class
@@ -324,13 +440,29 @@
         Name="menu" />
     </Tag>
     <Tag
-      Name="table" />
+      Name="table">
+      <Class
+        Name="table_1" />
+    </Tag>
     <Tag
       Name="th" />
     <Tag
       Name="thead" />
     <Tag
-      Name="td" />
+      Name="td">
+      <Class
+        Name="td_1" />
+      <Class
+        Name="td_2" />
+      <Class
+        Name="td_3" />
+      <Class
+        Name="td_4" />
+      <Class
+        Name="td_5" />
+      <Class
+        Name="td_6" />
+    </Tag>
     <Tag
       Name="tr" />
     <Tag
@@ -395,6 +527,83 @@
       Name="MadCap|helpControlMenuItem">
       <Class
         Name="Highlighted" />
+    </Tag>
+    <Tag
+      Name="span">
+      <Class
+        Name="span_1" />
+      <Class
+        Name="span_2" />
+      <Class
+        Name="span_3" />
+      <Class
+        Name="span_4" />
+      <Class
+        Name="span_5" />
+      <Class
+        Name="span_6" />
+      <Class
+        Name="span_7" />
+      <Class
+        Name="span_8" />
+      <Class
+        Name="span_9" />
+      <Class
+        Name="span_10" />
+      <Class
+        Name="span_11" />
+      <Class
+        Name="span_12" />
+      <Class
+        Name="span_13" />
+      <Class
+        Name="span_14" />
+      <Class
+        Name="span_15" />
+      <Class
+        Name="span_16" />
+      <Class
+        Name="span_17" />
+      <Class
+        Name="ButtonMenuNote" />
+      <Class
+        Name="avoid_pagebreak" />
+      <Class
+        Name="pagebreak" />
+      <Class
+        Name="SearchHighlight" />
+      <Class
+        Name="SearchHighlight1" />
+      <Class
+        Name="SearchHighlight2" />
+      <Class
+        Name="SearchHighlight3" />
+      <Class
+        Name="SearchHighlight4" />
+      <Class
+        Name="SearchHighlight5" />
+      <Class
+        Name="SearchHighlight6" />
+      <Class
+        Name="SearchHighlight7" />
+      <Class
+        Name="SearchHighlight8" />
+      <Class
+        Name="SearchHighlight9" />
+      <Class
+        Name="SearchHighlight10" />
+      <Class
+        Name="SeeAlsoIndex" />
+      <Class
+        Name="SeeAlsoIndexTerms" />
+      <Class
+        Name="SeeIndex" />
+      <Class
+        Name="SeeIndexTerms" />
+      <Class
+        Name="boolean" />
+      <Class
+        Name="state" />
     </Tag>
     <Tag
       Name="mcTableStyle" />
@@ -467,51 +676,6 @@
       Name="MadCap|variable">
       <Class
         Name="TOCheader" />
-    </Tag>
-    <Tag
-      Name="span">
-      <Class
-        Name="ButtonMenuNote" />
-      <Class
-        Name="span_1" />
-      <Class
-        Name="avoid_pagebreak" />
-      <Class
-        Name="pagebreak" />
-      <Class
-        Name="SearchHighlight" />
-      <Class
-        Name="SearchHighlight1" />
-      <Class
-        Name="SearchHighlight2" />
-      <Class
-        Name="SearchHighlight3" />
-      <Class
-        Name="SearchHighlight4" />
-      <Class
-        Name="SearchHighlight5" />
-      <Class
-        Name="SearchHighlight6" />
-      <Class
-        Name="SearchHighlight7" />
-      <Class
-        Name="SearchHighlight8" />
-      <Class
-        Name="SearchHighlight9" />
-      <Class
-        Name="SearchHighlight10" />
-      <Class
-        Name="SeeAlsoIndex" />
-      <Class
-        Name="SeeAlsoIndexTerms" />
-      <Class
-        Name="SeeIndex" />
-      <Class
-        Name="SeeIndexTerms" />
-      <Class
-        Name="boolean" />
-      <Class
-        Name="state" />
     </Tag>
     <Tag
       Name="MadCap|expandingBody" />
@@ -736,6 +900,8 @@
     <Tag
       Name="MadCap|annotation" />
     <Tag
+      Name="MadCap|microContent" />
+    <Tag
       Name="MadCap|popup" />
     <Tag
       Name="MadCap|shortcut" />
@@ -794,6 +960,8 @@
     <Url
       Source="Resources/Stylesheets/Modern.css" />
     <Url
+      Source="Resources/Stylesheets/MSPM-SD Migration Guide (v3).css" />
+    <Url
       Source="Resources/Stylesheets/RefTable.css" />
     <Url
       Source="Resources/Stylesheets/StylesForHomePage.css" />
@@ -810,10 +978,10 @@
     <Url
       Source="Resources/TableStyles/RefTable.css" />
     <Url
-      Source="../../../../../../Program Files/MadCap Software/MadCap Flare 14/Flare.app/Resources/Schemas/xhtml.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/xhtml.css" />
     <Url
-      Source="../../../../../../Program Files/MadCap Software/MadCap Flare 14/Flare.app/Resources/Schemas/MadCapEditor.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditor.css" />
     <Url
-      Source="../../../../../../Program Files/MadCap Software/MadCap Flare 14/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
   </SourceUrls>
 </CatapultGlobalStyleCache>
