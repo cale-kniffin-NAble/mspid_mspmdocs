@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated MSPMgrWebHelp.fltar" Date="2019-08-27T12:06:21.4493815-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated MSPMgrWebHelp.fltar" Date="2019-09-18T12:17:56.5562121-05:00">
     <Messages>Compiling target MSPMgrWebHelp...
 Removing previously generated content...
 Loading skin info...
@@ -474,8 +474,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 152
-Output generated in 22 second(s).
+Ignored Compiler Warnings: 153
+Output generated in 32 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrWebHelp.mclog"
