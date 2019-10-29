@@ -6,12 +6,12 @@
     Title="Create and manage Workspaces"
     Link="/Content/MSP-BETA-Workspaces-Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
-      Title="Edit and configure Workflow Widgets"
+      Title="Edit and configure Workspace Widgets"
       Link="/Content/MSP-BETA-Workflow-edit-widgets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Migrate your Service Desk data to your MSP Manager account "
-    Link="/Content/MSP-BETA-Migrate-Service-Desk-data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/MSP-BETA-Migrate-Service-Desk-data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
   <TocEntry
     Title="Uninstall Service Desk and install MSP Manager as an integrated account"
     Link="/Content/MSP-BETA-Uninstall-Service-Desk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
