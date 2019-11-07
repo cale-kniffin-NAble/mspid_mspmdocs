@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/icons/tools.png" />
     <Url Source="Resources/Images/MSPMScreenshots/TicketPreferences.png" />
     <Url Source="Resources/Images/MSPMScreenshots/TicketSearch.png" />
     <Url Source="Resources/Images/MSPMScreenshots/AddNewRate-MoneyRet.png" />

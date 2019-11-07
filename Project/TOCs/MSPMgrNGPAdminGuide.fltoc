@@ -216,6 +216,13 @@
         Title="Import existing passwords into custom knowledge templates"
         Link="/Content/MSP-Import-passwords-to-custom-knowledge.htm" />
     </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Workspaces-Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/MSP-Workspaces-edit-widgets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="Run reports to track business metrics"

@@ -6,24 +6,25 @@
         <h1>Integrate <MadCap:variable name="MSPManager.ProductName_Long" /> with QuickBooks Online and export your invoices</h1>
         <p>Follow the steps below to set up the integration between your Quickbooks Online and <MadCap:variable name="MSPManager.ProductName_Long" /> accounts. </p>
         <p class="warning">Disable the pop-up blocker in your browser before getting started.</p>
+        <p class="info">With the latest update to <MadCap:variable name="MSPManager.ProductName_Long" />'s QuickBooks Online integration, you will need to log in to your QuickBooks Online account prior to exporting invoices to get a token. That token is stored in the <MadCap:variable name="MSPManager.ProductName_Long" /> database and is valid for the next 100 days. After that time, <MadCap:variable name="MSPManager.ProductName_Long" /> will require you to log in to QuickBooks again.</p>
         <h3>Configure QuickBooks Online integration with <MadCap:variable name="MSPManager.ProductName_Long" /></h3>
         <ol>
             <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, navigate to <span class="ButtonMenuNote">Settings</span> &gt; <b>Company Settings</b> &gt; <span class="ButtonMenuNote">Integrations</span> &gt; <span class="ButtonMenuNote">Configure QuickBooks Online</span>.</li>
             <p class="nugget">Open an additional tab in your browser and log into your QuickBooks Online account. This will allow <MadCap:variable name="MSPManager.ProductName_Long" /> to easily communicate with QuickBooks. </p>
             <li>Confirm you have disabled your browser's pop-up blocker, and click <span class="ButtonMenuNote">Import</span>.</li>
             <li>In the QuickBooks pop-up window, click <span class="ButtonMenuNote">Connect</span> to authorize <MadCap:variable name="MSPManager.ProductName_Long" /> and QuickBooks to share information. </li>
-            <li>After the confirmation message at the bottom of the screen is displayed and the connection is successful, click <b>Import</b> again to pull Products and Services from QuickBooks. </li>
+            <li>After the confirmation message at the bottom of the screen is displayed indicating the connection was successful, click <b>Import</b> again to pull Products and Services from QuickBooks. </li>
             <p class="info">The number of customers and services being imported are displayed at the bottom of the page. </p>
-            <li>In the <span class="ButtonMenuNote">Default Mapping</span> tab, select a default accounting item for each category and click <span class="ButtonMenuNote">Save</span>.</li>
-            <li>Navigate to the <b>Services</b> tab and use the filters on the left to view specific Service Plans, Service Items or Rates and select an Accounting Item to map to that individual service. This will override any default mapping previously configured. </li>
-            <li>You can also filter the list of services by <MadCap:variable name="MSPManager.ProductName_Long" /> Customer or Template, QuickBooks Category or Mapping Status.</li>
-            <li>&#160;&#160;<p>&#160;</p><p>&#160;</p><p class="nugget">If you are mapping to a category that is a sub-category, manually enter the item in the following format: <b>Category name:Sub-category name</b></p></li>
-            <p class="info">If you have additional items in QuickBooks Online that are not covered by the Default Mappings options, you can <a href="MSP-Override-default-mappings-to-accounting-software.htm"><a href="MSP-Override-default-mappings-to-accounting-software.htm">override the defaults to map additional QuickBooks Online categories to rates or expenses in <MadCap:variable name="MSPManager.ProductName_Long" />.</a></a></p>
+            <li>In the <span class="ButtonMenuNote">Default Mapping</span> tab, select a default accounting item for each category.</li>
+            <li>Navigate to the <b>Services</b> tab and use the filters on the left to view specific Service Plans, Service Items or Rates and select an Accounting Item to map to that individual service. This overrides any default mapping previously configured and allows a specific rate or rate template, for instance, to be mapped directly to an item in QuickBooks. </li>
+            <p class="nugget">You can also filter the list of services by <MadCap:variable name="MSPManager.ProductName_Long" /> Customer or Template, QuickBooks Category or Mapping Status.</p>
+            <li>&#160;Use the <b>Mapping Status</b> filter to view inactive QuickBooks items, <MadCap:variable name="MSPManager.ProductName_Long" /> items that are missing a mapped accounting item or that have been successfully mapped. </li>
+            <li>When all items in <MadCap:variable name="MSPManager.ProductName_Long" /> are successfully mapped to the appropriate accounting items in QuickBooks, navigate to the <b>Default Mapping</b> tab and click <b>Save</b>.</li>
         </ol>
-        <p class="nugget">If you add products and services to QuickBooks Online, repeat this process to import and map them to <MadCap:variable name="MSPManager.ProductName_Long" />.</p>
-        <h3>Export an invoice to QuickBooks Online</h3>
+        <p>If you add products and services to QuickBooks Online, repeat this process to import and map them to <MadCap:variable name="MSPManager.ProductName_Long" />.</p>
+        <h3>Export invoices to QuickBooks Online</h3>
         <ol>
-            <li>Navigate to the <span class="ButtonMenuNote">Billing</span> and <a href="MSP-NGP-Run-a-billing-batch.htm">run a billing batch</a>. </li>
+            <li>Navigate to <span class="ButtonMenuNote">Billing</span> and click <b>+ Add Billing Batch</b>to <a href="MSP-NGP-Run-a-billing-batch.htm">run a billing batch and generate invoices</a>. </li>
             <li>After generating your invoices, select <span class="ButtonMenuNote">QuickBooks Online</span> from the <span class="ButtonMenuNote">Export Format</span> list, and select <span class="ButtonMenuNote">Export Invoices</span>.</li>
         </ol>
         <p>Your invoices are available instantly in QuickBooks Online after the export is completed.</p>

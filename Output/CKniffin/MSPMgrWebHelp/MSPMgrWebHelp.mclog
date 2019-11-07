@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated MSPMgrWebHelp.fltar" Date="2019-10-29T11:24:14.7439224-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated MSPMgrWebHelp.fltar" Date="2019-11-05T13:07:36.2909553-06:00">
     <Messages>Compiling target MSPMgrWebHelp...
 Removing previously generated content...
 Loading skin info...
@@ -23,6 +23,7 @@ Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Automatical
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Create-custom-knowledge-types.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Create-custom-ticket-status.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Migrate-Service-Desk-data.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Quickbooks-Online.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Service-Desk-Migration.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Uninstall-Service-Desk.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-What-is-OData.htm.
@@ -116,7 +117,6 @@ Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Users.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-What-is-OData.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workflow-and-routing-highlevel.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workflow-and-routing-rules.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workspaces-Management.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Xero-integration-folder.htm.
 Processing CSS: Resources\Stylesheets\MainStyles.css...
 Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\swgold24x24.png
@@ -475,8 +475,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 154
-Output generated in 40 second(s).
+Ignored Compiler Warnings: 155
+Output generated in 27 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrWebHelp.mclog"
