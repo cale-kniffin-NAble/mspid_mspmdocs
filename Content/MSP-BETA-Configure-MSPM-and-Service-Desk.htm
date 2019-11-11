@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="2581.333" MadCap:lastWidth="1208" MadCap:conditions="Default.comment">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.comment">
     <head>
     </head>
     <body>
-        <h1>Migrate your Service Desk data to <MadCap:variable name="MSPManager.ProductName_Short" /></h1>
-        <p>The Service Desk data migration populates your MSP Manager account with usable data like customers/sites, contacts, users, assets, queues and tickets. Select each import section to view a list of all available data from your Service Desk account. Choose which items to import, or select everything at once.</p>
+        <h1>Configure <MadCap:variable name="MSPManager.ProductName_Long" /> and test the Service Desk migration process</h1>
+        <p>There are a few sections of your <MadCap:variable name="MSPManager.ProductName_Long" /> account that need to be properly configured before beginning the migration of Service Desk data. Get familiar with <MadCap:variable name="MSPManager.ProductName_Long" /> by setting up your <a href="MSP-NGP-Multiple-ticket-mailboxes.htm" target="_blank">ticket mailbox</a> and <a href="MSP-NGP-Give-ticket-access-to-your-customers.htm" target="_blank">customer portal</a>, creating <a href="MSP-NGP-Service-plans.htm" target="_blank">Service Plans</a> and <a href="MSP-NGP-Getting-started.htm" target="_blank">a test customer</a>, opening a ticket, and <a href="MSP-NGP-Run-a-billing-batch.htm" target="_blank">running a billing batch</a>. </p>
         <p>Reference this table for terminology and feature differences between Service Desk and <MadCap:variable name="MSPManager.ProductName_Short" />:</p>
         <table>
             <col style="width: 278pt;" />
@@ -231,15 +231,14 @@
             </tbody>
         </table>
         <h3>Configure your MSP Manager account before migrating Service Desk data</h3>
-        <p class="BodyText_4">There are a few sections of your MSP Manager account that need to be properly configured before beginning the migration of Service Desk data. Get familiar with MSP Manager by setting up your ticket mailbox and customer portal, creating Service Plans and a test customer, opening a ticket, and running a billing batch. </p>
         <ol>
-            <li>Navigate to <b>Settings</b> &gt; <b>Company Settings</b> &gt; <b>Ticket Mailboxes</b> to <a href="../MSP-NGP-Multiple-ticket-mailboxes.htm">configure your Ticket Mailbox</a>. This is used to send login instructions to new Users and Contacts from Service Desk.</li>
-            <li>Navigate to <b>Settings</b> &gt; <b>Company Settings</b> &gt; <b>Portal</b> to <a href="../MSP-NGP-Give-ticket-access-to-your-customers.htm">configure your Customer Portal.</a><p class="warning">This must be configured in order for Contacts to log in, create their password and start creating tickets.</p></li>
-            <li>Navigate to <b>Settings</b> &gt; <b>Billing</b> &gt; <b>Service Plans</b> and <a href="../MSP-NGP-Service-plans.htm">create a Service Plan</a>. In order to start creating tickets in MSP Manager, you need to <a href="../MSP-NGP-Charge-for-your-work-with-Service-items.htm">create Service Items and specify a default Service Item for your customers.</a></li>
-            <p class="info">A Service Plan is a Service Item contract that can be assigned to multiple customers. You can also assign Service Items on a per customer basis, or use <a href="../MSP-NGP-Create-program-levels-for-multiple-customers.htm">Program Levels</a> to apply multiple Service Plans to all your customers.</p>
-            <li>Navigate to <b>Settings</b> &gt; <b>SLA</b> &gt; <b>SLA Policies</b> to <a href="../MSP-NGP-SLA.htm">create a new SLA policy.</a></li>
-            <li><a href="../MSP-NGP-Getting-started.htm">Create a customer</a> and create a test <a href="../MSP-NGP-Track-work-with-helpdesk-tickets.htm">Helpdesk Ticket</a> for that customer. Add a time entry to the ticket, and mark it complete in order to bill for it's time.</li>
-            <li>Navigate to <b>Billing</b> and <a href="../MSP-NGP-Run-a-billing-batch.htm">run a Billing Batch</a> to familiarize yourself with the ticketing and billing functionality of MSP Manager.</li>
+            <li>Navigate to <b>Settings</b> &gt; <b>Company Settings</b> &gt; <b>Ticket Mailboxes</b> to <a href="../MSP-NGP-Multiple-ticket-mailboxes.htm" target="_blank">configure your Ticket Mailbox</a>. This is used to send login instructions to new Users and Contacts from Service Desk.</li>
+            <li>Navigate to <b>Settings</b> &gt; <b>Company Settings</b> &gt; <b>Portal</b> to <a href="../MSP-NGP-Give-ticket-access-to-your-customers.htm" target="_blank">configure your Customer Portal.</a><p class="warning">This must be configured in order for Contacts to log in, create their password and start creating tickets.</p></li>
+            <li>Navigate to <b>Settings</b> &gt; <b>Billing</b> &gt; <b>Service Plans</b> and <a href="../MSP-NGP-Service-plans.htm" target="_blank">create a Service Plan</a>. In order to start creating tickets in MSP Manager, you need to <a href="../MSP-NGP-Charge-for-your-work-with-Service-items.htm" target="_blank">create Service Items and specify a default Service Item for your customers.</a></li>
+            <p class="info">A Service Plan is a Service Item contract that can be assigned to multiple customers. You can also assign Service Items on a per customer basis, or use <a href="../MSP-NGP-Create-program-levels-for-multiple-customers.htm" target="_blank">Program Levels</a> to apply multiple Service Plans to all your customers.</p>
+            <li>Navigate to <b>Settings</b> &gt; <b>SLA</b> &gt; <b>SLA Policies</b> to <a href="../MSP-NGP-SLA.htm" target="_blank">create a new SLA policy.</a></li>
+            <li><a href="../MSP-NGP-Getting-started.htm" target="_blank">Create a customer</a> and create a test <a href="../MSP-NGP-Track-work-with-helpdesk-tickets.htm" target="_blank">Helpdesk Ticket</a> for that customer. Add a time entry to the ticket, and mark it complete in order to bill for it's time.</li>
+            <li>Navigate to <b>Billing</b> and <a href="../MSP-NGP-Run-a-billing-batch.htm" target="_blank">run a Billing Batch</a> to familiarize yourself with the ticketing and billing functionality of MSP Manager.</li>
         </ol>
         <p>After configuring your MSP Manager account and adding some data, run a test migration using a single customer prior to migrating all of your Service Desk data.</p>
         <h3>Test the migration process before migrating all Service Desk data</h3>
@@ -258,27 +257,9 @@
             <li>Select <b>Import Customers/Sites</b>, choose a single Service Desk Customer/Site to import, and click <b>Import Customers/Sites</b>.</li>
             <li>Import the Task Templates, Assets and Queues for that customer.</li>
         </ol>
-        <p>Click<img src="Resources/Images/MSPMScreenshots/ViewLog.png" /> to view the log files for any items that fail to import, and use the <b>Import History</b> section at the bottom of the page to view a running count of all imported data as it moves from Service Desk to <MadCap:variable name="MSPManager.ProductName_Short" />.</p>
-        <h3>Start migrating your Service Desk data to MSP Manager</h3>
-        <p>After completing a successful test using the migration tool, you are ready to migrate all your Service Desk data to<MadCap:variable name="MSPManager.ProductName_Short" />. You can run the migration utility multiple times to import new items without updating any existing imported items. For instance, if you import open tickets to <MadCap:variable name="MSPManager.ProductName_Short" />, any updates to the tickets in Service Desk will not be synced in<MadCap:variable name="MSPManager.ProductName_Short" />.</p>
-        <p class="warning">Import the items in the order listed below to avoid errors.</p>
-        <ol>
-            <li>Navigate to <b>Settings</b> &gt; <b>Integrations</b> and select <b>MSP Service Desk</b> &gt; <b>Configure</b> &gt; <b>Add Service Desk Credentials</b>.</li>
-            <li>Enter the Admin credentials and URL for your Service Desk portal, and click <b>Save Credentials</b> to connect to Service Desk.<p class="info">A confirmation message is displayed at the bottom of the page. If you are unsure, use the Test Connection button <img src="Resources/Images/MSPMScreenshots/TestConnection.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;width: 22px;height: 18px;" /> to confirm that the connection was successful.</p></li>
-            <li>Navigate to <b>Import Users</b> to view a list of Staff Agents from Service Desk. Select which Staff Agents to import as MSP Manager Users, and click <b>Import Users</b>.<br /></li>
-            <p class="nugget">All imported Users are sent an activation email with instructions on how to log in to MSP Manager.<br /></p>
-            <li>Select <b>Import Customers/Sites</b>, choose the Service Desk Customers/Sites to import, and click <b>Import Customer/Sites.</b></li>
-            <li>Navigate to <b>Import Contacts</b>, select the Service Desk Users/Contacts to bring into <MadCap:variable name="MSPManager.ProductName_Short" /> and click <b>Import Contacts</b>.</li>
-            <p class="warning">All Service Desk Users/Contacts are sent an email with instructions on how to log in to the <a href="MSP-NGP-Give-ticket-access-to-your-customers.htm"> MSP Manager Customer Portal.</a></p>
-            <li>Select <b>Import Task Templates</b>, choose the Service Desk Task Templates to import and click <b>Import Task Templates.</b></li>
-            <li>Navigate to <b>Import Assets</b>, select the Assets from Service Desk to bring into <MadCap:variable name="MSPManager.ProductName_Short" /> and click <b>Import Assets</b>. </li>
-            <li>Select <b>Configure Asset Mapping</b> to import Asset Classes and Custom Fields from Service Desk.</li>
-            <p class="info">The device name and custom fields of the asset are imported first, and the rest of the asset details are populated when the <a href="MSP-NGP-Integrate-MSPRM-with-MSPManager.htm">RMM integration is set up</a>.</p>
-            <li>Choose an Asset Class and map the Service Desk Custom Fields for that Asset Class to an <MadCap:variable name="MSPManager.ProductName_Short" /> Property. Click <b>Save</b>.</li>
-            <li>Select <b>Import Queues</b>, choose the Service Desk Queues to import, and click <b>Import Queues</b>.</li>
-            <li>Navigate to <b>Import Tickets</b>, select the Service Desk customers for whom you would like to import tickets and click <b>Import Tickets</b> to start the import process.</li>
-        </ol>
-        <p>Your <MadCap:variable name="MSPManager.ProductName_Short" /> account is now populated with all the imported data from Service Desk.</p>
-        <p>Check out the <a href="http://help.logicnow.com/service-desk/documentation/Content/sd-qsg.pdf">Service Desk Quick Start guide</a> and <a href="http://help.logicnow.com/service-desk/documentation/Default.htm#ACM/Topics/Home/Usefullinks.htm%23ServiceDeskQSG">other useful links</a> for additional Service Desk information.</p>
+        <p>Click <img src="Resources/Images/MSPMScreenshots/ViewLog.png" /> to view the log files for any items that fail to import, and use the <b>Import History</b> section at the bottom of the page to view a running count of all imported data as it moves from Service Desk to <MadCap:variable name="MSPManager.ProductName_Short" />.</p>
+        <p>After successfully testing the integration with Service Desk, you can <a href="MSP-BETA-Service-Desk-Migration.htm" target="_blank">begin to migrate all Service Desk data to <MadCap:variable name="MSPManager.ProductName_Long" />.</a> </p>
+        <p>Check out the <a href="http://help.logicnow.com/service-desk/documentation/Content/sd-qsg.pdf" target="_blank">Service Desk Quick Start guide</a> and <a href="http://help.logicnow.com/service-desk/documentation/Default.htm#ACM/Topics/Home/Usefullinks.htm%23ServiceDeskQSG" target="_blank">other useful links</a> for additional Service Desk information.</p>
+        <p>&#160;</p>
     </body>
 </html>

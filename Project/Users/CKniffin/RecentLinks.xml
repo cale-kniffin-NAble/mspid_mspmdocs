@@ -4,6 +4,6 @@
         <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\icons\tools.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-NGP-Roles-and-permissions.htm" />
+        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-BETA-Service-Desk-Migration.htm" />
     </Dialog>
 </RecentLinks>
