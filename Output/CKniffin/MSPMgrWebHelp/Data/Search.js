@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','item','within'],p:[['$0',80],['and',105],['class',61],['diagnose',46],['furnished',98],['keeps',109],['now',65],['recurring',16],['specifying',95],['tickets',11],['which',49]]});
+define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','licens'],p:[['$0',80],['any',80],['collect',29],['drop',64],['hourly',35],['location',22],['options',19],['save',65],['the',9],['to',93],['your',95]]});
