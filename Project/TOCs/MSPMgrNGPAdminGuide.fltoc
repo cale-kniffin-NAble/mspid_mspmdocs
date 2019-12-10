@@ -153,8 +153,8 @@
         Title="QuickBooks Online"
         Link="/Content/MSP-NGP-Quickbooks-online-integration-folder.htm">
         <TocEntry
-          Title="Integrate MSP Manager with QuickBooks Online and export invoices"
-          Link="/Content/MSP-NGP-Quickbooks-online.htm" />
+          Title="Integrate MSP Manager with QuickBooks Online"
+          Link="/Content/MSP-Quickbooks-Online-integration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
           Title="Configure your tax rates in QuickBooks Online"
           Link="/Content/MSP-NGP-Quickbooks-tax.htm" />

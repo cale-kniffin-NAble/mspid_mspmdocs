@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.comment">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
     </head>
     <body>
@@ -9,19 +9,20 @@
         <p class="info">With the latest update to <MadCap:variable name="MSPManager.ProductName_Long" />'s QuickBooks Online integration, you will need to log in to your QuickBooks Online account prior to exporting invoices to get a token. That token is stored in the <MadCap:variable name="MSPManager.ProductName_Long" /> database and is valid for the next 100 days. After that time, <MadCap:variable name="MSPManager.ProductName_Long" /> will require you to log in to QuickBooks again.</p>
         <h3>Configure QuickBooks Online integration with <MadCap:variable name="MSPManager.ProductName_Long" /></h3>
         <ol>
-            <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, navigate to <span class="ButtonMenuNote">Settings</span> &gt; <b>Company Settings</b> &gt; <span class="ButtonMenuNote">Integrations</span> &gt; <span class="ButtonMenuNote">Configure QuickBooks Online</span>.</li>
+            <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, navigate to <span class="ButtonMenuNote">Settings</span> &gt; <b>Company Settings</b> &gt; <span class="ButtonMenuNote">Integrations</span> and select <span class="ButtonMenuNote">Configure QuickBooks Online</span>.</li>
             <p class="nugget">Open an additional tab in your browser and log into your QuickBooks Online account. This will allow <MadCap:variable name="MSPManager.ProductName_Long" /> to easily communicate with QuickBooks. </p>
-            <li>Confirm you have disabled your browser's pop-up blocker, and click <span class="ButtonMenuNote">Import</span>.</li>
+            <li>Confirm you have disabled your browser's pop-up blocker, and click <span class="ButtonMenuNote">Import</span> in the top right corner of the page.</li>
             <li>In the QuickBooks pop-up window, click <span class="ButtonMenuNote">Connect</span> to authorize <MadCap:variable name="MSPManager.ProductName_Long" /> and QuickBooks to share information. </li>
-            <li>After the confirmation message at the bottom of the screen is displayed indicating the connection was successful, click <b>Import</b> again to pull Products and Services from QuickBooks. </li>
-            <p class="info">The number of customers and services being imported are displayed at the bottom of the page. </p>
-            <li>In the <span class="ButtonMenuNote">Default Mapping</span> tab, select a default accounting item for each category.</li>
-            <li>Navigate to the <b>Services</b> tab and use the filters on the left to view specific Service Plans, Service Items or Rates and select an Accounting Item to map to that individual service. This overrides any default mapping previously configured and allows a specific rate or rate template, for instance, to be mapped directly to an item in QuickBooks. </li>
-            <p class="nugget">You can also filter the list of services by <MadCap:variable name="MSPManager.ProductName_Long" /> Customer or Template, QuickBooks Category or Mapping Status.</p>
-            <li>&#160;Use the <b>Mapping Status</b> filter to view inactive QuickBooks items, <MadCap:variable name="MSPManager.ProductName_Long" /> items that are missing a mapped accounting item or that have been successfully mapped. </li>
+            <li>
+                <p class="info">A status message a the bottom of the page  indicates the connection was successful and also displays the number of customers and services that were successfully imported.</p>
+            </li>
+            <li>In the <span class="ButtonMenuNote">Default Mapping</span> tab, select a default item for each category.</li>
+            <li>Navigate to the <b>Services</b> tab and use the filters on the left to view specific <MadCap:variable name="MSPManager.ProductName_Long" /> Item Types (Service Plans, Service Items, Rate Templates or Rates). You can also filter the list of services by <MadCap:variable name="MSPManager.ProductName_Long" /> Customer or Template, QuickBooks Category or Mapping Status.</li>
+            <li>Select an item from the <b>Accounting Service</b> column to map to each <b>MSPM Item</b> in the list. This overrides any default mapping previously configured and allows a specific rate or rate template, for instance, to be mapped directly to an item in QuickBooks. </li>
+            <li>&#160;Use the <b>Mapping Status</b> filter to view inactive QuickBooks items, or <MadCap:variable name="MSPManager.ProductName_Long" /> items that are missing a mapped accounting item or that have been successfully mapped. </li>
             <li>When all items in <MadCap:variable name="MSPManager.ProductName_Long" /> are successfully mapped to the appropriate accounting items in QuickBooks, navigate to the <b>Default Mapping</b> tab and click <b>Save</b>.</li>
         </ol>
-        <p>If you add products and services to QuickBooks Online, repeat this process to import and map them to <MadCap:variable name="MSPManager.ProductName_Long" />.</p>
+        <p>If you add products and services to QuickBooks Online, repeat this process to import and map them to the appropriate <MadCap:variable name="MSPManager.ProductName_Long" /> items.</p>
         <h3>Export invoices to QuickBooks Online</h3>
         <ol>
             <li>Navigate to <span class="ButtonMenuNote">Billing</span> and click <b>+ Add Billing Batch</b>to <a href="MSP-NGP-Run-a-billing-batch.htm">run a billing batch and generate invoices</a>. </li>

@@ -11,7 +11,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/MSP-BETA-Quickbooks-Online.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/MSP-Quickbooks-Online-integration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="Configure MSP Manager and test the Service Desk migration process"
     Link="/Content/MSP-BETA-Configure-MSPM-and-Service-Desk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
