@@ -3,16 +3,6 @@
   Version="1"
   conditions="">
   <TocEntry
-    Title="Create and manage Workspaces"
-    Link="/Content/MSP-Workspaces-Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <TocEntry
-      Title="Edit and configure Workspace Widgets"
-      Link="/Content/MSP-Workspaces-edit-widgets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/MSP-Quickbooks-Online-integration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  <TocEntry
     Title="Configure MSP Manager and test the Service Desk migration process"
     Link="/Content/MSP-BETA-Configure-MSPM-and-Service-Desk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry

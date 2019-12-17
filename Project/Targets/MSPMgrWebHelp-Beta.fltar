@@ -26,7 +26,7 @@
   MasterToc="/Project/TOCs/MSPMgrBetaAdminGuide.fltoc"
   SearchBarSkin="/Project/Skins/HomeSearchBar.flskn"
   conditions=""
-  DefaultUrl="/Content/MSP-Workspaces-Management.htm">
+  DefaultUrl="/Content/MSP-BETA-Configure-MSPM-and-Service-Desk.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
