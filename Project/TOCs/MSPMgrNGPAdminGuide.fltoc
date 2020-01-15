@@ -296,7 +296,7 @@
       Link="/Content/MSP-Store-resolutions-to-common-customer-issues.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/MSP-Submit-Support-Case.htm" />
+      Link="/Content/MSP-Submit-Support-Case-to-import-data.htm" />
     <TocEntry
       Title="Ticket routing with multiple locations"
       Link="/Content/MSP-Ticket-routing-with-multiple-locations.htm" />
