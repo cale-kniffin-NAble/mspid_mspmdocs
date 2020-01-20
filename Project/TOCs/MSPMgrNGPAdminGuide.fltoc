@@ -295,8 +295,8 @@
       Title="Store resolutions to common customer issues"
       Link="/Content/MSP-Store-resolutions-to-common-customer-issues.htm" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/MSP-Submit-Support-Case-to-import-data.htm" />
+      Title="Submit a support case to import data"
+      Link="/Content/MSP-Submit-Support-Case-to-import-data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Ticket routing with multiple locations"
       Link="/Content/MSP-Ticket-routing-with-multiple-locations.htm" />
