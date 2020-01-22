@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/ScheduleProperties.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/Schedules.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/Appointments.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/EditAppt.png" />
     <Url Source="Resources/Images/MSPMScreenshots/SupportCase.png" />
     <Url Source="Resources/Images/MSPMScreenshots/SchedulingScript.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/EditAppt.png" />
     <Url Source="Resources/Images/icons/tools.png" />
     <Url Source="Resources/Images/MSPMScreenshots/TicketPreferences.png" />
     <Url Source="Resources/Images/MSPMScreenshots/TicketSearch.png" />
@@ -17,7 +20,4 @@
     <Url Source="Resources/Images/MSPManagerIcons/NewFilter.png" />
     <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
     <Url Source="Resources/Images/MSPManagerIcons/UndeleteServiceItem.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/ViewDeletedServiceItem.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/ExpandDeletedServiceItem.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/MarkResponseAsRead.png" />
 </UrlList>

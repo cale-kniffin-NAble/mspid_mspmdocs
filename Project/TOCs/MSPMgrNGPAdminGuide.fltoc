@@ -217,10 +217,10 @@
         Link="/Content/MSP-Import-passwords-to-custom-knowledge.htm" />
     </TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="Create and manage workspaces"
       Link="/Content/MSP-Workspaces-Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
+        Title="Edit and configure workspace widgets "
         Link="/Content/MSP-Workspaces-edit-widgets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>

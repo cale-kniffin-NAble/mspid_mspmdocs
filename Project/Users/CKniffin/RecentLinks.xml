@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPMScreenshots\SupportCase.png" />
+        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPMScreenshots\ScheduleProperties.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
         <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-NGP-Run-a-billing-batch.htm" />
     </Dialog>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
 </RecentLinks>
