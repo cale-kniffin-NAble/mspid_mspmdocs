@@ -537,10 +537,6 @@ a.activityText:visited
 
 ._Skins_TopicToolBar.mc-component .button.home-button
 {
-	-webkit-box-shadow: 0px 0px 0px #ffffff;
-	-moz-box-shadow: 0px 0px 0px #ffffff;
-	-webkit-box-shadow: 0px 0px 0px #ffffff;
-	-moz-box-shadow: 0px 0px 0px #ffffff;
 	padding-left: 2px;
 	border-top: none 1px #e1e1e1;
 	border-right: none 1px #e1e1e1;
@@ -600,10 +596,6 @@ a.activityText:visited
 
 ._Skins_TopicToolBar.mc-component .button.print-button
 {
-	-webkit-box-shadow: 0px 0px 0px #ffffff;
-	-moz-box-shadow: 0px 0px 0px #ffffff;
-	-webkit-box-shadow: 0px 0px 0px #ffffff;
-	-moz-box-shadow: 0px 0px 0px #ffffff;
 	border-top: none 1px #e1e1e1;
 	border-right: none 1px #e1e1e1;
 	border-bottom: none 1px #e1e1e1;
