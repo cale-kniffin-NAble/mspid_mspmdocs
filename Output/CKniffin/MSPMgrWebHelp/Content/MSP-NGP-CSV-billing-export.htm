@@ -156,6 +156,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
                                         </p>
+                                        <!-- Start iFrame Embed Code --><iframe style="overflow: hidden; border: none;" class="iframe-resize" scrolling="no" seamless="seamless" src="" border="0" width="600"></iframe>
+                                        <script src="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS">
+                                        </script>
+                                        <script type="text/javascript">/* <![CDATA[ */
+				$(function () {
+				var iFrameURL = 'https://success.solarwindsmsp.com/Support_HelpDocs_FeedbackForm',
+				productParam = '?product=' + $("meta[name=products]").attr("content"),
+				topicnameParam = '&amp;topicname=' + $('h1:first').text(),
+				topicfilenameParam = '&amp;topicfilename=' + window.location.pathname,
+				urlParam = '&amp;url=' + window.location.protocol + '//' + window.location.hostname + window.location.pathname;
+				var isOldIE = (navigator.userAgent.indexOf("MSIE") !== -1); // Detect IE10 and below
+				console.log('productParam: ' + productParam);
+				console.log('topicnameParam: ' + topicnameParam);
+				console.log('topicfilenameParam: ' + topicfilenameParam);
+				console.log('urlParam: ' + urlParam);
+        
+				console.log('iframe src: ' + iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam));
+        
+				$('.iframe-resize').attr("src", iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam))
+				$('.iframe-resize').iFrameResize({
+				heightCalculationMethod: isOldIE ? 'max' : 'lowestElement', 
+				//checkOrigin: []
+				});
+				});
+			/* ]]> */</script>
+                                        <!-- End iFrame Embed Code -->
                                     </div>
                                 </div>
                             </div>

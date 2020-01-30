@@ -143,10 +143,12 @@
                                         </div>
                                         <h1>Integrate <span class="MSPManagerProductName_Long">MSP&#160;Manager</span> with Xero and export your invoices</h1>
                                         <p>Follow the steps below to set up the integration between your Xero Accounting and <span class="MSPManagerProductName_Long">MSP&#160;Manager</span> accounts. </p>
-                                        <p class="warning">Disable the pop-up blocker in your browser before getting started</p>
+                                        <p class="warning">Disable the pop-up blocker in your browser before getting started.</p>
+                                        <p class="info">With the latest update to <span class="MSPManagerProductName_Long">MSP&#160;Manager</span>'s Xero accounting integration, you will need to log in to your Xero account prior to exporting invoices to get a token. That token is stored in the <span class="MSPManagerProductName_Long">MSP&#160;Manager</span> database and is valid for the next 100 days. After that time, <span class="MSPManagerProductName_Long">MSP&#160;Manager</span> will require you to log in to Xero again.</p>
                                         <h3>Configure Xero integration with <span class="MSPManagerProductName_Long">MSP&#160;Manager</span></h3>
                                         <ol>
-                                            <li value="1">In <span class="MSPManagerProductName_Long">MSP&#160;Manager</span>, select <span class="ButtonMenuNote">Settings</span> &gt; <b>Company Settings</b> &gt; <span class="ButtonMenuNote">Integrations</span> &gt; <b>Xero</b> and select <span class="ButtonMenuNote">Configure</span>.</li>
+                                            <li value="1">In <span class="MSPManagerProductName_Long">MSP&#160;Manager</span>, select <span class="ButtonMenuNote">Settings</span> &gt; <b>Company Settings</b> &gt; <span class="ButtonMenuNote">Integrations</span> &gt; <b>Xero</b> and select <span class="ButtonMenuNote">Configure Xero</span>.</li>
+                                            <p class="nugget">Open an additional tab in your browser and log into your Xero account. This will allow <span class="MSPManagerProductName_Long">MSP&#160;Manager</span> to easily communicate with Xero. </p>
                                             <li value="2">Select <span class="ButtonMenuNote">Import from Xero</span> and click <span class="ButtonMenuNote">OK&#160;</span>to confirm you disabled the pop-up blocker.</li>
                                             <li value="3">Log in with your Xero account and select <b>Authorize</b> from the <span class="ButtonMenuNote">Authorize Application</span> window.</li>
                                             <li value="4">Select <span class="ButtonMenuNote">Import from Xero</span>.</li>
@@ -169,6 +171,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
                                         </p>
+                                        <!-- Start iFrame Embed Code --><iframe style="overflow: hidden; border: none;" class="iframe-resize" scrolling="no" seamless="seamless" src="" border="0" width="600"></iframe>
+                                        <script src="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS">
+                                        </script>
+                                        <script type="text/javascript">/* <![CDATA[ */
+				$(function () {
+				var iFrameURL = 'https://success.solarwindsmsp.com/Support_HelpDocs_FeedbackForm',
+				productParam = '?product=' + $("meta[name=products]").attr("content"),
+				topicnameParam = '&amp;topicname=' + $('h1:first').text(),
+				topicfilenameParam = '&amp;topicfilename=' + window.location.pathname,
+				urlParam = '&amp;url=' + window.location.protocol + '//' + window.location.hostname + window.location.pathname;
+				var isOldIE = (navigator.userAgent.indexOf("MSIE") !== -1); // Detect IE10 and below
+				console.log('productParam: ' + productParam);
+				console.log('topicnameParam: ' + topicnameParam);
+				console.log('topicfilenameParam: ' + topicfilenameParam);
+				console.log('urlParam: ' + urlParam);
+        
+				console.log('iframe src: ' + iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam));
+        
+				$('.iframe-resize').attr("src", iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam))
+				$('.iframe-resize').iFrameResize({
+				heightCalculationMethod: isOldIE ? 'max' : 'lowestElement', 
+				//checkOrigin: []
+				});
+				});
+			/* ]]> */</script>
+                                        <!-- End iFrame Embed Code -->
                                     </div>
                                 </div>
                             </div>

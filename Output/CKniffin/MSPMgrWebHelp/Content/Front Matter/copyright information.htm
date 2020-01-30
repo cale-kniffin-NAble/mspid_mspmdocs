@@ -140,7 +140,7 @@
                                         <p>SOLARWINDS DISCLAIMS ALL WARRANTIES, CONDITIONS OR OTHER TERMS, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, ON SOFTWARE AND DOCUMENTATION FURNISHED HEREUNDER INCLUDING WITHOUT LIMITATION THE WARRANTIES OF DESIGN, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL SOLARWINDS, ITS SUPPLIERS, NOR ITS LICENSORS BE LIABLE FOR ANY DAMAGES, WHETHER ARISING IN TORT, CONTRACT OR ANY OTHER LEGAL THEORY EVEN IF SOLARWINDS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
                                         <p>The SOLARWINDS and SOLARWINDS &amp; Design marks are the exclusive property of SolarWinds Worldwide, LLC and its affiliates, are registered with the U.S. Patent and Trademark Office, and may be registered or pending registration in other countries.  All other SolarWinds trademarks, service marks, and logos may be common law marks, registered or pending registration in the United States or in other countries.  All other trademarks mentioned herein are used for identification purposes only and may be or are trademarks or registered trademarks of their respective companies.</p>
                                         <p>&#160;</p>
-                                        <p>Version <span class="MSPManagerCurrentVersion">4.8</span>, revised <span class="SystemShortDate">1/23/2020</span></p>
+                                        <p>Version <span class="MSPManagerCurrentVersion">4.8</span>, revised <span class="SystemShortDate">1/30/2020</span></p>
                                         <p>
                                             <!-- Google Analytics -->
                                             <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -149,6 +149,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
                                         </p>
+                                        <!-- Start iFrame Embed Code --><iframe style="overflow: hidden; border: none;" class="iframe-resize" scrolling="no" seamless="seamless" src="" border="0" width="600"></iframe>
+                                        <script src="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS">
+                                        </script>
+                                        <script type="text/javascript">/* <![CDATA[ */
+				$(function () {
+				var iFrameURL = 'https://success.solarwindsmsp.com/Support_HelpDocs_FeedbackForm',
+				productParam = '?product=' + $("meta[name=products]").attr("content"),
+				topicnameParam = '&amp;topicname=' + $('h1:first').text(),
+				topicfilenameParam = '&amp;topicfilename=' + window.location.pathname,
+				urlParam = '&amp;url=' + window.location.protocol + '//' + window.location.hostname + window.location.pathname;
+				var isOldIE = (navigator.userAgent.indexOf("MSIE") !== -1); // Detect IE10 and below
+				console.log('productParam: ' + productParam);
+				console.log('topicnameParam: ' + topicnameParam);
+				console.log('topicfilenameParam: ' + topicfilenameParam);
+				console.log('urlParam: ' + urlParam);
+        
+				console.log('iframe src: ' + iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam));
+        
+				$('.iframe-resize').attr("src", iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam))
+				$('.iframe-resize').iFrameResize({
+				heightCalculationMethod: isOldIE ? 'max' : 'lowestElement', 
+				//checkOrigin: []
+				});
+				});
+			/* ]]> */</script>
+                                        <!-- End iFrame Embed Code -->
                                     </div>
                                 </div>
                             </div>
