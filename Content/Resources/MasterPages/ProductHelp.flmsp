@@ -25,16 +25,19 @@
             <MadCap:bodyProxy />
             <p>
                 <!-- Google Analytics -->
+            </p>
+            <p>&#160;</p>
+            <p>
                 <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
             </p>
-			<!-- Start iFrame Embed Code -->
-			<iframe style="overflow: hidden; border: none;" class="iframe-resize" scrolling="no" seamless="seamless" src="" border="0" width="600"></iframe>
-			<script src="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS" />
-			<script type="text/javascript">
+            <!-- Start iFrame Embed Code --><iframe style="overflow: hidden; border: none;" class="iframe-resize" scrolling="no" seamless="seamless" src="" border="0" width="600"></iframe>
+            <script src="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS">
+            </script>
+            <script type="text/javascript">
 				$(function () {
 				var iFrameURL = 'https://success.solarwindsmsp.com/Support_HelpDocs_FeedbackForm',
 				productParam = '?product=' + $("meta[name=products]").attr("content"),
@@ -56,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				});
 				});
 			</script>
-			<!-- End iFrame Embed Code -->	
+            <!-- End iFrame Embed Code -->
         </div>
     </body>
 </html>
