@@ -92,6 +92,9 @@
         Title="How are users scored during ticket routing?"
         Link="/Content/MSP-NGP-How-are-users-scored-for-ticket-routing.htm" />
     </TocEntry>
+    <TocEntry
+      Title="Archive tickets"
+      Link="/Content/MSP-Archive-tickets.htm" />
   </TocEntry>
   <TocEntry
     Title="Service items and billing"

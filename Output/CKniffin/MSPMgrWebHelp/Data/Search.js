@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','learn'],p:[['$0',80],['any',15],['click',71],['domain',25],['helpdesk',6],['list',35],['one',55],['routing',26],['technicians',65],['to',43],['you',47]]});
+define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','languag','you'],p:[['$0',81],['answer',81],['click',21],['do',44],['grouped',19],['liable',98],['of',91],['resume',10],['sure',66],['to',6],['without',56]]});
