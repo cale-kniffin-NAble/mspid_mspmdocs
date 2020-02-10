@@ -43,7 +43,7 @@
       Title="Add customers, locations and contacts from inside a ticket"
       Link="/Content/MSP-Add-CustomerLocationContact-on-the-fly.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="Create multiple ticket mailboxes"
+      Title="Configure your ticket mailbox"
       Link="/Content/MSP-NGP-Configure-ticket-mailbox.htm"></TocEntry>
     <TocEntry
       Title="Organize your tickets with ticket queues"

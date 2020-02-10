@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="948" MadCap:lastWidth="1433">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
         <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
@@ -7,7 +7,7 @@
         <h1 class="chapter">Use ticket routing to automatically assign inbound tickets</h1>
         <p>To set up ticket routing for your <MadCap:variable name="PDFVariables.ProductName" /> account, you must configure your <a href="MSP-NGP-Define-rules-for-ticket-routing.htm">ticket routing rules</a> so that email or customer portal requests, or  <MadCap:variable name="MSPManager.N-central" /> alerts will automatically create tickets in <MadCap:variable name="PDFVariables.ProductName" />. </p>
         <p>For ticket routing to work correctly, you must specify a default service item  and configure at least 1 option for the Email, Portal, and N-central sections located in <span class="ButtonMenuNote">Settings</span> &gt; <span class="ButtonMenuNote">Tickets &amp; Workflows</span> &gt; <span class="ButtonMenuNote">Routing Rules</span>. </p>
-        <p class="warning">Ticket routing will not automatically create tickets unless <MadCap:variable name="PDFVariables.ProductName" /> knows what customer to assign the ticket to, and this is determined by either setting up an email domain for your customers, or ensuring the sender of the ticket is a contact assigned to a customer, or a customer's location.</p>
+        <p class="warning">In order  to automatically create tickets, <MadCap:variable name="MSPManager.ProductName_Long" /> must be able to determine which Customer to assign the ticket to. The only way this can currently happen is if the email address of the ticket request's sender is a contact added and assigned to a specific Customer, or the email domain of that sender is unique and associated to a Customer. Without one of these two conditions in place, tickets will not be created from email requests since <MadCap:variable name="MSPManager.ProductName_Long" /> cannot determine the Customer.</p>
         <h3>Email ticket routing</h3>
         <p>To route a ticket from email, <MadCap:variable name="MSPManager.ProductName_Long" /> determines the identity of the customer  in one of two ways:</p>
         <ul>
