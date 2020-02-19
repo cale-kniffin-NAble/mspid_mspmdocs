@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Use grace period rounding for time entries</h1>
+        <p>Use grace period time entry rounding to round small amounts of time down in favor of your customers. When implemented, time entries are rounded down to the nearest time entry rounding value if the total of the time entry exceeds the Time Entry Rounding value by less than the Grace Period Rounding amount. </p>
+        <p class="nugget">Grace Period Rounding is only applied if the time entry amount exceeds the time entry value configured in your company settings. </p>
+        <h3>Grace period rounding example</h3>
+        <p>In this scenario Time Entry Rounding is set to Quarter Hour (15 minutes) and Grace Period Rounding is set to 2 minutes:<br /><img src="Resources/Images/MSPMScreenshots/TimeEntryRounding.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;width: 334px;height: 242px;" /></p>
+        <ul>
+            <li>If a technician starts a timer and works on a ticket for 1 minute and 50 seconds, the time entry is rounded up to 15 minutes.</li>
+            <li>If a technician  starts a timer and works on a ticket for 16 minutes and 50 seconds, the time is rounded down to 15 minutes. </li>
+            <li>If a technician starts a timer and works on a ticket for 31 minutes and 30 seconds, the time is rounded down to 30 minutes. </li>
+        </ul>
+        <h3>Configure Grace Period Rounding</h3>
+        <ol>
+            <li>Navigate to <b>Settings</b> &gt; <b>Company Settings</b> &gt; <b>General</b>. </li>
+            <li>Select a <b>Time Entry Rounding</b> option. </li>
+            <p class="info">By setting Time Entry Rounding to <b>None</b>, you will not be able to specify a Grace period Rounding amount and time entries will always round up.</p>
+            <p>
+                <img src="Resources/Images/MSPMScreenshots/TimeEntryRoundingZero.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;" />
+                <br />
+            </p>
+            <li>Enter a Grace Period Rounding value. </li>
+            <li>Save the company settings to begin using Grace Period Rounding on all your time entries. </li>
+        </ol>
+    </body>
+</html>
