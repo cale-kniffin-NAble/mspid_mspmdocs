@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','job','workspac'],p:[['$0',76],['and',106],['click',27],['do',47],['great',102],['level',70],['of',79],['resources',102],['suggested',61],['timers',4],['with',55]]});
+define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','item','work'],p:[['$0',76],['and',106],['click',25],['do',29],['good',46],['legacy',64],['of',57],['required',13],['sub',22],['time',44],['with',14]]});

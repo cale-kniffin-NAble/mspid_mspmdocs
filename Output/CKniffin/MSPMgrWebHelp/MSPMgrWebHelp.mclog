@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated MSPMgrWebHelp.fltar" Date="2020-02-19T16:21:39.4579065-06:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated MSPMgrWebHelp.fltar" Date="2020-02-25T15:37:42.6927185-06:00">
     <Messages>Compiling target MSPMgrWebHelp...
 Removing previously generated content...
 Loading skin info...
@@ -24,6 +24,7 @@ Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Automatical
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Configure-MSPM-and-Service-Desk.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Create-custom-knowledge-types.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Create-custom-ticket-status.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Custom-ticket-fields.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Service-Desk-Migration.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Uninstall-Service-Desk.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-What-is-OData.htm.
@@ -43,7 +44,6 @@ Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-cust
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-customer-access-groups.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-program-levels-for-multiple-customers.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-CSV-billing-export.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Custom-ticket-fields.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Define-rules-for-ticket-routing.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Define-your-prices-with-rates.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Delete-service-item-will-delete-tickets.htm.
@@ -484,7 +484,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 290
-Output generated in 27 second(s).
+Output generated in 44 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrWebHelp.mclog"
