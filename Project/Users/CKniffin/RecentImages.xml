@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/EditKnowledgeItem.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/FilterContext.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/FilterWithContext.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FilterConfig.png" />
     <Url Source="Resources/Images/MSPMScreenshots/ResizedWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/LinkWidgets.png" />
@@ -17,7 +20,4 @@
     <Url Source="Resources/Images/MSPMScreenshots/Schedules.png" />
     <Url Source="Resources/Images/MSPMScreenshots/Appointments.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EditAppt.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/SupportCase.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/SchedulingScript.png" />
-    <Url Source="Resources/Images/icons/tools.png" />
 </UrlList>

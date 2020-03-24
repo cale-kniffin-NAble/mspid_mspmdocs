@@ -5,14 +5,15 @@
     <body>
         <h1>Search for tickets globally or locally</h1>
         <p>Click <img src="Resources/Images/MSPManagerIcons/TicketSearch.png" class="no_border" /> at the top of any ticket list to open the <span class="ButtonMenuNote">Ticket Search</span> field.  From the Helpdesk or a customer's ticketing section, select the drop down arrow to the left of the search field to switch between Local and Global search. The  Ticket Search option searches for tickets locally by default. </p>
-        <p>
-            <img src="Resources/Images/MSPMScreenshots/TicketSearch.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;" />
-        </p>
         <ul>
             <li>A Local search looks for only the Ticket Number and Ticket Title fields  in a filtered list of tickets. For instance, a Local search from a customer's ticketing section searches through all the tickets in the list assigned to that customer.</li>
             <li> A Global search from the Helpdesk searches all tickets for all customers. A Global search from a customer's ticketing section, for instance, searches all tickets for the currently selected customer. Additionally, a Global search extends to all tickets, and searches in Responses, Details, Notes, Time entries, Expenses, and Ticket numbers.</li>
         </ul>
         <p class="nugget">When searching locally, you can first apply filters to the ticket list, then use the search option to search within the filtered list. </p>
-        <p class="info">If you are searching for tickets by ticket number, you can place a # in front of the ticket number to search only the ticket number field. This looks for a single match and opens the ticket editor for that ticket. Not using a # returns matches from all search fields within the selected tickets. </p>
+        <p class="info">If you are searching for tickets by ticket number, enter the ticket number and press <b>CTRL + ENTER</b>. This looks for a single match and opens the ticket editor for that ticket. </p>
+        <p>When Full Text Search beta feature flag is enabled user can search for tickets locally when just typing text.</p>
+        <p>Ticket list is updated right away as filter text is typed.</p>
+        <p>When user press Enter or hit magnifier button a call to API is performed</p>
+        <p>and list is updated with results from API.</p>
     </body>
 </html>

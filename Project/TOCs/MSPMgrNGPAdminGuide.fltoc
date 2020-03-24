@@ -220,14 +220,14 @@
         Link="/Content/MSP-Import-passwords-to-custom-knowledge.htm" />
     </TocEntry>
     <TocEntry
-      Title="Create and manage workspaces"
+      Title="Create and manage Workspaces"
       Link="/Content/MSP-Workspaces-Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
       <TocEntry
         Title="Edit and configure workspace widgets "
         Link="/Content/MSP-Workspaces-edit-widgets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
-        Title="Add on-the-fly filtering to your widgets"
-        Link="/Content/MSP-Workspace-filtering.htm" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/MSP-Workspace-filtering.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>
   <TocEntry

@@ -4,5 +4,5 @@
   conditions="">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/MSP-Schedules-Script.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/MSP-BETA-What-is-OData.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
