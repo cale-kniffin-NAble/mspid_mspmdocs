@@ -1,12 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/NextTicketNumber.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/FinalMergeStep.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/MergeToExisting.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/MergeIcon.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/MergeToExistingTicket.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/BulkMergeTickets.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EditKnowledgeItem.png" />
     <Url Source="Resources/Images/MSPManagerIcons/FilterContext.png" />
     <Url Source="Resources/Images/MSPManagerIcons/FilterWithContext.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FilterConfig.png" />
     <Url Source="Resources/Images/MSPMScreenshots/ResizedWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/LinkWidgets.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
     <Url Source="Resources/Images/MSPMScreenshots/TicketWidgetWorkspace.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
@@ -14,10 +20,4 @@
     <Url Source="Resources/Images/MSPMScreenshots/TimeEntryRounding.png" />
     <Url Source="Resources/Images/MSPMScreenshots/ArchiveInBulk.png" />
     <Url Source="Resources/Images/MSPMScreenshots/UnarchiveWidget.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/ArchivedTicketWidget.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/ArchiveTicket.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/ScheduleProperties.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/Schedules.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/Appointments.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/EditAppt.png" />
 </UrlList>

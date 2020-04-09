@@ -52,6 +52,9 @@
       Title="Merge tickets and ticket requests"
       Link="/Content/MSP-NGP-Ticket-merging.htm"></TocEntry>
     <TocEntry
+      Title="Bulk Merge tickets from your Workspaces or Ticket Request list"
+      Link="/Content/MSP-Bulk-merge-tickets.htm" />
+    <TocEntry
       Title="Schedule recurring tickets and appointments"
       Link="/Content/MSP-NGP-Schedule-recurring-tickets.htm"></TocEntry>
     <TocEntry
@@ -63,6 +66,9 @@
     <TocEntry
       Title="Create custom ticket statuses"
       Link="/Content/MSP-Create-custom-ticket-status.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Add custom fields to tickets"
+      Link="/Content/MSP-Custom-ticket-fields.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Use the Customer Portal to give ticket access to your customers"
       Link="/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm"></TocEntry>
