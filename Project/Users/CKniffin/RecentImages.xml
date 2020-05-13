@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
+    <Url Source="Resources/Images/icons/reporting-2-c.png" />
+    <Url Source="Resources/Images/landing-page-icons/data-archive-c.png" />
+    <Url Source="Resources/Images/landing-page-icons/activity-c.png" />
+    <Url Source="Resources/Images/landing-page-icons/exchange-c.png" />
+    <Url Source="Resources/Images/landing-page-icons/globe.png" />
+    <Url Source="Resources/Images/landing-page-icons/tools.png" />
+    <Url Source="Resources/Images/icons/globe.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/AdjustmentTimeEntry.png" />
     <Url Source="Resources/Images/MSPMScreenshots/NextTicketNumber.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FinalMergeStep.png" />
     <Url Source="Resources/Images/MSPMScreenshots/MergeToExisting.png" />
     <Url Source="Resources/Images/MSPManagerIcons/MergeIcon.png" />
     <Url Source="Resources/Images/MSPMScreenshots/MergeToExistingTicket.png" />
     <Url Source="Resources/Images/MSPMScreenshots/BulkMergeTickets.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EditKnowledgeItem.png" />
     <Url Source="Resources/Images/MSPManagerIcons/FilterContext.png" />
     <Url Source="Resources/Images/MSPManagerIcons/FilterWithContext.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FilterConfig.png" />
     <Url Source="Resources/Images/MSPMScreenshots/ResizedWidget.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/LinkWidgets.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/TicketWidgetWorkspace.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/TimeEntryRoundingZero.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/TimeEntryRounding.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/ArchiveInBulk.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/UnarchiveWidget.png" />
 </UrlList>

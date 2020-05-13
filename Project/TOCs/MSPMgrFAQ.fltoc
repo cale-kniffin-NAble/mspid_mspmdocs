@@ -2,11 +2,14 @@
 <CatapultToc
   Version="1">
   <TocEntry
+    Title="Adjust time on a ticket that has not been billed"
+    Link="/Content/MSP-Adjust-tickets.htm" />
+  <TocEntry
     Title="Bill for a recurring service"
     Link="/Content/MSP-Bill-for-a-recurring-service.htm"></TocEntry>
   <TocEntry
     Title="Billing errors"
-    Link="/Content/MSP-Billing-errors.htm" />
+    Link="/Content/MSP-Billing-errors.htm"></TocEntry>
   <TocEntry
     Title="Billing scenarios"
     Link="/Content/MSP-Billing-scenarios.htm">

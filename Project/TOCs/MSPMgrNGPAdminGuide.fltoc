@@ -73,6 +73,9 @@
       Title="Use the Customer Portal to give ticket access to your customers"
       Link="/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm"></TocEntry>
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Bulk-enable-portal-user.htm" />
+    <TocEntry
       Title="Automate your helpdesk with Workflows and routing rules"
       Link="/Content/MSP-Workflows-and-routing-rules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
       <TocEntry
