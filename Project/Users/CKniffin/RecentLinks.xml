@@ -4,7 +4,7 @@
         <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPManagerIcons\EditWidget.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-NGP-Run-a-billing-batch.htm" />
+        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-NGP-Users.htm" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
 </RecentLinks>
