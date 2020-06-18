@@ -854,6 +854,8 @@
     <Tag
       Name="MadCap|searchResultsProxy" />
     <Tag
+      Name="MadCap|centralAccountProxy" />
+    <Tag
       Name="MadCap|slide" />
     <Tag
       Name="MadCap|slideshowBullet">
@@ -952,6 +954,14 @@
     <Tag
       Name="MadCap|namedDestination" />
     <Tag
+      Name="MadCap|codeSnippet" />
+    <Tag
+      Name="MadCap|codeSnippetCopyButton" />
+    <Tag
+      Name="MadCap|codeSnippetCaption" />
+    <Tag
+      Name="MadCap|codeSnippetBody" />
+    <Tag
       Name="MadCap|equation" />
   </Map>
   <SourceUrls>
@@ -978,10 +988,10 @@
     <Url
       Source="Resources/TableStyles/RefTable.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/xhtml.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 16/Flare.app/Resources/Schemas/xhtml.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditor.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 16/Flare.app/Resources/Schemas/MadCapEditor.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 16/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
   </SourceUrls>
 </CatapultGlobalStyleCache>
