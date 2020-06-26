@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated MSPMgrWebHelp.fltar" Date="2020-06-10T14:05:14.9289950-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated MSPMgrWebHelp.fltar" Date="2020-06-26T16:01:24.5690690-05:00">
     <Messages>Compiling target MSPMgrWebHelp...
 Removing previously generated content...
 Loading skin info...
@@ -27,6 +27,7 @@ Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Create
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Create-custom-ticket-status.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Service-Desk-Migration.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Uninstall-Service-Desk.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-What-is-OData.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-BETA-Workflow-and-routing-rules.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Bill-for-open-tickets.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Bill-for-partially-complete-tickets.htm.
@@ -421,9 +422,6 @@ Generated MSP-RMM-Integration-Script.htm
 Processing topic: MSP-Submit-Support-Case-to-import-data.htm...
 Applying master page ProductHelp.flmsp...
 Generated MSP-Submit-Support-Case-to-import-data.htm
-Processing topic: MSP-BETA-What-is-OData.htm...
-Applying master page ProductHelp.flmsp...
-Generated MSP-BETA-What-is-OData.htm
 Processing topic: Front Matter\TOC.htm...
 Applying master page ProductHelp.flmsp...
 Generated Front Matter\TOC.htm
@@ -497,8 +495,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 316
-Output generated in 1 minute(s) and 20 second(s).
+Ignored Compiler Warnings: 311
+Output generated in 1 minute(s) and 1 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrWebHelp.mclog"

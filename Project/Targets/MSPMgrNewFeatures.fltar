@@ -2,7 +2,7 @@
 <CatapultTarget
   Version="2"
   Comment=""
-  Type="PDF"
+  Type="MsWord"
   Destinations=""
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/MSPMgrNewFeatures.fltoc"
@@ -11,7 +11,7 @@
   ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
   InjectBookHeadings="true"
   MakeFileLowerCase="true"
-  OutputFile="MSPMgrNewFeatures"
+  OutputFile="MSPMgrNewFeatures.docx"
   DisableAutoSync="true"
   MenuSkin="/Project/Skins/SideMenu.flskn"
   MasterPageLayout="/Content/PageLayouts/SW2015.flpgl"
@@ -20,7 +20,8 @@
     CollapseMargins="true"
     GenerateTOCProxy="false"
     GenerateIndexProxy="false"
-    GenerateGlossaryProxy="false" />
+    GenerateGlossaryProxy="false"
+    OutputFormat="docx" />
   <DocumentProperties
     Author="SolarWinds"
     Title="SolarWinds MSP Manager Documentation" />
