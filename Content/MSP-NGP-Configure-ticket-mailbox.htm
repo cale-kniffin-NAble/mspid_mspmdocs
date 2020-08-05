@@ -7,14 +7,15 @@
         <h1>Configure your monitored ticket mailbox        </h1>
         <p>The initial configuration of your monitored ticket mailbox is a crucial step in setting up your <MadCap:variable name="MSPManager.ProductName_Long" /> account. Your monitored ticket mailbox enables you to receive reported issues and requests from your customers via email. Combine your ticket mailbox with <a href="MSP-Workflows-and-routing-rules.htm">workflows and routing rules </a>and <a href="MSP-NGP-Prerequisites-for-ticket-routing.htm">configure your ticket routing settings</a> so that emails from your customers to  are automatically converted to tickets and assigned to the correct customer and technician within your company. </p>
         <p>If your company uses more than one email address for support, you can create multiple mailboxes for each address and assign them to specific customers. Choose which mailbox you want to send responses from when <a href="MSP-Add-Responses-to-Tickets.htm">emailing customers from inside a ticket.</a></p>
-        <h3>Set up your initial monitored ticket mailbox for your customers</h3>
+        <h3>Set up your initial IMAP monitored ticket mailbox for your customers</h3>
         <ol>
             <li>Click <span class="ButtonMenuNote">Settings</span> &gt; <span class="ButtonMenuNote">Tickets &amp; Workflows</span> &gt;  <span class="ButtonMenuNote">Ticket Mailboxes</span>.</li>
-            <li>Click <span class="ButtonMenuNote">Add Mailbox</span>.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/AddTicketMailbox.png" style="width: 24px;height: 24px;" /> and select <span class="ButtonMenuNote">Add IMAP Mailbox</span>.</li>
             <li>Enter credentials for email address, server address, and server port.</li>
             <li>Click <span class="ButtonMenuNote">Use SSL</span>, if required, and select <span class="ButtonMenuNote">Is Default</span> to make this the default ticket mailbox.</li>
             <li>Enter a user name and password, and click <span class="ButtonMenuNote">Save Mailbox</span>.</li>
         </ol>
+        <p>You can also <a href="MSP-M365-configuration.htm">create a Microsoft 365 monitored mailbox</a> in addition to your IMAP mailboxes. </p>
         <h3>Assign a ticket mailbox to specific customers</h3>
         <ol>
             <li>Click <img src="Resources/Images/MSPManagerIcons/SelectCustomer.png" style="width: 17px;height: 17px;" class="no_border" /> and select a customer from the list.</li>
@@ -28,7 +29,6 @@
             <li>Click <span class="ButtonMenuNote">Add response</span>.</li>
             <li>In the <span class="ButtonMenuNote">New Response</span> window, click the <span class="ButtonMenuNote">From</span> field to specify a mailbox.</li>
         </ol>
-        <p class="info">If you are configuring an Office 365 mailbox to use as your Ticket Mailbox, DO NOT include 'domain\user' in the User Name. Instead, enter only the user from your Office365 account (i.e. Myuser@abccompany.com).</p>
         <p class="warning">In some cases, you will receive the ticket notification before the ticket or ticket request is created in <MadCap:variable name="PDFVariables.ProductName" />.</p>
         <h3>Enable IMAP for Gmail mailboxes</h3>
         <p>When using a new Gmail account for your ticket mailbox, IMAP is not enabled by default. Follow these steps to enable IMAP and SSL:</p>
