@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','into','version'],p:[['$0',79],['and',70],['change',91],['deletes',24],['for',68],['issue',14],['navigate',64],['prior',38],['service',33],['the',68],['type',30],['your',72]]});
+define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','integr','updat'],p:[['$0',81],['and',62],['case',108],['date',113],['following',27],['invoice',40],['msp',54],['patent',86],['select',10],['the',15],['to',49],['workflow',25]]});

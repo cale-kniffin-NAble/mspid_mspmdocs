@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Url Source="Resources/Images/MSPMScreenshots/M365Success.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EdgeBrowserNotifications.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications.png" />
@@ -7,7 +8,6 @@
     <Url Source="Resources/Images/MSPManagerIcons/AddTicketMailbox.png" />
     <Url Source="Resources/Images/MSPMScreenshots/PushNotificationPermissions.png" />
     <Url Source="Resources/Images/MSPMScreenshots/BrowserNotificationExample.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Url Source="Resources/Images/icons/reporting-2-c.png" />
     <Url Source="Resources/Images/landing-page-icons/data-archive-c.png" />

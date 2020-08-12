@@ -4,10 +4,19 @@
     </head>
     <body>
         <h1>Set up your Microsoft 365 monitored mailbox</h1>
-        <p>The initial configuration of your M365 monitored ticket mailbox is a crucial step in setting up your <MadCap:variable name="MSPManager.ProductName_Long" /> account. Your monitored ticket mailbox enables you to receive reported issues and requests from your customers via email. Combine your ticket mailbox with <a href="MSP-Workflows-and-routing-rules.htm">workflows and routing rules </a>and <a href="MSP-NGP-Prerequisites-for-ticket-routing.htm">configure your ticket routing settings</a> so that emails from your customers to  are automatically converted to tickets and assigned to the correct customer and technician within your company. </p>
+        <p>The initial configuration of your Microsoft 365 monitored ticket mailbox is a crucial step in setting up your <MadCap:variable name="MSPManager.ProductName_Long" /> account. Your M365 ticket mailbox enables you to receive reported issues and requests from your customers via email. Combine your ticket mailbox with <a href="MSP-Workflows-and-routing-rules.htm">workflows and routing rules </a>and <a href="MSP-NGP-Prerequisites-for-ticket-routing.htm">configure your ticket routing settings</a> so that emails from your customers to  are automatically converted to tickets and assigned to the correct customer and technician within your company. </p>
+        <h3>Configure Permissions</h3>
+        <p>Make sure all technicians who need to configure ticket mailboxes have the necessary permissions to do so.</p>
+        <ol>
+            <li>Navigate to <b>Settings</b> &gt; <b>Users &amp; Permissions</b> &gt; <b>Roles</b>.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;" />next to the Role you would like to edit. </li>
+            <li>Select the <b>MSP Company Management</b> section  to expand and view it's options. </li>
+            <li>Make sure the <b>Configure Ticket Mailbox</b> option is checked. </li>
+            <li>Click <b>Save Role</b> to add the ability to configure ticket mailboxes to all users in that specific Role. </li>
+        </ol>
+        <h3>Configure the Microsoft 365 integration</h3>
         <p>Before configuring a M365 mailbox, make sure you have configured the integration from your account settings.</p>
         <p class="warning">Disable the pop-up blocker in your browser before getting started.</p>
-        <h3>Configure the Microsoft 365 integration</h3>
         <ol>
             <li>Navigate to <b>Settings</b> &gt; <b>Company Settings</b> &gt; <b>Integrations</b> and select <b>Microsoft 365</b> from the Business Applications section. </li>
             <li>Click <b>Configure</b> and select a Microsoft Account from the pop-up window or click <b>Use another account</b> to enter the credentials of another Microsoft account. </li>

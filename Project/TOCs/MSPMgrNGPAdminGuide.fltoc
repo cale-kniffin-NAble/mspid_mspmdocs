@@ -5,6 +5,9 @@
     Title="Users"
     Link="/Content/MSP-NGP-Users.htm">
     <TocEntry
+      Title="Add Users and Customers to your account"
+      Link="/Content/MSP-NGP-Getting-started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
       Title="Create roles and permissions for your technicians"
       Link="/Content/MSP-NGP-Roles-and-permissions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
@@ -44,10 +47,14 @@
       Link="/Content/MSP-Add-CustomerLocationContact-on-the-fly.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Configure your ticket mailbox"
-      Link="/Content/MSP-NGP-Configure-ticket-mailbox.htm"></TocEntry>
+      Link="/Content/MSP-NGP-Configure-ticket-mailbox.htm">
+      <TocEntry
+        Title="Configure your M365 mailbox"
+        Link="/Content/MSP-M365-configuration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
     <TocEntry
       Title="Organize your tickets with ticket queues"
-      Link="/Content/MSP-NGP-Ticket-queues.htm" />
+      Link="/Content/MSP-NGP-Ticket-queues.htm"></TocEntry>
     <TocEntry
       Title="Merge tickets and ticket requests"
       Link="/Content/MSP-NGP-Ticket-merging.htm"></TocEntry>
