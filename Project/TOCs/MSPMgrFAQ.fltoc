@@ -68,4 +68,7 @@
   <TocEntry
     Title="Turn inbound email into tickets"
     Link="/Content/MSP-Turn-inbound-email-into-tickets.htm" />
+  <TocEntry
+    Title="Why am I not receiving Notifications?"
+    Link="/Content/MSP-Set-up-SPF-for-MSPM.htm" />
 </CatapultToc>

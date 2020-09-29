@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Configure your Sender Policy Framework (SPF) in order to receive notifications</h1>
+        <p style="font-weight: bold;">Question</p>
+        <p style="font-weight: normal;">Why am I not receiving notifications in my <MadCap:variable name="MSPManager.ProductName_Long" /> account?</p>
+        <p style="font-weight: bold;">Answer</p>
+        <p style="font-weight: normal;">You need to set up a Sender Policy Framework (SPF) for your <MadCap:variable name="MSPManager.ProductName_Long" /> account.</p>
+        <p>Sender Policy Framework (SPF) is a simple email-validation system designed to detect email spoofing by providing a mechanism to allow receiving mail exchangers to check that incoming mail from a domain comes from a host authorized by that domain's administrators.</p>
+        <p>The list of authorized sending hosts for a domain is published in the Domain Name System (DNS) records for that domain in the form of a specially formatted TXT record. Email spam and phishing often use forged "from" addresses, so publishing and checking SPF records can be considered anti-spam techniques.</p>
+        <p>When sending emails from <MadCap:variable name="MSPManager.ProductName_Long" /> (not through an external server), please make sure to add the following entry to your SPF record: <b>include:spf.mspmanager.com</b></p>
+        <p>The TXT record for spf.example.com would change from: v=spf1 include:spf.mtaroutes.com -all to <b>v=spf1 include:spf.mspmanager.com include:mtaroutes.com -all</b></p>
+        <p>&#160;</p>
+        <p>Notes for additional details: MSPM send Ticket Request notification emails from noreply@yourdomain. If noreply@yourdomain is not a real, deliverable email address, we recommend that you set it up as an alias on your mail server. This will be different depending on which server you are using.</p>
+        <p>https://support.microsoft.com/en-us/office/add-or-remove-an-email-alias-in-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2</p>
+    </body>
+</html>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPManagerIcons\NewEdit.png" />
+        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPManagerIcons\EditWidget.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-Quickbooks-Online-integration.htm" />
+        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-NGP-Getting-started.htm" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
 </RecentLinks>
