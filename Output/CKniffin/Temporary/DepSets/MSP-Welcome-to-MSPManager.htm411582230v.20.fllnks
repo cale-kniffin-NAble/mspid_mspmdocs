@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+    <Link
+      Url="https://www.youtube.com/playlist" />
+    <Link
+      Url="http://www.n-able.com/qa" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/MSPM Help.png" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="mailto:mspmanager-sales@solarwinds.com" />
+    <Link
+      Url="Content/MSP-NGP-Getting-started.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="https://www.youtube.com/watch?v=h1hRJH7jFgE&amp;index=1&amp;list=PLYriFemdHw-JEwpyEBqr0KHUExOath3K_" />
+    <Link
+      Url="https://www.youtube.com/playlist?list=PLYriFemdHw-JEwpyEBqr0KHUExOath3K_" />
+    <Link
+      Url="http://www.n-able.com/qa" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/MSPM Help.png" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="mailto:mspmanager-sales@solarwinds.com" />
+    <Link
+      Url="Content/MSP-NGP-Getting-started.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MSPManager.ProductName_Long" />
+    <Variable
+      Name="PDFVariables.ProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
