@@ -92,6 +92,9 @@
         Title="Learn about Workflow Conditions &amp; Actions "
         Link="/Content/MSP-Workflow-conditions-actions-tables.htm" />
       <TocEntry
+        Title="Configure the Assign Technician Action"
+        Link="/Content/MSP-Workflow-Assign-Technician-Action.htm" />
+      <TocEntry
         Title="Common ways to use Workflows"
         Link="/Content/MSP-Workflow-use-cases.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
@@ -201,6 +204,10 @@
     <TocEntry
       Title="Integrate your MSP RMM account with MSP Manager "
       Link="/Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Configure-M365-integration.htm"
+      conditions="Default.comment" />
   </TocEntry>
   <TocEntry
     Title="Notifications"

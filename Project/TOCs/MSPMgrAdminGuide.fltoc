@@ -47,14 +47,15 @@
       Title="Merge tickets and ticket requests"
       Link="/Content/MSP-Ticket-Merging.htm" />
     <TocEntry
-      Title="Schedule recurring tickets and appointments "
-      Link="/Content/MSP-Schedule-recurring-tickets.htm" />
-    <TocEntry
       Title="Email customers from inside a ticket"
       Link="/Content/MSP-Add-Responses-to-Tickets.htm" />
     <TocEntry
       Title="Create Ticket Tasks and Task Templates"
-      Link="/Content/MSP-NGP-Ticket-tasks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/MSP-NGP-Ticket-tasks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Schedule recurring tickets and appointments "
+        Link="/Content/MSP-Schedule-recurring-tickets.htm" />
+    </TocEntry>
     <TocEntry
       Title="Use the Customer Portal to give ticket access to your customers"
       Link="/Content/MSP-Give-ticket-access-to-your-customers.htm"></TocEntry>

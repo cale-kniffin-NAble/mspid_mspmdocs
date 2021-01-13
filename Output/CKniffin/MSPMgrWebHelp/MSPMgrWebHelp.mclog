@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated MSPMgrWebHelp.fltar" Date="2020-09-24T18:24:11.8184804-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated MSPMgrWebHelp.fltar" Date="2020-12-11T17:13:28.3392184-06:00">
     <Messages>Compiling target MSPMgrWebHelp...
 Removing previously generated content...
 Loading skin info...
@@ -35,6 +35,7 @@ Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Billing-gui
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Charge-for-your-work-with-service-items.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Common-Questions.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Configure-HTML-notifications.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Configure-M365-integration.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-a-quick-ticket.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-and-assign-an-SLA-policy.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-Asset-classes-and-statuses.htm.
@@ -222,6 +223,9 @@ Generated MSP-Workflows-and-routing-rules.htm
 Processing topic: MSP-Workflow-conditions-actions-tables.htm...
 Applying master page ProductHelp.flmsp...
 Generated MSP-Workflow-conditions-actions-tables.htm
+Processing topic: MSP-Workflow-Assign-Technician-Action.htm...
+Applying master page ProductHelp.flmsp...
+Generated MSP-Workflow-Assign-Technician-Action.htm
 Processing topic: MSP-Workflow-use-cases.htm...
 Applying master page ProductHelp.flmsp...
 Generated MSP-Workflow-use-cases.htm
@@ -514,8 +518,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 351
-Output generated in 55 second(s).
+Ignored Compiler Warnings: 353
+Output generated in 22 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrWebHelp.mclog"

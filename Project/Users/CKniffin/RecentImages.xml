@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPManagerIcons/TakeControl.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/AssignTechnicianAction.png" />
     <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
     <Url Source="Resources/Images/MSPMScreenshots/UseAssetCount.png" />
@@ -18,6 +20,4 @@
     <Url Source="Resources/Images/landing-page-icons/exchange-c.png" />
     <Url Source="Resources/Images/landing-page-icons/globe.png" />
     <Url Source="Resources/Images/landing-page-icons/tools.png" />
-    <Url Source="Resources/Images/icons/globe.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/AdjustmentTimeEntry.png" />
 </UrlList>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Workflow - Assign Technician Action</h1>
+        <p>The Workflow Action to assign one or more technicians to a ticket contains multiple configurable options:</p>
+        <p>
+            <img src="Resources/Images/MSPMScreenshots/AssignTechnicianAction.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;width: 325px;height: 360px;" />
+        </p>
+        <ul>
+            <li><b>Customer Assigned Users</b> – assigns any technician to the ticket that is designated as an assigned user for that specific customer.</li>
+            <li><b>Location Assigned Users</b> – assigns technicians designated as assigned users for a customer's specific location. </li>
+            <li><b>User Skills</b> – assigns the ticket to a technician who possesses the highest rated skills based on the Ticket Issue and Sub Issue type selected when submitting the ticket. </li>
+            <p class="nugget">Each skill match accumulates 0.5 points for technicians matching the skills needed for the particular issue, and the highest scoring technician is assigned to the ticket. </p>
+            <li><b>Specific Users</b> – select one or more users to assign to the ticket. </li>
+            <li><b>Specific Team</b> – select a Team, which will assign the ticket to all technicians that are part of that team. </li>
+            <li><b>Workload</b> – assigns the ticket to a specific technician using all of the above assignment methods. In this option, each time a technician is assigned a ticket, they accumulate 1 point. If two technicians are assigned to a customer, they each receive 1 point. However, if one of those technicians is also assigned to the customer's specific Location, they will accumulate 2 points. If another user is assigned based on User Skills, they accumulate 1 point. In this example, there are now three technicians eligible to be assigned to the ticket, but only 1 has accumulated more points than the others. Workload will assign the ticket to the single technician with the highest score. </li>
+            <p class="info"><b>Workload Tie-Breaking</b>  – in the event of multiple technicians with the same number of points, <MadCap:variable name="MSPManager.ProductName_Long" /> examines the currently assigned ticket queue depth, weighted by Ticket Priority, and assigns the ticket to the technician with the least amount of work in their queue. </p>
+        </ul>
+    </body>
+</html>
