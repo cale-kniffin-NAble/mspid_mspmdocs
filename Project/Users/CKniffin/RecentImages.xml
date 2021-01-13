@@ -1,5 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/AssetListAndFilterWidget.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/RemoteSessionFromAssetList.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/AssetListAndFilterWidgets.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/LinkAssetWidgets.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewConfigureWidget.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/TCFromAssetList.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/TCFromTicket.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/EditAssetFromWorkspace.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/EnableAssetRemoteControl.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Url Source="Resources/Images/MSPManagerIcons/TakeControl.png" />
     <Url Source="Resources/Images/MSPMScreenshots/AssignTechnicianAction.png" />
     <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
@@ -7,17 +17,7 @@
     <Url Source="Resources/Images/MSPMScreenshots/UseAssetCount.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EnableMFA.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Url Source="Resources/Images/MSPMScreenshots/M365Success.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EdgeBrowserNotifications.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/AddTicketMailbox.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/PushNotificationPermissions.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/BrowserNotificationExample.png" />
-    <Url Source="Resources/Images/icons/reporting-2-c.png" />
-    <Url Source="Resources/Images/landing-page-icons/data-archive-c.png" />
-    <Url Source="Resources/Images/landing-page-icons/activity-c.png" />
-    <Url Source="Resources/Images/landing-page-icons/exchange-c.png" />
-    <Url Source="Resources/Images/landing-page-icons/globe.png" />
-    <Url Source="Resources/Images/landing-page-icons/tools.png" />
 </UrlList>

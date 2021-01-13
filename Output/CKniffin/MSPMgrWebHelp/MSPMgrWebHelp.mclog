@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated MSPMgrWebHelp.fltar" Date="2020-12-11T17:13:28.3392184-06:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated MSPMgrWebHelp.fltar" Date="2021-01-13T15:34:36.5171022-06:00">
     <Messages>Compiling target MSPMgrWebHelp...
 Removing previously generated content...
 Loading skin info...
@@ -60,7 +60,6 @@ Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Integration
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Introduction.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Knowledge-and-Reporting.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Knowledge-landing-page.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Launch-MSPA-session-from-asset.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-List-of-Notification-Templates.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Log-time-spent-on-a-ticket.htm.
 Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Mobile-apps.htm.
@@ -325,6 +324,9 @@ Generated MSP-NGP-Setup-Ncentral-integration.htm
 Processing topic: MSP-NGP-export-assets-from-Ncentral.htm...
 Applying master page ProductHelp.flmsp...
 Generated MSP-NGP-export-assets-from-Ncentral.htm
+Processing topic: MSP-Launch-TC-session.htm...
+Applying master page ProductHelp.flmsp...
+Generated MSP-Launch-TC-session.htm
 Processing topic: MSP-NGP-Integrate-MSPRM-with-MSPManager.htm...
 Applying master page ProductHelp.flmsp...
 Generated MSP-NGP-Integrate-MSPRM-with-MSPManager.htm
@@ -365,9 +367,11 @@ Processing topic: MSP-Workspaces-Management.htm...
 Applying master page ProductHelp.flmsp...
 Generated MSP-Workspaces-Management.htm
 Processing topic: MSP-Workspaces-edit-widgets.htm...
+Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPManagerIcons\ConfigureWidget.png
 Applying master page ProductHelp.flmsp...
 Generated MSP-Workspaces-edit-widgets.htm
 Processing topic: MSP-Workspace-filtering.htm...
+Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPManagerIcons\ConfigureWidget.png
 Applying master page ProductHelp.flmsp...
 Generated MSP-Workspace-filtering.htm
 Processing topic: MSP-NGP-Run-reports-to-track-business.htm...
@@ -518,8 +522,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 353
-Output generated in 22 second(s).
+Ignored Compiler Warnings: 366
+Output generated in 44 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrWebHelp.mclog"
@@ -529,6 +533,8 @@ Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\MSPMgrWebHelp\MSPMgrW
         <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\checkbox.gif&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\icon_info_flip.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\icon_check.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10001" />
+        <LogEntry File="../../../Content/MSP-Workspaces-edit-widgets.htm" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPManagerIcons\ConfigureWidget.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10001" />
+        <LogEntry File="../../../Content/MSP-Workspace-filtering.htm" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPManagerIcons\ConfigureWidget.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10001" />
         <LogEntry File="../../../Content/MSP-Set-customers-as-inactive.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_mspmdocs/Resources/Images/MSPManagerIcons/SelectCustomer.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MSPMgrWebHelp" ErrorID="10056" />
     </Warnings>
     <Errors />

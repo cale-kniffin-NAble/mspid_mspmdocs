@@ -16,7 +16,11 @@
     <Link
       Url="Content/MSP-NGP-Create-asset-classes-and-statuses.htm" />
     <Link
+      Url="Content/MSP-Custom-Asset-fields.htm" />
+    <Link
       Url="Content/MSP-NGP-Asset-tags.htm" />
+    <Link
+      Url="Content/MSP-Launch-TC-session.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -30,7 +34,11 @@
     <Link
       Url="Content/MSP-NGP-Create-asset-classes-and-statuses.htm" />
     <Link
+      Url="Content/MSP-Custom-Asset-fields.htm" />
+    <Link
       Url="Content/MSP-NGP-Asset-tags.htm" />
+    <Link
+      Url="Content/MSP-Launch-TC-session.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

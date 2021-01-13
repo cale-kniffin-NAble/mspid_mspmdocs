@@ -200,6 +200,9 @@
       <TocEntry
         Title="Export assets from N-central"
         Link="/Content/MSP-NGP-export-assets-from-Ncentral.htm" />
+      <TocEntry
+        Title="Remotely access N-central integrated assets"
+        Link="/Content/MSP-Launch-TC-session.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
     <TocEntry
       Title="Integrate your MSP RMM account with MSP Manager "
@@ -235,6 +238,9 @@
     <TocEntry
       Title="Add tags to your assets"
       Link="/Content/MSP-NGP-Asset-tags.htm" />
+    <TocEntry
+      Title="Remotely access N-central integrated assets"
+      Link="/Content/MSP-Launch-TC-session.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Knowledge"
