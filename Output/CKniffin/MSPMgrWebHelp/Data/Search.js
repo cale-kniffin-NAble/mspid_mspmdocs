@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','imap','they'],p:[['$0',90],['and',30],['business',1],['customer',15],['expand',67],['in',22],['longer',7],['of',88],['received',66],['share',56],['the',91],['two',73],['your',6]]});
+define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','has','spell'],p:[['$0',92],['and',15],['bill',110],['correct',28],['editor',76],['grant',1],['item',33],['msp',126],['out',127],['rounded',14],['start',13],['they',78],['typically',82],['you',85]]});

@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/WorkspaceTicketFilterHover.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/WorkspaceTicketCommands.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/WorkspaceHDTicketFilter.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/WorkspacesHelpdesk.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/TicketCannedResponse.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/M365Success2.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/M365Permissions.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/M365SignIn.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/ConfigureM365.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewConfigureWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/AssetListAndFilterWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/RemoteSessionFromAssetList.png" />
     <Url Source="Resources/Images/MSPMScreenshots/AssetListAndFilterWidgets.png" />
     <Url Source="Resources/Images/MSPMScreenshots/LinkAssetWidgets.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewConfigureWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/TCFromAssetList.png" />
     <Url Source="Resources/Images/MSPMScreenshots/TCFromTicket.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EditAssetFromWorkspace.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/EnableAssetRemoteControl.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/TakeControl.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/AssignTechnicianAction.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/UseAssetCount.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/EnableMFA.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/M365Success.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/EdgeBrowserNotifications.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications.png" />
 </UrlList>

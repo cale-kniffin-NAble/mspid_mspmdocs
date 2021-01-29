@@ -24,6 +24,9 @@
     Title="Ticketing"
     Link="/Content/MSP-NGP-Ticketing.htm">
     <TocEntry
+      Title="Manage tickets from the Helpdesk Workspace"
+      Link="/Content/MSP-Workspace-Helpdesk.htm" />
+    <TocEntry
       Title="Track work with helpdesk tickets"
       Link="/Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
     <TocEntry
@@ -70,6 +73,10 @@
     <TocEntry
       Title="Email customers from inside a ticket"
       Link="/Content/MSP-NGP-Add-responses-to-tickets.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Add-canned-responses-to-tickets.htm"
+      conditions="Default.comment" />
     <TocEntry
       Title="Create Ticket Tasks and Task Templates"
       Link="/Content/MSP-NGP-Ticket-tasks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
@@ -208,9 +215,8 @@
       Title="Integrate your MSP RMM account with MSP Manager "
       Link="/Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/MSP-Configure-M365-integration.htm"
-      conditions="Default.comment" />
+      Title="Configure the integration with Microsoft 365"
+      Link="/Content/MSP-Configure-M365-integration.htm" />
   </TocEntry>
   <TocEntry
     Title="Notifications"

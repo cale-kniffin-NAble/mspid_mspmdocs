@@ -1,14 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html MadCap:conditions="Default.comment" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html>
     <head>
     </head>
     <body>
         <h1>Configure the integration with Microsoft 365</h1>
-        <p>Set up the integration with your M365 account in order to configure mailbox monitoring using your M365 mailbox. </p>
-        <ol>
-            <li>Navigate to <b>Settings</b> &gt; <b>Company Settings</b> &gt; <b>Integrations</b> and click <b>Configure Microsoft 365 Integration</b>. </li>
-            <li>In the next window, select <b>Configure</b>. </li>
-            <li>&#160;</li>
+        <p>Before you can add a M365 monitored mailbox to your <MadCap:variable name="MSPManager.ProductName_Long" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> account, make sure you have correctly set up the integration with your Microsoft 365 account in order to configure mailbox monitoring. Your M365 ticket mailbox enables you to receive reported issues and requests from your customers via email. </p>
+        <p>Combine your ticket mailbox with <a href="MSP-Workflows-and-routing-rules.htm">workflows and routing rules </a>and <a href="MSP-NGP-Prerequisites-for-ticket-routing.htm">configure your ticket routing settings</a> so that emails from your customers to  are automatically converted to tickets and assigned to the correct customer and technician within your company. </p>
+        <p class="nugget">M365 mailboxes are monitored via the Graph API, which supports Multi Factor Authentication.</p>
+        <p class="warning">Disable the pop-up blocker in your browser before getting started.</p>
+        <ol MadCap:continue="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <li>
+                <p>Navigate to <b>Settings</b> &gt; <b>Company Settings</b> &gt; <b>Integrations</b> and select <b>Microsoft 365</b> from the Business Applications section. </p>
+            </li>
+            <li>Click the <b>Configure</b> link in the middle of the page. <br /><img src="Resources/Images/MSPMScreenshots/ConfigureM365.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="width: 222px;height: 250px;" /></li>
+            <li>In the Microsoft pop-up window, enter your M365 email address and click <b>Next</b>.<br /><img src="Resources/Images/MSPMScreenshots/M365SignIn.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="width: 315px;height: 394px;" /><br /></li>
+            <li>Review the requested M365 permissions and click <b>Accept</b>. <br /><img src="Resources/Images/MSPMScreenshots/M365Permissions.png" style="width: 393px;height: 454px;" /></li>
+            <li>After the connection is established, the final page indicates the connection was successful and displays the connected account information , as well as the permissions that have been configured. <br /><img src="Resources/Images/MSPMScreenshots/M365Success2.png" style="width: 892px;height: 266px;" /></li>
         </ol>
+        <p>Use the<b> Go to ticket mailboxes</b> link at the top of the page to navigate to your Ticket Mailbox Configuration page and <a href="MSP-M365-configuration.htm">set up your Microsoft 365 monitored mailbox</a>. </p>
     </body>
 </html>

@@ -14,7 +14,9 @@
     <Link
       Url="Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm" />
     <Link
-      Url="Content/MSP-Service-Desk-Migration.htm" />
+      Url="Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm" />
+    <Link
+      Url="Content/MSP-Configure-M365-integration.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -26,7 +28,9 @@
     <Link
       Url="Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm" />
     <Link
-      Url="Content/MSP-Service-Desk-Migration.htm" />
+      Url="Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm" />
+    <Link
+      Url="Content/MSP-Configure-M365-integration.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
