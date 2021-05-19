@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Content/MSP-NGP-Service-plans.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
+    <Link
+      Url="Content/MSP-NGP-Setup-Ncentral-integration.htm" />
+    <Link
+      Url="Content/MSP-Run-reports-to-track-business.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
+    <Link
+      Url="Content/MSP-NGP-Auto-assign-inbound-tickets.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Content/MSP-NGP-Service-plans.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
+    <Link
+      Url="Content/MSP-NGP-Setup-Ncentral-integration.htm" />
+    <Link
+      Url="Content/MSP-Run-reports-to-track-business.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
+    <Link
+      Url="Content/MSP-NGP-Auto-assign-inbound-tickets.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MSPManager.ProductName_Long" />
+    <Variable
+      Name="MSPManager.N-central" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="HomePage"
+  FileTitle="MSP Manager Online Help"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/MSP-Welcome-to-MSPManager.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/desktop.png" />
+    <Link
+      Url="Content/MSP-NGP-Users.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/user-support-c.png" />
+    <Link
+      Url="Content/MSP-NGP-Ticketing.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/ticket.png" />
+    <Link
+      Url="Content/MSP-NGP-Bill-your-customers-to-collect-revenue.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/service-item.png" />
+    <Link
+      Url="Content/MSP-NGP-Integrations.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/integrations.png" />
+    <Link
+      Url="Content/MSP-NGP-Notifications.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/bell.png" />
+    <Link
+      Url="Content/MSP-NGP-Assets.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/server-tool.png" />
+    <Link
+      Url="Content/MSP-NGP-Knowledge.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/light-bulb.png" />
+    <Link
+      Url="Content/MSP-NGP-SLA.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/ulist.png" />
+    <Link
+      Url="Content/MSP-NGP-Run-reports-to-track-business.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/reporting.png" />
+    <Link
+      Url="Content/MSP-NGP-Schedule-your-workday-with-appointments.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/schedule.png" />
+    <Link
+      Url="Content/MSP-FAQ.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/question.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/MSP-Welcome-to-MSPManager.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/desktop.png" />
+    <Link
+      Url="Content/MSP-NGP-Users.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/user-support-c.png" />
+    <Link
+      Url="Content/MSP-NGP-Ticketing.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/ticket.png" />
+    <Link
+      Url="Content/MSP-NGP-Bill-your-customers-to-collect-revenue.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/service-item.png" />
+    <Link
+      Url="Content/MSP-NGP-Integrations.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/integrations.png" />
+    <Link
+      Url="Content/MSP-NGP-Notifications.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/bell.png" />
+    <Link
+      Url="Content/MSP-NGP-Assets.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/server-tool.png" />
+    <Link
+      Url="Content/MSP-NGP-Knowledge.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/light-bulb.png" />
+    <Link
+      Url="Content/MSP-NGP-SLA.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/ulist.png" />
+    <Link
+      Url="Content/MSP-NGP-Run-reports-to-track-business.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/reporting.png" />
+    <Link
+      Url="Content/MSP-NGP-Schedule-your-workday-with-appointments.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/schedule.png" />
+    <Link
+      Url="Content/MSP-FAQ.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/question.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

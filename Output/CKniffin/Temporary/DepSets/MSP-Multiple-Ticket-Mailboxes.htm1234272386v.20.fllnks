@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/MSP-Add-Responses-to-Tickets.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/settings.png" />
+    <Link
+      Url="Content/Resources/Snippets/Customers.flsnp" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/MSP-Add-Responses-to-Tickets.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/settings.png" />
+    <Link
+      Url="Content/Resources/Snippets/Customers.flsnp" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="PDFVariables.ProductName" />
+    <Variable
+      Name="MSPManager.ProductName_Long" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.comment" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
