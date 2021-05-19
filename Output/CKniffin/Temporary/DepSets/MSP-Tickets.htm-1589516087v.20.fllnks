@@ -8,8 +8,6 @@
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="Content/MSP-Track-work-with-helpdesk-tickets.htm" />
@@ -35,8 +33,6 @@
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
@@ -78,8 +74,5 @@
     <Condition
       Tag="Default.comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

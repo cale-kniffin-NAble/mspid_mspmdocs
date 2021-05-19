@@ -1,40 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1212" MadCap:lastWidth="1318" MadCap:conditions="Default.comment">
-    <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
-    </head>
+    <head />
     <body>
         <h1>Automate your helpdesk with workflows and routing rules </h1>
         <p>Create workflows and routing rules to automate your helpdesk and eliminate the risk of human error in your ticketing processes. Workflows consist of a specific order of rules that are initiated by trigger events. These rules are made up of conditions and actions, and can be arranged to create the most efficient workflow for your business. </p>
         <p>Triggers are events   caused by either the system, users, or technicians. They initiate and execute the actions of the workflow when the specified conditions are met. Actions can automatically create tickets or send notifications any time your customers experience an outage in their network. There are a different set of conditions and actions available for each trigger type. </p>
-        <h3>Create a Workflow Access Group</h3>
+        <h2>Create a Workflow Access Group</h2>
         <p>When workflow is initially enabled, ticket routing is still in effect. As a best practice, create a Workflow Access Group  and add one or two customers to it to test the feature and determine if your rules are set up like you prefer. Then add additional customers to the Access Group after you are satisfied with testing the feature.</p>
         <ol>
-            <li>Click <span class="ButtonMenuNote">Settings</span> &gt; <span class="ButtonMenuNote">Ticket Routing</span> &gt; <b>Workflow Access Groups.</b></li>
+            <li>Click <span class="Term">Settings</span> &gt; <span class="Term">Ticket Routing</span> &gt; <b>Workflow Access Groups.</b></li>
             <li>Click <b>Add</b> to create the new Access Group.</li>
             <li>Enter a name for the Access Group and select the <b>Workflow Event Type</b>.</li>
             <li>Choose the customers you would like to add to the Access Group.</li>
             <li>Enable the Access Group when you are ready to turn on Workflows and Rules for the selected customers.</li>
             <li>Save the Access Group. </li>
         </ol>
-        <h3>Create Workflow Rules</h3>
+        <h2>Create Workflow Rules</h2>
         <ol>
-            <li>Click <span class="ButtonMenuNote">Settings</span> &gt; <span class="ButtonMenuNote">Ticket Routing</span> &gt; <span class="ButtonMenuNote">Workflow &amp; Rules.</span></li>
-            <li>Click <img src="Resources/Images/MSPManagerIcons/ExpandWorlflow.png" style="width: 16px;height: 16px;" class="no_border" /> next to the Workflow Category to expand it and select <span class="ButtonMenuNote">Add Rule</span>. There are three Workflow Categories to choose from: <ol><li><b>RMM Outage</b> - an outage for a specific asset from your RMM account.</li><li><b>Incoming Email</b> - an email sent by a customer for a specific issue. </li><li><b>Easy Ticket Request</b> - a customer reported issue sent from the customer portal. </li></ol></li>
+            <li>Click <span class="Term">Settings</span> &gt; <span class="Term">Ticket Routing</span> &gt; <span class="Term">Workflow &amp; Rules.</span></li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/ExpandWorlflow.png" style="width: 16px;height: 16px;" class="no_border" /> next to the Workflow Category to expand it and select <span class="Term">Add Rule</span>. There are three Workflow Categories to choose from: <ol><li><b>RMM Outage</b> - an outage for a specific asset from your RMM account.</li><li><b>Incoming Email</b> - an email sent by a customer for a specific issue. </li><li><b>Easy Ticket Request</b> - a customer reported issue sent from the customer portal. </li></ol></li>
             <li>Enter the Workflow Rule name and details.</li>
         </ol>
         <p>After choosing a workflow category and providing the name and details of the workflow rule, you are ready to add conditions to it. </p>
-        <h3>Add Conditions to your Workflow Rules </h3>
+        <h2>Add Conditions to your Workflow Rules </h2>
         <ol>
             <li>Click the condition to expand it's options.<br /><img src="Resources/Images/MSPMScreenshots/WorkFlowCondition.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 352px;height: 124px;" /><br /></li>
-            <li>Click <span class="ButtonMenuNote">And/Or</span>, and choose an <span class="ButtonMenuNote">Attribute</span>. Attributes differ depending on the type of workflow. Outage workflows contain attribute options for asset or outage details, ticket workflows contain attribute options for customer and email subject/body information, and easy ticket request contains options for the contact email, ticket category, details or title. <br /><img src="Resources/Images/MSPMScreenshots/ExpandConditionAttribute.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 269px;height: 158px;" /><img src="Resources/Images/MSPMScreenshots/ExpandORcondition.png" style="width: 287px;height: 158px;" /><br /></li>
+            <li>Click <span class="Term">And/Or</span>, and choose an <span class="Term">Attribute</span>. Attributes differ depending on the type of workflow. Outage workflows contain attribute options for asset or outage details, ticket workflows contain attribute options for customer and email subject/body information, and easy ticket request contains options for the contact email, ticket category, details or title. <br /><img src="Resources/Images/MSPMScreenshots/ExpandConditionAttribute.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 269px;height: 158px;" /><img src="Resources/Images/MSPMScreenshots/ExpandORcondition.png" style="width: 287px;height: 158px;" /><br /></li>
             <li>Select a <b>Condition Operator</b> (equals, not equal (!=), contains, includes, starts with) and enter a value. </li>
             <li>Click <img src="Resources/Images/MSPManagerIcons/AddCondition.png" sstyle="width: 20px;height: 20px;" class="no_border" /> to add more conditions or condition blocks to the rule. </li>
             <p class="info">Condition blocks create a new set of brackets in your rule using OR instead of AND. For example: [Condition 1 AND Condition 2]  OR [Condition 3 AND Condition 4] - In this example, Condition 1 and 2 are in the same Condition block, Condition 3 and 4 are in a different block, and they are separated by the OR Condition. </p>
-            <li>Click <span class="ButtonMenuNote">Actions</span> and select an action from the list.</li>
+            <li>Click <span class="Term">Actions</span> and select an action from the list.</li>
             <li> Click <img src="Resources/Images/MSPManagerIcons/AddCondition.png" class="no_border" /> to confirm the addition of the action to the rule. You can also drag an item from the Actions list into the Actions section of the Workflow editor. </li>
             <li>Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="width: 20px;height: 20px;" class="no_border" /> next to the Action to edit and view it's additional criteria. For example, editing the Assign Technician action allows you to assign the technician based on Customer or Location Assigned Users, User Skills, or you can select specific users. </li>
-            <p class="warning"><span class="ButtonMenuNote">Create Ticket</span> and <span class="ButtonMenuNote">Do Not Create Ticket</span> are not editable actions. </p>
+            <p class="warning">
+                <span class="Term">Create Ticket</span> and <span class="Term">Do Not Create Ticket</span> are not editable actions. </p>
             <li>Continue to add rules to your workflow to cover additional scenarios, and save the rule when it is complete. </li>
         </ol>
         <p> Actions are executed when a trigger event occurs that meets the listed conditions. </p>

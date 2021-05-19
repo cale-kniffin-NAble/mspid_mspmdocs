@@ -6,7 +6,7 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/Billing Flow Chart.jpg" />
     <Link
@@ -24,7 +24,7 @@
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/Billing Flow Chart.jpg" />
     <Link
@@ -51,11 +51,14 @@
     <Variable
       Name="MSPManager.N-central" />
   </Variables>
-  <FileConditions />
+  <FileConditions>
+    <Condition
+      Tag="Default.comment" />
+  </FileConditions>
   <FileTags />
-  <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <AllConditions>
+    <Condition
+      Tag="Default.comment" />
+  </AllConditions>
+  <Stylesheets />
 </CatapultFileLinkSet>

@@ -6,15 +6,11 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/MSP-NGP-Asset-tags.htm" />
     <Link
       Url="Content/MSP-Custom-Asset-fields.htm" />
   </Links>
   <LongLinks>
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/MSP-NGP-Asset-tags.htm" />
     <Link
@@ -29,8 +25,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

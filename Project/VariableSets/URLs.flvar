@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="DocURL"
+    EvaluatedDefinition="https://documentation.n-able.com"
+    Comment="Partial beginning URL for guides and troubleshooting content.">https://documentation.n-able.com</Variable>
+  <Variable
+    Name="GuideText"
+    EvaluatedDefinition="User Guides"
+    Comment="Text for user guide link in top navigation.">User Guides</Variable>
+  <Variable
+    Name="TroubleshootingText"
+    EvaluatedDefinition="Troubleshooting"
+    Comment="MSP Manager Troubleshooting Guide">Troubleshooting</Variable>
+  <Variable
+    Name="NotesURL"
+    EvaluatedDefinition="https://status.n-able.com/release-notes/"
+    Comment="N-able Release Notes">https://status.n-able.com/release-notes/</Variable>
+  <Variable
+    Name="NotesText"
+    EvaluatedDefinition="Release Notes"
+    Comment="Release Notes">Release Notes</Variable>
+  <Variable
+    Name="StatusText"
+    EvaluatedDefinition="Uptime Status"
+    Comment="Uptime Status">Uptime Status</Variable>
+  <Variable
+    Name="StatusURL"
+    EvaluatedDefinition="https://uptime.n-able.com/"
+    Comment="Full URL to uptime status page.">https://uptime.n-able.com/</Variable>
+  <Variable
+    Name="GuideScreenTip"
+    EvaluatedDefinition="Display User Guide"
+    Comment="Hover text for user guide link in top navigation.">Display User Guide</Variable>
+  <Variable
+    Name="StatusScreenTip"
+    EvaluatedDefinition="Display uptime status"
+    Comment="Display uptime status">Display uptime status</Variable>
+  <Variable
+    Name="NotesScreenTip"
+    EvaluatedDefinition="Display Release Notes"
+    Comment="Display Release Notes">Display Release Notes</Variable>
+  <Variable
+    Name="TroubleshootingScreenTip"
+    EvaluatedDefinition="Display Troubleshooting Information"
+    Comment="Display Troubleshooting Information">Display Troubleshooting Information</Variable>
+  <Variable
+    Name="PartnerText"
+    Comment="Partner Success Center"
+    EvaluatedDefinition="Partner Success Center">Partner Success Center</Variable>
+  <Variable
+    Name="PartnerURL"
+    EvaluatedDefinition="https://success.n-able.com/"
+    Comment="Full URL to partner success site.">https://success.n-able.com/</Variable>
+  <Variable
+    Name="PartnerScreenTip"
+    Comment="Visit our partner success center"
+    EvaluatedDefinition="Visit our partner success center">Visit our partner success center</Variable>
+  <Variable
+    Name="GuidePath"
+    Comment="Path to user guide content in full user guide URL."
+    EvaluatedDefinition="userguide/en/Content/StartPages/MenuPage">userguide/en/Content/StartPages/MenuPage</Variable>
+  <Variable
+    Name="TroubleshootingPath"
+    Comment="Path to troubleshooting content in full troubleshooting URL."
+    EvaluatedDefinition="troubleshooting/Content/StartPages/TroubleshootingPage">troubleshooting/Content/StartPages/TroubleshootingPage</Variable>
+  <Variable
+    Name="TroubleshootingStartPage"
+    Comment="Flare start page for troubleshooting content. Used in top links."
+    EvaluatedDefinition="TroubleshootingStart.htm">TroubleshootingStart.htm</Variable>
+  <Variable
+    Name="GuideStartPage"
+    Comment="Flare start page for user guide content. Used in top links."
+    EvaluatedDefinition="GuideStart.htm">GuideStart.htm</Variable>
+  <Variable
+    Name="CompanyURL"
+    Comment="Full URL to company web site."
+    EvaluatedDefinition="https://www.n-able.com/">https://www.n-able.com/</Variable>
+  <Variable
+    Name="CompanyScreenTip"
+    Comment="Visit the N-able home page"
+    EvaluatedDefinition="Visit the N-able home page">Visit the N-able home page</Variable>
+  <Variable
+    Name="CurrentStartPage"
+    Comment="Flare start page for this output. Used for breadcrumbs home link."
+    EvaluatedDefinition="Default.htm">Default.htm</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="https://documentation.solarwindsmsp.com/mail-assure/documentation/Content/B_Admin Level/outgoing-filtering/setting-up-spf.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="https://documentation.solarwindsmsp.com/mail-assure/documentation/Content/B_Admin Level/outgoing-filtering/setting-up-spf.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MSPManager.ProductName_mspm_Short" />
+    <Variable
+      Name="MSPManager.ProductName_mspm_Long" />
+    <Variable
+      Name="MSPManager.ProductName_ma" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

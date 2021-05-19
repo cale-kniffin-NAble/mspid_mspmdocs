@@ -6,7 +6,7 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="https://shopify.github.io/liquid/" />
     <Link
@@ -28,7 +28,7 @@
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="https://shopify.github.io/liquid/" />
     <Link
@@ -57,11 +57,14 @@
     <Variable
       Name="PDFVariables.ProductName" />
   </Variables>
-  <FileConditions />
+  <FileConditions>
+    <Condition
+      Tag="Default.comment" />
+  </FileConditions>
   <FileTags />
-  <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <AllConditions>
+    <Condition
+      Tag="Default.comment" />
+  </AllConditions>
+  <Stylesheets />
 </CatapultFileLinkSet>

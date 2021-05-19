@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Getting Started"
+    Link="/Content/MSP-Welcome-to-MSPManager.htm">
+    <TocEntry
+      Title="Get started with MSP Manager"
+      Link="/Content/MSP-NGP-Getting-started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="Users &amp; Customers"
+      Link="/Content/MSP-NGP-Users.htm">
+      <TocEntry
+        Title="Add Users and Customers to your account"
+        Link="/Content/MSP-NGP-Getting-started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Enable Multifactor Authentication"
+        Link="/Content/MSP-Multifactor-authentication.htm" />
+      <TocEntry
+        Title="Create Customer Access Groups"
+        Link="/Content/MSP-NGP-Create-customer-access-groups.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Create roles and permissions"
+      Link="/Content/MSP-NGP-Roles-and-permissions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Track user stats and billable hours from the Company Dashboard"
+      Link="/Content/MSP-NGP-Company-Dashboard.htm" />
+    <TocEntry
+      Title="MSP Manager FAQ"
+      Link="/Content/MSP-FAQ.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Adjust time on a ticket that has not been billed"
+        Link="/Content/MSP-Adjust-tickets.htm" />
+      <TocEntry
+        Title="Bill for a recurring service"
+        Link="/Content/MSP-Bill-for-a-recurring-service.htm"></TocEntry>
+      <TocEntry
+        Title="Billing errors"
+        Link="/Content/MSP-Billing-errors.htm"></TocEntry>
+      <TocEntry
+        Title="Billing scenarios"
+        Link="/Content/MSP-Billing-scenarios.htm">
+        <TocEntry
+          Title="Hourly retainer with overage"
+          Link="/Content/MSP-Hour-retainer-with-overage.htm" />
+        <TocEntry
+          Title="Hourly support"
+          Link="/Content/MSP-Hourly-support.htm" />
+        <TocEntry
+          Title="Managed desktops or servers"
+          Link="/Content/MSP-Managed-desktops-or-servers.htm" />
+        <TocEntry
+          Title="Monthly fee with additional hourly rate"
+          Link="/Content/MSP-Monthly-fee-with-additional-hourly-rate.htm" />
+        <TocEntry
+          Title="Off-site backup"
+          Link="/Content/MSP-Off-site-backup.htm" />
+        <TocEntry
+          Title="One-time fee"
+          Link="/Content/MSP-One-time-fee.htm" />
+        <TocEntry
+          Title="Project estimate with hourly rates"
+          Link="/Content/MSP-Project-estimate-with-hourly-rates.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Change the currency, date format, and time zone"
+        Link="/Content/MSP-Change-the-currency-date-format-and-time-zone.htm" />
+      <TocEntry
+        Title="Configure your Sender Policy Framework (SPF)"
+        Link="/Content/MSP-Set-up-SPF-for-MSPM.htm" />
+      <TocEntry
+        Title="Create a contract that does not expire"
+        Link="/Content/MSP-Create-a-contract-that-does-not-expire.htm" />
+      <TocEntry
+        Title="Override default mappings to accounting software"
+        Link="/Content/MSP-Override-default-mappings-to-accounting-software.htm" />
+      <TocEntry
+        Title="Reveal any password with the owner secret"
+        Link="/Content/MSP-Reveal-any-password-with-the-owner-secret.htm" />
+      <TocEntry
+        Title="Set customers as inactive"
+        Link="/Content/MSP-Set-customers-as-inactive.htm" />
+      <TocEntry
+        Title="Set individual services as taxable or not"
+        Link="/Content/MSP-Set-individual-services-as-taxable-or-not.htm" />
+      <TocEntry
+        Title="Share internal knowledge about your company"
+        Link="/Content/MSP-Share-internal-knowledge-about-your-company.htm" />
+      <TocEntry
+        Title="Store resolutions to common customer issues"
+        Link="/Content/MSP-Store-resolutions-to-common-customer-issues.htm" />
+      <TocEntry
+        Title="Ticket routing with multiple locations"
+        Link="/Content/MSP-Ticket-routing-with-multiple-locations.htm" />
+      <TocEntry
+        Title="Troubleshoot your ticket mailbox"
+        Link="/Content/MSP-Troubleshoot-your-ticket-mailbox.htm" />
+      <TocEntry
+        Title="Turn inbound email into tickets"
+        Link="/Content/MSP-Turn-inbound-email-into-tickets.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Service Items &amp; Billing"
+    Link="/Content/MSP-NGP-Bill-your-customers-to-collect-revenue.htm">
+    <TocEntry
+      Title="Program Levels, Service Plans &amp; Service Items"
+      Link="/Content/MSP-Program-levels-Service-plans-Service-items.htm">
+      <TocEntry
+        Title="Create Program Levels for multiple customers"
+        Link="/Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm" />
+      <TocEntry
+        Title="Create Service Plans for customers"
+        Link="/Content/MSP-NGP-Service-plans.htm" />
+      <TocEntry
+        Title="Charge for work using service items"
+        Link="/Content/MSP-NGP-Charge-for-your-work-with-Service-items.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Create Service Items for one-time projects"
+      Link="/Content/MSP-NGP-Project-billing.htm" />
+    <TocEntry
+      Title="Flat Fee Service Items"
+      Link="/Content/MSP-Flat-fee-service-items.htm" />
+    <TocEntry
+      Title="Create Retainer Service Items"
+      Link="/Content/MSP-Retainer-Service-Items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Prices &amp; Rates"
+      Link="/Content/MSP-NGP-Define-your-prices-with-rates.htm" />
+    <TocEntry
+      Title="Bill for partially completed tickets"
+      Link="/Content/MSP-NGP-Bill-for-partially-complete-tickets.htm" />
+    <TocEntry
+      Title="Run a billing batch"
+      Link="/Content/MSP-NGP-Run-a-billing-batch.htm" />
+    <TocEntry
+      Title="Deactivate service items"
+      Link="/Content/MSP-NGP-Delete-service-items-will-delete-tickets.htm" />
+    <TocEntry
+      Title="Recover deleted service items"
+      Link="/Content/MSP-Restore-deleted-service-items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Helpdesk &amp; Ticketing"
+    Link="/Content/MSP-NGP-Ticketing.htm">
+    <TocEntry
+      Title="Track work with helpdesk tickets"
+      Link="/Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
+    <TocEntry
+      Title="Manage tickets in the Helpdesk Workspace"
+      Link="/Content/MSP-Workspace-Helpdesk.htm" />
+    <TocEntry
+      Title="Ticket Routing"
+      Link="/Content/MSP-NGP-Auto-assign-inbound-tickets.htm">
+      <TocEntry
+        Title="Automatically assign inbound tickets"
+        Link="/Content/MSP-NGP-Prerequisites-for-ticket-routing.htm" />
+      <TocEntry
+        Title="Define rules for ticket routing"
+        Link="/Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
+      <TocEntry
+        Title="Create issue types, user skills and teams"
+        Link="/Content/MSP-NGP-Rate-users-and-groups-into-teams.htm" />
+      <TocEntry
+        Title="How are users scored during ticket routing?"
+        Link="/Content/MSP-NGP-How-are-users-scored-for-ticket-routing.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Ticket Actions"
+      Link="/Content/MSP-Ticketing-features.htm">
+      <TocEntry
+        Title="Email customers from inside a ticket"
+        Link="/Content/MSP-NGP-Add-responses-to-tickets.htm"></TocEntry>
+      <TocEntry
+        Title="Create Ticket Tasks and Task Templates"
+        Link="/Content/MSP-NGP-Ticket-tasks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      <TocEntry
+        Title="Merge tickets"
+        Link="/Content/MSP-NGP-Ticket-merging.htm">
+        <TocEntry
+          Title="Bulk Merge tickets from your Workspaces or Ticket Request list"
+          Link="/Content/MSP-Bulk-merge-tickets.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Schedule recurring tickets and appointments"
+        Link="/Content/MSP-NGP-Schedule-recurring-tickets.htm"></TocEntry>
+      <TocEntry
+        Title="Add customers, locations and contacts from inside a ticket"
+        Link="/Content/MSP-Add-CustomerLocationContact-on-the-fly.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Add canned responses to tickets"
+        Link="/Content/MSP-Add-canned-responses-to-tickets.htm" />
+      <TocEntry
+        Title="Add custom fields to tickets"
+        Link="/Content/MSP-Custom-ticket-fields.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Workflows &amp; routing rules"
+      Link="/Content/MSP-Workflows-and-routing-rules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Learn about Workflow Conditions &amp; Actions "
+        Link="/Content/MSP-Workflow-conditions-actions-tables.htm" />
+      <TocEntry
+        Title="Configure the Assign Technician Action"
+        Link="/Content/MSP-Workflow-Assign-Technician-Action.htm" />
+      <TocEntry
+        Title="Common ways to use Workflows"
+        Link="/Content/MSP-Workflow-use-cases.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Configure your ticket mailbox"
+      Link="/Content/MSP-NGP-Configure-ticket-mailbox.htm">
+      <TocEntry
+        Title="Configure your M365 mailbox"
+        Link="/Content/MSP-M365-configuration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Customer Portal"
+      Link="/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm">
+      <TocEntry
+        Title="Enable multiple Customer Portal users"
+        Link="/Content/MSP-Bulk-enable-portal-user.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Ticket Timers &amp; Quick Ticket"
+      Link="/Content/MSP-NGP-Log-time-spent-on-tickets.htm">
+      <TocEntry
+        Title="Create a ticket and start a timer from the Quick Ticket menu"
+        Link="/Content/MSP-NGP-Create-a-quick-ticket.htm" />
+      <TocEntry
+        Title="Start and pause a timer from inside a ticket"
+        Link="/Content/MSP-NGP-Start-timer-from-inside-ticket.htm" />
+      <TocEntry
+        Title="Start and pause timers from the ticket list"
+        Link="/Content/MSP-NGP-Start-timer-from-ticket-list.htm"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Create custom ticket statuses"
+      Link="/Content/MSP-Create-custom-ticket-status.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Search for tickets"
+      Link="/Content/MSP-Ticket-Search.htm" />
+    <TocEntry
+      Title="Grace Period time entry rounding"
+      Link="/Content/MSP-Time-entry-rounding.htm" />
+    <TocEntry
+      Title="Ticket queues"
+      Link="/Content/MSP-NGP-Ticket-queues.htm"></TocEntry>
+    <TocEntry
+      Title="Archive tickets"
+      Link="/Content/MSP-Archive-tickets.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Integrations"
+    Link="/Content/MSP-NGP-Integrations.htm">
+    <TocEntry
+      Title="Accounting software integrations"
+      Link="/Content/MSP-NGP-Accounting-software-integration.htm">
+      <TocEntry
+        Title="QuickBooks Desktop"
+        Link="/Content/MSP-NGP-Quickbooks-desktop-integration-folder.htm">
+        <TocEntry
+          Title="Integrate MSP Manager with QuickBooks Desktop and export invoices"
+          Link="/Content/MSP-NGP-Quickbooks-Desktop.htm" />
+        <TocEntry
+          Title="Diagnose and repair the QuickBooks web connector error"
+          Link="/Content/MSP-NGP-Support-Quickbooks-1039-error.htm" />
+        <TocEntry
+          Title="Remove the web connector file from QuickBooks Desktop"
+          Link="/Content/MSP-NGP-Support-remove-QB-webconnector.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="QuickBooks Online"
+        Link="/Content/MSP-NGP-Quickbooks-online-integration-folder.htm">
+        <TocEntry
+          Title="Integrate MSP Manager with QuickBooks Online"
+          Link="/Content/MSP-Quickbooks-Online-integration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="Configure your tax rates in QuickBooks Online"
+          Link="/Content/MSP-NGP-Quickbooks-tax.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Xero Accounting"
+        Link="/Content/MSP-Xero-integration.htm">
+        <TocEntry
+          Title="Learn more about the Xero integration"
+          Link="/Content/MSP-Xero-FAQ.htm"
+          ReplaceMergeNode="false" />
+        <TocEntry
+          Title="Integrate MSP Manager and Xero"
+          Link="/Content/MSP-Xero-accounting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Export your invoices as a CSV file"
+        Link="/Content/MSP-NGP-CSV-billing-export.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Integrate MSP Manager with N-central"
+      Link="/Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm">
+      <TocEntry
+        Title="Configure the N-central Integration"
+        Link="/Content/MSP-NGP-Setup-Ncentral-integration.htm" />
+      <TocEntry
+        Title="Export assets from N-central"
+        Link="/Content/MSP-NGP-export-assets-from-Ncentral.htm" />
+      <TocEntry
+        Title="Remotely access N-central integrated assets"
+        Link="/Content/MSP-Launch-TC-session.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Integrate your MSP RMM account with MSP Manager "
+      Link="/Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm" />
+    <TocEntry
+      Title="Configure the integration with Microsoft 365"
+      Link="/Content/MSP-Configure-M365-integration.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Knowledge &amp; Workspaces"
+    Link="/Content/MSP-NGP-Knowledge-and-Workspaces.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="Create and manage Workspaces"
+      Link="/Content/MSP-Workspaces-Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Edit and configure workspace widgets "
+        Link="/Content/MSP-Workspaces-edit-widgets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/MSP-Workspace-filtering.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Share knowledge with your team"
+      Link="/Content/MSP-NGP-Share-knowledge-with-your-team.htm"></TocEntry>
+    <TocEntry
+      Title="Create custom knowledge items"
+      Link="/Content/MSP-Create-custom-knowledge-types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Import existing passwords into custom knowledge templates"
+        Link="/Content/MSP-Import-passwords-to-custom-knowledge.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-NGP-SLA.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Assets"
+      Link="/Content/MSP-NGP-Assets.htm">
+      <TocEntry
+        Title="Create asset classes and statuses"
+        Link="/Content/MSP-NGP-Create-asset-classes-and-statuses.htm" />
+      <TocEntry
+        Title="Create custom asset class fields"
+        Link="/Content/MSP-Custom-Asset-fields.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Add tags to your assets"
+        Link="/Content/MSP-NGP-Asset-tags.htm" />
+      <TocEntry
+        Title="Remotely access N-central integrated assets"
+        Link="/Content/MSP-Launch-TC-session.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Notifications"
+      Link="/Content/MSP-NGP-Notifications.htm">
+      <TocEntry
+        Title="Configure your notification settings for system and user actions"
+        Link="/Content/MSP-NGP-Set-notifications-for-system-and-user-actions.htm" />
+      <TocEntry
+        Title="Customize HTML or plain text notifications to send to your customers and technicians"
+        Link="/Content/MSP-NGP-HTML-and-plain-text-notifications.htm" />
+      <TocEntry
+        Title="Configure browser push notifications"
+        Link="/Content/MSP-Browser-Push-Notifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Scheduling &amp; SLAs"
+    Link="/Content/MSP-Scheduling-and-Reports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="Schedule your workday with appointments"
+      Link="/Content/MSP-NGP-Schedule-your-workday-with-appointments.htm" />
+    <TocEntry
+      Title="Create schedules, recurring tickets and appointments"
+      Link="/Content/MSP-NGP-Schedule-recurring-tickets.htm"></TocEntry>
+    <TocEntry
+      Title="Run reports to track business metrics"
+      Link="/Content/MSP-NGP-Run-reports-to-track-business.htm"></TocEntry>
+  </TocEntry>
+</CatapultToc>

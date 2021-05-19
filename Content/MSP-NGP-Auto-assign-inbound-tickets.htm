@@ -1,20 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+        <link href="Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <h1 class="chapter">Configure ticket routing </h1>
         <p><MadCap:variable name="MSPManager.ProductName_Long" /> allows ticket creation from external sources, including by email, the customer portal, and from <MadCap:variable name="MSPManager.N-central" />.</p>
-        <p>To view inbound requests, navigate to <span class="ButtonMenuNote">Helpdesk</span> &gt;&#160;<span class="ButtonMenuNote">Ticket Requests</span> and select <span class="ButtonMenuNote">Create Ticket</span> to convert an inbound request to a new ticket.</p>
+        <p>To view inbound requests, navigate to <strong>Helpdesk</strong> &gt;&#160;<strong>Ticket Requests</strong> and select <strong>Create Ticket</strong> to convert an inbound request to a new ticket.</p>
         <p>After <a href="MSP-NGP-Prerequisites-for-ticket-routing.htm">configuring the necessary prerequisites for ticket routing</a>, this feature allows for externally created ticket requests from the customer portal or via email to be automatically converted to a new ticket, and assigned to a customer and technician.</p>
-        <h3>How does ticket routing work?</h3>
+        <h2>How does ticket routing work?</h2>
         <p><MadCap:variable name="PDFVariables.ProductName" /> uses <a href="MSP-NGP-Define-rules-for-ticket-routing.htm">ticket routing rules</a>  to determine which users to assign to a ticket, as well as an algorithm to evaluate each user against the ticket routing rules. </p>
         <p>Each ticket routing rule produces a value in the range of 0 - 5 for each user. The user with the highest score is assigned the ticket. In the case of a numerical tie, <MadCap:variable name="MSPManager.ProductName_Long" /> assigns the ticket to all of the users with the highest score.</p>
-        <h3>What do you want to do?</h3>
+        <h2>What do you want to do?</h2>
         <ul>
-            <li><a href="MSP-Workflows-and-routing-rules.htm">Automate your helpdesk with Workflows and routing rules</a>
-            </li>
             <li><a href="MSP-NGP-Prerequisites-for-ticket-routing.htm">Automatically assign inbound tickets</a>
             </li>
             <li><a href="MSP-NGP-Define-rules-for-ticket-routing.htm">Define rules for ticket routing</a>

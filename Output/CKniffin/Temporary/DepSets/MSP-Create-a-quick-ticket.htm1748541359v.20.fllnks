@@ -9,8 +9,6 @@
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/clock.png" />
@@ -20,8 +18,6 @@
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
@@ -47,8 +43,5 @@
     <Condition
       Tag="Default.comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

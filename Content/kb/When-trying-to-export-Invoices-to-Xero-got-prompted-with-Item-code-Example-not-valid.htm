@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h1>When trying to export Invoices to Xero, got prompted with Item code 'Example' not valid.</h1> <div id="flex">
+        <div id="modified"> <h2>Last Modified</h2>
+        <p>Thu Jul 09 23:15 GMT 2020</p>
+        </div> <div id="description"> <h2>Description</h2>
+        <ul>
+            <li>Recently have modified the Rate and Service Item.</li>
+            <li>When checking the Mapped Items, it shows it's mapped correctly.</li>
+            <li>The item code exists in Xero and matched the Inventory Item.</li>
+        </ul>
+        </div> <div id="environment"> <h2>Environment</h2>
+        <ul>
+            <li><MadCap:variable name="General.ProductName_mspm" /></li>
+            <li>Xero Accounting Software</li>
+        </ul>
+        </div> <div id="solution"> <h2>Solution</h2>This happens when the Inventory Item in M<MadCap:variable name="General.ProductName_mspm_short" /> and the Item Code in Xero do not match.Ensure to check the following:<ul><li>The entry code in Xero and <MadCap:variable name="General.ProductName_mspm_short" /> are the same(Its cases sensitive).</li><li>Review the Tickets in the Billing Batch and ensure that the Tickets are using the correct Service Item.</li><li>Ensure as well that the Rate template is linked to the correct Mapped Items, else this yields to the error. </li></ul></div> <div id="internal"> <div MadCap:conditions="Default.Ignore"><p><b>Article Number:</b> 110173</p><p><b>Internal notes:</b> </p><p /></div></div> </div> </body>
+</html>

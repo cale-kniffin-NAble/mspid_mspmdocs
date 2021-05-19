@@ -6,7 +6,7 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/ExpandWorlflow.png" />
     <Link
@@ -15,12 +15,10 @@
       Url="Content/Resources/Images/MSPMScreenshots/ExpandConditionAttribute.png" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/AddCondition.png" />
-    <Link
-      Url="Project/ConditionTagSets/Default.flcts" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/ExpandWorlflow.png" />
     <Link
@@ -29,8 +27,6 @@
       Url="Content/Resources/Images/MSPMScreenshots/ExpandConditionAttribute.png" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/AddCondition.png" />
-    <Link
-      Url="Project/ConditionTagSets/Default.flcts" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -38,14 +34,18 @@
   <ConceptControlNames />
   <IndexControlNames />
   <Variables />
-  <FileConditions />
+  <FileConditions>
+    <Condition
+      Tag="Default.comment" />
+    <Condition
+      Tag="Default.Ignore" />
+  </FileConditions>
   <FileTags />
   <AllConditions>
     <Condition
       Tag="Default.comment" />
+    <Condition
+      Tag="Default.Ignore" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

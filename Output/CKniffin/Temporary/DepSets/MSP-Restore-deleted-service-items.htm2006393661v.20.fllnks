@@ -6,6 +6,8 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/ExpandDeletedServiceItem.png" />
@@ -15,6 +17,8 @@
       Url="Content/Resources/Images/MSPManagerIcons/UndeleteServiceItem.png" />
   </Links>
   <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
@@ -36,5 +40,8 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>

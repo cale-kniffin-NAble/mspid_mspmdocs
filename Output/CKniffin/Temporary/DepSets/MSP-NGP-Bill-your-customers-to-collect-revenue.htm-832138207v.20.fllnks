@@ -6,13 +6,9 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
-      Url="Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm" />
-    <Link
-      Url="Content/MSP-NGP-Service-plans.htm" />
-    <Link
-      Url="Content/MSP-NGP-Charge-for-your-work-with-Service-items.htm" />
+      Url="Content/MSP-Program-levels-Service-plans-Service-items.htm" />
     <Link
       Url="Content/MSP-NGP-Project-billing.htm" />
     <Link
@@ -32,13 +28,9 @@
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
-      Url="Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm" />
-    <Link
-      Url="Content/MSP-NGP-Service-plans.htm" />
-    <Link
-      Url="Content/MSP-NGP-Charge-for-your-work-with-Service-items.htm" />
+      Url="Content/MSP-Program-levels-Service-plans-Service-items.htm" />
     <Link
       Url="Content/MSP-NGP-Project-billing.htm" />
     <Link
@@ -67,6 +59,6 @@
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

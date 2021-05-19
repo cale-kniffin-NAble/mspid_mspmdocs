@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h1>Time Entry rounding issues with <MadCap:variable name="General.ProductName_mspm_short" /></h1> <div id="flex">
+        <div id="modified"> <h2>Last Modified</h2>
+        <p>Tue Jul 16 14:55 GMT 2019</p>
+        </div> <div id="description"> <h2>Description</h2>
+        <ul>
+            <li>Time that shows 15 minutes (.25 hours) when stopping timer is being rounded up to 0.5 hours</li>
+            <li>Timer does not show time in seconds</li>
+            <li>Seconds are rounded to nearest minutes - Example: 15 minutes 35 seconds rounds to 16 minutes which rounds to nearest tenth (20 minutes), nearest quarter hour (30 minutes) nearest Half hour (30 minutes)</li>
+        </ul>
+        </div> <div id="environment"> <h2>Environment</h2>
+        <ul>
+            <li><MadCap:variable name="General.ProductName_mspm" /></li>
+        </ul>
+        </div> <div id="solution"> <h2>Solution</h2>
+        <ul>
+            <li>Time rounds up by design - Example: 15 minutes 35 seconds rounds to 16 minutes</li>
+            <li>Time does not round down - Example: 15 minutes 35 seconds rounds down to 15 minutes</li>
+            <li>If you do not wish to have time rounding up please disable Time Rounding:<ol><li>Log into <MadCap:variable name="General.ProductName_mspm_short" /></li><li>Go to <b>Settings &gt; Company Settings &gt; Default Settings</b></li><li>Change Time Entry Rounding to None</li><li>Click <b>Save Settings</b></li></ol></li>
+        </ul>
+        </div> <div id="internal"> <div MadCap:conditions="Default.Ignore">
+            <p>
+                <b>Article Number:</b> 129850</p>
+            <p>
+                <b>Internal notes:</b> </p>
+            <p />
+        </div>
+    </div> </div> </body>
+</html>

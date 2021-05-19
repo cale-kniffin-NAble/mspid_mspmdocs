@@ -6,6 +6,8 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
       Url="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Multiple-ticket-mailboxes.htm" />
@@ -37,6 +39,8 @@
       Url="http://help.logicnow.com/service-desk/documentation/Default.htm" />
   </Links>
   <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
@@ -79,8 +83,14 @@
     <Variable
       Name="MSPManager.ProductName_Short" />
   </Variables>
-  <FileConditions />
+  <FileConditions>
+    <Condition
+      Tag="Default.comment" />
+  </FileConditions>
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="Default.comment" />
+  </AllConditions>
   <Stylesheets />
 </CatapultFileLinkSet>

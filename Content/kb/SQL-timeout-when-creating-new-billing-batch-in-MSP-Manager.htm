@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>SQL timeout when creating new billing batch in <MadCap:variable name="General.ProductName_mspm_short" /></h1> <div id="flex"><div id="modified"> <h2>Last Modified</h2><p>Mon Oct 22 14:23 GMT 2018</p></div> <div id="description"> <h2>Description</h2><ul><li>SQL timeout when creating new billing batch in <MadCap:variable name="General.ProductName_mspm_short" /></li></ul></div> <div id="environment"> <h2>Environment</h2><ul><li><MadCap:variable name="General.ProductName_mspm" /></li></ul></div> <div id="solution"> <h2>Solution</h2><ul><li>This is caused by complex queries running on the database</li><li>This is often the cause when running high number of invoices in one billing batch</li><li>To minimize this from happening reduce the amount of invoices in the billing batch</li><li>There are no restrictions as to how many you can run at once, but if you are getting this error try reducing the amount by half and reduce/increase from here</li><li>If this fails to help, open a technical support case. <MadCap:snippetText src="../Resources/Snippets/OpenTechSuppCase.flsnp" /></li></ul></div> <div id="internal"> <div MadCap:conditions="Default.Ignore"><p><b>Article Number:</b> 117874</p><p><b>Internal notes:</b> BUG 17091</p><p /></div></div> </div> </body>
+</html>

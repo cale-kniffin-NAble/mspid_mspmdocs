@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultConditionTagSet>
-<ConditionTag
-    Name="comment"
-    BackgroundColor="#ffff00"
-    Comment="Use to hide topics in development or not needed in the help but want to keep around just in case." />
   <ConditionTag
     Comment=""
     Name="ScreenOnly"
@@ -14,6 +10,18 @@
     BackgroundColor="Red" />
   <ConditionTag
     BackgroundColor="#008000"
-    Name="NewFeature"
+    Name="Web"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Tablet"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Mobile"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffeb00"
+    Name="Ignore"
     Comment="" />
 </CatapultConditionTagSet>

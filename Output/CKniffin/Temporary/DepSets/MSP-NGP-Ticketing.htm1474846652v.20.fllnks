@@ -6,85 +6,69 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
     <Link
-      Url="Content/MSP-Ticket-Search.htm" />
+      Url="Content/MSP-Workspace-Helpdesk.htm" />
     <Link
-      Url="Content/MSP-NGP-Log-time-spent-on-tickets.htm" />
+      Url="Content/MSP-NGP-Auto-assign-inbound-tickets.htm" />
     <Link
-      Url="Content/MSP-Time-entry-rounding.htm" />
-    <Link
-      Url="Content/MSP-NGP-Configure-ticket-mailbox.htm" />
-    <Link
-      Url="Content/MSP-NGP-Ticket-queues.htm" />
-    <Link
-      Url="Content/MSP-NGP-Ticket-merging.htm" />
-    <Link
-      Url="Content/MSP-Bulk-merge-tickets.htm" />
-    <Link
-      Url="Content/MSP-NGP-Schedule-recurring-tickets.htm" />
-    <Link
-      Url="Content/MSP-NGP-Add-responses-to-tickets.htm" />
-    <Link
-      Url="Content/MSP-NGP-Ticket-tasks.htm" />
-    <Link
-      Url="Content/MSP-Create-custom-ticket-status.htm" />
-    <Link
-      Url="Content/MSP-Custom-ticket-fields.htm" />
-    <Link
-      Url="Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" />
-    <Link
-      Url="Content/MSP-Bulk-enable-portal-user.htm" />
+      Url="Content/MSP-Ticketing-features.htm" />
     <Link
       Url="Content/MSP-Workflows-and-routing-rules.htm" />
     <Link
-      Url="Content/MSP-NGP-Auto-assign-inbound-tickets.htm" />
+      Url="Content/MSP-NGP-Configure-ticket-mailbox.htm" />
+    <Link
+      Url="Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" />
+    <Link
+      Url="Content/MSP-NGP-Log-time-spent-on-tickets.htm" />
+    <Link
+      Url="Content/MSP-Create-custom-ticket-status.htm" />
+    <Link
+      Url="Content/MSP-Ticket-Search.htm" />
+    <Link
+      Url="Content/MSP-Time-entry-rounding.htm" />
+    <Link
+      Url="Content/MSP-NGP-Ticket-queues.htm" />
+    <Link
+      Url="Content/MSP-Bulk-enable-portal-user.htm" />
     <Link
       Url="Content/MSP-Archive-tickets.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
     <Link
-      Url="Content/MSP-Ticket-Search.htm" />
+      Url="Content/MSP-Workspace-Helpdesk.htm" />
     <Link
-      Url="Content/MSP-NGP-Log-time-spent-on-tickets.htm" />
+      Url="Content/MSP-NGP-Auto-assign-inbound-tickets.htm" />
     <Link
-      Url="Content/MSP-Time-entry-rounding.htm" />
-    <Link
-      Url="Content/MSP-NGP-Configure-ticket-mailbox.htm" />
-    <Link
-      Url="Content/MSP-NGP-Ticket-queues.htm" />
-    <Link
-      Url="Content/MSP-NGP-Ticket-merging.htm" />
-    <Link
-      Url="Content/MSP-Bulk-merge-tickets.htm" />
-    <Link
-      Url="Content/MSP-NGP-Schedule-recurring-tickets.htm" />
-    <Link
-      Url="Content/MSP-NGP-Add-responses-to-tickets.htm" />
-    <Link
-      Url="Content/MSP-NGP-Ticket-tasks.htm" />
-    <Link
-      Url="Content/MSP-Create-custom-ticket-status.htm" />
-    <Link
-      Url="Content/MSP-Custom-ticket-fields.htm" />
-    <Link
-      Url="Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" />
-    <Link
-      Url="Content/MSP-Bulk-enable-portal-user.htm" />
+      Url="Content/MSP-Ticketing-features.htm" />
     <Link
       Url="Content/MSP-Workflows-and-routing-rules.htm" />
     <Link
-      Url="Content/MSP-NGP-Auto-assign-inbound-tickets.htm" />
+      Url="Content/MSP-NGP-Configure-ticket-mailbox.htm" />
+    <Link
+      Url="Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" />
+    <Link
+      Url="Content/MSP-NGP-Log-time-spent-on-tickets.htm" />
+    <Link
+      Url="Content/MSP-Create-custom-ticket-status.htm" />
+    <Link
+      Url="Content/MSP-Ticket-Search.htm" />
+    <Link
+      Url="Content/MSP-Time-entry-rounding.htm" />
+    <Link
+      Url="Content/MSP-NGP-Ticket-queues.htm" />
+    <Link
+      Url="Content/MSP-Bulk-enable-portal-user.htm" />
     <Link
       Url="Content/MSP-Archive-tickets.htm" />
   </LongLinks>
@@ -102,6 +86,6 @@
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

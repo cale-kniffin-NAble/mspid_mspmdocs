@@ -1,42 +1,116 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html lang="en-us" class="_Skins_SW2015" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Ticketing">
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="products" content="MSP Manager;" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <script>
+/*<![CDATA[*/
+/*
+/*]]>*/
+/*<![CDATA[*/*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-N4L3FXR');/*/*]]>*/
+/*<![CDATA[*/
+*/
+/*]]>*/
+</script>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title>Add Canned Responses to tickets</title>
+        <meta name="google-site-verification" content="YRX710dJ6U7xnU2cIklsVAdLzvVcR5pSo6zDOLkou5M" />
+        <style>
+/*&lt;meta /&gt;*/
+.button.print-button
+{
+	-pie-background: url('../Skins/Default/Stylesheets/Images/print_1.png') no-repeat center center, linear-gradient(transparent, transparent);
+}
+.button.home-button
+{
+	-pie-background: url('../Skins/Default/Stylesheets/Images/home_2.png') no-repeat center center, linear-gradient(transparent, transparent);
+}
+.needs-pie
+{
+	behavior: url('../Resources/Scripts/PIE-no-motw.htc');
+}
+
+</style>
+        <script src="../Resources/Scripts/jquery.min.js">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../Resources/Scripts/require.min.js" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../Resources/Scripts/require.config.js" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../Resources/Scripts/foundation.6.2.3_custom.js" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../Resources/Scripts/plugins.min.js" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <script src="../Resources/Scripts/MadCapAll.js" defer="defer">
+/*<![CDATA[*/
+
+ 
+/*]]>*/
+</script>
+        <link href="Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <h1>Add Canned Responses to tickets</h1>
         <p>Technicians can spend hours replying to customers from within their tickets, often times writing out the same response for different customers with the same issue. Save time by adding Canned Responses to your tickets so you can quickly and easily respond to common customer issues. </p>
-        <p>Canned Responses are separated into Shared and Personal categories. Shared Canned Responses can be viewed and used in tickets by any technician with the appropriate permissions, and Personal Canned Responses are unique to each <MadCap:variable name="MSPManager.ProductName_Long" /> user. </p>
+        <p>Canned Responses are separated into Shared and Personal categories. Shared Canned Responses can be viewed and used in tickets by any technician with the appropriate permissions, and Personal Canned Responses are unique to each              user. </p>
+        <h2>Configure permissions for Canned Responses</h2>
         <p>Before getting started, make sure technicians who communicate with customers have the appropriate permissions configured.</p>
-        <h3>Configure permissions for Canned Responses</h3>
-        <p>Make sure all technicians who need to configure ticket mailboxes have the necessary permissions to do so.</p>
         <ol>
-            <li>Navigate to <b>Settings</b> &gt; <b>Users &amp; Permissions</b> &gt; <b>Roles</b>.</li>
-            <li>Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;"></img>next to the Role you would like to edit. </li>
-            <li>Select the <b>MSP Company Management</b> section  to expand and view it's options. </li>
-            <li>Select the <b>Configure Shared Canned Responses</b> option to add it to the role.</li>
-            <li>Click Save Role.</li>
+            <li value="1">Navigate to <b>Settings</b> &gt; <b>Users &amp; Permissions</b> &gt; <b>Roles</b>.</li>
+            <li value="2">Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;" />next to the Role you would like to edit. </li>
+            <li value="3">Select the <b>MSP Company Management</b> section to expand and view it's options. </li>
+            <li value="4">Select the <b>Configure Shared Canned Responses</b> option to add it to the role.</li>
+            <li value="5">Click Save Role.</li>
         </ol>
-        <h3>Create Shared Canned Responses</h3>
+        <h2>Create Shared Canned Responses</h2>
         <p>Each Canned Response that you create must be assigned to a Canned Group. Follow these steps to create a Canned Group and start adding Canned Responses to it. </p>
         <ol>
-            <li>Navigate to <b>Settings</b> &gt; <b>Tickets &amp; Workflows</b> &gt; <b>Canned Responses</b>. </li>
-            <li>Select <b>Add Group</b>.</li>
-            <li>Enter the <b>Group name</b> and click <b>Save</b>.</li>
-            <li> Select <b>Add Response</b>.</li>
-            <li>Choose a <b>Group</b> and enter a <b>Name</b> for the Canned Response. </li>
-            <li>In the <b>Response</b> section, enter the text for the Canned Response that your customers will see. </li>
-            <li>Use the links at the top of the Response Editor to add rich text and numbered lists, or insert hyperlinks, images or tables into the response. </li>
+            <li value="1">Navigate to <b>Settings</b> &gt; <b>Tickets &amp; Workflows</b> &gt; <b>Canned Responses</b>. </li>
+            <li value="2">Select <b>Add Group</b>.</li>
+            <li value="3">Enter the <b>Group name</b> and click <b>Save</b>.</li>
+            <li value="4"> Select <b>Add Response</b>.</li>
+            <li value="5">Choose a <b>Group</b> and enter a <b>Name</b> for the Canned Response. </li>
+            <li value="6">In the <b>Response</b> section, enter the text for the Canned Response that your customers will see. </li>
+            <li>Use the <b>All Variables</b> chart to the right of the response editor to search for and include keywords in your canned response templates that will auto-populate based on the information within the ticket. For instance, click <b style="color: #1e90ff;">Ticket Number</b> to add <code>{{Model.TicketNumber}}</code> to the response, which is replaced with the specific ticket's number after the response is sent.<br /><img src="Resources/Images/MSPMScreenshots/CannedResponseVariables.png" /></li>
+            <li value="7">At the top of the <b>Response Editor</b>, use the links to add rich text and numbered lists, or insert hyperlinks, images or tables into the response. <br /><img src="Resources/Images/MSPMScreenshots/CreateCannedResponse.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></li>
             <p class="nugget">Use images and hyperlinks in your responses to create customized signatures for technicians that include your company logo.</p>
-            <li>Click <b>Save</b> to add the response to the group and make it available to use in ticket responses. </li>
+            <li value="8">Click <b>Save</b> to add the response to the group and make it available to use in ticket responses. </li>
         </ol>
-        <h3>Add Canned Responses to a ticket</h3>
+        <h2>Add Canned Responses to a ticket</h2>
         <ol>
-            <li>Navigate to a ticket from the Ticket List in a Workspace page or a customer's ticketing section. </li>
-            <li>Scroll down in the ticket editor and select <b>Add Response</b>. </li>
-            <li>Click <b>Canned Responses</b> in the top right of the Response Editor to open and view a list of responses organized by Group. Start typing to search for a specific response.<br /><img src="Resources/Images/MSPMScreenshots/TicketCannedResponse.png" /></li>
-            <li>Select the Response  in the list and  click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;" /> next to the response to open and edit before adding it to the ticket or click <b>Insert</b> to add it to the ticket.</li>
-            <p class="nugget">Double-click a response in the list to quickly add it to the ticket or use the <b>Add new</b> button to create new responses. </p>
+            <li value="1">Navigate to a ticket from the Ticket List in a Workspace page or a customer's ticketing section. </li>
+            <li value="2">Scroll down in the ticket editor and select <b>Add Response</b>. </li>
+            <li value="3">Click <b>Canned Responses</b> in the top right of the Response Editor to open and view a list of responses organized by Group. Start typing to search for a specific response.<br /><img src="Resources/Images/MSPMScreenshots/TicketCannedResponse.png" /></li>
+            <li>Similar to the template editor, you can use the <b>All Variables</b> chart to the right of the response editor to search for and include keywords in the response.</li>
+            <li value="4">Select a Response from the list and click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #000000;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-top-style: solid;border-top-width: 0px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;" /> to open and edit the response before adding it to the ticket or </li>
+            <li>Click <b>Insert</b> to add the response to the ticket.</li>
+            <p class="nugget">Double-click a response in the list to quickly add it to the ticket or use the Add new button to create new responses. </p>
         </ol>
-        <p>&#160;</p>
     </body>
 </html>

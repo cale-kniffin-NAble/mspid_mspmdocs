@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
+        <link href="Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <h1>Set up your Microsoft 365 monitored mailbox</h1>
@@ -8,7 +9,7 @@
         <p>Combine your ticket mailbox with <a href="MSP-Workflows-and-routing-rules.htm">workflows and routing rules </a>and <a href="MSP-NGP-Prerequisites-for-ticket-routing.htm">configure your ticket routing settings</a> so that emails from your customers to  are automatically converted to tickets and assigned to the correct customer and technician within your company. </p>
         <p>Before creating your M365 mailbox, make sure you have <a href="MSP-Configure-M365-integration.htm">configured the M365 integration from your account settings</a>.</p>
         <p class="nugget">M365 mailboxes are monitored via the Graph API, which supports Multi Factor Authentication.</p>
-        <h3>Configure Permissions</h3>
+        <h2>Configure Permissions</h2>
         <p>Make sure all technicians who need to configure ticket mailboxes have the necessary permissions to do so.</p>
         <ol>
             <li>Navigate to <b>Settings</b> &gt; <b>Users &amp; Permissions</b> &gt; <b>Roles</b>.</li>
@@ -17,12 +18,12 @@
             <li>Make sure the <b>Configure Ticket Mailbox</b> option is checked. </li>
             <li>Click <b>Save Role</b> to add the ability to configure ticket mailboxes to all users in that specific Role. </li>
         </ol>
-        <h3>Set up your M365 monitored mailbox<br /></h3>
+        <h2>Set up your M365 monitored mailbox<br /></h2>
         <ol>
-            <li>Navigate to <span class="ButtonMenuNote">Settings</span> &gt; <span class="ButtonMenuNote">Tickets &amp; Workflows</span> &gt;  <span class="ButtonMenuNote">Ticket Mailboxes</span>.</li>
-            <li>Select the mailbox drop-down menu <img src="Resources/Images/MSPManagerIcons/AddTicketMailbox.png" style="width: 24px;height: 24px;" /> in the top right corner of the page and select <span class="ButtonMenuNote">Add M365 Mailbox</span>.</li>
+            <li>Navigate to <span class="Term">Settings</span> &gt; <span class="Term">Tickets &amp; Workflows</span> &gt;  <span class="Term">Ticket Mailboxes</span>.</li>
+            <li>Select the mailbox drop-down menu <img src="Resources/Images/MSPManagerIcons/AddTicketMailbox.png" style="width: 24px;height: 24px;" /> in the top right corner of the page and select <strong>Add M365 Mailbox</strong>.</li>
             <li>Select the M365 email address from the list. </li>
-            <li>Select <b>Reply as</b> to include the email address of the mailbox in the 'To' field of outgoing mail (unless overridden in individual customer settings).</li>
+            <li>Select <strong>Reply as</strong> to include the email address of the mailbox in the 'To' field of outgoing mail (unless overridden in individual customer settings).</li>
             <p class="info">Only one Monitored Mailbox can have this option applied at a time. </p>
             <li>Click <img src="Resources/Images/MSPManagerIcons/NewSave.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;" /> to save the M365 Mailbox and send a confirmation message to the specified email address. </li>
         </ol>

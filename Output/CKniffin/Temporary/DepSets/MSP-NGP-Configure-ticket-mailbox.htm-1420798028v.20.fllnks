@@ -6,7 +6,7 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
@@ -16,21 +16,17 @@
     <Link
       Url="Content/MSP-Add-Responses-to-Tickets.htm" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
-    <Link
-      Url="Content/Resources/Images/MSPManagerIcons/AddTicketMailbox.png" />
-    <Link
-      Url="Content/MSP-M365-configuration.htm" />
-    <Link
       Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/settings.png" />
+    <Link
+      Url="Content/MSP-Configure-M365-integration.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
@@ -40,17 +36,13 @@
     <Link
       Url="Content/MSP-Add-Responses-to-Tickets.htm" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
-    <Link
-      Url="Content/Resources/Images/MSPManagerIcons/AddTicketMailbox.png" />
-    <Link
-      Url="Content/MSP-M365-configuration.htm" />
-    <Link
       Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/settings.png" />
+    <Link
+      Url="Content/MSP-Configure-M365-integration.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -68,6 +60,6 @@
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

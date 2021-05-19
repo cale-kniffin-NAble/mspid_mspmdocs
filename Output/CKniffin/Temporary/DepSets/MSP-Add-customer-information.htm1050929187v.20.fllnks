@@ -9,15 +9,11 @@
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/MSP-Create-program-levels-for-multiple-customers.htm" />
   </Links>
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/MSP-Create-program-levels-for-multiple-customers.htm" />
   </LongLinks>
@@ -36,8 +32,5 @@
     <Condition
       Tag="Default.comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

@@ -7,8 +7,6 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
     <Link
       Url="Content/MSP-Flat-fee-service-items.htm" />
@@ -16,8 +14,6 @@
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
   </Links>
   <LongLinks>
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
     <Link
@@ -34,8 +30,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

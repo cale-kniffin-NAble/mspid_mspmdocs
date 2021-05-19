@@ -8,8 +8,6 @@
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/MSP-Schedule-your-workday-with-appointments.htm" />
     <Link
       Url="Content/MSP-SLA.htm" />
@@ -17,8 +15,6 @@
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/MSP-Schedule-your-workday-with-appointments.htm" />
     <Link
@@ -39,8 +35,5 @@
     <Condition
       Tag="Default.comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

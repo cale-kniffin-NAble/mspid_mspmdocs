@@ -6,6 +6,8 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
       Url="Content/MSP-Workspaces-Management.htm" />
     <Link
       Url="Content/MSP-Workspaces-edit-widgets.htm" />
@@ -21,6 +23,8 @@
       Url="Content/Resources/Images/MSPMScreenshots/FinalMergeStep.png" />
   </Links>
   <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/MSP-Workspaces-Management.htm" />
     <Link
@@ -45,5 +49,8 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>

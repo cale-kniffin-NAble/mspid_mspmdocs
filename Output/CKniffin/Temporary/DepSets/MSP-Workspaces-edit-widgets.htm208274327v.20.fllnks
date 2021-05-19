@@ -8,7 +8,9 @@
     <Link
       Url="Content/MSP-Workspace-filtering.htm" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/NewConfigureWidget.png" />
+      Url="Content/Resources/Images/MSPManagerIcons/EditWidget.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/NewConfigureWidget.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/ChartWidgetConfiguration.png" />
     <Link
@@ -30,7 +32,9 @@
     <Link
       Url="Content/MSP-Workspace-filtering.htm" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/NewConfigureWidget.png" />
+      Url="Content/Resources/Images/MSPManagerIcons/EditWidget.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/NewConfigureWidget.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/ChartWidgetConfiguration.png" />
     <Link

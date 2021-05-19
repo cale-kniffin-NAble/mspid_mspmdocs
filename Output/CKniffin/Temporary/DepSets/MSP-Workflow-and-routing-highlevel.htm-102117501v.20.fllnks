@@ -8,8 +8,6 @@
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Resources/Images/MSPManagerIcons/ExpandWorlflow.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/NewExpandCondition.png" />
@@ -21,8 +19,6 @@
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/ExpandWorlflow.png" />
     <Link
@@ -41,14 +37,15 @@
   <FileConditions>
     <Condition
       Tag="Default.comment" />
+    <Condition
+      Tag="Default.Ignore" />
   </FileConditions>
   <FileTags />
   <AllConditions>
     <Condition
       Tag="Default.comment" />
+    <Condition
+      Tag="Default.Ignore" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

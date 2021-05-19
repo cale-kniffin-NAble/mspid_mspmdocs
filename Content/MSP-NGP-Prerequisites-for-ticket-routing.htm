@@ -1,38 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+        <link href="Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <h1 class="chapter">Use ticket routing to automatically assign inbound tickets</h1>
         <p>To set up ticket routing for your <MadCap:variable name="PDFVariables.ProductName" /> account, you must configure your <a href="MSP-NGP-Define-rules-for-ticket-routing.htm">ticket routing rules</a> so that email or customer portal requests, or  <MadCap:variable name="MSPManager.N-central" /> alerts will automatically create tickets in <MadCap:variable name="PDFVariables.ProductName" />. </p>
-        <p>For ticket routing to work correctly, you must specify a default service item  and configure at least 1 option for the Email, Portal, and N-central sections located in <span class="ButtonMenuNote">Settings</span> &gt; <span class="ButtonMenuNote">Tickets &amp; Workflows</span> &gt; <span class="ButtonMenuNote">Routing Rules</span>. </p>
+        <p>For ticket routing to work correctly, you must specify a default service item  and configure at least 1 option for the Email, Portal, and N-central sections located in <strong>Settings</strong> &gt; <strong>Tickets &amp; Workflows</strong> &gt; <strong>Routing Rules</strong>. </p>
         <p class="warning">In order  to automatically create tickets, <MadCap:variable name="MSPManager.ProductName_Long" /> must be able to determine which customer to assign the ticket to. The only way this can currently happen is if the sender's email address of the ticket request is a contact  assigned to a specific customer, or the email domain of that sender is unique and associated to a customer. Additionally, after the customer is successfully identified, they must have a valid default service item. Without these conditions in place, tickets will not be automatically created from email requests.</p>
-        <h3>Email ticket routing</h3>
+        <h2>Email ticket routing</h2>
         <p>To route a ticket from email, <MadCap:variable name="MSPManager.ProductName_Long" /> determines the identity of the customer  in one of two ways:</p>
         <ul>
             <li>If the sender email address matches a customer contact.</li>
             <li>If the sender email domain matches a customer email domain.</li>
         </ul>
-        <h3>Assign an email domain to your customers</h3>
+        <h2>Assign an email domain to your customers</h2>
         <p>Enter an email domain for each customer in <MadCap:variable name="PDFVariables.ProductName" /> for ticket routing to work correctly.  </p>
         <ol>
-            <li>Navigate to <img src="Resources/Images/MSPManagerIcons/SelectCustomer.png" style="width: 19px;height: 19px;" class="no_border" /> and select a customer from the list.</li>
-            <li>Select <span class="ButtonMenuNote">Actions</span> &gt; <span class="ButtonMenuNote">Edit Customer</span>.</li>
-            <li>Enter the customer domain in the <span class="ButtonMenuNote">Email Domain</span> field and click <span class="ButtonMenuNote">Save</span>.</li>
-            <li>Click <span class="ButtonMenuNote">Save Customer</span>. </li>
+            <li>Navigate to the <strong>Customer Menu</strong> <img src="Resources/Images/MSPManagerIcons/SelectCustomer.png" style="width: 19px;height: 19px;" class="no_border" /> and select a customer from the list.</li>
+            <li>Select <strong>Actions</strong> &gt; <strong>Edit Customer</strong>.</li>
+            <li>Enter the customer domain in the <strong>Email Domain</strong> field and click <strong>Save</strong>.</li>
+            <li>Click <strong>Save Customer</strong>. </li>
         </ol>
         <p>Tickets are created from incoming email after assigning an email domain and specifying a default service item.</p>
-        <h3>Specify a default service item</h3>
+        <h2>Specify a default service item</h2>
         <ol>
-            <li>Navigate to <img src="Resources/Images/MSPManagerIcons/SelectCustomer.png" style="width: 19px;height: 19px;" class="no_border" /> and select a customer from the list.</li>
-            <li>Select <span class="ButtonMenuNote">Service Items</span> and click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" class="no_border" style="width: 18px;height: 17px;"></img> to edit a service item.</li>
-            <li>Select the <span class="ButtonMenuNote">Default Service Item</span> check box and click <span class="ButtonMenuNote">Save</span>. </li>
+            <li>Navigate to the <b>Customer Menu</b> <img src="Resources/Images/MSPManagerIcons/SelectCustomer.png" style="width: 19px;height: 19px;" class="no_border" /> and select a customer from the list.</li>
+            <li>Select <strong>Service Items</strong> and click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" class="no_border" style="width: 18px;height: 17px;"></img> to edit a service item.</li>
+            <li>Select the <strong>Default Service Item</strong> check box and click <strong>Save</strong>. </li>
         </ol>
         <p>Complete these steps for all customers in <MadCap:variable name="PDFVariables.ProductName" /> for ticket routing to work for everyone. </p>
-        <h3>Portal ticket routing</h3>
+        <h2>Portal ticket routing</h2>
         <p class="info">Customers with portal access must have a default service item specified for tickets to be created automatically in <MadCap:variable name="PDFVariables.ProductName" />.</p>
-        <h3><MadCap:variable name="MSPManager.N-central" /> ticket routing</h3>
+        <h2><MadCap:variable name="MSPManager.N-central" /> ticket routing</h2>
         <p>Is <a href="https://documentation.solarwindsmsp.com/N-central/documentation/Content/Administration/PSA_Integration/MSP Manager/PSA_MSPMgr_BillingProfiles.htm" target="_blank">service item mapping</a> configured in <MadCap:variable name="MSPManager.N-central" />?</p>
         <ul>
             <li>If yes, the ticket is routed to the mapped service item. No further action is required.</li>

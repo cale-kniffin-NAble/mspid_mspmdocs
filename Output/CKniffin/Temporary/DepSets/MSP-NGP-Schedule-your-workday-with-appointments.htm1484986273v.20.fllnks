@@ -6,21 +6,9 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
-      Url="https://www.youtube.com/watch" />
-    <Link
-      Url="Content/Resources/Images/MSPManagerIcons/video.png" />
-    <Link
       Url="Project/VariableSets/MSPManager.flvar" />
   </Links>
   <LongLinks>
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
-      Url="https://www.youtube.com/watch?v=ah4evBmOclQ" />
-    <Link
-      Url="Content/Resources/Images/MSPManagerIcons/video.png" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
   </LongLinks>
@@ -36,8 +24,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

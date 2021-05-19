@@ -6,8 +6,6 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
       Url="Content/MSP-Adjust-tickets.htm" />
@@ -21,8 +19,6 @@
       Url="Content/MSP-Billing-scenarios.htm" />
     <Link
       Url="Content/MSP-Change-the-currency-date-format-and-time-zone.htm" />
-    <Link
-      Url="Content/MSP-Set-up-SPF-for-MSPM.htm" />
     <Link
       Url="Content/MSP-Create-a-contract-that-does-not-expire.htm" />
     <Link
@@ -48,8 +44,6 @@
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
       Url="Content/MSP-Adjust-tickets.htm" />
@@ -63,8 +57,6 @@
       Url="Content/MSP-Billing-scenarios.htm" />
     <Link
       Url="Content/MSP-Change-the-currency-date-format-and-time-zone.htm" />
-    <Link
-      Url="Content/MSP-Set-up-SPF-for-MSPM.htm" />
     <Link
       Url="Content/MSP-Create-a-contract-that-does-not-expire.htm" />
     <Link
@@ -100,8 +92,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

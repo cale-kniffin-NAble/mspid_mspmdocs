@@ -6,8 +6,6 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
@@ -19,13 +17,9 @@
       Url="Content/MSP-Custom-Asset-fields.htm" />
     <Link
       Url="Content/MSP-NGP-Asset-tags.htm" />
-    <Link
-      Url="Content/MSP-Launch-TC-session.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
@@ -37,8 +31,6 @@
       Url="Content/MSP-Custom-Asset-fields.htm" />
     <Link
       Url="Content/MSP-NGP-Asset-tags.htm" />
-    <Link
-      Url="Content/MSP-Launch-TC-session.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -54,8 +46,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

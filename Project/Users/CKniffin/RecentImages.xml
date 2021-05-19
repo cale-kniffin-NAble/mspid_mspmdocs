@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
-    <Url Source="Resources/Images/MSPMScreenshots/WorkspaceTicketFilterHover.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/WorkspaceTicketCommands.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/WorkspaceHDTicketFilter.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/WorkspacesHelpdesk.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/CSVExport.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/CreateCannedResponse.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/CannedResponseVariables.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/XeroTaxRates.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/xero-connected-app-logo-hires-RGB.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/NewConfigureWidget.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/EnableAssetRemoteControl.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/TicketCannedResponse.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/M365Success2.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/M365Permissions.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/M365SignIn.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/ConfigureM365.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/XeroSampleInvoice.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/DATA_FLOW_XERO.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/XeroCurrency.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/XeroInvoice.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/DisconnectXero.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/AccountingServiceColumn.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/XeroUserConsent.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/QBOConnect.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/QBOLogin.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewConfigureWidget.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/AssetListAndFilterWidget.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/RemoteSessionFromAssetList.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/AssetListAndFilterWidgets.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/LinkAssetWidgets.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/TCFromAssetList.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/TCFromTicket.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/EditAssetFromWorkspace.png" />
 </UrlList>

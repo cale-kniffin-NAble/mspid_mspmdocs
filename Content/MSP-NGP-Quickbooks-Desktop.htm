@@ -1,51 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
-    </head>
+    <head />
     <body>
         <h1>Integrate <MadCap:variable name="MSPManager.ProductName_Long" /> with QuickBooks Desktop and export your invoices</h1>
         <p>Follow the steps below to set up the integration between your Quickbooks Desktop and <MadCap:variable name="MSPManager.ProductName_Long" /> accounts. </p>
         <p class="warning">Disable the pop-up blocker in your browser before getting started.</p>
-        <h3>Configure QuickBooks Desktop integration with <MadCap:variable name="MSPManager.ProductName_Long" /></h3>
+        <h2>Configure QuickBooks Desktop integration with <MadCap:variable name="MSPManager.ProductName_Long" /></h2>
         <ol>
-            <li>Launch QuickBooks Desktop, and from the top menu select <span class="ButtonMenuNote">Lists</span> &gt; <span class="ButtonMenuNote">Item List</span> to open the list of items in your QuickBooks Chart of Accounts.</li>
-            <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, navigate to <span class="ButtonMenuNote">Settings</span> &gt; <b>Company Settings</b> &gt; <span class="ButtonMenuNote">Integrations</span> &gt; <span class="ButtonMenuNote">Configure QuickBooks Desktop</span>.</li>
-            <li>Click <span class="ButtonMenuNote">Add a QuickBooks Desktop Item</span> to add an item or sub-item from QuickBooks. </li>
+            <li>Launch QuickBooks Desktop, and from the top menu select <span class="Term">Lists</span> &gt; <span class="Term">Item List</span> to open the list of items in your QuickBooks Chart of Accounts.</li>
+            <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, navigate to <span class="Term">Settings</span> &gt; <b>Company Settings</b> &gt; <span class="Term">Integrations</span> &gt; <span class="Term">Configure QuickBooks Desktop</span>.</li>
+            <li>Click <span class="Term">Add a QuickBooks Desktop Item</span> to add an item or sub-item from QuickBooks. </li>
             <p class="nugget">If you are mapping to an item that is a sub-item, manually enter the item in the following format: <b>Item name:Sub-item name</b></p>
             <li>Refer back to the Item List in QuickBooks Chart of Accounts, and add an item in <MadCap:variable name="MSPManager.ProductName_Long" /> for each item in Quickbooks. </li>
             <p class="warning">The names of items in QuickBooks and <MadCap:variable name="MSPManager.ProductName_Long" /> must match exactly, including spacing and capitalization, to successfully export invoices to QuickBooks Desktop. </p>
             <p class="info">If you have additional items in QuickBooks that are not covered by the Default Mappings options, you can <a href="MSP-Override-default-mappings-to-accounting-software.htm"><a href="MSP-Override-default-mappings-to-accounting-software.htm">override the defaults to map additional QuickBooks items to rates or expenses in <MadCap:variable name="MSPManager.ProductName_Long" />.</a> </a></p>
-            <li>In the <span class="ButtonMenuNote">Default Mappings</span> area, map each line item to the defaults listed, and select <span class="ButtonMenuNote">Save Default Mappings</span></li>
+            <li>In the <span class="Term">Default Mappings</span> area, map each line item to the defaults listed, and select <span class="Term">Save Default Mappings</span>.</li>
         </ol>
-        <h2><span style="color: #b22222;">New integration steps</span>
-        </h2>
-        <ol MadCap:conditions="Default.comment">
-            <li>In the <span class="ButtonMenuNote">Default Mapping</span> tab, select a default item for each category.</li>
-            <li>Navigate to the <b>Services</b> tab and use the filters on the left to view specific <MadCap:variable name="MSPManager.ProductName_Long" /> Item Types (Service Plans, Service Items, Rate Templates or Rates). You can also filter the list of services by <MadCap:variable name="MSPManager.ProductName_Long" /> Customer or Template, QuickBooks Category or Mapping Status.</li>
-            <li>Hover your cursor over the <b>Accounting Service</b> column, click the edit <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;" /> button and select an item from the list to map to each MSPM Item in the list. This overrides any default mapping previously configured and allows a specific rate or rate template, for instance, to be mapped directly to an item in QuickBooks. </li>
-            <li>Click the <img src="Resources/Images/MSPManagerIcons/EditWidget.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;" /> button and select <b>Edit</b> next to any item in the list to view and edit that item. Use the <b>Mapped Item</b> field at the bottom of the Service Item/Rate editor window to select a QuickBooks Online Item. This allows you to map a specific service plan, service item, or individual rates  to a specific accounting item. </li>
-            <li>Select an item from the <b>Accounting Service</b> column to map to each <b>MSPM Item</b> in the list. This overrides any default mapping previously configured and allows a specific rate or rate template, for instance, to be mapped directly to an item in QuickBooks. </li>
-            <li>Use the <b>Mapping Status</b> filter to view inactive QuickBooks items, or <MadCap:variable name="MSPManager.ProductName_Long" /> items that are missing a mapped accounting item or that have been successfully mapped. You can use the additional filters to view only <MadCap:variable name="MSPManager.ProductName_Long" /> Item types or Customers. Select one or more Service Plans from the <MadCap:variable name="MSPManager.ProductName_Long" /> Template filter </li>
-            <li>When all items in <MadCap:variable name="MSPManager.ProductName_Long" /> are successfully mapped to the appropriate accounting items in QuickBooks, navigate to the <b>Default Mapping</b> tab and click <b>Save</b>.</li>
-        </ol>
-        <h3>Export an invoice to QuickBooks Desktop for the first time</h3>
+        <h2>Export an invoice to QuickBooks Desktop for the first time</h2>
         <p>Make sure QuickBooks is open and your company file is selected.</p>
         <ol>
-            <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, navigate to <span class="ButtonMenuNote">Billing</span> and <a href="MSP-NGP-Run-a-billing-batch.htm">create and run a new billing batch</a>. You can also select an existing billing batch and navigate to the <span class="ButtonMenuNote">Review &amp;&#160;Export Invoices</span> tab.</li>
-            <li>Select <span class="ButtonMenuNote">QuickBooks Desktop</span> from the <span class="ButtonMenuNote">Export Format</span> list, and click <span class="ButtonMenuNote">Export Invoices</span>. This adds the invoices to a queue where the Quickbooks web connector can find and export them to Quickbooks. </li>
-            <li>Select the <span class="ButtonMenuNote">QuickBooks Web Connector</span> link to download the QWC file.</li>
-            <li>Open the downloaded QWC file and select <span class="ButtonMenuNote">OK</span>to authorize <MadCap:variable name="MSPManager.ProductName_Long" /> to connect with QuickBooks.</li>
-            <li>In the <span class="ButtonMenuNote">Application Certificate</span> window, select <span class="ButtonMenuNote">Yes, Always Allow Access Even If QuickBooks Is Not&#160;Running</span>, and click <span class="ButtonMenuNote">Continue</span> &gt; <span class="ButtonMenuNote">Done</span>.</li>
-            <li>In the <span class="ButtonMenuNote">QuickBooks Web Connector</span>, enter your <MadCap:variable name="MSPManager.ProductName_Long" /> password in the <span class="ButtonMenuNote">MSPManagerService</span> field.</li>
-            <li>Click in a blank portion of the window to confirm the addition of your password, and select <span class="ButtonMenuNote">Yes</span>to save the password.</li>
-            <li>Select the <span class="ButtonMenuNote">MSPManagerService</span> check box, and choose <span class="ButtonMenuNote">Update Selected</span>. This activates the web connector, locates the invoices waiting in the queue and exports them to Quickbooks. </li>
+            <li>In <MadCap:variable name="MSPManager.ProductName_Long" />, navigate to <span class="Term">Billing</span> and <a href="MSP-NGP-Run-a-billing-batch.htm">create and run a new billing batch</a>. You can also select an existing billing batch and navigate to the <span class="Term">Review &amp;&#160;Export Invoices</span> tab.</li>
+            <li>Select <span class="Term">QuickBooks Desktop</span> from the <span class="Term">Export Format</span> list, and click <span class="Term">Export Invoices</span>. This adds the invoices to a queue where the Quickbooks web connector can find and export them to Quickbooks. </li>
+            <li>Select the <span class="Term">QuickBooks Web Connector</span> link to download the QWC file.</li>
+            <li>Open the downloaded QWC file and select <span class="Term">OK</span>to authorize <MadCap:variable name="MSPManager.ProductName_Long" /> to connect with QuickBooks.</li>
+            <li>In the <span class="Term">Application Certificate</span> window, select <span class="Term">Yes, Always Allow Access Even If QuickBooks Is Not&#160;Running</span>, and click <span class="Term">Continue</span> &gt; <span class="Term">Done</span>.</li>
+            <li>In the <span class="Term">QuickBooks Web Connector</span>, enter your <MadCap:variable name="MSPManager.ProductName_Long" /> password in the <span class="Term">MSPManagerService</span> field.</li>
+            <li>Click in a blank portion of the window to confirm the addition of your password, and select <span class="Term">Yes</span>to save the password.</li>
+            <li>Select the <span class="Term">MSPManagerService</span> check box, and choose <span class="Term">Update Selected</span>. This activates the web connector, locates the invoices waiting in the queue and exports them to Quickbooks. </li>
         </ol>
-        <h3>Export an invoice to QuickBooks Desktop moving forward</h3>
+        <h2>Export an invoice to QuickBooks Desktop moving forward</h2>
         <ol>
-            <li>Navigate to <span class="ButtonMenuNote">Billing</span>, and <a href="MSP-NGP-Run-a-billing-batch.htm">run a billing batch</a>.</li>
-            <li>Select <span class="ButtonMenuNote">QuickBooks Desktop</span> from the <span class="ButtonMenuNote">Export Format</span> list, and click <span class="ButtonMenuNote">Export Invoices</span>.</li>
-            <li>In the <span class="ButtonMenuNote">QuickBooks Web Connector</span>, select <span class="ButtonMenuNote">Update Selected</span> to run the web connector.</li>
+            <li>Navigate to <span class="Term">Billing</span>, and <a href="MSP-NGP-Run-a-billing-batch.htm">run a billing batch</a>.</li>
+            <li>Select <span class="Term">QuickBooks Desktop</span> from the <span class="Term">Export Format</span> list, and click <span class="Term">Export Invoices</span>.</li>
+            <li>In the <span class="Term">QuickBooks Web Connector</span>, select <span class="Term">Update Selected</span> to run the web connector.</li>
         </ol>
         <p>When the QuickBooks web connector finishes running, your invoices are available instantly in QuickBooks Desktop.</p>
     </body>

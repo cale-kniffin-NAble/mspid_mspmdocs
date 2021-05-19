@@ -6,9 +6,7 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
-      Url="Content/MSP-Bulk-enable-portal-user.htm" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
     <Link
@@ -17,14 +15,14 @@
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/MSP-Bulk-enable-portal-user.htm" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
-      Url="Content/MSP-Bulk-enable-portal-user.htm" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
     <Link
@@ -33,6 +31,8 @@
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/MSP-Bulk-enable-portal-user.htm" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
   </LongLinks>
@@ -53,6 +53,6 @@
   </AllConditions>
   <Stylesheets>
     <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

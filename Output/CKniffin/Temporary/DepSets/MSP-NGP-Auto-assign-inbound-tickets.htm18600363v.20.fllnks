@@ -6,7 +6,7 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
@@ -15,8 +15,6 @@
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
-    <Link
-      Url="Content/MSP-Workflows-and-routing-rules.htm" />
     <Link
       Url="Content/MSP-NGP-Rate-users-and-groups-into-teams.htm" />
     <Link
@@ -24,7 +22,7 @@
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
@@ -33,8 +31,6 @@
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
-    <Link
-      Url="Content/MSP-Workflows-and-routing-rules.htm" />
     <Link
       Url="Content/MSP-NGP-Rate-users-and-groups-into-teams.htm" />
     <Link
@@ -58,6 +54,6 @@
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

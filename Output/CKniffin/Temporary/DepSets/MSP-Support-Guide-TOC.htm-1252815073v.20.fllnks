@@ -8,8 +8,6 @@
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/MSP-Billing-errors.htm" />
     <Link
       Url="Content/MSP-Delete-service-item-will-delete-tickets.htm" />
@@ -27,8 +25,6 @@
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/MSP-Billing-errors.htm" />
     <Link
@@ -59,8 +55,5 @@
     <Condition
       Tag="Default.comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

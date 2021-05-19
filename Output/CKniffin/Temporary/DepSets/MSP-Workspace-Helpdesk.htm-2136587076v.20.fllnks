@@ -6,6 +6,8 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspacesHelpdesk.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspaceTicketFilterHover.png" />
@@ -19,11 +21,15 @@
       Url="Content/MSP-Bulk-merge-tickets.htm" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspaceTicketCommands.png" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
     <Link
       Url="Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
   </Links>
   <LongLinks>
     <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspacesHelpdesk.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspaceTicketFilterHover.png" />
@@ -37,6 +43,8 @@
       Url="Content/MSP-Bulk-merge-tickets.htm" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspaceTicketCommands.png" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
     <Link
       Url="Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
   </LongLinks>
@@ -49,5 +57,8 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>

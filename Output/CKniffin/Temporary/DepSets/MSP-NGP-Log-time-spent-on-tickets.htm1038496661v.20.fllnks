@@ -6,27 +6,27 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
       Url="Content/MSP-NGP-Create-a-quick-ticket.htm" />
     <Link
-      Url="Content/MSP-Start-timer-from-inside-ticket.htm" />
+      Url="Content/MSP-NGP-Start-timer-from-inside-ticket.htm" />
     <Link
-      Url="Content/MSP-Start-timer-from-ticket-list.htm" />
+      Url="Content/MSP-NGP-Start-timer-from-ticket-list.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
       Url="Content/MSP-NGP-Create-a-quick-ticket.htm" />
     <Link
-      Url="Content/MSP-Start-timer-from-inside-ticket.htm" />
+      Url="Content/MSP-NGP-Start-timer-from-inside-ticket.htm" />
     <Link
-      Url="Content/MSP-Start-timer-from-ticket-list.htm" />
+      Url="Content/MSP-NGP-Start-timer-from-ticket-list.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -42,6 +42,6 @@
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

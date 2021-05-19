@@ -8,10 +8,6 @@
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
-    <Link
-      Url="Content/Resources/Images/MSPManagerIcons/EditWidget.png" />
-    <Link
       Url="Content/MSP-NGP-Run-a-billing-batch.htm" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
@@ -19,10 +15,6 @@
   <LongLinks>
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
-    <Link
-      Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
-    <Link
-      Url="Content/Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Link
       Url="Content/MSP-NGP-Run-a-billing-batch.htm" />
     <Link
