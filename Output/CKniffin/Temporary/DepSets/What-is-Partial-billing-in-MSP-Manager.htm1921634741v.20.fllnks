@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Bill-for-partially-complete-tickets.htm" />
+    <Link
+      Url="Content/kb/What-is-Partial-billing-in-MSP-Manager.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Bill-for-partially-complete-tickets.htm?Highlight=partial%20billing" />
+    <Link
+      Url="Content/kb/What-is-Partial-billing-in-MSP-Manager.htm?submitted=1#idea-tab-comments" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_mspm_short" />
+    <Variable
+      Name="General.ProductName_mspm" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

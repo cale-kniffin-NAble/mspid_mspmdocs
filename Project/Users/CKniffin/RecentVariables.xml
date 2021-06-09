@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ObjectList>
     <Object Value="Documents.ProductShortName" />
+    <Object Value="General.ProductName_msp_cn" />
     <Object Value="General.ProductName_mspm_short" />
     <Object Value="MSPManager.CompanySSO" />
-    <Object Value="General.ProductName_msp_cn" />
     <Object Value="General.Company" />
     <Object Value="MSPManager.Company" />
     <Object Value="MSPManager.ProductName_mspm_short" />

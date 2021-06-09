@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalStyleCache
-  SavedSource="file:///C:/Bitbucket/mspid_mspmdocs/Output/CKniffin/Temporary/GlobalStyleSet v.2.xml">
+  SavedSource="file:///C:/GitHub/mspid_mspmdocs/Output/CKniffin/Temporary/GlobalStyleSet v.2.xml">
   <Media>
     <Medium
       Name="print" />
@@ -1147,10 +1147,10 @@
     <Url
       Source="Resources/TableStyles/RefTable.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 16/Flare.app/Resources/Schemas/xhtml.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 17/Flare.app/Resources/Schemas/xhtml.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 16/Flare.app/Resources/Schemas/MadCapEditor.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 17/Flare.app/Resources/Schemas/MadCapEditor.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 16/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
+      Source="../../../Program Files/MadCap Software/MadCap Flare 17/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
   </SourceUrls>
 </CatapultGlobalStyleCache>

@@ -1,6 +1,6 @@
 /*<meta />*/
 
-@import url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Stylesheets/N-ABLE_Structure.css');
+@import url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Stylesheets/N-ABLE_Structure.css');
 
 /*
 @font-face {
@@ -87,7 +87,7 @@ div.turq-line
 
 div.topicheroslim
 {
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/SWI_curvy-tile.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/SWI_curvy-tile.png');
 	background-repeat: repeat;
 	padding-top: 0;
 	padding-bottom: 20px;
@@ -650,7 +650,7 @@ div.first_table
 	background-position: 2px 2px;
 	background-color: #e9f3f7;
 	border: 1px solid #258fb0;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/info.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/info.png');
 	overflow: hidden;
 	padding: 5px 15px 5px 28px;
 	margin-bottom: 5px;
@@ -663,7 +663,7 @@ div.first_table
 	background-position: 2px 2px;
 	background-color: #e5f6ed;
 	border: 1px solid #00a753;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/nugget.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/nugget.png');
 	overflow: hidden;
 	padding: 5px 15px 5px 28px;
 	margin-bottom: 5px;
@@ -699,7 +699,7 @@ div.first_table
 	padding: 5px 15px 5px 30px;
 	background-color: #fef9ea;
 	border: 1px solid #fdc32b;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/warning.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/warning.png');
 	overflow: hidden;
 	margin-bottom: 5px;
 	page-break-inside: avoid;

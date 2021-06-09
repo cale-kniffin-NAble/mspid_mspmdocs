@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated N-ABLE_Troubleshooting.fltar" Date="2021-03-26T17:14:38.7704214-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_Troubleshooting.fltar" Date="2021-06-09T15:21:04.9345569-05:00">
     <Messages>Compiling target N-ABLE_Troubleshooting...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Default.Online
@@ -15,151 +15,153 @@ Generating output files...
 Processing topic: StartPages\TroubleshootingPage\TroubleshootingStart.htm...
 Processing CSS: Resources\Stylesheets\N-ABLE_CustomStyles.css...
 Processing CSS: Resources\Stylesheets\N-ABLE_Structure.css...
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\7.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\8.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\9.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\10.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\11.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\12.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\13.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\14.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\15.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\16.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\17.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\18.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\19.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\20.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\21.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\22.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\23.png
-Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\24.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\7.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\8.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\9.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\10.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\11.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\12.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\13.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\14.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\15.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\16.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\17.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\18.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\19.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\20.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\21.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\22.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\23.png
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\24.png
 Processing CSS: Resources\Stylesheets\N-ABLE_StartPageTroubleshooting.css...
+Use of undefined variable MSPManager.email_test.
 Topic marked 'not searchable': StartPages\TroubleshootingPage\TroubleshootingStart.htm...
 Applying master page N-ABLE_StartPages.flmsp...
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/QuickLinks/QuickLinksStart.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/Default.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Default.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/QuickLinks/QuickLinksStart.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/Default.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Default.htm.
 Processing sub-toc: N-ABLE_TOC.fltoc...
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Welcome-to-MSPManager.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Getting-started.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Users.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Multifactor-authentication.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Create-customer-access-groups.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Roles-and-permissions.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Company-Dashboard.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-FAQ.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Adjust-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Bill-for-a-recurring-service.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Billing-errors.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Billing-scenarios.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Hour-retainer-with-overage.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Hourly-support.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Managed-desktops-or-servers.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Monthly-fee-with-additional-hourly-rate.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Off-site-backup.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-One-time-fee.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Project-estimate-with-hourly-rates.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Change-the-currency-date-format-and-time-zone.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Set-up-SPF-for-MSPM.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-a-contract-that-does-not-expire.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Override-default-mappings-to-accounting-software.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Reveal-any-password-with-the-owner-secret.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Set-customers-as-inactive.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Set-individual-services-as-taxable-or-not.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Share-internal-knowledge-about-your-company.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Store-resolutions-to-common-customer-issues.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Ticket-routing-with-multiple-locations.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Troubleshoot-your-ticket-mailbox.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Turn-inbound-email-into-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Bill-your-customers-to-collect-revenue.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Program-levels-Service-plans-Service-items.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Service-plans.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Charge-for-your-work-with-Service-items.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Project-billing.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Flat-fee-service-items.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Retainer-Service-Items.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Define-your-prices-with-rates.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Bill-for-partially-complete-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Run-a-billing-batch.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Delete-service-items-will-delete-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Restore-deleted-service-items.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Ticketing.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workspace-Helpdesk.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Auto-assign-inbound-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Prerequisites-for-ticket-routing.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Define-rules-for-ticket-routing.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Rate-users-and-groups-into-teams.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-How-are-users-scored-for-ticket-routing.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Ticketing-features.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Add-responses-to-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Ticket-tasks.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Ticket-merging.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Bulk-merge-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Schedule-recurring-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Add-CustomerLocationContact-on-the-fly.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Add-canned-responses-to-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Custom-ticket-fields.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workflows-and-routing-rules.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workflow-conditions-actions-tables.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workflow-Assign-Technician-Action.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workflow-use-cases.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Configure-ticket-mailbox.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-M365-configuration.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Bulk-enable-portal-user.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Log-time-spent-on-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Create-a-quick-ticket.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Start-timer-from-inside-ticket.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Start-timer-from-ticket-list.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-custom-ticket-status.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Ticket-Search.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Time-entry-rounding.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Ticket-queues.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Archive-tickets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Integrations.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Accounting-software-integration.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Quickbooks-desktop-integration-folder.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Quickbooks-Desktop.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Support-Quickbooks-1039-error.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Support-remove-QB-webconnector.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Quickbooks-online-integration-folder.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Quickbooks-Online-integration.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Quickbooks-tax.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Xero-integration.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Xero-accounting.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-CSV-billing-export.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Setup-Ncentral-integration.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-export-assets-from-Ncentral.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Launch-TC-session.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Configure-M365-integration.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Knowledge-and-Workspaces.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workspaces-Management.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workspaces-edit-widgets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Workspace-filtering.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Share-knowledge-with-your-team.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Create-custom-knowledge-types.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Import-passwords-to-custom-knowledge.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-SLA.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Assets.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Create-asset-classes-and-statuses.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Custom-Asset-fields.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Asset-tags.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Notifications.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Set-notifications-for-system-and-user-actions.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-HTML-and-plain-text-notifications.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Browser-Push-Notifications.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-Scheduling-and-Reports.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Schedule-your-workday-with-appointments.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/Content/MSP-NGP-Run-reports-to-track-business.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Welcome-to-MSPManager.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Getting-started.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Users.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Multifactor-authentication.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Create-customer-access-groups.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Roles-and-permissions.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Company-Dashboard.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-FAQ.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Adjust-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Bill-for-a-recurring-service.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Billing-errors.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Billing-scenarios.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Hour-retainer-with-overage.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Hourly-support.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Managed-desktops-or-servers.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Monthly-fee-with-additional-hourly-rate.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Off-site-backup.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-One-time-fee.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Project-estimate-with-hourly-rates.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Change-the-currency-date-format-and-time-zone.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Set-up-SPF-for-MSPM.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Create-a-contract-that-does-not-expire.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Override-default-mappings-to-accounting-software.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Reveal-any-password-with-the-owner-secret.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Set-customers-as-inactive.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Set-individual-services-as-taxable-or-not.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Share-internal-knowledge-about-your-company.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Store-resolutions-to-common-customer-issues.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Ticket-routing-with-multiple-locations.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Troubleshoot-your-ticket-mailbox.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Turn-inbound-email-into-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Bill-your-customers-to-collect-revenue.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Program-levels-Service-plans-Service-items.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Service-plans.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Charge-for-your-work-with-Service-items.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Project-billing.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Flat-fee-service-items.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Retainer-Service-Items.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Define-your-prices-with-rates.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Bill-for-partially-complete-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Run-a-billing-batch.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Delete-service-items-will-delete-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Restore-deleted-service-items.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Ticketing.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Workspace-Helpdesk.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Auto-assign-inbound-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Prerequisites-for-ticket-routing.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Define-rules-for-ticket-routing.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Rate-users-and-groups-into-teams.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-How-are-users-scored-for-ticket-routing.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Ticketing-features.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Add-responses-to-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Ticket-tasks.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Ticket-merging.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Bulk-merge-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Schedule-recurring-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Add-CustomerLocationContact-on-the-fly.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Add-canned-responses-to-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Custom-ticket-fields.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Workflows-and-routing-rules.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Workflow-conditions-actions-tables.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Workflow-Assign-Technician-Action.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Workflow-use-cases.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Configure-ticket-mailbox.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-M365-configuration.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Bulk-enable-portal-user.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Log-time-spent-on-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Create-a-quick-ticket.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Start-timer-from-inside-ticket.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Start-timer-from-ticket-list.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Create-custom-ticket-status.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Ticket-Search.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Time-entry-rounding.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Ticket-queues.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Archive-tickets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Integrations.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Accounting-software-integration.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Quickbooks-desktop-integration-folder.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Quickbooks-Desktop.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Support-Quickbooks-1039-error.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Support-remove-QB-webconnector.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Quickbooks-online-integration-folder.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Quickbooks-Online-integration.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Quickbooks-tax.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Xero-integration.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Xero-FAQ.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Xero-accounting.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-CSV-billing-export.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Setup-Ncentral-integration.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-export-assets-from-Ncentral.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Launch-TC-session.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Configure-M365-integration.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Knowledge-and-Workspaces.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Workspaces-Management.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Workspaces-edit-widgets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Workspace-filtering.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Share-knowledge-with-your-team.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Create-custom-knowledge-types.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Import-passwords-to-custom-knowledge.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-SLA.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Assets.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Create-asset-classes-and-statuses.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Custom-Asset-fields.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Asset-tags.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Notifications.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Set-notifications-for-system-and-user-actions.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-HTML-and-plain-text-notifications.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Browser-Push-Notifications.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Scheduling-and-Reports.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Schedule-your-workday-with-appointments.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-NGP-Run-reports-to-track-business.htm.
 Image right.png was not found.
 Generated StartPages\TroubleshootingPage\TroubleshootingStart.htm
 Processing topic: kb\Add-Google-SSO-as-Option-to-Login-for-MSP-Manager.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Excluded from output:file:///C:/Bitbucket/mspid_mspmdocs/QuickLinks/QuickLinksStart.htm.
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/QuickLinks/QuickLinksStart.htm.
 Generated kb\Add-Google-SSO-as-Option-to-Login-for-MSP-Manager.htm
 Processing topic: kb\Add-inbound-request-to-an-existing-ticket-in-MSP-Manager.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
@@ -180,18 +182,18 @@ Processing topic: kb\Add-to-the-Type-of-work-list-in-MSP-Manager.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Add-to-the-Type-of-work-list-in-MSP-Manager.htm
 Processing topic: kb\Are-time-entries-shown-in-a-ticket-when-they-are-viewed-through-customer-portal.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Are-time-entries-shown-in-a-ticket-when-they-are-viewed-through-customer-portal.htm
 Processing topic: kb\Assets-are-missing-from-a-customer-in-MSP-Manager-after-SolarWinds-RMM-Integration.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Assets-are-missing-from-a-customer-in-MSP-Manager-after-SolarWinds-RMM-Integration.htm
 Processing topic: kb\Assign-a-specific-ticket-mailbox-to-a-specific-user-team-or-queue.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Assign-a-specific-ticket-mailbox-to-a-specific-user-team-or-queue.htm
 Processing topic: kb\Auto-assign-a-contact-to-CC-field-for-all-ticket-responses-for-a-Customer-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Auto-assign-a-contact-to-CC-field-for-all-ticket-responses-for-a-Customer-in-MSP-Manager.htm
 Processing topic: kb\Auto-Close-MSP-Manager-tickets-created-by-Remote-Monitoring-and-Management-dashboard.htm...
@@ -237,7 +239,7 @@ Processing topic: kb\Can-end-users-attach-files-to-tickets-before-they-are-creat
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Can-end-users-attach-files-to-tickets-before-they-are-created-by-a-MSP-Manager-user.htm
 Processing topic: kb\Can-I-change-the-frequency-that-I-receive-daily-notifications-regarding-expiring-Service-Items.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Can-I-change-the-frequency-that-I-receive-daily-notifications-regarding-expiring-Service-Items.htm
 Processing topic: kb\Can-MSP-Manager-route-tickets-based-upon-the-email-address-that-is-used-for-the-mailbox.htm...
@@ -250,7 +252,7 @@ Processing topic: kb\Cannot-change-Customer-when-editing-MSP-Manager-ticket.htm.
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Cannot-change-Customer-when-editing-MSP-Manager-ticket.htm
 Processing topic: kb\Cannot-remove-all-assets-from-RMM-ticket-routing.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Cannot-remove-all-assets-from-RMM-ticket-routing.htm
 Processing topic: kb\Cannot-Uninstall-PSA-integration-There-were-errors-while-trying-to-process-your-request-Uninstall-PSA-failed.htm...
@@ -266,7 +268,7 @@ Processing topic: kb\Can-you-integrate-MSP-Manager-to-Solarwinds-Remote-Monitori
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Can-you-integrate-MSP-Manager-to-Solarwinds-Remote-Monitoring-and-Management.htm
 Processing topic: kb\Can-you-make-other-ticket-fileds-mandatory-in-MSP-manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Can-you-make-other-ticket-fileds-mandatory-in-MSP-manager.htm
 Processing topic: kb\Can-you-map-a-rate-to-a-User-in-MSP-Manager.htm...
@@ -279,7 +281,7 @@ Processing topic: kb\Change-billing-of-a-customer-from-Monthly-to-Quarterly-base
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Change-billing-of-a-customer-from-Monthly-to-Quarterly-based-billing-period.htm
 Processing topic: kb\Change-displayed-hours-in-Scheduling-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Change-displayed-hours-in-Scheduling-in-MSP-Manager.htm
 Processing topic: kb\Change-the-Customer-on-an-Existing-Ticket.htm...
@@ -421,7 +423,7 @@ Processing topic: kb\Export-to-QuickBooks-Online-failing-indicating-no-tax-codes
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Export-to-QuickBooks-Online-failing-indicating-no-tax-codes-specified.htm
 Processing topic: kb\Forgot-the-Owner-Secret-password.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\OpenTechSuppCase.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\OpenTechSuppCase.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Forgot-the-Owner-Secret-password.htm
 Processing topic: kb\Formatting-is-off-when-opening-a-MSP-Manager-CSV-when-in-Europe.htm...
@@ -443,7 +445,7 @@ Processing topic: kb\How-can-I-stop-the-timer-on-a-ticket-that-was-initiated-by-
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\How-can-I-stop-the-timer-on-a-ticket-that-was-initiated-by-a-disabled-user.htm
 Processing topic: kb\How-can-you-customize-invoices-to-include-notes-on-tickets.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\How-can-you-customize-invoices-to-include-notes-on-tickets.htm
 Processing topic: kb\How-can-you-prevent-MSP-Manager-customers-syncing-to-RMM.htm...
@@ -555,7 +557,7 @@ Processing topic: kb\How-to-create-ticket-queues-in-MSP-Manager.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\How-to-create-ticket-queues-in-MSP-Manager.htm
 Processing topic: kb\How-to-create-tickets-for-single-customer-using-multiple-domains-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\How-to-create-tickets-for-single-customer-using-multiple-domains-in-MSP-Manager.htm
 Processing topic: kb\How-to-delete-a-Customer-in-MSP-Manager.htm...
@@ -657,6 +659,9 @@ Generated kb\How-to-view-Contact-s-name-on-Open-Ticket-view-in-MSP-Manager.htm
 Processing topic: kb\How-to-view-the-Knowledge-Tab-on-the-MSP-Manager-mobile-app.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\How-to-view-the-Knowledge-Tab-on-the-MSP-Manager-mobile-app.htm
+Processing topic: kb\Images-in-MSP-Manager-added-to-blob-storage.htm...
+Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
+Generated kb\Images-in-MSP-Manager-added-to-blob-storage.htm
 Processing topic: kb\Importing-customer-list-from-N-Central-to-MSP-Manager-fails.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Importing-customer-list-from-N-Central-to-MSP-Manager-fails.htm
@@ -685,18 +690,18 @@ Processing topic: kb\Is-MSP-manager-available-in-other-languages.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-MSP-manager-available-in-other-languages.htm
 Processing topic: kb\Is-SAML-authentication-supported-with-SolarWinds-SSO.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-SAML-authentication-supported-with-SolarWinds-SSO.htm
 Processing topic: kb\Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm
 Processing topic: kb\Is-there-any-way-to-send-a-customer-satisfaction-survey-in-MSP-Manager.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-any-way-to-send-a-customer-satisfaction-survey-in-MSP-Manager.htm
 Processing topic: kb\Is-there-a-report-for-tickets-deleted-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-report-for-tickets-deleted-in-MSP-Manager.htm
 Processing topic: kb\Is-there-a-report-to-check-the-status-of-the-retaining-hours-created-in-a-service-item.htm...
@@ -706,7 +711,7 @@ Processing topic: kb\Is-there-a-way-for-Clients-to-see-Asset-information-in-the-
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-way-for-Clients-to-see-Asset-information-in-the-MSP-Manager-portal.htm
 Processing topic: kb\Is-there-a-way-to-add-customer-facing-notes-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-way-to-add-customer-facing-notes-in-MSP-Manager.htm
 Processing topic: kb\Is-there-a-way-to-apply-password-secrets-to-passwords-in-bulk.htm...
@@ -716,15 +721,15 @@ Processing topic: kb\Is-there-a-way-to-backup-MSP-Manager-Data.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-way-to-backup-MSP-Manager-Data.htm
 Processing topic: kb\Is-there-a-way-to-batch-delete-Passwords-from-Knowledge-Legacy-Knowledge-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-way-to-batch-delete-Passwords-from-Knowledge-Legacy-Knowledge-in-MSP-Manager.htm
 Processing topic: kb\Is-there-a-way-to-change-the-Scheduling-clock-format-from-12-to-24-hours.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-way-to-change-the-Scheduling-clock-format-from-12-to-24-hours.htm
 Processing topic: kb\Is-there-a-way-to-export-Knowledge-Passwords-from-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-way-to-export-Knowledge-Passwords-from-MSP-Manager.htm
 Processing topic: kb\Is-there-a-way-to-hide-values-of-rates-in-MSP-Manager.htm...
@@ -737,11 +742,11 @@ Processing topic: kb\Is-there-a-way-to-perform-a-global-search-for-contacts-in-M
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-way-to-perform-a-global-search-for-contacts-in-MSP-Manager.htm
 Processing topic: kb\Is-there-a-way-to-remove-or-move-the-Green-Support-Intercom-buttons-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-there-a-way-to-remove-or-move-the-Green-Support-Intercom-buttons-in-MSP-Manager.htm
 Processing topic: kb\Is-There-a-Way-to-Search-Tickets-by-Search-Terms-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Is-There-a-Way-to-Search-Tickets-by-Search-Terms-in-MSP-Manager.htm
 Processing topic: kb\Is-there-a-way-to-search-within-tickets-in-MSP-Manager.htm...
@@ -772,7 +777,7 @@ Processing topic: kb\MSP-Manager-Add-Location-or-Contact-Permission.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\MSP-Manager-Add-Location-or-Contact-Permission.htm
 Processing topic: kb\MSP-Manager-Assigned-Users-to-Ticket-Queues-functionality.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\MSP-Manager-Assigned-Users-to-Ticket-Queues-functionality.htm
 Processing topic: kb\MSP-Manager-attachment-file-size-limit.htm...
@@ -956,7 +961,7 @@ Processing topic: kb\Sound-file-in-ticket-request-not-downloading-playing.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Sound-file-in-ticket-request-not-downloading-playing.htm
 Processing topic: kb\SQL-timeout-when-creating-new-billing-batch-in-MSP-Manager.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\OpenTechSuppCase.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\OpenTechSuppCase.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\SQL-timeout-when-creating-new-billing-batch-in-MSP-Manager.htm
 Processing topic: kb\Stay-in-sync-with-MSP-Manager-and-SolarWinds-RMM.htm...
@@ -981,7 +986,7 @@ Processing topic: kb\Tickets-created-from-Workflow-rules-are-assigned-to-the-cor
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm
 Processing topic: kb\Ticket-SLA-Report-showing-only-Orange-and-Red-highlights-for-SLO-value-and-not-following-the-SLA-Policy-colors-configured.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Ticket-SLA-Report-showing-only-Orange-and-Red-highlights-for-SLO-value-and-not-following-the-SLA-Policy-colors-configured.htm
 Processing topic: kb\Tickets-missing-from-generated-billing-batch-list.htm...
@@ -991,7 +996,7 @@ Processing topic: kb\Tickets-not-being-received-by-the-ticket-mailbox.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Tickets-not-being-received-by-the-ticket-mailbox.htm
 Processing topic: kb\Ticket-Time-Entry-Format.htm...
-Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
+Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Ticket-Time-Entry-Format.htm
 Processing topic: kb\Time-Entry-not-showing-date-time.htm...
@@ -1144,8 +1149,8 @@ Generating Template Topics...
 Generating Search.htm...
 Topic marked 'not searchable': Search.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Link points outside project file:///C:/Bitbucket/Default.htm
-Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
+Link points outside project file:///C:/GitHub/Default.htm
+Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated Search.htm
 Resolving links in output files...
 Generating Search Database...
@@ -1155,58 +1160,59 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 2238
-Output generated in 3 minute(s) and 24 second(s).
+Ignored Compiler Warnings: 2245
+Output generated in 1 minute(s) and 52 second(s).
 
 Done
-Saving log to "C:\Bitbucket\mspid_mspmdocs\Output\CKniffin\N-ABLE_Troubleshooting\N-ABLE_Troubleshooting.mclog"
+Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_Troubleshooting\N-ABLE_Troubleshooting.mclog"
 </Messages>
     <Warnings>
         <LogEntry Message="Error validating conditional expression: Unrecognized tag: Default.Online&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10052" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\7.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\8.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\9.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\10.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\11.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\12.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\13.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\14.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\15.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\16.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\17.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\18.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\19.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\20.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\21.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\22.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\23.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\24.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\7.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\8.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\9.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\10.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\11.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\12.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\13.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\14.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\15.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\16.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\17.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\18.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\19.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\20.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\21.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\22.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\23.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\24.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm" Message="Use of undefined variable MSPManager.email_test.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10054" />
         <LogEntry File="../../../Project/Skins/N-ABLE_MainSkin.flskn" Message="Image right.png was not found.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="20011" />
-        <LogEntry File="../../../Content/kb/Are-time-entries-shown-in-a-ticket-when-they-are-viewed-through-customer-portal.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Assign-a-specific-ticket-mailbox-to-a-specific-user-team-or-queue.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Auto-assign-a-contact-to-CC-field-for-all-ticket-responses-for-a-Customer-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Can-I-change-the-frequency-that-I-receive-daily-notifications-regarding-expiring-Service-Items.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Cannot-remove-all-assets-from-RMM-ticket-routing.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Can-you-make-other-ticket-fileds-mandatory-in-MSP-manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Change-displayed-hours-in-Scheduling-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Forgot-the-Owner-Secret-password.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\OpenTechSuppCase.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/How-to-create-tickets-for-single-customer-using-multiple-domains-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-SAML-authentication-supported-with-SolarWinds-SSO.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-there-a-report-for-tickets-deleted-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-there-a-way-to-add-customer-facing-notes-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-there-a-way-to-batch-delete-Passwords-from-Knowledge-Legacy-Knowledge-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-there-a-way-to-change-the-Scheduling-clock-format-from-12-to-24-hours.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-there-a-way-to-export-Knowledge-Passwords-from-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-there-a-way-to-remove-or-move-the-Green-Support-Intercom-buttons-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Is-There-a-Way-to-Search-Tickets-by-Search-Terms-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/MSP-Manager-Assigned-Users-to-Ticket-Queues-functionality.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/SQL-timeout-when-creating-new-billing-batch-in-MSP-Manager.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\OpenTechSuppCase.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Ticket-SLA-Report-showing-only-Orange-and-Red-highlights-for-SLO-value-and-not-following-the-SLA-Policy-colors-configured.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/kb/Ticket-Time-Entry-Format.htm" Message="Missing snippet file: C:\Bitbucket\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10056" />
+        <LogEntry File="../../../Content/kb/Are-time-entries-shown-in-a-ticket-when-they-are-viewed-through-customer-portal.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Assign-a-specific-ticket-mailbox-to-a-specific-user-team-or-queue.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Auto-assign-a-contact-to-CC-field-for-all-ticket-responses-for-a-Customer-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Can-I-change-the-frequency-that-I-receive-daily-notifications-regarding-expiring-Service-Items.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Cannot-remove-all-assets-from-RMM-ticket-routing.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Can-you-make-other-ticket-fileds-mandatory-in-MSP-manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Change-displayed-hours-in-Scheduling-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Forgot-the-Owner-Secret-password.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\OpenTechSuppCase.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/How-to-create-tickets-for-single-customer-using-multiple-domains-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-SAML-authentication-supported-with-SolarWinds-SSO.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-there-a-report-for-tickets-deleted-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-there-a-way-to-add-customer-facing-notes-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-there-a-way-to-batch-delete-Passwords-from-Knowledge-Legacy-Knowledge-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-there-a-way-to-change-the-Scheduling-clock-format-from-12-to-24-hours.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-there-a-way-to-export-Knowledge-Passwords-from-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-there-a-way-to-remove-or-move-the-Green-Support-Intercom-buttons-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Is-There-a-Way-to-Search-Tickets-by-Search-Terms-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/MSP-Manager-Assigned-Users-to-Ticket-Queues-functionality.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/SQL-timeout-when-creating-new-billing-batch-in-MSP-Manager.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\OpenTechSuppCase.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Ticket-SLA-Report-showing-only-Orange-and-Red-highlights-for-SLO-value-and-not-following-the-SLA-Policy-colors-configured.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/kb/Ticket-Time-Entry-Format.htm" Message="Missing snippet file: C:\GitHub\mspid_mspmdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10055" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10056" />
     </Warnings>
     <Errors />
 </MadCapLog>

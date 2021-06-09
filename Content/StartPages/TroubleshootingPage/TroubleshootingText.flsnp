@@ -4,25 +4,46 @@
         <link href="../../Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <h1>Popular Topics</h1>
+        <h1> Popular Topics</h1>
         <ul>
             <li>
-                <MadCap:xref href="../../kb/How-to-setup-a-free-MSP-Manager-Trial.htm">How to setup a free <MadCap:variable name="MSPManager.ProductName_Short" /> Trial</MadCap:xref>
+                <MadCap:xref href="../../kb/Do-additional-rates-have-a-line-item-created-for-them-when-exported-to-QuickBooks.htm">Do additional rates have a line item created for them when exported to QuickBooks?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Does-MSP-Manager-automatically-refresh-after-changes-are-made.htm">Does <MadCap:variable name="MSPManager.ProductName_Short" /> automatically refresh after changes are made?</MadCap:xref>
+                <MadCap:xref href="../../kb/ERROR-Opps-500-Internal-server-error.htm">ERROR: Opps! 500 Internal server error!</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm"><MadCap:variable name="MSPManager.ProductName_Short" /> : Can deleted Service Items be recovered?</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager-users-cannot-be-deleted-after-integration-with-RMM.htm">[%=General.ProductName_mspm_short%] users cannot be deleted after integration with RMM</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm">Does <MadCap:variable name="MSPManager.ProductName_Short" /> have an option for a report builder?</MadCap:xref>
+                <MadCap:xref href="../../kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm">Not able to select a contact when editing a ticket in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Exporting-to-Quickbooks-shows-the-error-QuickBooks-error-message-The-specified-name-is-either-invalid-or-of-the-wrong-type.htm">Exporting to Quickbooks shows the error "QuickBooks error message: The specified name is either invalid or of the wrong type."</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager-creates-multiple-tickets-with-N-Central-integration.htm">[%=General.ProductName_mspm_short%] creates multiple tickets with [%=MSPManager.ProductName_nc_short%] integration</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Unable-to-view-customers-in-MSP-Manager-when-set-to-an-Access-Group-MSP-Manager-is-linked-to-RMM.htm">Unable to view customers in [%=General.ProductName_mspm_short%] when set to an Access Group - [%=General.ProductName_mspm_short%] is linked to RMM</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/What-email-address-does-clicking-send-test-email-send-the-email-from-in-MSP-Manager.htm">What email address does clicking "send test email" send the email from in [%=General.ProductName_mspm_short%]?</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm">Tickets created from Workflow rules are assigned to the correct User, however the Status is still "New" and can be viewed using Unassigned Tickets filter</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/SLA-notifications-are-being-sent-for-completed-tickets-stating-Ticket-has-not-been-In-Progress-within-X-hours.htm">SLA notifications are being sent for completed tickets stating "Ticket has not been In Progress within X hours."</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Importing-Customers-into-MSP-Manager-from-N-central.htm">Importing Customers into <MadCap:variable name="MSPManager.ProductName_Short" /> from <MadCap:variable name="MSPManager.N-central" /></MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Ticket-routing-with-multiple-locations.htm">Ticket routing with multiple locations</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/New-tickets-are-being-created-in-MSP-Manager-every-time-a-reply-is-sent.htm">New tickets are being created in [%=General.ProductName_mspm_short%] every time a reply is sent</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/MSP-manager-License-from-trial-to-paid.htm">[%=General.ProductName_mspm_short%] License from trial to paid</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Unable-to-assign-ticket-to-a-User-in-MSP-Manager.htm">Unable to assign ticket to a User in <MadCap:variable name="MSPManager.ProductName_Short" /></MadCap:xref>
@@ -31,7 +52,16 @@
                 <MadCap:xref href="../../kb/New-tickets-are-being-created-in-MSP-Manager-every-time-a-reply-is-sent.htm">New tickets are being created in <MadCap:variable name="MSPManager.ProductName_Short" /> every time a reply is sent</MadCap:xref>
             </li>
             <li>
+                <MadCap:xref href="../../kb/Images-in-MSP-Manager-added-to-blob-storage.htm">Attached images in [%=Documents.ProductShortName%] ticket responses added to Azure blob storage</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Is-there-a-way-to-merge-two-2-Customers-in-MSP-Manager.htm">Is there a way to merge two (2) Customers in [%=General.ProductName_mspm_short%]?</MadCap:xref>
+            </li>
+            <li>
                 <MadCap:xref href="../../kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm">Completed tickets are not showing in <MadCap:variable name="General.ProductName_mspm_short" /> Billing Batch</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm">[%=General.ProductName_mspm_short%]: Cannot Change Existing Help Desk Ticket To Another Customer After Adding Time entries</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm">How can you customize invoices to include notes on tickets?</MadCap:xref>

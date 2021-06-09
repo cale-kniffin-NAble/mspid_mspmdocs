@@ -387,3 +387,15 @@ a.glossaryTerm
 	right: 0;
 }
 
+.xref
+{
+	color: #0079aa;
+	text-decoration: none;
+}
+
+.xref:hover
+{
+	color: #2d5c77;
+	text-decoration: underline;
+}
+

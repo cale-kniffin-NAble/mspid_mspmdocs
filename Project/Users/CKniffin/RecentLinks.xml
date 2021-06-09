@@ -4,7 +4,7 @@
         <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\Resources\Images\MSPMScreenshots\CSVExport.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\MSP-Xero-integration.htm" />
+        <Link Value="C:\GitHub\mspid_mspmdocs\Content\kb\Images-in-MSP-Manager-added-to-blob-storage.htm" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">

@@ -87,7 +87,7 @@ div.turq-line
 
 div.topicheroslim
 {
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/SWI_curvy-tile.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/SWI_curvy-tile.png');
 	background-repeat: repeat;
 	padding-top: 0;
 	padding-bottom: 20px;
@@ -346,7 +346,7 @@ ul
 ul.checklist
 {
 	list-style-type: square;
-	list-style-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/checkbox.gif');
+	list-style-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/checkbox.gif');
 	line-height: 16px;
 	padding-left: 0px;
 	margin-left: 24px;
@@ -642,7 +642,7 @@ div.first_table
 	background-position: 2px 2px;
 	background-color: #e9f3f7;
 	border: 1px solid #258fb0;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/info.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/info.png');
 	overflow: hidden;
 	padding: 5px 15px 5px 28px;
 	margin-bottom: 5px;
@@ -657,7 +657,7 @@ tr:nth-child(even) .info
 	color: #666;
 	background-color: #fff;
 	border: 1px solid #d3e8ef;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/icon_info_flip.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/icon_info_flip.png');
 	overflow: hidden;
 }
 
@@ -667,7 +667,7 @@ tr:nth-child(even) .info
 	background-position: 2px 2px;
 	background-color: #e5f6ed;
 	border: 1px solid #00a753;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/nugget.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/nugget.png');
 	overflow: hidden;
 	padding: 5px 15px 5px 28px;
 	margin-bottom: 5px;
@@ -681,7 +681,7 @@ tr:nth-child(even) .info
 	padding: 5px 15px 5px 30px;
 	background-color: #d3f0cc;
 	border: 1px solid #00D15D;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/icon_check.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/icon_check.png');
 	overflow: hidden;
 }
 
@@ -703,7 +703,7 @@ tr:nth-child(even) .info
 	padding: 5px 15px 5px 30px;
 	background-color: #fef9ea;
 	border: 1px solid #fdc32b;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/warning.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/warning.png');
 	overflow: hidden;
 	margin-bottom: 5px;
 	page-break-inside: avoid;
@@ -716,7 +716,7 @@ tr:nth-child(even) .info
 	padding: 5px 15px 5px 30px;
 	background-color: #F5E6DF;
 	border: 1px solid #DA3838;
-	background-image: url('file:///C:/Bitbucket/mspid_mspmdocs/Content/Resources/Images/icon_error.png');
+	background-image: url('file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Images/icon_error.png');
 }
 
 /*******************************  	 Breadcrumbs */

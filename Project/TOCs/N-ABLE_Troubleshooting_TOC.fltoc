@@ -495,6 +495,9 @@
     Link="/Content/kb/How-to-view-the-Knowledge-Tab-on-the-MSP-Manager-mobile-app.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
+    Link="/Content/kb/Images-in-MSP-Manager-added-to-blob-storage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
     Link="/Content/kb/Importing-customer-list-from-N-Central-to-MSP-Manager-fails.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
