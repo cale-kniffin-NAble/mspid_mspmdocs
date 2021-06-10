@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h1>ShadowProtect SPX no asset information found</h1>
+        <div id="flex">
+            <div id="modified">
+                <h2>Last Modified</h2>
+                <p>Mon Feb 27 18:08 GMT 2017</p>
+            </div>
+            <div id="description"> <h2>Description</h2><p>This article provides information regarding Shadowprotect SPX Monitoring service templates not applying.</p></div> <div id="environment"> <h2>Environment</h2><ul><li><MadCap:variable name="MSPManager.ProductName_nc" /> 10.2 sp1</li><li>ShadowProtect SPX 6.x</li></ul> </div><div id="solution"><h2>Solution</h2><p>In <MadCap:variable name="MSPManager.ProductName_nc_short" /> 10.2 sp1 we included ShadowProtect SPX service template to support ShadowProtect SPX monitoring.</p><h2>Service Templates</h2><ul><li>Shadowprotect SPX Monitoring on Laptops</li><li>Shadowprotect SPX Monitoring on Servers</li><li>Shadowprotect SPX Monitoring on Workstations</li></ul><p>If you apply the service template it throws "no asset information found".</p><h2>Solution:</h2><p>Without credentials, the job list cannot be retrieved/monitored. Apply credentials to the properties for the device, and then add task &gt; update asset info. Wait for discovery to complete, then reapply the template.</p><div MadCap:conditions="Default.Ignore"><p>Immediate workaround:</p><img class="internal" alt="" height="285px" src="/resource/9999999999999/clipboardImages/clipboard_e633ec60a0a16f86ae87f694a5b4af651" style="width: 786px;height: 285px;" width="786px" /></div><p>Workaround:</p><ol><li>Add the service manually on the device.</li><li>Go to Device &gt; Monitoring &gt; click add &gt; ShadowProtect SPX.</li><li>Click on the service, then service details, and then input the credentials and job name for shadowprotect SPX.</li><li>Click save.</li></ol></div><div MadCap:conditions="Default.Ignore"><img class="internal" alt="" height="53px" src="/resource/9999999999999/clipboardImages/clipboard_e705d0017c3bcd2bc3ce97c9665699888" style="width: 436px;height: 53px;" width="436px" /></div><div MadCap:conditions="Default.Ignore"><img class="internal" alt="" height="409px" src="/resource/9999999999999/clipboardImages/clipboard_e7206b84c63d2e7eb885f6c6987c1eeab" style="width: 462px;height: 409px;" width="462px" /></div><div MadCap:conditions="Default.Ignore"><img class="internal" alt="" height="361px" src="/resource/9999999999999/clipboardImages/clipboard_e5087bf4dbcf4713dbb54fb6cc7b3d585" style="width: 608px;height: 361px;" width="608px" /></div></div>
+        <div id="internal"> <div MadCap:conditions="Default.Ignore"><p><b>Article Number:</b> 112139</p><p><b>Internal notes:</b> Page tags:, article:information, visibility:internal-only, stage:approved, asset, n-able, n-central, shadowprotect, spx</p><p /></div></div>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h1>Unable to view customers in <MadCap:variable name="General.ProductName_mspm_short" /> when set to an Access Group - <MadCap:variable name="General.ProductName_mspm_short" /> is linked to RMM</h1> <div id="flex">
+        <div id="modified"> <h2>Last Modified</h2>
+        <p>Thu Apr 25 16:27 GMT 2019</p>
+        </div> <div id="description"> <h2>Description</h2>
+        <ul>
+            <li>Unable to view customers in <MadCap:variable name="General.ProductName_mspm_short" /> when set to an Access Group - <MadCap:variable name="General.ProductName_mspm_short" /> is linked to RMM</li>
+            <li>These customers are only in <MadCap:variable name="General.ProductName_mspm_short" /> and are not shown in RMM</li>
+            <li>The Access group was created in RMM</li>
+        </ul>
+        </div> <div id="environment"> <h2>Environment</h2>
+        <ul>
+            <li><MadCap:variable name="General.ProductName_mspm" /></li>
+            <li>RMM Integrated</li>
+            <li>Access Groups</li>
+        </ul>
+        </div> <div id="solution"> <h2>Solution</h2>
+        <ul>
+            <li>This has happened because the Access Group that was created from the RMM Client Group doesn't know about the Standalone Customers in <MadCap:variable name="General.ProductName_mspm_short" /></li>
+            <li>To resolve this:<ol><li>Have a user with Admin permissions log in to <MadCap:variable name="General.ProductName_mspm_short" /></li><li>Navigate to <b>Settings</b> &gt; <b>User Management</b> &gt; <b>Access Groups</b></li><li>Expand the specific Access Group and click on the <b>Edit</b> button</li><li>Click on the <b>Customers</b> dialog box and select the Standalone customer(s) to be added to the Access Group</li><li>Click <b>Save Access Group</b></li><li>Have the original user log out and back in</li></ol></li>
+        </ul>
+        </div> <div id="internal"> <div MadCap:conditions="Default.Ignore">
+            <p>
+                <b>Article Number:</b> 126105</p>
+            <p>
+                <b>Internal notes:</b> There's a bug in this area now and Bug Item has been raised https://mspx.visualstudio.com/CapzureTFS/_workitems/edit/32593</p>
+            <p />
+        </div>
+    </div> </div> </body>
+</html>

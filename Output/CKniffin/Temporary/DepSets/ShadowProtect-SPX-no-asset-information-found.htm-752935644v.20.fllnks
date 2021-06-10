@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="resource/9999999999999/clipboardImages/clipboard_e633ec60a0a16f86ae87f694a5b4af651" />
+    <Link
+      Url="resource/9999999999999/clipboardImages/clipboard_e705d0017c3bcd2bc3ce97c9665699888" />
+    <Link
+      Url="resource/9999999999999/clipboardImages/clipboard_e7206b84c63d2e7eb885f6c6987c1eeab" />
+    <Link
+      Url="resource/9999999999999/clipboardImages/clipboard_e5087bf4dbcf4713dbb54fb6cc7b3d585" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="resource/9999999999999/clipboardImages/clipboard_e633ec60a0a16f86ae87f694a5b4af651" />
+    <Link
+      Url="resource/9999999999999/clipboardImages/clipboard_e705d0017c3bcd2bc3ce97c9665699888" />
+    <Link
+      Url="resource/9999999999999/clipboardImages/clipboard_e7206b84c63d2e7eb885f6c6987c1eeab" />
+    <Link
+      Url="resource/9999999999999/clipboardImages/clipboard_e5087bf4dbcf4713dbb54fb6cc7b3d585" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MSPManager.ProductName_nc" />
+    <Variable
+      Name="MSPManager.ProductName_nc_short" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

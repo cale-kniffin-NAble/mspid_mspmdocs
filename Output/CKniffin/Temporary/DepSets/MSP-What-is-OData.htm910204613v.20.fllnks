@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="https://www.microsoft.com/en-us/download/details.aspx" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/oData with power query.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/Odata Feed with URL.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/LogInToOdataFeed.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/Select Data.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="https://www.microsoft.com/en-us/download/details.aspx?id=39379&amp;CorrelationId=4e940fc2-81b8-44a4-b55b-94ef7c9a5218" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/oData with power query.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/Odata Feed with URL.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/LogInToOdataFeed.png" />
+    <Link
+      Url="Content/Resources/Images/MSPMScreenshots/Select Data.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MSPManager.ProductName_Long" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.comment" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.comment" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

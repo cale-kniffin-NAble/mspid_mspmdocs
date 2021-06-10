@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="https://www.n-able.com/products/msp-manager" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/MSPM Help.png" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="https://success.n-able.com/" />
+    <Link
+      Url="https://www.n-able.com/products/msp-manager/contact" />
+    <Link
+      Url="Content/MSP-NGP-Getting-started.htm" />
+    <Link
+      Url="Content/MSP-NGP-Users.htm" />
+    <Link
+      Url="Content/MSP-Multifactor-authentication.htm" />
+    <Link
+      Url="Content/MSP-NGP-Roles-and-permissions.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="https://www.n-able.com/products/msp-manager" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/MSPM Help.png" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
+    <Link
+      Url="https://success.n-able.com/" />
+    <Link
+      Url="https://www.n-able.com/products/msp-manager/contact" />
+    <Link
+      Url="Content/MSP-NGP-Getting-started.htm" />
+    <Link
+      Url="Content/MSP-NGP-Users.htm" />
+    <Link
+      Url="Content/MSP-Multifactor-authentication.htm" />
+    <Link
+      Url="Content/MSP-NGP-Roles-and-permissions.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_mspm_short" />
+    <Variable
+      Name="MSPManager.ProductName_Long" />
+    <Variable
+      Name="MSPManager.ProductName_mspm_short" />
+    <Variable
+      Name="PDFVariables.ProductName" />
+    <Variable
+      Name="General.Company" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

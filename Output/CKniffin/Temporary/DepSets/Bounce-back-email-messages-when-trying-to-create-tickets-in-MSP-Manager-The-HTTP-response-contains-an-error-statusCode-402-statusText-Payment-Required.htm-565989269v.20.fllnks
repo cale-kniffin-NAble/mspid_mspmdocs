@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="mailto:mspsales@solarwinds.com" />
+    <Link
+      Url="https://www.solarwindsmsp.com/contact" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="mailto:mspsales@solarwinds.com" />
+    <Link
+      Url="https://www.solarwindsmsp.com/contact" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MSPManager.ProductName_mspm_Short" />
+    <Variable
+      Name="MSPManager.ProductName_mspm_Long" />
+    <Variable
+      Name="MSPManager.email_sales" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

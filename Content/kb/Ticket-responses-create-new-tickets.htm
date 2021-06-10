@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h1>Ticket responses create new tickets in <MadCap:variable name="General.ProductName_mspm_short" /></h1> <div id="flex">
+        <div id="modified"> <h2>Last Modified</h2>
+        <p>Thu Mar 12 08:06 GMT 2020</p>
+        </div> <div id="description"> <h2>Description</h2>
+        <ul>
+            <li>Ticket responses in <MadCap:variable name="General.ProductName_mspm_short" /> are creating new tickets or ticket requests instead of being added as a response to the existing ticket</li>
+        </ul>
+        </div> <div id="environment"> <h2>Environment</h2>
+        <ul>
+            <li><MadCap:variable name="General.ProductName_mspm" /></li>
+        </ul>
+        </div> <div id="solution"> <h2>Solution</h2>
+        <ul>
+            <li> Make sure the reference ID is not being deleted in the response</li>
+            <li> The reference ID is a white text (unless highlighted it looks invisible) at the bottom of the email sent to the ticketing mailbox.</li>
+            <li> When you reply to an email that's received by the ticketing mailbox the reference ID is checked against tickets that exist, and add your reply as a response to the ticket assigned that reference ID instead of creating a new ticket.</li>
+            <li> If that reference ID is removed (like when a technician responds to an email and removes the bottom of the original email) when the response is received by the ticketing mailbox and there is no reference ID to check against, a new ticket is created.  </li>
+        </ul>
+        </div> <div id="internal"> <div MadCap:conditions="Default.Ignore">
+            <p>
+                <b>Article Number:</b> 107145</p>
+            <p>
+                <b>Internal notes:</b> </p>
+            <p />
+        </div>
+    </div> </div> </body>
+</html>
