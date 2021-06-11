@@ -175,7 +175,7 @@
       Link="/Content/MSP-Asset-tags.htm" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="Knowledge"
     Link="/Content/MSP-Knowledge-and-Reporting.htm">
     <TocEntry
       Title="Share knowledge with your team"
@@ -186,7 +186,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/MSP-Scheduling-and-SLAs.htm">
+    Link="/Content/MSP-Scheduling-and-Reports.htm">
     <TocEntry
       Title="Schedule your workday with appointments"
       Link="/Content/MSP-Schedule-your-workday-with-appointments.htm" />

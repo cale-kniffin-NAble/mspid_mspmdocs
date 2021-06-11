@@ -12,13 +12,21 @@
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
+<<<<<<< HEAD
       Url="Content/Resources/Images/MSPMScreenshots/XeroUserConsent_162x311.png" />
+=======
+      Url="Content/Resources/Images/MSPMScreenshots/XeroUserConsent.png" />
+>>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
     <Link
       Url="Content/MSP-Override-default-mappings-to-accounting-software.htm" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/Resources/Images/MSPMScreenshots/AccountingServiceColumn_240x321.png" />
+=======
+      Url="Content/Resources/Images/MSPMScreenshots/AccountingServiceColumn.png" />
+>>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Link
@@ -32,13 +40,21 @@
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
+<<<<<<< HEAD
       Url="Content/Resources/Images/MSPMScreenshots/XeroUserConsent_162x311.png" />
+=======
+      Url="Content/Resources/Images/MSPMScreenshots/XeroUserConsent.png" />
+>>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
     <Link
       Url="Content/MSP-Override-default-mappings-to-accounting-software.htm" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Link
+<<<<<<< HEAD
       Url="Content/Resources/Images/MSPMScreenshots/AccountingServiceColumn_240x321.png" />
+=======
+      Url="Content/Resources/Images/MSPMScreenshots/AccountingServiceColumn.png" />
+>>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Link

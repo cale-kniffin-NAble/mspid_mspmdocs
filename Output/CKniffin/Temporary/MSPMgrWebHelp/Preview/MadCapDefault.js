@@ -13,7 +13,11 @@
  * http://www.madcapsoftware.com/
  * Unlicensed use is strictly prohibited
  *
+<<<<<<< HEAD
  * v16.2.7685.28170
+=======
+ * v17.0.7807.15177
+>>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
  */
 
 (function () {

@@ -7,10 +7,14 @@
   <Links>
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Links>
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -27,5 +31,8 @@
     <Condition
       Tag="Default.comment" />
   </AllConditions>
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>

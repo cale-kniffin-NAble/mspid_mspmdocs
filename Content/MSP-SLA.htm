@@ -1,49 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.comment">
-    <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
-    </head>
+    <head />
     <body>
         <h1 class="chapter">Create and assign service level agreements</h1>
-        <p>A service level agreement (SLA) is a contract between the service provider and the customer that defines the level of service expected from the service provider. <MadCap:variable name="MSPManager.ProductName_Long"></MadCap:variable> uses SLAs to sort tickets, send email notifications, and report on met and breached policies. SLAs do not affect ticket assignment or billing. They are defined globally and assigned to service items.</p>
+        <p>A service level agreement (SLA) is a contract between the service provider and the customer that defines the level of service expected from the service provider. <MadCap:variable name="MSPManager.ProductName_Long" /> uses SLAs to sort tickets, send email notifications, and report on met and breached policies. SLAs do not affect ticket assignment or billing. They are defined globally and assigned to service items.</p>
         <p>Create an SLA policy to specify the amount of time expected to create tickets and resolve issues for your customers. Three levels of alerts trigger notifications to remind technicians when a ticket is approaching a breach in SLA. Use your company business hours or specify custom hours to put an SLA&#160;policy on hold when business is closed. </p>
         <h2>Add a new service level agreement (SLA)&#160;policy</h2>
         <ol>
-            <li>Click <img src="Resources/Images/MSPManagerIcons/settings.png" style="width: 20px;height: 20px;" class="no_border" /> &gt;&#160;<span class="ButtonMenuNote">Account Settings</span> &gt; <span class="ButtonMenuNote">SLA Policies</span>.</li>
-            <li>Click <span class="ButtonMenuNote">Add a New SLA Policy</span>.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/settings.png" style="width: 20px;height: 20px;" class="no_border" /> &gt;&#160;<span class="Term">Account Settings</span> &gt; <span class="Term">SLA Policies</span>.</li>
+            <li>Click <span class="Term">Add a New SLA Policy</span>.</li>
             <li>Enter a policy name and description.</li>
-            <li>In the <span class="ButtonMenuNote">Alert Thresholds</span> area, expand an alert level and define the following:<ul><li>The percentage to breach when the alert is triggered.</li><p class="info">The percentage reaches 200 to accommodate a breach of up to twice the length of the SLA&#160;policy.</p></ul><ul><li>The color displayed on the associated tickets.</li><li>The users to receive email notifications.</li></ul></li>
-            <li>In the <span class="ButtonMenuNote">Policy Settings</span>  area, click  the <span class="ButtonMenuNote">Default Setting</span> and enter a time in hours for each ticket status.            <p class="hint">Repeat this step for each priority section that requires adjustments.</p></li>
-            <li>Click <span class="ButtonMenuNote">Save</span>.</li>
+            <li>In the <span class="Term">Alert Thresholds</span> area, expand an alert level and define the following:<ul><li>The percentage to breach when the alert is triggered.</li><p class="info">The percentage reaches 200 to accommodate a breach of up to twice the length of the SLA&#160;policy.</p></ul><ul><li>The color displayed on the associated tickets.</li><li>The users to receive email notifications.</li></ul></li>
+            <li>In the <span class="Term">Policy Settings</span>  area, click  the <span class="Term">Default Setting</span> and enter a time in hours for each ticket status.            <p class="hint">Repeat this step for each priority section that requires adjustments.</p></li>
+            <li>Click <span class="Term">Save</span>.</li>
         </ol>
         <h2>Specify hours to put service level agreements on hold</h2>
         <p>During non-business hours, SLA timers stop running while your company is closed and continue when business hours resume. </p>
         <ol>
-            <li>Click <img src="Resources/Images/MSPManagerIcons/settings.png" style="width: 20px;height: 20px;" class="no_border" /> &gt;&#160;<span class="ButtonMenuNote">Account Settings</span> &gt;<span class="ButtonMenuNote"> SLA Policies</span> &gt; <span class="ButtonMenuNote">Edit a policy</span>. </li>
-            <li>Click each <span class="ButtonMenuNote">Policy Setting</span> to expand additional options. </li>
-            <li>Select <span class="ButtonMenuNote">Only use business hours when calculating SLA</span>.</li>
-            <li>Select each day in the list and choose an <span class="ButtonMenuNote">Open at</span> and <span class="ButtonMenuNote">Close at</span> time.</li>
-            <p class="info">Select <span class="ButtonMenuNote">Use default</span> company business hours to use the hours specified in your default account settings. </p>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/settings.png" style="width: 20px;height: 20px;" class="no_border" /> &gt;&#160;<span class="Term">Account Settings</span> &gt;<span class="Term"> SLA Policies</span> &gt; <span class="Term">Edit a policy</span>. </li>
+            <li>Click each <span class="Term">Policy Setting</span> to expand additional options. </li>
+            <li>Select <span class="Term">Only use business hours when calculating SLA</span>.</li>
+            <li>Select each day in the list and choose an <span class="Term">Open at</span> and <span class="Term">Close at</span> time.</li>
+            <p class="info">Select <span class="Term">Use default</span> company business hours to use the hours specified in your default account settings. </p>
         </ol>
         <ol MadCap:continue="true">
-            <li>Click <span class="ButtonMenuNote">Save Setting</span>. </li>
+            <li>Click <span class="Term">Save Setting</span>. </li>
         </ol>
-        <p class="hint">Go to <span class="ButtonMenuNote">Account Settings</span> &gt; <span class="ButtonMenuNote">Default Settings</span> to specify your Company Business Hours.</p>
+        <p class="hint">Go to <span class="Term">Account Settings</span> &gt; <span class="Term">Default Settings</span> to specify your Company Business Hours.</p>
         <h2>Assign an SLA&#160;policy to a service item</h2>
         <ol>
             <li>
                 <MadCap:snippetText src="Resources/Snippets/Customers.flsnp" />
             </li>
-            <li>Click <span class="ButtonMenuNote">Service Items</span>.</li>
+            <li>Click <span class="Term">Service Items</span>.</li>
             <li>Click <img src="Resources/Images/MSPManagerIcons/edit.png" style="width: 20px;height: 20px;" class="no_border" /> next to a service item.</li>
-            <li>Under <span class="ButtonMenuNote">SLA</span>, select an <span class="ButtonMenuNote">SLA&#160;Policy</span>.</li>
-            <li>Click&#160;<span class="ButtonMenuNote">Save Service Item</span>.</li>
+            <li>Under <span class="Term">SLA</span>, select an <span class="Term">SLA&#160;Policy</span>.</li>
+            <li>Click&#160;<span class="Term">Save Service Item</span>.</li>
         </ol>
         <p>Tickets that have service items with assigned SLA policies will send notifications based on your alert thresholds. </p>
         <h2>Sort tickets by service level agreement (SLA)</h2>
         <ol>
-            <li>Click <span class="ButtonMenuNote">Helpdesk</span>.</li>
-            <li>Click the <span class="ButtonMenuNote">Sort by</span> list, and select <span class="ButtonMenuNote">SLA</span>.</li>
+            <li>Click <span class="Term">Helpdesk</span>.</li>
+            <li>Click the <span class="Term">Sort by</span> list, and select <span class="Term">SLA</span>.</li>
             <li>The alert level color displays on the left side of each ticket.</li>
             <li>The percentage to breach displays on the right side.</li>
         </ol>

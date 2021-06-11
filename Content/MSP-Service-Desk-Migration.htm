@@ -1,12 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.comment">
-    <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
-    </head>
+    <head />
     <body>
         <h1>Migrate your Service Desk data  to <MadCap:variable name="MSPManager.ProductName_Long" /></h1>
         <p>The Service Desk data migration populates your <MadCap:variable name="MSPManager.ProductName_Long" /> account with usable data like customers/sites, contacts, users, assets, queues and tickets. Select each import section to view a list of all available data from your Service Desk account.    Choose which items to import, or select everything at once.</p>
-        <p>During the import process, use the <span class="ButtonMenuNote">Import History</span> section at the bottom of the page to view a running count of all imported data  as it moves from Service Desk to <MadCap:variable name="MSPManager.ProductName_Long" />. </p>
+        <p>During the import process, use the <span class="Term">Import History</span> section at the bottom of the page to view a running count of all imported data  as it moves from Service Desk to <MadCap:variable name="MSPManager.ProductName_Long" />. </p>
         <p>Track the status and progress of each data type and click <img src="Resources/Images/MSPMScreenshots/ViewLog.png" style="width: 20px;height: 20px;" class="no_border" /> to view the log files for  any items that fail to import. </p>
         <p>Reference this table for terminology differences between Service Desk and <MadCap:variable name="MSPManager.ProductName_Long" />:</p>
         <table style="height: 7px;margin-left: 0;margin-right: auto;">
@@ -50,12 +48,13 @@
             </tbody>
         </table>
         <ol MadCap:continue="true">
-            <li>Click <span class="ButtonMenuNote">Settings</span> &gt; <span class="ButtonMenuNote">Integrations</span> and click <span class="ButtonMenuNote">MSP Service Desk</span> &gt; <span class="ButtonMenuNote">Configure</span> &gt; <span class="ButtonMenuNote">Add Service Desk Credentials</span>. </li>
-            <li>Enter the Admin  credentials and URL for your Service Desk portal, and click <span class="ButtonMenuNote">Save Credentials</span> to connect to Service Desk. </li>
-            <p class="info">A confirmation message is displayed at the bottom of the page. If you are unsure, use the <span class="ButtonMenuNote">Test Connection</span> button (<img src="Resources/Images/MSPMScreenshots/TestConnection.png" style="width: 20px;height: 20px;" class="no_border" /> )to confirm that the connection was successful.</p>
+            <li>Click <span class="Term">Settings</span> &gt; <span class="Term">Integrations</span> and click <span class="Term">MSP Service Desk</span> &gt; <span class="Term">Configure</span> &gt; <span class="Term">Add Service Desk Credentials</span>. </li>
+            <li>Enter the Admin  credentials and URL for your Service Desk portal, and click <span class="Term">Save Credentials</span> to connect to Service Desk. </li>
+            <p class="info">A confirmation message is displayed at the bottom of the page. If you are unsure, use the <span class="Term">Test Connection</span> button (<img src="Resources/Images/MSPMScreenshots/TestConnection.png" style="width: 20px;height: 20px;" class="no_border" /> )to confirm that the connection was successful.</p>
         </ol>
         <ol MadCap:continue="true">
-            <li><span class="ButtonMenuNote"> Import Users</span> to view a list of Staff Agents from Service Desk. Select which  Staff Agents to import as <MadCap:variable name="MSPManager.ProductName_Long" /> Users, and click <span class="ButtonMenuNote">Import Users</span>. </li>
+            <li>
+                <span class="Term"> Import Users</span> to view a list of Staff Agents from Service Desk. Select which  Staff Agents to import as <MadCap:variable name="MSPManager.ProductName_Long" /> Users, and click <span class="Term">Import Users</span>. </li>
             <p class="nugget">All imported Users are sent an activation email with instructions on how to log in to <MadCap:variable name="MSPManager.ProductName_Long" />.</p>
         </ol>
         <ol MadCap:continue="true">
@@ -64,16 +63,16 @@
             <p class="warning">All Service Desk Users/Contacts are sent an email with instructions on how to log in to the <MadCap:variable name="MSPManager.ProductName_Long" /> <a href="http://www.solarwinds.com/documentation/en/flarehelp/mspmanager/Default.htm#MSP-Give-ticket-access-to-your-customers.htm%3FTocPath%3DAdmin%2520guide|Ticketing|_____9">Customer Portal</a>. </p>
         </ol>
         <ol MadCap:continue="true">
-            <li>Select<span class="ButtonMenuNote"> Import Task Templates</span>, choose the Service Desk templates to import and click <span class="ButtonMenuNote">Import Task Templates</span>. </li>
-            <li>Click <span class="ButtonMenuNote">Import Assets</span>, select the Assets from Service Desk to bring into <MadCap:variable name="MSPManager.ProductName_Long" /> and click <span class="ButtonMenuNote">Import Assets</span>. </li>
-            <li>Select <span class="ButtonMenuNote">Configure Asset Mapping</span> to import Asset Classes and Custom Fields from Service Desk. </li>
+            <li>Select<span class="Term"> Import Task Templates</span>, choose the Service Desk templates to import and click <span class="Term">Import Task Templates</span>. </li>
+            <li>Click <span class="Term">Import Assets</span>, select the Assets from Service Desk to bring into <MadCap:variable name="MSPManager.ProductName_Long" /> and click <span class="Term">Import Assets</span>. </li>
+            <li>Select <span class="Term">Configure Asset Mapping</span> to import Asset Classes and Custom Fields from Service Desk. </li>
             <p class="info">The device name and custom fields of the asset  are imported first, and the rest of the asset details are populated when <a href="http://www.solarwinds.com/documentation/en/flarehelp/mspmanager/Default.htm#MSP-Integrate-MSPRM-with-MSPManager.htm%3FTocPath%3DAdmin%2520guide|Integrations%2520|_____3">the RMM integration is set up</a>.</p>
         </ol>
         <ol MadCap:continue="true">
-            <li>Choose an <span class="ButtonMenuNote">Asset Class</span> and map the <span class="ButtonMenuNote">Service Desk Custom Fields</span> for that Asset Class to an <MadCap:variable name="MSPManager.ProductName_Long" /> Property.</li>
-            <li>Click <span class="ButtonMenuNote">Save</span>. </li>
-            <li>Click <span class="ButtonMenuNote">Import Queues</span>, select the <span class="ButtonMenuNote">Service Desk Queues</span> to import, and click <span class="ButtonMenuNote">Import Queues</span>. </li>
-            <li>Click <span class="ButtonMenuNote">Import Tickets</span>,  select the Service Desk customers  you want to import tickets for  and click <span class="ButtonMenuNote">Import Tickets</span>. </li>
+            <li>Choose an <span class="Term">Asset Class</span> and map the <span class="Term">Service Desk Custom Fields</span> for that Asset Class to an <MadCap:variable name="MSPManager.ProductName_Long" /> Property.</li>
+            <li>Click <span class="Term">Save</span>. </li>
+            <li>Click <span class="Term">Import Queues</span>, select the <span class="Term">Service Desk Queues</span> to import, and click <span class="Term">Import Queues</span>. </li>
+            <li>Click <span class="Term">Import Tickets</span>,  select the Service Desk customers  you want to import tickets for  and click <span class="Term">Import Tickets</span>. </li>
         </ol>
         <p>Your <MadCap:variable name="MSPManager.ProductName_Long" /> account is now populated with all the imported data from Service Desk. </p>
         <p>You can <a href="MSP-Uninstall-Service-Desk.htm">uninstall Service Desk and install <MadCap:variable name="MSPManager.ProductName_Long" /> as an integrated account</a> at any time. </p>

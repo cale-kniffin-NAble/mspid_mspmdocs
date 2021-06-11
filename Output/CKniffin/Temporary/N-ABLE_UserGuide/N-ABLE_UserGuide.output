@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTargetOutput
   GeneratedTarget="/Output/CKniffin/N-ABLE_UserGuide/Default.htm"
+<<<<<<< HEAD
   BuildVersion="16.2.7685.28170">
+=======
+  BuildVersion="17.0.7807.15177">
+>>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
   <Files />
   <Skins />
 </CatapultTargetOutput>
