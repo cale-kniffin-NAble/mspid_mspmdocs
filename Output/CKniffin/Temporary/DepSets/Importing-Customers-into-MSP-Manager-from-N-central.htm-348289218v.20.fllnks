@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="resource/9999999999999/mspManagerImages/gear.jpg" />
+    <Link
+      Url="resource/9999999999999/mspManagerImages/mspmanager-integrations.jpg" />
+    <Link
+      Url="resource/9999999999999/mspManagerImages/ncentralcredentials.jpg" />
+    <Link
+      Url="resource/9999999999999/mspManagerImages/ncentralintegration.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="resource/9999999999999/mspManagerImages/gear.jpg" />
+    <Link
+      Url="resource/9999999999999/mspManagerImages/mspmanager-integrations.jpg" />
+    <Link
+      Url="resource/9999999999999/mspManagerImages/ncentralcredentials.jpg" />
+    <Link
+      Url="resource/9999999999999/mspManagerImages/ncentralintegration.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_mspm_short" />
+    <Variable
+      Name="MSPManager.ProductName_nc_short" />
+    <Variable
+      Name="MSPManager.ProductName_nc" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
