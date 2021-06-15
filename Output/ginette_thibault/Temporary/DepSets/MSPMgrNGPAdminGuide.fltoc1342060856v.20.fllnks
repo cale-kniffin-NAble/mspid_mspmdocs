@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/MSP-NGP-Users.htm" />
+    <Link
+      Url="Content/MSP-NGP-Getting-started.htm" />
+    <Link
+      Url="Content/MSP-Multifactor-authentication.htm" />
+    <Link
+      Url="Content/MSP-NGP-Roles-and-permissions.htm" />
+    <Link
+      Url="Content/MSP-NGP-Create-customer-access-groups.htm" />
+    <Link
+      Url="Content/MSP-NGP-Company-Dashboard.htm" />
+    <Link
+      Url="Content/MSP-NGP-Ticketing.htm" />
+    <Link
+      Url="Content/MSP-Workspace-Helpdesk.htm" />
+    <Link
+      Url="Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
+    <Link
+      Url="Content/MSP-Ticket-Search.htm" />
+    <Link
+      Url="Content/MSP-NGP-Log-time-spent-on-tickets.htm" />
+    <Link
+      Url="Content/MSP-NGP-Create-a-quick-ticket.htm" />
+    <Link
+      Url="Content/MSP-NGP-Start-timer-from-inside-ticket.htm" />
+    <Link
+      Url="Content/MSP-NGP-Start-timer-from-ticket-list.htm" />
+    <Link
+      Url="Content/MSP-Time-entry-rounding.htm" />
+    <Link
+      Url="Content/MSP-Add-CustomerLocationContact-on-the-fly.htm" />
+    <Link
+      Url="Content/MSP-NGP-Configure-ticket-mailbox.htm" />
+    <Link
+      Url="Content/MSP-M365-configuration.htm" />
+    <Link
+      Url="Content/MSP-NGP-Ticket-queues.htm" />
+    <Link
+      Url="Content/MSP-NGP-Ticket-merging.htm" />
+    <Link
+      Url="Content/MSP-Bulk-merge-tickets.htm" />
+    <Link
+      Url="Content/MSP-NGP-Schedule-recurring-tickets.htm" />
+    <Link
+      Url="Content/MSP-NGP-Add-responses-to-tickets.htm" />
+    <Link
+      Url="Content/MSP-Add-canned-responses-to-tickets.htm" />
+    <Link
+      Url="Content/MSP-NGP-Ticket-tasks.htm" />
+    <Link
+      Url="Content/MSP-Create-custom-ticket-status.htm" />
+    <Link
+      Url="Content/MSP-Custom-ticket-fields.htm" />
+    <Link
+      Url="Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" />
+    <Link
+      Url="Content/MSP-Bulk-enable-portal-user.htm" />
+    <Link
+      Url="Content/MSP-Workflows-and-routing-rules.htm" />
+    <Link
+      Url="Content/MSP-Workflow-conditions-actions-tables.htm" />
+    <Link
+      Url="Content/MSP-Workflow-Assign-Technician-Action.htm" />
+    <Link
+      Url="Content/MSP-Workflow-use-cases.htm" />
+    <Link
+      Url="Content/MSP-NGP-Auto-assign-inbound-tickets.htm" />
+    <Link
+      Url="Content/MSP-NGP-Prerequisites-for-ticket-routing.htm" />
+    <Link
+      Url="Content/MSP-NGP-Define-rules-for-ticket-routing.htm" />
+    <Link
+      Url="Content/MSP-NGP-Rate-users-and-groups-into-teams.htm" />
+    <Link
+      Url="Content/MSP-NGP-How-are-users-scored-for-ticket-routing.htm" />
+    <Link
+      Url="Content/MSP-Archive-tickets.htm" />
+    <Link
+      Url="Content/MSP-NGP-Bill-your-customers-to-collect-revenue.htm" />
+    <Link
+      Url="Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm" />
+    <Link
+      Url="Content/MSP-NGP-Service-plans.htm" />
+    <Link
+      Url="Content/MSP-NGP-Charge-for-your-work-with-Service-items.htm" />
+    <Link
+      Url="Content/MSP-NGP-Project-billing.htm" />
+    <Link
+      Url="Content/MSP-Flat-fee-service-items.htm" />
+    <Link
+      Url="Content/MSP-Retainer-Service-Items.htm" />
+    <Link
+      Url="Content/MSP-NGP-Define-your-prices-with-rates.htm" />
+    <Link
+      Url="Content/MSP-NGP-Bill-for-partially-complete-tickets.htm" />
+    <Link
+      Url="Content/MSP-NGP-Run-a-billing-batch.htm" />
+    <Link
+      Url="Content/MSP-NGP-Delete-service-items-will-delete-tickets.htm" />
+    <Link
+      Url="Content/MSP-Restore-deleted-service-items.htm" />
+    <Link
+      Url="Content/MSP-NGP-Integrations.htm" />
+    <Link
+      Url="Content/MSP-NGP-Accounting-software-integration.htm" />
+    <Link
+      Url="Content/MSP-NGP-Quickbooks-desktop-integration-folder.htm" />
+    <Link
+      Url="Content/MSP-NGP-Quickbooks-Desktop.htm" />
+    <Link
+      Url="Content/MSP-NGP-Support-Quickbooks-1039-error.htm" />
+    <Link
+      Url="Content/MSP-NGP-Support-remove-QB-webconnector.htm" />
+    <Link
+      Url="Content/MSP-NGP-Quickbooks-online-integration-folder.htm" />
+    <Link
+      Url="Content/MSP-Quickbooks-Online-integration.htm" />
+    <Link
+      Url="Content/MSP-NGP-Quickbooks-tax.htm" />
+    <Link
+      Url="Content/MSP-NGP-CSV-billing-export.htm" />
+    <Link
+      Url="Content/MSP-Xero-integration.htm" />
+    <Link
+      Url="Content/MSP-Xero-FAQ.htm" />
+    <Link
+      Url="Content/MSP-NGP-Xero-accounting.htm" />
+    <Link
+      Url="Content/MSP-NGP-Integrate-Ncentral-and-MSPM.htm" />
+    <Link
+      Url="Content/MSP-NGP-Setup-Ncentral-integration.htm" />
+    <Link
+      Url="Content/MSP-NGP-export-assets-from-Ncentral.htm" />
+    <Link
+      Url="Content/MSP-Launch-TC-session.htm" />
+    <Link
+      Url="Content/MSP-NGP-Integrate-MSPRM-with-MSPManager.htm" />
+    <Link
+      Url="Content/MSP-Configure-M365-integration.htm" />
+    <Link
+      Url="Content/MSP-NGP-Notifications.htm" />
+    <Link
+      Url="Content/MSP-NGP-Set-notifications-for-system-and-user-actions.htm" />
+    <Link
+      Url="Content/MSP-NGP-HTML-and-plain-text-notifications.htm" />
+    <Link
+      Url="Content/MSP-Browser-Push-Notifications.htm" />
+    <Link
+      Url="Content/MSP-NGP-Assets.htm" />
+    <Link
+      Url="Content/MSP-NGP-Create-asset-classes-and-statuses.htm" />
+    <Link
+      Url="Content/MSP-Custom-Asset-fields.htm" />
+    <Link
+      Url="Content/MSP-NGP-Asset-tags.htm" />
+    <Link
+      Url="Content/MSP-NGP-Knowledge-and-Workspaces.htm" />
+    <Link
+      Url="Content/MSP-NGP-Share-knowledge-with-your-team.htm" />
+    <Link
+      Url="Content/MSP-Create-custom-knowledge-types.htm" />
+    <Link
+      Url="Content/MSP-Import-passwords-to-custom-knowledge.htm" />
+    <Link
+      Url="Content/MSP-Workspaces-Management.htm" />
+    <Link
+      Url="Content/MSP-Workspaces-edit-widgets.htm" />
+    <Link
+      Url="Content/MSP-Workspace-filtering.htm" />
+    <Link
+      Url="Content/MSP-NGP-Run-reports-to-track-business.htm" />
+    <Link
+      Url="Content/MSP-NGP-Schedule-your-workday-with-appointments.htm" />
+    <Link
+      Url="Content/MSP-Release-notes.htm" />
+    <Link
+      Url="Content/MSP-FAQ.htm" />
+    <Link
+      Url="Content/MSP-Adjust-tickets.htm" />
+    <Link
+      Url="Content/MSP-Bill-for-a-recurring-service.htm" />
+    <Link
+      Url="Content/MSP-Billing-errors.htm" />
+    <Link
+      Url="Content/MSP-Billing-scenarios.htm" />
+    <Link
+      Url="Content/MSP-Hour-retainer-with-overage.htm" />
+    <Link
+      Url="Content/MSP-Hourly-support.htm" />
+    <Link
+      Url="Content/MSP-Managed-desktops-or-servers.htm" />
+    <Link
+      Url="Content/MSP-Monthly-fee-with-additional-hourly-rate.htm" />
+    <Link
+      Url="Content/MSP-Off-site-backup.htm" />
+    <Link
+      Url="Content/MSP-One-time-fee.htm" />
+    <Link
+      Url="Content/MSP-Project-estimate-with-hourly-rates.htm" />
+    <Link
+      Url="Content/MSP-Change-the-currency-date-format-and-time-zone.htm" />
+    <Link
+      Url="Content/MSP-Set-up-SPF-for-MSPM.htm" />
+    <Link
+      Url="Content/MSP-Create-a-contract-that-does-not-expire.htm" />
+    <Link
+      Url="Content/MSP-Override-default-mappings-to-accounting-software.htm" />
+    <Link
+      Url="Content/MSP-Reveal-any-password-with-the-owner-secret.htm" />
+    <Link
+      Url="Content/MSP-Set-customers-as-inactive.htm" />
+    <Link
+      Url="Content/MSP-Set-individual-services-as-taxable-or-not.htm" />
+    <Link
+      Url="Content/MSP-Share-internal-knowledge-about-your-company.htm" />
+    <Link
+      Url="Content/MSP-Store-resolutions-to-common-customer-issues.htm" />
+    <Link
+      Url="Content/MSP-Ticket-routing-with-multiple-locations.htm" />
+    <Link
+      Url="Content/MSP-Troubleshoot-your-ticket-mailbox.htm" />
+    <Link
+      Url="Content/MSP-Turn-inbound-email-into-tickets.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

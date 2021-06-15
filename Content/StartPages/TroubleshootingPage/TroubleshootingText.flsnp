@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
-        <link href="../../Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-<<<<<<< HEAD
         <h1>Popular Topics</h1>
         <ul>
             <li>
@@ -21,9 +19,7 @@
             </li>
             <li>
                 <MadCap:xref href="../../kb/Exporting-to-Quickbooks-shows-the-error-QuickBooks-error-message-The-specified-name-is-either-invalid-or-of-the-wrong-type.htm">Exporting to Quickbooks shows the error "QuickBooks error message: The specified name is either invalid or of the wrong type."</MadCap:xref>
-=======
-        <h1> Popular Topics</h1>
-        <ul>
+            </li>
             <li>
                 <MadCap:xref href="../../kb/Do-additional-rates-have-a-line-item-created-for-them-when-exported-to-QuickBooks.htm">Do additional rates have a line item created for them when exported to QuickBooks?</MadCap:xref>
             </li>
@@ -50,14 +46,11 @@
             </li>
             <li>
                 <MadCap:xref href="../../kb/SLA-notifications-are-being-sent-for-completed-tickets-stating-Ticket-has-not-been-In-Progress-within-X-hours.htm">SLA notifications are being sent for completed tickets stating "Ticket has not been In Progress within X hours."</MadCap:xref>
->>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
             </li>
             <li>
                 <MadCap:xref href="../../kb/Importing-Customers-into-MSP-Manager-from-N-central.htm">Importing Customers into <MadCap:variable name="MSPManager.ProductName_Short" /> from <MadCap:variable name="MSPManager.N-central" /></MadCap:xref>
             </li>
             <li>
-<<<<<<< HEAD
-=======
                 <MadCap:xref href="../../kb/Ticket-routing-with-multiple-locations.htm">Ticket routing with multiple locations</MadCap:xref>
             </li>
             <li>
@@ -67,18 +60,15 @@
                 <MadCap:xref href="../../kb/MSP-manager-License-from-trial-to-paid.htm">[%=General.ProductName_mspm_short%] License from trial to paid</MadCap:xref>
             </li>
             <li>
->>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
                 <MadCap:xref href="../../kb/Unable-to-assign-ticket-to-a-User-in-MSP-Manager.htm">Unable to assign ticket to a User in <MadCap:variable name="MSPManager.ProductName_Short" /></MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/New-tickets-are-being-created-in-MSP-Manager-every-time-a-reply-is-sent.htm">New tickets are being created in <MadCap:variable name="MSPManager.ProductName_Short" /> every time a reply is sent</MadCap:xref>
             </li>
             <li>
-<<<<<<< HEAD
                 <MadCap:xref href="../../kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm">Completed tickets are not showing in <MadCap:variable name="General.ProductName_mspm_short" /> Billing Batch</MadCap:xref>
             </li>
             <li>
-=======
                 <MadCap:xref href="../../kb/Images-in-MSP-Manager-added-to-blob-storage.htm">Attached images in [%=Documents.ProductShortName%] ticket responses added to Azure blob storage</MadCap:xref>
             </li>
             <li>
@@ -91,7 +81,6 @@
                 <MadCap:xref href="../../kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm">[%=General.ProductName_mspm_short%]: Cannot Change Existing Help Desk Ticket To Another Customer After Adding Time entries</MadCap:xref>
             </li>
             <li>
->>>>>>> 72cd8153de8286839c1d7cd1d6b1277a5a46c7bb
                 <MadCap:xref href="../../kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm">How can you customize invoices to include notes on tickets?</MadCap:xref>
             </li>
         </ul>

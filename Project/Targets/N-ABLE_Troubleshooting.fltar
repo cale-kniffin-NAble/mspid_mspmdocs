@@ -10,7 +10,7 @@
   EnableResponsiveOutput="true"
   MasterPage="/Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp"
   ResultsPerPage="10"
-  ConditionTagExpression="include[Default.Online], exclude[Default.Ignore or Default.PDF]"
+  ConditionTagExpression="include[Default.UserGuide], exclude[Default.Ignore or Default.Troubleshooting]"
   SearchBarSkin="/Project/Skins/N-ABLE_SearchBar.flskn"
   MasterStylesheet="/Content/Resources/Stylesheets/N-ABLE_CustomStyles.css"
   GenerateAllSkins="false"
@@ -24,12 +24,13 @@
   MasterStylesheetOverride="true"
   SearchEngine="MadCapSearch"
   ResolveCssVariables="true"
-  MasterToc="/Project/TOCs/N-ABLE_Troubleshooting_TOC.fltoc"
+  MasterToc="/Project/TOCs/N-able_Troubleshooting.fltoc"
   TabletBreakpoint="1097"
   FaviconSkin="/Project/Skins/N-ABLE_Favicon.flskn"
   DefaultUrl="/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm"
   MobileBreakpoint="667"
-  ContentInclusionType="Toc">
+  ContentInclusionType="Toc"
+  OutputFolder="C:\MSPMTS-OUT">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

@@ -1,1 +1,0 @@
-define({r:0.5,st:'Stem',n:1,t:[0,69],m:[],u:['../Content/Default.htm'],s:['$0','graph','some'],p:[['$0',16],['and',15],['billable',2],['correctly',52],['efficient',48],['green',13],['item',60],['multiple',55],['override',34],['routing',118],['status',10],['this',110],['up',48],['your',29]]});
