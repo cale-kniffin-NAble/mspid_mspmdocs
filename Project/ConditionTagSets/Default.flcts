@@ -5,7 +5,6 @@
     Name="ScreenOnly"
     BackgroundColor="Blue" />
   <ConditionTag
-    Comment=""
     Name="PrintOnly"
     BackgroundColor="Red" />
   <ConditionTag
@@ -24,4 +23,13 @@
     BackgroundColor="#ffeb00"
     Name="Ignore"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Troubleshooting"
+    Comment="To show/hide the Troubleshooting Guide tab"
+    OriginalName="Troubleshooting" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="UserGuide"
+    Comment="To show/hide the User Guide tab" />
 </CatapultConditionTagSet>

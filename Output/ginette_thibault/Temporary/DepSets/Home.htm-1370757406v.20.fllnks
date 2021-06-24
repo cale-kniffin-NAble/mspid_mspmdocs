@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="HomePage"
+  FileTitle="MSP Manager Online Help"
+  FileSearchable="true"
+  MasterPage="file:///C:/GitHub/mspid_mspmdocs/Content/Resources/MasterPages/HomePage.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/A_Getting Started/whats-new.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/flag.png" />
+    <Link
+      Url="Content/A_Getting Started/Getting Started.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/step-indicator.png" />
+    <Link
+      Url="Content/C_Domain Level/incoming/view-incoming-log-search.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/search.png" />
+    <Link
+      Url="Content/B_Admin Level/incoming-filtering/view-incoming-delivery-queue.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/pause.png" />
+    <Link
+      Url="Content/C_Domain Level/incoming/view-spam-quarantine.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/mail-spam-c.png" />
+    <Link
+      Url="Content/B_Admin Level/domains/domain-management.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/globe.png" />
+    <Link
+      Url="Content/B_Admin Level/incoming-filtering/incoming-filtering.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/cloud_download.png" />
+    <Link
+      Url="Content/B_Admin Level/outgoing-filtering/outgoing-filtering.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/cloud_upload.png" />
+    <Link
+      Url="Content/B_Admin Level/archive/archive.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/data-archive-c.png" />
+    <Link
+      Url="Content/B_Admin Level/private-label/branding.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/edit.png" />
+    <Link
+      Url="Content/B_Admin Level/server/server.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/server-tool.png" />
+    <Link
+      Url="Content/B_Admin Level/whitelist-blacklist/whitelist-blacklist.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/ulist.png" />
+    <Link
+      Url="Content/B_Admin Level/webinterface-users/webinterface-users.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/users.png" />
+    <Link
+      Url="Content/C_Domain Level/protection-reports/protection-reports.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/reporting-2-c.png" />
+    <Link
+      Url="Content/C_Domain Level/email-restrictions/email-restrictions.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/environment-management-c.png" />
+    <Link
+      Url="Content/B_Admin Level/other/others.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/tools.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/A_Getting Started/whats-new.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/flag.png" />
+    <Link
+      Url="Content/A_Getting Started/Getting Started.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/step-indicator.png" />
+    <Link
+      Url="Content/C_Domain Level/incoming/view-incoming-log-search.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/search.png" />
+    <Link
+      Url="Content/B_Admin Level/incoming-filtering/view-incoming-delivery-queue.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/pause.png" />
+    <Link
+      Url="Content/C_Domain Level/incoming/view-spam-quarantine.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/mail-spam-c.png" />
+    <Link
+      Url="Content/B_Admin Level/domains/domain-management.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/globe.png" />
+    <Link
+      Url="Content/B_Admin Level/incoming-filtering/incoming-filtering.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/cloud_download.png" />
+    <Link
+      Url="Content/B_Admin Level/outgoing-filtering/outgoing-filtering.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/cloud_upload.png" />
+    <Link
+      Url="Content/B_Admin Level/archive/archive.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/data-archive-c.png" />
+    <Link
+      Url="Content/B_Admin Level/private-label/branding.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/edit.png" />
+    <Link
+      Url="Content/B_Admin Level/server/server.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/server-tool.png" />
+    <Link
+      Url="Content/B_Admin Level/whitelist-blacklist/whitelist-blacklist.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/ulist.png" />
+    <Link
+      Url="Content/B_Admin Level/webinterface-users/webinterface-users.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/users.png" />
+    <Link
+      Url="Content/C_Domain Level/protection-reports/protection-reports.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/reporting-2-c.png" />
+    <Link
+      Url="Content/C_Domain Level/email-restrictions/email-restrictions.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/environment-management-c.png" />
+    <Link
+      Url="Content/B_Admin Level/other/others.htm" />
+    <Link
+      Url="Content/Resources/Images/landing-page-icons/tools.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.comment" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

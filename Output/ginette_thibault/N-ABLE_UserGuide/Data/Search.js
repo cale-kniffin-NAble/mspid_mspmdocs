@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0,68],m:[],u:['../Content/MSP-Add-CustomerLocationContact-on-the-fly.htm'],s:['$0','here','switch'],p:[['$0',15],['and',2],['behaves',38],['containing',53],['each',48],['from',82],['is',39],['minimized',112],['options',17],['requesting',122],['single',55],['the',102],['to',113],['work',72]]});

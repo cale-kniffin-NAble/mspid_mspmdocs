@@ -1,1 +1,0 @@
-define({r:0.5,st:'Stem',n:1,t:[0,67],m:[],u:['../Content/Default.htm'],s:['$0','has','spend'],p:[['$0',95],['and',13],['bill',112],['correct',46],['editor',29],['grant',1],['item',30],['msp',86],['other',127],['roles',3],['ssl',16],['there',81],['type',78],['you',38]]});

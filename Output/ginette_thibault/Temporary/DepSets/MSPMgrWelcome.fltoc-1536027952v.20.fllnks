@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/MSP-Welcome-to-MSPManager.htm" />
+    <Link
+      Url="Content/MSP-NGP-Getting-started.htm" />
+    <Link
+      Url="Content/MSP-NGP-Users.htm" />
+    <Link
+      Url="Content/MSP-Multifactor-authentication.htm" />
+    <Link
+      Url="Content/MSP-NGP-Create-customer-access-groups.htm" />
+    <Link
+      Url="Content/MSP-NGP-Company-Dashboard.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
