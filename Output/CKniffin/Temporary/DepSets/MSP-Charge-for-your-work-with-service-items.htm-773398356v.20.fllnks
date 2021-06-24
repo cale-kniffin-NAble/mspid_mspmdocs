@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Content/MSP-Service-Plans.htm" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/video.png" />
+    <Link
+      Url="Content/MSP-Setup-Ncentral-Integration.htm" />
+    <Link
+      Url="Content/MSP-Run-reports-to-track-business.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/edit.png" />
+    <Link
+      Url="Content/MSP-Automatically-assign-inbound-tickets.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MSPManager.flvar" />
+    <Link
+      Url="Content/MSP-Service-Plans.htm" />
+    <Link
+      Url="https://www.youtube.com/watch?v=0-cSg4xTbeg" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/video.png" />
+    <Link
+      Url="Content/MSP-Setup-Ncentral-Integration.htm" />
+    <Link
+      Url="Content/MSP-Run-reports-to-track-business.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/edit.png" />
+    <Link
+      Url="Content/MSP-Automatically-assign-inbound-tickets.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MSPManager.ProductName_Long" />
+    <Variable
+      Name="MSPManager.N-central" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.comment" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.comment" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

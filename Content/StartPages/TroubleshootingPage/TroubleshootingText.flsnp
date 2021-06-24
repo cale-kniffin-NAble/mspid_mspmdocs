@@ -27,13 +27,13 @@
                 <MadCap:xref href="../../kb/ERROR-Opps-500-Internal-server-error.htm">ERROR: Opps! 500 Internal server error!</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Manager-users-cannot-be-deleted-after-integration-with-RMM.htm">[%=General.ProductName_mspm_short%] users cannot be deleted after integration with RMM</MadCap:xref>
+                <MadCap:xref href="../../kb/Include-Requestor-Opening-date-tickets-etc-in-MSP-Manager-reports.htm">Include Requestor, Opening date tickets, etc in [%=General.ProductName_mspm_short%] reports</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm">Not able to select a contact when editing a ticket in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Manager-creates-multiple-tickets-with-N-Central-integration.htm">[%=General.ProductName_mspm_short%] creates multiple tickets with [%=MSPManager.ProductName_nc_short%] integration</MadCap:xref>
+                <MadCap:xref href="../../kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm">Is there an RMM system tray icon for [%=General.ProductName_mspm_short%] that automatically opens tickets?</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Unable-to-view-customers-in-MSP-Manager-when-set-to-an-Access-Group-MSP-Manager-is-linked-to-RMM.htm">Unable to view customers in [%=General.ProductName_mspm_short%] when set to an Access Group - [%=General.ProductName_mspm_short%] is linked to RMM</MadCap:xref>

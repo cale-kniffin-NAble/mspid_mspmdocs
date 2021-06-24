@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/QuickFilterFinal.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/QuickFilterFormatting.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/FilterSettings.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/NameNewQuickFilter.png" />
     <Url Source="Resources/Images/MSPMScreenshots/SelectAddFilter.png" />
     <Url Source="Resources/Images/MSPMScreenshots/QuickFilterStatusConfiguration.png" />
     <Url Source="Resources/Images/MSPManagerIcons/ExpandFilterOptions.png" />
@@ -9,6 +14,5 @@
     <Url Source="Resources/Images/MSPMScreenshots/XeroUserConsent.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewConfigureWidget.png" />
 </UrlList>
