@@ -150,7 +150,11 @@
       Link="/Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
     <TocEntry
       Title="Manage tickets in the Helpdesk Workspace"
-      Link="/Content/MSP-Workspace-Helpdesk.htm" />
+      Link="/Content/MSP-Workspace-Helpdesk.htm">
+      <TocEntry
+        Title="Configure Quick Filters in your Helpdesk"
+        Link="/Content/MSPM-Helpdesk-Quick-Filters.htm" />
+    </TocEntry>
     <TocEntry
       Title="Ticket Routing"
       Link="/Content/MSP-NGP-Auto-assign-inbound-tickets.htm">

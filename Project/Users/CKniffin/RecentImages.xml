@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/SelectAddFilter.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/QuickFilterStatusConfiguration.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/ExpandFilterOptions.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/QuickFilterConfig.png" />
+    <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/AccountingServiceColumn.png" />
     <Url Source="Resources/Images/MSPMScreenshots/XeroUserConsent.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
