@@ -29,8 +29,7 @@
   FaviconSkin="/Project/Skins/N-ABLE_Favicon.flskn"
   DefaultUrl="/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm"
   MobileBreakpoint="667"
-  ContentInclusionType="Toc"
-  OutputFolder="C:\MSPMTS-OUT">
+  ContentInclusionType="Toc">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

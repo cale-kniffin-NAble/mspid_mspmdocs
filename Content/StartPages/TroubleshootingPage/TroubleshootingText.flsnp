@@ -6,10 +6,11 @@
         <h1>Popular Topics</h1>
         <ul>
             <li>
+                <MadCap:xref href="../../kb/How-to-set-up-Sender-Policy-Framework-SPF-for-MSP-Manager.htm">How to set up Sender Policy Framework (SPF) for [%=General.ProductName_mspm_short%]?</MadCap:xref>
                 <MadCap:xref href="../../kb/How-to-setup-a-free-MSP-Manager-Trial.htm">How to setup a free <MadCap:variable name="MSPManager.ProductName_Short" /> Trial</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Does-MSP-Manager-automatically-refresh-after-changes-are-made.htm">Does <MadCap:variable name="MSPManager.ProductName_Short" /> automatically refresh after changes are made?</MadCap:xref>
+                <MadCap:xref href="../../kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm">Does [%=General.ProductName_mspm_short%] have an option for a report builder?</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm"><MadCap:variable name="MSPManager.ProductName_Short" /> : Can deleted Service Items be recovered?</MadCap:xref>
@@ -27,25 +28,25 @@
                 <MadCap:xref href="../../kb/ERROR-Opps-500-Internal-server-error.htm">ERROR: Opps! 500 Internal server error!</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Include-Requestor-Opening-date-tickets-etc-in-MSP-Manager-reports.htm">Include Requestor, Opening date tickets, etc in [%=General.ProductName_mspm_short%] reports</MadCap:xref>
+                <MadCap:xref href="../../kb/Missing-Issue-types-in-MSP-Manager.htm">Missing Issue types in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm">Not able to select a contact when editing a ticket in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Notifications-not-sending-from-MSP-Manager.htm">Notifications not sending from [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm">Is there an RMM system tray icon for [%=General.ProductName_mspm_short%] that automatically opens tickets?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Unable-to-view-customers-in-MSP-Manager-when-set-to-an-Access-Group-MSP-Manager-is-linked-to-RMM.htm">Unable to view customers in [%=General.ProductName_mspm_short%] when set to an Access Group - [%=General.ProductName_mspm_short%] is linked to RMM</MadCap:xref>
+                <MadCap:xref href="../../kb/Edit-Customer-Details-in-MSP-Manager.htm">Edit Customer Details in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/What-email-address-does-clicking-send-test-email-send-the-email-from-in-MSP-Manager.htm">What email address does clicking "send test email" send the email from in [%=General.ProductName_mspm_short%]?</MadCap:xref>
+                <MadCap:xref href="../../kb/Email-Ticket-Requests-are-Not-Auto-Creating-tickets-in-MSP-Manager.htm">Email Ticket Requests are not sending notification for automatically created tickets in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm">Tickets created from Workflow rules are assigned to the correct User, however the Status is still "New" and can be viewed using Unassigned Tickets filter</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager-Show-On-Dash-Option.htm">[%=General.ProductName_mspm_short%] Show On Dash Option</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/SLA-notifications-are-being-sent-for-completed-tickets-stating-Ticket-has-not-been-In-Progress-within-X-hours.htm">SLA notifications are being sent for completed tickets stating "Ticket has not been In Progress within X hours."</MadCap:xref>
+                <MadCap:xref href="../../kb/How-to-apply-Service-Plan-to-multiple-customers.htm">How to apply Service Plan to multiple customers</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Importing-Customers-into-MSP-Manager-from-N-central.htm">Importing Customers into <MadCap:variable name="MSPManager.ProductName_Short" /> from <MadCap:variable name="MSPManager.N-central" /></MadCap:xref>
@@ -60,24 +61,25 @@
                 <MadCap:xref href="../../kb/MSP-manager-License-from-trial-to-paid.htm">[%=General.ProductName_mspm_short%] License from trial to paid</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Unable-to-assign-ticket-to-a-User-in-MSP-Manager.htm">Unable to assign ticket to a User in <MadCap:variable name="MSPManager.ProductName_Short" /></MadCap:xref>
+                <MadCap:xref href="../../kb/Is-there-any-way-to-send-a-customer-satisfaction-survey-in-MSP-Manager.htm">Is there any way to send a customer satisfaction survey in [%=General.ProductName_mspm_short%]?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/New-tickets-are-being-created-in-MSP-Manager-every-time-a-reply-is-sent.htm">New tickets are being created in <MadCap:variable name="MSPManager.ProductName_Short" /> every time a reply is sent</MadCap:xref>
-            </li>
-            <li>
-                <MadCap:xref href="../../kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm">Completed tickets are not showing in <MadCap:variable name="General.ProductName_mspm_short" /> Billing Batch</MadCap:xref>
-            </li>
-            <li>
-                <MadCap:xref href="../../kb/Images-in-MSP-Manager-added-to-blob-storage.htm">Attached images in [%=Documents.ProductShortName%] ticket responses added to Azure blob storage</MadCap:xref>
-            </li>
-            <li>
-                <MadCap:xref href="../../kb/Is-there-a-way-to-merge-two-2-Customers-in-MSP-Manager.htm">Is there a way to merge two (2) Customers in [%=General.ProductName_mspm_short%]?</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm">[%=General.ProductName_mspm_short%] : Can deleted Service Items be recovered?</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm">Completed tickets are not showing in <MadCap:variable name="General.ProductName_mspm_short" /> Billing Batch</MadCap:xref>
             </li>
             <li>
+                <MadCap:xref href="../../kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm">Quickbooks Desktop Web connector failing to login to [%=General.ProductName_mspm_short%]</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Is-there-a-way-to-sort-tickets-in-MSP-Manager-by-Customer-Last-Response.htm">Is there a way to sort tickets in [%=General.ProductName_mspm_short%] by "Customer Last Response"?</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm">Completed tickets are not showing in <MadCap:variable name="General.ProductName_mspm_short" /> Billing Batch</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm">Service Item list is not available in [%=General.ProductName_mspm_short%] when new Ticket Request is accepted.</MadCap:xref>
                 <MadCap:xref href="../../kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm">[%=General.ProductName_mspm_short%]: Cannot Change Existing Help Desk Ticket To Another Customer After Adding Time entries</MadCap:xref>
             </li>
             <li>

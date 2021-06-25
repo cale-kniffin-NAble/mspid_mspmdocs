@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="http://www.solarwinds.com/documentation/en/flarehelp/mspmanager/Default.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="http://www.solarwinds.com/documentation/en/flarehelp/mspmanager/Default.htm#MSP-NGP-Auto-assign-inbound-tickets.htm%3FTocPath%3DAdmin%2520Guide|Ticketing|Configure%2520ticket%2520routing|_____0" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_mspm_short" />
+    <Variable
+      Name="General.ProductName_msp_rmm_acronym" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

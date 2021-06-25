@@ -6,15 +6,17 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Content/kb/How-to-set-up-Sender-Policy-Framework-SPF-for-MSP-Manager.htm" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
       Url="Content/kb/How-to-setup-a-free-MSP-Manager-Trial.htm" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
-      Url="Content/kb/Does-MSP-Manager-automatically-refresh-after-changes-are-made.htm" />
+      Url="Content/kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm" />
-    <Link
-      Url="Content/kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm" />
     <Link
       Url="Content/kb/Exporting-to-Quickbooks-shows-the-error-QuickBooks-error-message-The-specified-name-is-either-invalid-or-of-the-wrong-type.htm" />
     <Link
@@ -22,21 +24,19 @@
     <Link
       Url="Content/kb/ERROR-Opps-500-Internal-server-error.htm" />
     <Link
-      Url="Content/kb/Include-Requestor-Opening-date-tickets-etc-in-MSP-Manager-reports.htm" />
+      Url="Content/kb/Missing-Issue-types-in-MSP-Manager.htm" />
     <Link
-      Url="Project/VariableSets/General.flvar" />
-    <Link
-      Url="Content/kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm" />
+      Url="Content/kb/Notifications-not-sending-from-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm" />
     <Link
-      Url="Content/kb/Unable-to-view-customers-in-MSP-Manager-when-set-to-an-Access-Group-MSP-Manager-is-linked-to-RMM.htm" />
+      Url="Content/kb/Edit-Customer-Details-in-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/What-email-address-does-clicking-send-test-email-send-the-email-from-in-MSP-Manager.htm" />
+      Url="Content/kb/Email-Ticket-Requests-are-Not-Auto-Creating-tickets-in-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm" />
+      Url="Content/kb/MSP-Manager-Show-On-Dash-Option.htm" />
     <Link
-      Url="Content/kb/SLA-notifications-are-being-sent-for-completed-tickets-stating-Ticket-has-not-been-In-Progress-within-X-hours.htm" />
+      Url="Content/kb/How-to-apply-Service-Plan-to-multiple-customers.htm" />
     <Link
       Url="Content/kb/Importing-Customers-into-MSP-Manager-from-N-central.htm" />
     <Link
@@ -46,15 +46,15 @@
     <Link
       Url="Content/kb/MSP-manager-License-from-trial-to-paid.htm" />
     <Link
-      Url="Content/kb/Unable-to-assign-ticket-to-a-User-in-MSP-Manager.htm" />
+      Url="Content/kb/Is-there-any-way-to-send-a-customer-satisfaction-survey-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm" />
     <Link
-      Url="Content/kb/Images-in-MSP-Manager-added-to-blob-storage.htm" />
+      Url="Content/kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm" />
     <Link
-      Url="Project/VariableSets/Documents.flvar" />
+      Url="Content/kb/Is-there-a-way-to-sort-tickets-in-MSP-Manager-by-Customer-Last-Response.htm" />
     <Link
-      Url="Content/kb/Is-there-a-way-to-merge-two-2-Customers-in-MSP-Manager.htm" />
+      Url="Content/kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm" />
     <Link
@@ -62,15 +62,17 @@
   </Links>
   <LongLinks>
     <Link
+      Url="Content/kb/How-to-set-up-Sender-Policy-Framework-SPF-for-MSP-Manager.htm" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
       Url="Content/kb/How-to-setup-a-free-MSP-Manager-Trial.htm" />
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
-      Url="Content/kb/Does-MSP-Manager-automatically-refresh-after-changes-are-made.htm" />
+      Url="Content/kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm" />
-    <Link
-      Url="Content/kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm" />
     <Link
       Url="Content/kb/Exporting-to-Quickbooks-shows-the-error-QuickBooks-error-message-The-specified-name-is-either-invalid-or-of-the-wrong-type.htm" />
     <Link
@@ -78,21 +80,19 @@
     <Link
       Url="Content/kb/ERROR-Opps-500-Internal-server-error.htm" />
     <Link
-      Url="Content/kb/Include-Requestor-Opening-date-tickets-etc-in-MSP-Manager-reports.htm" />
+      Url="Content/kb/Missing-Issue-types-in-MSP-Manager.htm" />
     <Link
-      Url="Project/VariableSets/General.flvar" />
-    <Link
-      Url="Content/kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm" />
+      Url="Content/kb/Notifications-not-sending-from-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm" />
     <Link
-      Url="Content/kb/Unable-to-view-customers-in-MSP-Manager-when-set-to-an-Access-Group-MSP-Manager-is-linked-to-RMM.htm" />
+      Url="Content/kb/Edit-Customer-Details-in-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/What-email-address-does-clicking-send-test-email-send-the-email-from-in-MSP-Manager.htm" />
+      Url="Content/kb/Email-Ticket-Requests-are-Not-Auto-Creating-tickets-in-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm" />
+      Url="Content/kb/MSP-Manager-Show-On-Dash-Option.htm" />
     <Link
-      Url="Content/kb/SLA-notifications-are-being-sent-for-completed-tickets-stating-Ticket-has-not-been-In-Progress-within-X-hours.htm" />
+      Url="Content/kb/How-to-apply-Service-Plan-to-multiple-customers.htm" />
     <Link
       Url="Content/kb/Importing-Customers-into-MSP-Manager-from-N-central.htm" />
     <Link
@@ -102,15 +102,15 @@
     <Link
       Url="Content/kb/MSP-manager-License-from-trial-to-paid.htm" />
     <Link
-      Url="Content/kb/Unable-to-assign-ticket-to-a-User-in-MSP-Manager.htm" />
+      Url="Content/kb/Is-there-any-way-to-send-a-customer-satisfaction-survey-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm" />
     <Link
-      Url="Content/kb/Images-in-MSP-Manager-added-to-blob-storage.htm" />
+      Url="Content/kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm" />
     <Link
-      Url="Project/VariableSets/Documents.flvar" />
+      Url="Content/kb/Is-there-a-way-to-sort-tickets-in-MSP-Manager-by-Customer-Last-Response.htm" />
     <Link
-      Url="Content/kb/Is-there-a-way-to-merge-two-2-Customers-in-MSP-Manager.htm" />
+      Url="Content/kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm" />
     <Link
@@ -123,13 +123,11 @@
   <IndexControlNames />
   <Variables>
     <Variable
-      Name="MSPManager.ProductName_Short" />
-    <Variable
       Name="General.ProductName_mspm_short" />
     <Variable
-      Name="MSPManager.N-central" />
+      Name="MSPManager.ProductName_Short" />
     <Variable
-      Name="Documents.ProductShortName" />
+      Name="MSPManager.N-central" />
   </Variables>
   <FileConditions />
   <FileTags />

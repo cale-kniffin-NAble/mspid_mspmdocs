@@ -10,4 +10,5 @@
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
         <Link Value="C:\Bitbucket\mspid_mspmdocs\Content\kb\How-can-you-customize-invoices-to-include-notes-on-tickets.htm" />
     </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog" />
 </RecentLinks>
