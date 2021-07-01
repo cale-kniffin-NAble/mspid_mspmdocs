@@ -10,7 +10,7 @@
                 <MadCap:xref href="../../kb/How-to-setup-a-free-MSP-Manager-Trial.htm">How to setup a free <MadCap:variable name="MSPManager.ProductName_Short" /> Trial</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm">Does [%=General.ProductName_mspm_short%] have an option for a report builder?</MadCap:xref>
+                <MadCap:xref href="../../kb/Map-Customers-Sites-and-Locations-and-Export-devices-and-assets-from-N-central-to-MSP-Manager.htm">Map Customers Sites and Locations and Export devices and assets from [%=MSPManager.ProductName_nc_short%] to [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm"><MadCap:variable name="MSPManager.ProductName_Short" /> : Can deleted Service Items be recovered?</MadCap:xref>
@@ -22,7 +22,7 @@
                 <MadCap:xref href="../../kb/Exporting-to-Quickbooks-shows-the-error-QuickBooks-error-message-The-specified-name-is-either-invalid-or-of-the-wrong-type.htm">Exporting to Quickbooks shows the error "QuickBooks error message: The specified name is either invalid or of the wrong type."</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Do-additional-rates-have-a-line-item-created-for-them-when-exported-to-QuickBooks.htm">Do additional rates have a line item created for them when exported to QuickBooks?</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager-attachment-file-size-limit.htm">[%=General.ProductName_mspm_short%] attachment file size limit</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/ERROR-Opps-500-Internal-server-error.htm">ERROR: Opps! 500 Internal server error!</MadCap:xref>
@@ -34,10 +34,10 @@
                 <MadCap:xref href="../../kb/Notifications-not-sending-from-MSP-Manager.htm">Notifications not sending from [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm">Is there an RMM system tray icon for [%=General.ProductName_mspm_short%] that automatically opens tickets?</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager---How-It-Polls-Email.htm">[%=General.ProductName_mspm_short%] - How It Polls Email</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Edit-Customer-Details-in-MSP-Manager.htm">Edit Customer Details in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager-Ticket-Created-But-Does-Not-Show-Up-In-N-central-UI.htm">[%=General.ProductName_mspm_short%] Ticket Created But Does Not Show Up In [%=MSPManager.ProductName_nc_short%] UI</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Email-Ticket-Requests-are-Not-Auto-Creating-tickets-in-MSP-Manager.htm">Email Ticket Requests are not sending notification for automatically created tickets in [%=General.ProductName_mspm_short%]</MadCap:xref>
@@ -46,7 +46,7 @@
                 <MadCap:xref href="../../kb/MSP-Manager-Show-On-Dash-Option.htm">[%=General.ProductName_mspm_short%] Show On Dash Option</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/How-to-apply-Service-Plan-to-multiple-customers.htm">How to apply Service Plan to multiple customers</MadCap:xref>
+                <MadCap:xref href="../../kb/Not-receiving-activation-e-mail-for-MSP-Manager.htm">Not receiving activation e-mail for [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Importing-Customers-into-MSP-Manager-from-N-central.htm">Importing Customers into <MadCap:variable name="MSPManager.ProductName_Short" /> from <MadCap:variable name="MSPManager.N-central" /></MadCap:xref>
@@ -67,20 +67,19 @@
                 <MadCap:xref href="../../kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm">[%=General.ProductName_mspm_short%] : Can deleted Service Items be recovered?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm">Completed tickets are not showing in <MadCap:variable name="General.ProductName_mspm_short" /> Billing Batch</MadCap:xref>
+                <MadCap:xref href="../../kb/Recurring-tickets-in-MSP-Manager.htm">Recurring tickets in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm">Quickbooks Desktop Web connector failing to login to [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Is-there-a-way-to-sort-tickets-in-MSP-Manager-by-Customer-Last-Response.htm">Is there a way to sort tickets in [%=General.ProductName_mspm_short%] by "Customer Last Response"?</MadCap:xref>
+                <MadCap:xref href="../../kb/Override-default-mappings-to-accounting-software.htm">Override default mappings to accounting software</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm">Completed tickets are not showing in <MadCap:variable name="General.ProductName_mspm_short" /> Billing Batch</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm">Service Item list is not available in [%=General.ProductName_mspm_short%] when new Ticket Request is accepted.</MadCap:xref>
-                <MadCap:xref href="../../kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm">[%=General.ProductName_mspm_short%]: Cannot Change Existing Help Desk Ticket To Another Customer After Adding Time entries</MadCap:xref>
+                <MadCap:xref href="../../kb/How-to-view-the-Knowledge-Tab-on-the-MSP-Manager-mobile-app.htm">How to view the Knowledge Tab on the [%=General.ProductName_mspm_short%] mobile app</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm">How can you customize invoices to include notes on tickets?</MadCap:xref>
