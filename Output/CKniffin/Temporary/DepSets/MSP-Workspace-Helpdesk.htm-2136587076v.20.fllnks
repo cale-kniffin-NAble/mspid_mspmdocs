@@ -8,6 +8,8 @@
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
+      Url="Content/MSPM-Helpdesk-Quick-Filters.htm" />
+    <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspacesHelpdesk.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspaceTicketFilterHover.png" />
@@ -29,6 +31,8 @@
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Content/MSPM-Helpdesk-Quick-Filters.htm" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/WorkspacesHelpdesk.png" />
     <Link

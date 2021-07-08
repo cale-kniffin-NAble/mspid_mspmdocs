@@ -14,13 +14,15 @@
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
-      Url="Content/kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm" />
+      Url="Content/kb/Map-Customers-Sites-and-Locations-and-Export-devices-and-assets-from-N-central-to-MSP-Manager.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm" />
     <Link
+      Url="Content/kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm" />
+    <Link
       Url="Content/kb/Exporting-to-Quickbooks-shows-the-error-QuickBooks-error-message-The-specified-name-is-either-invalid-or-of-the-wrong-type.htm" />
     <Link
-      Url="Content/kb/Do-additional-rates-have-a-line-item-created-for-them-when-exported-to-QuickBooks.htm" />
+      Url="Content/kb/MSP-Manager-attachment-file-size-limit.htm" />
     <Link
       Url="Content/kb/ERROR-Opps-500-Internal-server-error.htm" />
     <Link
@@ -28,15 +30,15 @@
     <Link
       Url="Content/kb/Notifications-not-sending-from-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm" />
+      Url="Content/kb/MSP-Manager---How-It-Polls-Email.htm" />
     <Link
-      Url="Content/kb/Edit-Customer-Details-in-MSP-Manager.htm" />
+      Url="Content/kb/MSP-Manager-Ticket-Created-But-Does-Not-Show-Up-In-N-central-UI.htm" />
     <Link
       Url="Content/kb/Email-Ticket-Requests-are-Not-Auto-Creating-tickets-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Show-On-Dash-Option.htm" />
     <Link
-      Url="Content/kb/How-to-apply-Service-Plan-to-multiple-customers.htm" />
+      Url="Content/kb/Not-receiving-activation-e-mail-for-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Importing-Customers-into-MSP-Manager-from-N-central.htm" />
     <Link
@@ -48,15 +50,15 @@
     <Link
       Url="Content/kb/Is-there-any-way-to-send-a-customer-satisfaction-survey-in-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm" />
+      Url="Content/kb/Recurring-tickets-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Is-there-a-way-to-sort-tickets-in-MSP-Manager-by-Customer-Last-Response.htm" />
+      Url="Content/kb/Override-default-mappings-to-accounting-software.htm" />
     <Link
-      Url="Content/kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm" />
+      Url="Content/kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm" />
     <Link
-      Url="Content/kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm" />
+      Url="Content/kb/How-to-view-the-Knowledge-Tab-on-the-MSP-Manager-mobile-app.htm" />
     <Link
       Url="Content/kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm" />
   </Links>
@@ -70,13 +72,15 @@
     <Link
       Url="Project/VariableSets/MSPManager.flvar" />
     <Link
-      Url="Content/kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm" />
+      Url="Content/kb/Map-Customers-Sites-and-Locations-and-Export-devices-and-assets-from-N-central-to-MSP-Manager.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm" />
     <Link
+      Url="Content/kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm" />
+    <Link
       Url="Content/kb/Exporting-to-Quickbooks-shows-the-error-QuickBooks-error-message-The-specified-name-is-either-invalid-or-of-the-wrong-type.htm" />
     <Link
-      Url="Content/kb/Do-additional-rates-have-a-line-item-created-for-them-when-exported-to-QuickBooks.htm" />
+      Url="Content/kb/MSP-Manager-attachment-file-size-limit.htm" />
     <Link
       Url="Content/kb/ERROR-Opps-500-Internal-server-error.htm" />
     <Link
@@ -84,15 +88,15 @@
     <Link
       Url="Content/kb/Notifications-not-sending-from-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm" />
+      Url="Content/kb/MSP-Manager---How-It-Polls-Email.htm" />
     <Link
-      Url="Content/kb/Edit-Customer-Details-in-MSP-Manager.htm" />
+      Url="Content/kb/MSP-Manager-Ticket-Created-But-Does-Not-Show-Up-In-N-central-UI.htm" />
     <Link
       Url="Content/kb/Email-Ticket-Requests-are-Not-Auto-Creating-tickets-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Show-On-Dash-Option.htm" />
     <Link
-      Url="Content/kb/How-to-apply-Service-Plan-to-multiple-customers.htm" />
+      Url="Content/kb/Not-receiving-activation-e-mail-for-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Importing-Customers-into-MSP-Manager-from-N-central.htm" />
     <Link
@@ -104,15 +108,15 @@
     <Link
       Url="Content/kb/Is-there-any-way-to-send-a-customer-satisfaction-survey-in-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm" />
+      Url="Content/kb/Recurring-tickets-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Is-there-a-way-to-sort-tickets-in-MSP-Manager-by-Customer-Last-Response.htm" />
+      Url="Content/kb/Override-default-mappings-to-accounting-software.htm" />
     <Link
-      Url="Content/kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm" />
+      Url="Content/kb/Completed-tickets-are-not-showing-in-MSP-Manager-Billing-Batch.htm" />
     <Link
-      Url="Content/kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm" />
+      Url="Content/kb/How-to-view-the-Knowledge-Tab-on-the-MSP-Manager-mobile-app.htm" />
     <Link
       Url="Content/kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm" />
   </LongLinks>
@@ -126,6 +130,8 @@
       Name="General.ProductName_mspm_short" />
     <Variable
       Name="MSPManager.ProductName_Short" />
+    <Variable
+      Name="MSPManager.ProductName_nc_short" />
     <Variable
       Name="MSPManager.N-central" />
   </Variables>
