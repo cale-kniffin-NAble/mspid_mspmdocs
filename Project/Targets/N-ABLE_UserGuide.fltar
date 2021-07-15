@@ -26,11 +26,11 @@
   MasterToc="/Project/TOCs/N-ABLE_TOC.fltoc"
   TabletBreakpoint="1097"
   FaviconSkin="/Project/Skins/N-ABLE_Favicon.flskn"
-  DefaultUrl="/Content/StartPages/MenuPage/GuideStart.htm"
   MobileBreakpoint="667"
   ContentInclusionType="Referenced"
   UseDeviceWidth="false"
-  Skin="/Project/Skins/N-ABLE_MainSkin.flskn">
+  Skin="/Project/Skins/N-ABLE_MainSkin.flskn"
+  DefaultUrl="/Content/StartPages/MenuPage/GuideStart.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

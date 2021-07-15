@@ -23,7 +23,7 @@
   EquationsOutputType="PNG"
   MasterStylesheetOverride="true"
   SearchEngine="MadCapSearch"
-  MasterToc="/Project/TOCs/MSPMgrBetaAdminGuide.fltoc"
+  MasterToc="/Project/TOCs/N-able_BetaAdminGuide.fltoc"
   SearchBarSkin="/Project/Skins/HomeSearchBar.flskn"
   conditions=""
   DefaultUrl="/Content/MSP-BETA-Configure-MSPM-and-Service-Desk.htm">

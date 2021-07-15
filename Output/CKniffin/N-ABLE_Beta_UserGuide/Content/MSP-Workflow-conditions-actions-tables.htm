@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" class="_Skins_N_ABLE_MainSkin" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="products" content="MSP Manager" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="msapplication-config" content="../Skins/Favicons/browserconfig.xml" />
+        <link rel="apple-touch-icon" sizes="180x180" href="../Skins/Favicons/apple-touch-icon.png" />
+        <link rel="shortcut icon" href="../Skins/Favicons/favicon-32x32.png" />
+        <link rel="icon" sizes="96x96" href="../Skins/Favicons/favicon-96x96.png" />
+        <link rel="icon" sizes="32x32" href="../Skins/Favicons/favicon-32x32.png" />
+        <link rel="icon" sizes="16x16" href="../Skins/Favicons/favicon-16x16.png" />
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <meta name="google-site-verification" content="YRX710dJ6U7xnU2cIklsVAdLzvVcR5pSo6zDOLkou5M" /><title>Workflow Conditions and Actions</title>
+        <link href="../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Default/Stylesheets/Components/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Default/Stylesheets/Components/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Fluid/Stylesheets/foundation.6.2.3.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Fluid/Stylesheets/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Fluid/Stylesheets/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Skins/Fluid/Stylesheets/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
+        <style>p#GuideLink
+{
+	border-color: #c046ff;
+}
+
+div.links-menu div.text-link p#GuideLink
+{
+	color: #c046ff;
+	font-weight: bold;
+	border: 1px solid transparent;
+}
+
+@media only screen and (max-width: 1097px)
+{
+	p#Guide
+	{
+		border-color: transparent;
+	}
+}
+
+</style>
+        <style>/*&lt;meta /&gt;*/
+
+.button.print-button
+{
+	-pie-background: url('../Skins/Default/Stylesheets/Images/print_1.png') no-repeat center center, linear-gradient(transparent, transparent);
+}
+
+.needs-pie
+{
+	behavior: url('../Resources/Scripts/PIE-no-motw.htc');
+}
+
+</style>
+        <style>/*&lt;meta /&gt;*/
+
+.button.previous-topic-button
+{
+	-pie-background: url('../Skins/Default/Stylesheets/Images/ArrowLeftSmall.png') no-repeat center center, linear-gradient(transparent, transparent);
+}
+
+.needs-pie
+{
+	behavior: url('../Resources/Scripts/PIE-no-motw.htc');
+}
+
+</style>
+        <style>/*&lt;meta /&gt;*/
+
+.button.next-topic-button
+{
+	-pie-background: url('../Skins/Default/Stylesheets/Images/ArrowRightSmall.png') no-repeat center center, linear-gradient(transparent, transparent);
+}
+
+.needs-pie
+{
+	behavior: url('../Resources/Scripts/PIE-no-motw.htc');
+}
+
+</style>
+        <link rel="apple-touch-icon" sizes="180x180" href="../Skins/Favicons/apple-touch-icon.png" />
+        <link rel="shortcut icon" href="../Skins/Favicons/favicon-32x32.png" />
+        <link rel="icon" sizes="96x96" href="../Skins/Favicons/favicon-96x96.png" />
+        <link rel="icon" sizes="32x32" href="../Skins/Favicons/favicon-32x32.png" />
+        <link rel="icon" sizes="16x16" href="../Skins/Favicons/favicon-16x16.png" />
+        <script src="../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../Resources/Scripts/foundation.6.2.3_custom.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <!-- Desktop navigation outside of body -->
+    <div class="navigation-container-desktop">
+        <nav class="top-navigation-layout">
+            <div class="top-link-container">
+                <div class="top-link">
+                    <p><a href="https://success.n-able.com/" target="_blank" title="Visit our partner success center" alt="Visit our partner success center"><span class="mc-variable URLs.PartnerText variable">Partner Success Center</span></a>
+                    </p>
+                </div>
+            </div>
+            <div class="top-navigation-container">
+                <div class="logo-container">
+                    <p id="BannerLogo"><a href="https://www.n-able.com/" target="_blank" title="Visit the N-able home page" alt="Visit the N-able home page"><img src="Resources/Images/N-ABLE/Logo.svg" /></a>
+                    </p>
+                </div>
+                <div class="links-container">
+                    <div class="text-link">
+                        <p id="GuideLink"><a href="https://documentation.n-able.com/MSPM/userguide/beta/Content/MSP-BETA-Configure-MSPM-and-Service-Desk.htm/MSP-BETA-Configure-MSPM-and-Service-Desk.htm" title="Display User Guide" alt="Display User Guide"><span class="mc-variable URLs.GuideText variable">User Guides</span></a>
+                        </p>
+                    </div>
+                    <div class="text-link">
+                        <p id="TroubleshootingLink"><a href="https://documentation.n-able.com/MSPM/troubleshooting/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm" title="Display Troubleshooting Information" alt="Display Troubleshooting Information"><span class="mc-variable URLs.TroubleshootingText variable">Troubleshooting</span></a>
+                        </p>
+                    </div>
+                    <div class="text-link">
+                        <p id="Notes"><a href="https://status.n-able.com/release-notes/" target="_blank" title="Display Release Notes" alt="Display Release Notes"><span class="mc-variable URLs.NotesText variable">Release Notes</span></a>
+                        </p>
+                    </div>
+                    <div class="text-link">
+                        <p id="Status"><a href="https://uptime.n-able.com/" target="_blank" title="Display uptime status" alt="Display uptime status"><span class="mc-variable URLs.StatusText variable">Uptime Status</span></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div class="search-filler">
+            <div class="search-filler-right">&#160;
+			</div>
+        </div>
+        <div class="search-container-layout">
+            <div class="search-container"><a name="Search"></a>
+                <div class="banner-container">
+                    <div class="name-container-desktop">
+                        <p><a href="../Default.htm" title="Home" alt="Home"><span class="mc-variable Documents.ProductShortName variable">MSP Manager</span></a>
+                        </p>
+                        <p><a href="../Default.htm" title="Home" alt="Home"><span class="N-ablePink"><span class="mc-variable Documents.DocumentType variable">User Guide</span></span></a>
+                        </p>
+                    </div>
+                </div>
+                <div class="search-bar-container">
+                    <form class="search" action="#">
+                        <div class="search-bar search-bar-container needs-pie _Skins_N_ABLE_SearchBar mc-component">
+                            <input class="search-field needs-pie" type="search" aria-label="Search Field" placeholder="How can we help you?" />
+                            <div class="search-filter-wrapper"><span class="invisible-label" id="search-filters-label">Filter: </span>
+                                <div class="search-filter" aria-haspopup="true" aria-controls="sf-content" aria-expanded="false" aria-label="Search Filter" title="All Files" role="button" tabindex="0">
+                                </div>
+                                <div class="search-filter-content" id="sf-content">
+                                    <ul>
+                                        <li>
+                                            <button class="mc-dropdown-item" aria-labelledby="search-filters-label filterSelectorLabel-00001"><span id="filterSelectorLabel-00001">All Files</span>
+                                            </button>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="search-submit-wrapper" dir="ltr">
+                                <div class="search-submit" title="Search" role="button" tabindex="0"><span class="invisible-label">Submit Search</span>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <body>
+        <div class="foundation-wrap off-canvas-wrapper">
+            <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+                <aside class="off-canvas position-right" role="navigation" id="offCanvas" data-off-canvas="" data-position="right" data-mc-ignore="true">
+                    <ul class="off-canvas-drilldown vertical menu off-canvas-list" data-drilldown="" data-mc-back-link="Back" data-mc-css-tree-node-expanded="is-drilldown-submenu-parent" data-mc-css-tree-node-collapsed="is-drilldown-submenu-parent" data-mc-css-sub-menu="vertical menu slide-in-right is-drilldown-submenu" data-mc-include-indicator="False" data-mc-include-icon="False" data-mc-include-parent-link="True" data-mc-include-back="True" data-mc-defer-expand-event="True" data-mc-expand-event="click.zf.drilldown" data-mc-toc="True">
+                    </ul>
+                </aside>
+                <div class="off-canvas-content inner-wrap" data-off-canvas-content="">
+                    <div data-sticky-container="" class="title-bar-container">
+                        <nav class="title-bar tab-bar sticky" role="banner" data-sticky="" data-options="marginTop:0" style="width:100%" data-sticky-on="only screen and (min-width: 1098px)" data-mc-ignore="true"><a class="skip-to-content fluid-skip showOnFocus" href="#">Skip To Main Content</a>
+                            <div class="middle title-bar-section outer-row clearfix">
+                                <div class="menu-icon-container relative clearfix">
+                                    <div class="central-account-wrapper">
+                                        <div class="central-dropdown"><a class="central-account-drop"><span class="central-account-image"></span><span class="central-account-text">Account</span></a>
+                                            <div class="central-dropdown-content"><a class="MCCentralLink central-dropdown-content-settings">Settings</a>
+                                                <hr class="central-separator" /><a class="MCCentralLink central-dropdown-content-logout">Logout</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <button class="menu-icon" aria-label="Show Navigation Panel" data-toggle="offCanvas"><span></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="title-bar-layout outer-row">
+                                <div class="logo-wrapper"><a class="logo" href="MSP-BETA-Configure-MSPM-and-Service-Desk.htm" alt="Logo"></a>
+                                </div>
+                                <div class="navigation-wrapper nocontent">
+                                    <ul class="navigation clearfix" role="navigation" data-mc-css-tree-node-has-children="has-children" data-mc-css-sub-menu="sub-menu" data-mc-expand-event="mouseenter" data-mc-top-nav-menu="True" data-mc-max-depth="1" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
+                                        <li class="placeholder" style="visibility:hidden"><a>placeholder</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="central-account-wrapper">
+                                    <div class="central-dropdown"><a class="central-account-drop"><span class="central-account-image"></span><span class="central-account-text">Account</span></a>
+                                        <div class="central-dropdown-content"><a class="MCCentralLink central-dropdown-content-settings">Settings</a>
+                                            <hr class="central-separator" /><a class="MCCentralLink central-dropdown-content-logout">Logout</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="nav-search-wrapper">
+                                    <div class="nav-search row">
+                                        <form class="search" action="#">
+                                            <div class="search-bar search-bar-container needs-pie">
+                                                <input class="search-field needs-pie" type="search" aria-label="Search Field" placeholder="How can we help you?" />
+                                                <div class="search-filter-wrapper"><span class="invisible-label" id="search-filters-label">Filter: </span>
+                                                    <div class="search-filter" aria-haspopup="true" aria-controls="sf-content" aria-expanded="false" aria-label="Search Filter" title="All Files" role="button" tabindex="0">
+                                                    </div>
+                                                    <div class="search-filter-content" id="sf-content">
+                                                        <ul>
+                                                            <li>
+                                                                <button class="mc-dropdown-item" aria-labelledby="search-filters-label filterSelectorLabel-00001"><span id="filterSelectorLabel-00001">All Files</span>
+                                                                </button>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="search-submit-wrapper" dir="ltr">
+                                                    <div class="search-submit" title="Start the search" role="button" tabindex="0"><span class="invisible-label">Submit Search</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                    <div class="main-section">
+                        <div class="row outer-row sidenav-layout">
+                            <nav class="sidenav-wrapper">
+                                <div class="sidenav-container">
+                                    <ul class="off-canvas-accordion vertical menu sidenav" data-accordion-menu="" data-mc-css-tree-node-expanded="is-accordion-submenu-parent" data-mc-css-tree-node-collapsed="is-accordion-submenu-parent" data-mc-css-sub-menu="vertical menu accordion-menu is-accordion-submenu nested" data-mc-include-indicator="False" data-mc-include-icon="False" data-mc-include-parent-link="False" data-mc-include-back="False" data-mc-defer-expand-event="True" data-mc-expand-event="click.zf.accordionMenu" data-mc-toc="True" data-mc-side-nav-menu="True">
+                                    </ul>
+                                </div>
+                            </nav>
+                            <div class="body-container">
+                                <div data-mc-content-body="True">
+                                    <!-- Mobile navigation inside of body -->
+                                    <div class="navigation-container-mobile">
+                                        <nav class="top-navigation-layout">
+                                            <div class="top-link-container">
+                                                <div class="top-link">
+                                                    <p><a href="https://success.n-able.com/" target="_blank" title="Visit our partner success center" alt="Visit our partner success center"><span class="mc-variable URLs.PartnerText variable">Partner Success Center</span></a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="top-navigation-container">
+                                                <div class="logo-container">
+                                                    <p id="BannerLogo"><a href="https://www.n-able.com/" target="_blank" title="Visit the N-able home page" alt="Visit the N-able home page"><img src="Resources/Images/N-ABLE/Logo.svg" /></a>
+                                                    </p>
+                                                </div>
+                                                <div class="links-container">
+                                                    <div class="text-link">
+                                                        <p id="GuideLink"><a href="https://documentation.n-able.com/MSPM/userguide/beta/Content/MSP-BETA-Configure-MSPM-and-Service-Desk.htm/MSP-BETA-Configure-MSPM-and-Service-Desk.htm" title="Display User Guide" alt="Display User Guide"><span class="mc-variable URLs.GuideText variable">User Guides</span></a>
+                                                        </p>
+                                                    </div>
+                                                    <div class="text-link">
+                                                        <p id="TroubleshootingLink"><a href="https://documentation.n-able.com/MSPM/troubleshooting/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm" title="Display Troubleshooting Information" alt="Display Troubleshooting Information"><span class="mc-variable URLs.TroubleshootingText variable">Troubleshooting</span></a>
+                                                        </p>
+                                                    </div>
+                                                    <div class="text-link">
+                                                        <p id="Notes"><a href="https://status.n-able.com/release-notes/" target="_blank" title="Display Release Notes" alt="Display Release Notes"><span class="mc-variable URLs.NotesText variable">Release Notes</span></a>
+                                                        </p>
+                                                    </div>
+                                                    <div class="text-link">
+                                                        <p id="Status"><a href="https://uptime.n-able.com/" target="_blank" title="Display uptime status" alt="Display uptime status"><span class="mc-variable URLs.StatusText variable">Uptime Status</span></a>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </nav>
+                                        <div class="search-filler">
+                                            <div class="search-filler-right">&#160;
+				</div>
+                                        </div>
+                                        <div class="search-container-layout">
+                                            <div class="search-container"><a name="Search"></a>
+                                                <div class="banner-container">
+                                                    <div class="name-container-desktop">
+                                                        <p><a href="../Default.htm" title="Home" alt="Home"><span class="mc-variable Documents.ProductShortName variable">MSP Manager</span></a>
+                                                        </p>
+                                                        <p><a href="../Default.htm" title="Home" alt="Home"><span class="N-ablePink"><span class="mc-variable Documents.DocumentType variable">User Guide</span></span></a>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div class="search-bar-container">
+                                                    <form class="search" action="#">
+                                                        <div class="search-bar search-bar-container needs-pie _Skins_N_ABLE_SearchBar mc-component">
+                                                            <input class="search-field needs-pie" type="search" aria-label="Search Field" placeholder="How can we help you?" />
+                                                            <div class="search-filter-wrapper"><span class="invisible-label" id="search-filters-label">Filter: </span>
+                                                                <div class="search-filter" aria-haspopup="true" aria-controls="sf-content" aria-expanded="false" aria-label="Search Filter" title="All Files" role="button" tabindex="0">
+                                                                </div>
+                                                                <div class="search-filter-content" id="sf-content">
+                                                                    <ul>
+                                                                        <li>
+                                                                            <button class="mc-dropdown-item" aria-labelledby="search-filters-label filterSelectorLabel-00001"><span id="filterSelectorLabel-00001">All Files</span>
+                                                                            </button>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                            <div class="search-submit-wrapper" dir="ltr">
+                                                                <div class="search-submit" title="Search" role="button" tabindex="0"><span class="invisible-label">Submit Search</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="name-container-mobile">
+                                        <p><a href="../Default.htm" title="Home" alt="Home"><span class="mc-variable Documents.ProductShortName variable">MSP Manager</span>&#160;<span class="N-ablePink"><span class="mc-variable Documents.DocumentType variable">User Guide</span></span></a>
+                                        </p>
+                                    </div>
+                                    <div class="content">
+                                        <div class="name-container-mobile">
+                                            <p><a href="../Default.htm" title="Home" alt="Home"><span class="mc-variable Documents.ProductShortName variable">MSP Manager</span>&#160;<span class="N-ablePink"><span class="mc-variable Documents.DocumentType variable">User Guide</span></span></a>
+                                            </p>
+                                        </div>
+                                        <div class="clearfix">
+                                            <div class="toolbar-container">
+                                                <div class="buttons popup-container clearfix topicToolbarProxy _Skins_N_ABLE_ToolBar mc-component nocontent" style="text-align: left; mc-topic-toolbar-items: ;">
+                                                    <div class="button-group-container-left">
+                                                        <button class="button needs-pie print-button" title="Print">
+                                                            <img alt="Print" src="../Skins/Default/Stylesheets/Images/transparent.gif" class="invisible-label" />
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                                <div class="HomeButton"><a href="../Default.htm" title="Home" alt="Home button to return to start page"><img src="Resources/Images/N-ABLE/home.png" /></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="sideContent">
+                                        </div>
+                                        <div role="main" id="mc-main-content">
+                                            <h1>Workflow Conditions and Actions</h1>
+                                            <p>Below is a list of all conditions for each trigger type, an explanation of what the condition does, as well as a description of all available actions.</p>
+                                            <h2>Email Conditions </h2>
+                                            <table style="width: 717px;">
+                                                <col style="width: 214px;" />
+                                                <col style="width: 669px;" />
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="text-align: center;font-weight: bold;">Condition Display Name</td>
+                                                        <td style="text-align: center;font-weight: bold;">Description</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Contact Location</td>
+                                                        <td>Checks the Contact's location that is associated to the contact email address</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Customer contains contract</p>
+                                                        </td>
+                                                        <td>Checks if the selected Customer has a contract with the specified name</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Sender Email</td>
+                                                        <td>Checks the email address of the sender</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Email Body</td>
+                                                        <td>
+                                                            <p>Checks the body of the incoming email </p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Email Subject</p>
+                                                        </td>
+                                                        <td>	Checks the subject of the incoming email</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Customer Name</td>
+                                                        <td>	Checks the Customer name</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Sender Domain</td>
+                                                        <td>	Checks the email domain of the sender of the incoming email</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Monitored Mailbox Email Address</td>
+                                                        <td>Checks the email address of the monitored mailbox. This is used to only process messages from a specified mailbox address, for example. </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Program Level Name</td>
+                                                        <td>	Checks the name of the program level </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <h2>Outage Conditions <br /></h2>
+                                            <table style="width: 717px;">
+                                                <col style="width: 298px;" />
+                                                <col style="width: 702px;" />
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="text-align: center;font-weight: bold;">Condition Display Name</td>
+                                                        <td style="text-align: center;font-weight: bold;">Description</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Asset - Description</p>
+                                                        </td>
+                                                        <td>Checks the Asset Description associated to the incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset - Domain</td>
+                                                        <td>Checks the Asset Domain associated to the incoming outage</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Asset - External IP</p>
+                                                        </td>
+                                                        <td>Checks the Asset's external IP address that is associated to the incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Asset - Install Date</p>
+                                                        </td>
+                                                        <td>Checks the install date of the Asset associated to the incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset - Location</td>
+                                                        <td>Checks the location name of the Asset  associated to incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset - OS Type</td>
+                                                        <td>Checks Asset OS Type associated to incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset - Owner</td>
+                                                        <td>Checks the incoming outage's Asset Owner</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset - Server role name</td>
+                                                        <td>Checks  the Server Role Name of the Asset associated to the incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset - System type</td>
+                                                        <td>
+                                                            <p>Checks the System Type of the Asset associated to the incoming outage. </p>
+                                                            <p class="nugget">The system type in RMM is determined by the Servers tab, the Workstations tab or the Type Columns for Network Devices.</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset Class</td>
+                                                        <td>Checks the incoming outage's associated Asset Class and compares the Asset Id to determine if the Asset Class is located in the drop down menu of the condition builder</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset Class Name</td>
+                                                        <td>Checks the name of the Asset Class associated to the incoming outage</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset Location Address 1</td>
+                                                        <td>Checks the primary Location address of the Asset which is associated to the incoming outage</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset Location Address 2</td>
+                                                        <td>Checks the secondary  Location Address of the Asset associated to the incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset Location City</td>
+                                                        <td>Checks the city of the Asset associated to the incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset Location Zip code</td>
+                                                        <td>Checks the Zip Code of the Location of the Asset associated to the incoming outage</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Asset Status</td>
+                                                        <td>Checks the Asset Status name associated to the incoming outage</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Assigned Service Item</td>
+                                                        <td>Checks if the Service item with given name exists in many-to-many table that stores associations between assets and service items</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Check Category Name</td>
+                                                        <td>Checks the Category Id of the Asset associated to the incoming outage</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Customer has Service Item</td>
+                                                        <td>Checks if the customer to which the incoming outage is associated has a Service Item with specified name</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Customer Name</td>
+                                                        <td>Checks the name of the Customer to which the incoming outage is associated</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Customer Since</td>
+                                                        <td>Checks the Created Date of the customer to which the incoming outage is associated</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Customer Status</td>
+                                                        <td>Checks the status of the customer to which the incoming outage is associated</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Location - State</td>
+                                                        <td>Checks the state in which the Asset is located </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Outage - Description</td>
+                                                        <td>Checks the description of the incoming outage </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Outage - Created Date</td>
+                                                        <td>Checks the creation date of the incoming outage</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Outage - Subject</td>
+                                                        <td>Checks the subject of the incoming outage</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Previous Ticket - Closed Date</td>
+                                                        <td>Checks the Closed Date of previous tickets associated with prior outages</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Previous Ticket - Date of Last Activity</td>
+                                                        <td>Checks the last updated date of previous tickets associated with prior outages</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Previous Ticket - Details</td>
+                                                        <td>Checks the details of previous tickets associated with prior outages</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Previous Ticket - Opened Date</td>
+                                                        <td>Checks the opened date of previous tickets associated with prior outages</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Previous Ticket - Title</td>
+                                                        <td>Checks the title of previous tickets  associated with prior outages</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Program Level</td>
+                                                        <td>Checks the name of the customer's program level associated to the incoming outage</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <h2> Portal Ticket Request &amp; Easy Ticket Request Conditions <br /></h2>
+                                            <table style="width: 717px;">
+                                                <col style="width: 214px;" />
+                                                <col style="width: 495px;" />
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="text-align: center;font-weight: bold;">Condition Display Name</td>
+                                                        <td style="text-align: center;font-weight: bold;">Description</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Contact Email Address</p>
+                                                        </td>
+                                                        <td>Checks the Contact's email address that is associated to the Ticket Request </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Contact Location</td>
+                                                        <td>Checks the Contact's location that is associated to the Ticket Request</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Ticket Category </td>
+                                                        <td>Checks the Ticket Request Category. This is only available for Portal Ticket Requests, as there is no way to determine the Ticket Category for Easy Ticket Requests</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Ticket Request Details</p>
+                                                        </td>
+                                                        <td>Checks the details of the ticket request</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Ticket Request Title</p>
+                                                        </td>
+                                                        <td>Checks the title of the ticket request</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <h2>Actions</h2>
+                                            <table style="width: 1002px;">
+                                                <col style="width: 297px;" />
+                                                <col style="width: -16px;" />
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="font-weight: bold;text-align: center;">Action Name</td>
+                                                        <td style="font-weight: bold;text-align: center;">Description </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Set Property</td>
+                                                        <td>
+                                                            <p>Sets property of the created ticket to one of the available options:</p>
+                                                            <ul>
+                                                                <li>
+
+    Priority
+    </li>
+                                                                <li>Ticket Status
+    </li>
+                                                                <li>Is Taxable
+</li>
+                                                                <li>    Is Billable
+    </li>
+                                                                <li>Description</li>
+                                                            </ul>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Create Ticket</td>
+                                                        <td>This is the default action for all workflows </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Assign Technician</td>
+                                                        <td>Uses <a href="MSP-NGP-Define-rules-for-ticket-routing.htm">Ticket Routing rules</a> to assign a technician to the created ticket</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Assign Service Plan</td>
+                                                        <td>
+                                                            <p>Assigns a service item by one of two methods:
+</p>
+                                                            <ul>
+                                                                <li>
+    Default Service Item of customer (if configured)
+    </li>
+                                                                <li>Selected Service Plan - assigns a service item which was created using the selected Service Plan. (If the service item that was created by the selected Service Plan is not found, the action does nothing)</li>
+                                                            </ul>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Assign Contact</td>
+                                                        <td>
+                                                            <p>Assigns a Contact to the created Ticket. There is a primary and secondary method of finding and assigning a contact. If the primary option fails, the secondary method is applied. </p>
+                                                            <ul>
+                                                                <li>
+    Contact which created Ticket Request - Customer contact that initiated the ticket request
+</li>
+                                                                <li>Default Customer Contact - if the default Contact for the customer is configured, it will be assigned</li>
+                                                                <li>    Named Contact - finds specified contact by email address</li>
+                                                            </ul>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Assign Queue</td>
+                                                        <td>Assigns the ticket to the selected Ticket Queue</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Do Not Create Ticket</td>
+                                                        <td>
+                                                            <p>Overrides the Create Ticket action</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Set Ticket Issue Type</td>
+                                                        <td>
+                                                            <p>Assigns the selected Ticket Issue Type and Sub-Issue Type to the ticket</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Delete Ticket Request</td>
+                                                        <td>
+                                                            <p>Deletes Ticket Request. </p>
+                                                            <p>For example:
+
+Your company does not want any tickets created for requests from a specific email address:
+
+</p>
+                                                            <p>Condition : Sender Email Address contains 'Email@domain.com'
+</p>
+                                                            <p>Action: Delete Ticket Request</p>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <p>
+                                            <!-- Google Analytics -->
+                                            <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+					j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+					'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
+                                        </p>
+                                        <!-- Start iFrame Embed Code --><iframe style="overflow: hidden; border: none;" class="iframe-resize" scrolling="no" seamless="seamless" src="" border="0" width="600"></iframe>
+                                        <script src="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS">
+                                        </script>
+                                        <script type="text/javascript">/* <![CDATA[ */
+				$(function () {
+				var iFrameURL = 'https://success.n-able.com/Support_HelpDocs_FeedbackForm',
+				productParam = '?product=' + $("meta[name=products]").attr("content"),
+				topicnameParam = '&amp;topicname=' + $('h1:first').text(),
+				topicfilenameParam = '&amp;topicfilename=' + window.location.pathname,
+				urlParam = '&amp;url=' + window.location.protocol + '//' + window.location.hostname + window.location.pathname;
+				var isOldIE = (navigator.userAgent.indexOf("MSIE") !== -1); // Detect IE10 and below
+				console.log('productParam: ' + productParam);
+				console.log('topicnameParam: ' + topicnameParam);
+				console.log('topicfilenameParam: ' + topicfilenameParam);
+				console.log('urlParam: ' + urlParam);
+        
+				console.log('iframe src: ' + iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam));
+        
+				$('.iframe-resize').attr("src", iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam))
+				$('.iframe-resize').iFrameResize({
+				heightCalculationMethod: isOldIE ? 'max' : 'lowestElement', 
+				//checkOrigin: []
+				});
+				});
+			/* ]]> */</script>
+                                        <!-- End iFrame Embed Code -->
+                                    </div>
+                                    <nav id="bottomNavArea" aria-label="Navigation Links">
+                                        <div class="moreInfoArea" xmlns="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                                            <div class="moreInfoScreen">
+                                                <div class="moreInfoContainer">
+                                                    <table id="moreInfoTable" style="width: 100%;border-spacing: 12px 0px;margin-left: auto;margin-right: auto;">
+                                                        <col style="width: 30px;" />
+                                                        <col />
+                                                        <col style="width: 30px;" />
+                                                        <tbody>
+                                                            <tr>
+                                                                <td style="text-align: left;vertical-align: middle;">
+                                                                    <div class="navButton">
+                                                                        <div class="buttons popup-container clearfix topicToolbarProxy _Skins_N_ABLE_Toolbar_Prev mc-component nocontent" style="mc-topic-toolbar-items: ;" xmlns="">
+                                                                            <div class="button-group-container-left">
+                                                                                <button class="button needs-pie previous-topic-button" title="Display previous topic">
+                                                                                    <img alt="Navigate previous" src="../Skins/Default/Stylesheets/Images/transparent.gif" class="invisible-label" />
+                                                                                </button>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </td>
+                                                                <td style="background-repeat: no-repeat;background-position-x: center;background-position-y: top;background-image: none;vertical-align: middle;">
+                                                                    <div class="MCDropDown MCDropDown_Closed dropDown dropDownMoreInfo" xmlns=""><span class="MCDropDownHead dropDownHead"><a aria-label="Show Navigation Links" href="#" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCDropDownHotSpot_MoreInfo" aria-expanded="false"><p class="menuWidget" xmlns="http://www.madcapsoftware.com/Schemas/MadCap.xsd">&#160;</p></a></span>
+                                                                        <div class="MCDropDownBody dropDownBody">
+                                                                            <div class="moreInfoContent" xmlns="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                                                                                <div class="other-resources">
+                                                                                    <div>
+                                                                                        <!--
+                                                            <p class="MoreInfo"><a href="[%=URLs.CompanyURL%]" title="Visit N-Able" alt="Visit N-Able" xmlns="" target="_blank"><img src="../../Images/N-ABLE/index.png" style="vertical-align: middle;width: 47px;height: 47px;" xmlns="" /></a> <a id="Link2" href="[%=URLs.CompanyURL%]" title="Visit N-Able" alt="Visit N-Able" xmlns="" target="_blank">N-Able Home</a></p>
+-->
+                                                                                    </div>
+                                                                                    <div>
+                                                                                        <p class="MoreInfo"><a href="../../Default.htm" title="Go to the start page" alt="Go to the start page" xmlns=""><img src="Resources/Images/N-ABLE/start_32x32.png" style="vertical-align: middle;width: 32;height: 32;" /></a> <!--<a id="Link1" href="../../[%=URLs.CurrentStartPage%]" title="Go to the start page" alt="Go to the start page" xmlns="">Start Page</a>--></p>
+                                                                                    </div>
+                                                                                    <div>
+                                                                                        <!--
+                                                            <p class="MoreInfo"><a href="#Search" xmlns="" alt="Search topics" title="Search topics"><img src="../../Images/N-ABLE/search.png" style="vertical-align: middle;width: 47px;height: 47px;" xmlns="" /></a> <a id="Link3" href="#Search" alt="Search topics" title="Search topics" xmlns="">Search</a></p>
+-->
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="other-topics">
+                                                                                    <div>
+                                                                                        <p class="MoreInfo">Topics</p>
+                                                                                        <ul class="nocontent menu _Skins_N_ABLE_SideMenu mc-component" data-mc-is-context-sensitive="True" data-mc-linked-toc="Data/Tocs/N_ABLE_TOC.js" data-mc-side-menu="True" data-mc-max-depth="1" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True" xmlns="">
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                    <div>
+                                                                                        <p class="MoreInfo"><a href="../../QuickLinks/QuickLinksStart.htm" xmlns="">Resources</a>
+                                                                                        </p>
+                                                                                        <div class="links-menu">
+                                                                                            <div class="links-container" xmlns="">
+                                                                                                <div class="text-link">
+                                                                                                    <p id="GuideLink"><a href="https://documentation.n-able.com/MSPM/userguide/beta/Content/MSP-BETA-Configure-MSPM-and-Service-Desk.htm/MSP-BETA-Configure-MSPM-and-Service-Desk.htm" title="Display User Guide" alt="Display User Guide"><span class="mc-variable URLs.GuideText variable">User Guides</span></a>
+                                                                                                    </p>
+                                                                                                </div>
+                                                                                                <div class="text-link">
+                                                                                                    <p id="TroubleshootingLink"><a href="https://documentation.n-able.com/MSPM/troubleshooting/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm" title="Display Troubleshooting Information" alt="Display Troubleshooting Information"><span class="mc-variable URLs.TroubleshootingText variable">Troubleshooting</span></a>
+                                                                                                    </p>
+                                                                                                </div>
+                                                                                                <div class="text-link">
+                                                                                                    <p id="Notes"><a href="https://status.n-able.com/release-notes/" target="_blank" title="Display Release Notes" alt="Display Release Notes"><span class="mc-variable URLs.NotesText variable">Release Notes</span></a>
+                                                                                                    </p>
+                                                                                                </div>
+                                                                                                <div class="text-link">
+                                                                                                    <p id="Status"><a href="https://uptime.n-able.com/" target="_blank" title="Display uptime status" alt="Display uptime status"><span class="mc-variable URLs.StatusText variable">Uptime Status</span></a>
+                                                                                                    </p>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </td>
+                                                                <td style="text-align: right;vertical-align: middle;">
+                                                                    <div class="navButton">
+                                                                        <div class="buttons popup-container clearfix topicToolbarProxy _Skins_N_ABLE_Toolbar_Next mc-component nocontent" style="mc-topic-toolbar-items: ;" xmlns="">
+                                                                            <div class="button-group-container-left">
+                                                                                <button class="button needs-pie next-topic-button" title="Display next topic">
+                                                                                    <img alt="Navigate next" src="../Skins/Default/Stylesheets/Images/transparent.gif" class="invisible-label" />
+                                                                                </button>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div><a data-close="true"></a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
