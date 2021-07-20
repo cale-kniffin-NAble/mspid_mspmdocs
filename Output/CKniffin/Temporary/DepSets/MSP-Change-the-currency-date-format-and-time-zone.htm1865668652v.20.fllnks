@@ -5,8 +5,14 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="Content/MSP-Change-the-language-in-your-account.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/MSP-Change-the-language-in-your-account.htm" />
+  </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />

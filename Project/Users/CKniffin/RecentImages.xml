@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/ChangeLanguage.png" />
     <Url Source="Resources/Images/MSPMScreenshots/HDworkspaceTicketFilters.png" />
     <Url Source="Resources/Images/MSPMScreenshots/QuickFilterFinal.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />

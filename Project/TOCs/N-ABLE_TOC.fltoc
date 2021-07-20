@@ -67,6 +67,9 @@
         Title="Change the currency, date format, and time zone"
         Link="/Content/MSP-Change-the-currency-date-format-and-time-zone.htm" />
       <TocEntry
+        Title="Change the language of your account"
+        Link="/Content/MSP-Change-the-language-in-your-account.htm" />
+      <TocEntry
         Title="Configure your Sender Policy Framework (SPF)"
         Link="/Content/MSP-Set-up-SPF-for-MSPM.htm" />
       <TocEntry
