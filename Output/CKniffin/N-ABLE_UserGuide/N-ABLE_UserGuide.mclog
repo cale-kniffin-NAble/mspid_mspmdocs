@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_UserGuide.fltar" Date="2021-07-12T18:44:18.0497890-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_UserGuide.fltar" Date="2021-07-27T16:34:14.6965793-05:00">
     <Messages>Compiling target N-ABLE_UserGuide...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Default.Online
@@ -160,6 +160,12 @@ Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
 Link points outside project file:///C:/GitHub/Default.htm
 Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated MSP-Change-the-currency-date-format-and-time-zone.htm
+Processing topic: MSP-Change-the-language-in-your-account.htm...
+Applying master page N-ABLE_GuideTopics.flmsp...
+Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
+Link points outside project file:///C:/GitHub/Default.htm
+Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
+Generated MSP-Change-the-language-in-your-account.htm
 Processing topic: MSP-Set-up-SPF-for-MSPM.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
@@ -869,8 +875,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 1161
-Output generated in 37 second(s).
+Ignored Compiler Warnings: 1170
+Output generated in 51 second(s).
 
 Done
 Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE_UserGuide.mclog"
@@ -902,6 +908,9 @@ Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE_
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Project/Skins/N-ABLE_MainSkin.flskn" Message="Image right.png was not found.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="20011" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
