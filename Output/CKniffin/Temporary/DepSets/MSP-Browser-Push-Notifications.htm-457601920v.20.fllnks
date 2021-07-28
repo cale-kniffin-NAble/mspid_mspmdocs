@@ -2,7 +2,6 @@
 <CatapultFileLinkSet
   FileClass="_Skins_SW2015"
   FileTitle="Configure browser push notifications for MSP Manager"
-  FileLanguage="en-us"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
@@ -10,28 +9,6 @@
   FileDescription="">
   <Links>
     <Link
-      Url="Skins/Default/Stylesheets/Slideshow.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/TextEffects.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Topic.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Styles.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Tablet.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Mobile.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/foundation.6.2.3.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Styles.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Tablet.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Mobile.css" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Skins/Default/Stylesheets/Images/print_1.png" />
     <Link
       Url="Skins/Default/Stylesheets/Images/home_2.png" />
@@ -50,42 +27,24 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Skins/Default/Stylesheets/Images/transparent.gif" />
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/BrowserNotificationExample.png" />
     <Link
-      Url="Content/Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications_388x254.png" />
+      Url="Content/Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/EdgeBrowserNotifications.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/PushNotificationPermissions.png" />
-    <Link
-      Url="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS" />
   </Links>
   <LongLinks>
     <Link
-      Url="Skins/Default/Stylesheets/Slideshow.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/TextEffects.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Topic.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Styles.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Tablet.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Mobile.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/foundation.6.2.3.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Styles.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Tablet.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Mobile.css" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Skins/Default/Stylesheets/Images/print_1.png" />
     <Link
       Url="Skins/Default/Stylesheets/Images/home_2.png" />
@@ -104,17 +63,21 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Skins/Default/Stylesheets/Images/transparent.gif" />
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/BrowserNotificationExample.png" />
     <Link
-      Url="Content/Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications_388x254.png" />
+      Url="Content/Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/EdgeBrowserNotifications.png" />
     <Link
       Url="Content/Resources/Images/MSPMScreenshots/PushNotificationPermissions.png" />
-    <Link
-      Url="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -127,26 +90,12 @@
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Skins/Default/Stylesheets/Slideshow.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
     <Url
-      Source="Skins/Default/Stylesheets/TextEffects.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
     <Url
-      Source="Skins/Default/Stylesheets/Topic.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
     <Url
-      Source="Skins/Default/Stylesheets/Components/Styles.css" />
-    <Url
-      Source="Skins/Default/Stylesheets/Components/Tablet.css" />
-    <Url
-      Source="Skins/Default/Stylesheets/Components/Mobile.css" />
-    <Url
-      Source="Skins/Fluid/Stylesheets/foundation.6.2.3.css" />
-    <Url
-      Source="Skins/Fluid/Stylesheets/Styles.css" />
-    <Url
-      Source="Skins/Fluid/Stylesheets/Tablet.css" />
-    <Url
-      Source="Skins/Fluid/Stylesheets/Mobile.css" />
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

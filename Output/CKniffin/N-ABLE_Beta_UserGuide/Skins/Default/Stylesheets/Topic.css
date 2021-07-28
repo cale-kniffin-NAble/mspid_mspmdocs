@@ -449,6 +449,18 @@ div.MCBreadcrumbsBox_0
 	text-decoration: none;
 }
 
+.xref
+{
+	color: #0079aa;
+	text-decoration: none;
+}
+
+.xref:hover
+{
+	color: #2d5c77;
+	text-decoration: underline;
+}
+
 .MCWebHelpFramesetLink a
 {
 	

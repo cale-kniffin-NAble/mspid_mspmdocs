@@ -375,8 +375,8 @@
         Title="Customize HTML or plain text notifications to send to your customers and technicians"
         Link="/Content/MSP-NGP-HTML-and-plain-text-notifications.htm" />
       <TocEntry
-        Title="Configure browser push notifications"
-        Link="/Content/MSP-Browser-Push-Notifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/MSP-Configure-Browser-Push-Notifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>
   <TocEntry

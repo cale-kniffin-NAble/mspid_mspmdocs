@@ -40,11 +40,15 @@
   <FileConditions>
     <Condition
       Tag="Default.comment" />
+    <Condition
+      Tag="Default.Ignore" />
   </FileConditions>
   <FileTags />
   <AllConditions>
     <Condition
       Tag="Default.comment" />
+    <Condition
+      Tag="Default.Ignore" />
   </AllConditions>
   <Stylesheets />
 </CatapultFileLinkSet>

@@ -9,12 +9,16 @@
       Url="Content/MSP-NGP-Set-notifications-for-system-and-user-actions.htm" />
     <Link
       Url="Content/MSP-NGP-HTML-and-plain-text-notifications.htm" />
+    <Link
+      Url="Content/MSP-Configure-Browser-Push-Notifications.htm" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/MSP-NGP-Set-notifications-for-system-and-user-actions.htm" />
     <Link
       Url="Content/MSP-NGP-HTML-and-plain-text-notifications.htm" />
+    <Link
+      Url="Content/MSP-Configure-Browser-Push-Notifications.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

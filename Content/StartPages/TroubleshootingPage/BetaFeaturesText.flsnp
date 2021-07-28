@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1><MadCap:variable name="Documents.ProductShortName" /> Beta Features</h1>
+        <ul>
+            <li>
+                <MadCap:xref href="../../MSP-BETA-Configure-MSPM-and-Service-Desk.htm">Configure [%=MSPManager.ProductName_Long%] and test the Service Desk migration process</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../MSP-BETA-Service-Desk-Migration.htm">Migrate your Service Desk data  to [%=MSPManager.ProductName_Long%]</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../MSP-BETA-Uninstall-Service-Desk.htm">Uninstall Service Desk and install [%=MSPManager.ProductName_Long%] as an integrated account</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../MSP-BETA-What-is-OData.htm">Use OData to export your [%=MSPManager.ProductName_Long%] data</MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

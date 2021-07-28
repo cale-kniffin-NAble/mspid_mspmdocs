@@ -449,6 +449,18 @@
 	text-decoration: none;
 }
 
+.micro-response .xref
+{
+	color: #0079aa;
+	text-decoration: none;
+}
+
+.micro-response .xref:hover
+{
+	color: #2d5c77;
+	text-decoration: underline;
+}
+
 .micro-response .MCWebHelpFramesetLink a
 {
 	

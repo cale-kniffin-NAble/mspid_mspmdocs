@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_Beta_UserGuide.fltar" Date="2021-07-12T18:32:56.6377153-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_Beta_UserGuide.fltar" Date="2021-07-28T18:09:02.4385784-05:00">
     <Messages>Compiling target N-ABLE_Beta_UserGuide...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Default.Online
@@ -11,6 +11,7 @@ Processing Master TOC...
 Generating Glossary...
 Collecting source files...
 Processing source files...
+Excluded from output:file:///C:/GitHub/mspid_mspmdocs/Content/MSP-Service-Plans.htm.
 Processing CSS: Resources\Stylesheets\N-ABLE_CustomStyles.css...
 Processing CSS: Resources\Stylesheets\N-ABLE_Structure.css...
 Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\StartPages\MenuPage\Icons\7.png
@@ -58,29 +59,6 @@ Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
 Link points outside project file:///C:/GitHub/Default.htm
 Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated MSP-BETA-Uninstall-Service-Desk.htm
-Processing topic: MSP-Browser-Push-Notifications.htm...
-Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Mobile.css
-Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Tablet.css
-Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Styles.css
-Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Mobile.css
-Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Tablet.css
-Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Tablet.css
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Mobile.css
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Styles.css
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Tablet.css
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Mobile.css
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Images/print_1.png
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Images/home_2.png
-Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\Resources\Images\MSPMScreenshots\FirefoxBrowserNotifications_388x254.png
-Applying master page N-ABLE_GuideTopics.flmsp...
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
-Link points outside project file:///C:/GitHub/Default.htm
-Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
-Generated MSP-Browser-Push-Notifications.htm
 Processing topic: MSP-BETA-What-is-OData.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
@@ -213,6 +191,12 @@ Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
 Link points outside project file:///C:/GitHub/Default.htm
 Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated MSP-NGP-Company-Dashboard.htm
+Processing topic: MSP-Change-the-language-in-your-account.htm...
+Applying master page N-ABLE_GuideTopics.flmsp...
+Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
+Link points outside project file:///C:/GitHub/Default.htm
+Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
+Generated MSP-Change-the-language-in-your-account.htm
 Processing topic: MSP-Create-Asset-classes-and-statuses.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
@@ -341,6 +325,13 @@ Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
 Link points outside project file:///C:/GitHub/Default.htm
 Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated MSP-Set-up-SPF-for-MSPM.htm
+Processing topic: StartPages\TroubleshootingPage\BetaDocsStart.htm...
+Topic marked 'not searchable': StartPages\TroubleshootingPage\BetaDocsStart.htm...
+Applying master page N-ABLE_StartPages.flmsp...
+Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\Default.htm
+Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\QuickLinks\QuickLinksStart.htm
+Generated StartPages\TroubleshootingPage\BetaDocsStart.htm
 Processing topic: MSP-Change-the-currency-date-format-and-time-zone.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
@@ -643,12 +634,6 @@ Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
 Link points outside project file:///C:/GitHub/Default.htm
 Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated MSP-NGP-Quickbooks-tax.htm
-Processing topic: MSP-Service-Plans.htm...
-Applying master page N-ABLE_GuideTopics.flmsp...
-Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
-Link points outside project file:///C:/GitHub/Default.htm
-Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
-Generated MSP-Service-Plans.htm
 Processing topic: MSP-NGP-Integrate-Ncentral-and-MSPM.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
@@ -776,6 +761,12 @@ Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
 Link points outside project file:///C:/GitHub/Default.htm
 Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated MSP-NGP-Run-a-billing-batch.htm
+Processing topic: MSP-Configure-Browser-Push-Notifications.htm...
+Applying master page N-ABLE_GuideTopics.flmsp...
+Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
+Link points outside project file:///C:/GitHub/Default.htm
+Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
+Generated MSP-Configure-Browser-Push-Notifications.htm
 Processing topic: MSP-NGP-Integrations.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
@@ -866,6 +857,7 @@ Generating output skins...
 Generating synonyms file...
 Generating alias file...
 Generating final TOC...
+Missing file link for TOC entry with System.LinkedTitle variable
 Generating language strings...
 Generating concept and keyword anchors in output files...
 Generating Index...
@@ -886,8 +878,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 1194
-Output generated in 41 second(s).
+Ignored Compiler Warnings: 1197
+Output generated in 37 second(s).
 
 Done
 Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_Beta_UserGuide\N-ABLE_Beta_UserGuide.mclog"
@@ -925,23 +917,6 @@ Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_Beta_UserGuide\N-
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_Beta_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_Beta_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_Beta_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_Beta_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_Beta_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_Beta_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_Beta_UserGuide" ErrorID="10010" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Images/print_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Images/home_2.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Browser-Push-Notifications.htm" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\Resources\Images\MSPMScreenshots\FirefoxBrowserNotifications_388x254.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
@@ -1076,6 +1051,9 @@ Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_Beta_UserGuide\N-
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_StartPages.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_StartPages.flmsp" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_StartPages.flmsp" Message="Missing linked source file: C:\GitHub\mspid_mspmdocs\Content\QuickLinks\QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
@@ -1253,10 +1231,10 @@ Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_Beta_UserGuide\N-
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Content/MSP-Set-customers-as-inactive.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Resources/Images/MSPManagerIcons/SelectCustomer.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/MSP-Set-customers-as-inactive.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Resources/Images/MSPManagerIcons/SelectCustomer.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
@@ -1340,6 +1318,7 @@ Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_Beta_UserGuide\N-
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Project/TOCs/N-able_BetaAdminGuide.fltoc" Message="Missing file link for TOC entry with System.LinkedTitle variable&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="TOC" Target="N-ABLE_Beta_UserGuide" ErrorID="10147" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Beta_UserGuide" ErrorID="10056" />
