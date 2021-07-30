@@ -6,43 +6,43 @@
         <h1>Popular Topics</h1>
         <ul>
             <li>
-                <MadCap:xref href="../../kb/Delete-Ticket-Request-workflow-rule-not-working.htm">Delete Ticket Request workflow rule not working</MadCap:xref>
+                <MadCap:xref href="../../kb/Can-you-map-a-rate-to-a-User-in-MSP-Manager.htm">Can you map a rate to a User in [%=General.ProductName_mspm_short%]?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/How-to-change-user-role-in-MSP-manager.htm">How to change user role in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Change-the-Customer-on-an-Existing-Ticket.htm">Change the Customer on an Existing Ticket</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Is-there-an-RMM-system-tray-icon-for-MSP-Manager-that-automatically-opens-tickets.htm">Is there an RMM system tray icon for [%=General.ProductName_mspm_short%] that automatically opens tickets?</MadCap:xref>
+                <MadCap:xref href="../../kb/ERROR-Something-went-wrong-Xero-was-unable-to-create-the-Invoice-Check-Account-Codes-and-try-again-when-exporting-invoices-to-Xero.htm">ERROR: 'Something went wrong. Xero was unable to create the Invoice. Check Account Codes and try again' when exporting invoices to Xero</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Is-there-a-way-to-backup-MSP-Manager-Data.htm">Is there a way to backup [%=General.ProductName_mspm_short%] Data?</MadCap:xref>
+                <MadCap:xref href="../../kb/How-to-Add-Roles-in-MSP-Manager.htm">How to Add Roles in [%=General.ProductName_mspm_short%]?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm">[%=General.ProductName_mspm_short%] : Can deleted Service Items be recovered?</MadCap:xref>
+                <MadCap:xref href="../../kb/Give-Contact-Permissions-for-Customer-Portal.htm">Give Contact Permissions for Customer Portal</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Notifications-not-sending-from-MSP-Manager.htm">Notifications not sending from [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/How-can-I-get-MSP-Manager-Mobile-app-on-my-iPad.htm">How can I get [%=General.ProductName_mspm_short%] Mobile app on my iPad</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Performance-issues-for-MSP-Manager-instances-with-a-large-number-of-completed-tickets.htm">Performance issues for [%=General.ProductName_mspm_short%] instances with a large number of completed tickets</MadCap:xref>
+                <MadCap:xref href="../../kb/Is-There-a-Way-to-Search-Tickets-by-Search-Terms-in-MSP-Manager.htm">Is There a Way to Search Tickets by Search Terms in [%=General.ProductName_mspm_short%]?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/What-are-the-new-IP-addresses-for-MSP-manager.htm">What are the new IP addresses for [%=General.ProductName_mspm_short%]?</MadCap:xref>
+                <MadCap:xref href="../../kb/Importing-Customers-into-MSP-Manager-from-N-central.htm">Importing Customers into [%=General.ProductName_mspm_short%] from [%=MSPManager.ProductName_nc_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Notifications-not-sending-from-MSP-Manager.htm">Notifications not sending from [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager-product-documentation.htm">[%=General.ProductName_mspm_short%] Product Documentation</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/What-is-Partial-billing-in-MSP-Manager.htm">What is Partial billing in [%=General.ProductName_mspm_short%]?</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Manager-Ticket-Mailboxes-Are-Not-Being-Logged-As-Open-Tickets.htm">[%=General.ProductName_mspm_short%] Ticket Mailboxes Are Not Being Logged As Open Tickets</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Stay-in-sync-with-MSP-Manager-and-SolarWinds-RMM.htm">Stay in "sync" with [%=General.ProductName_mspm_short%] and [%=MSPManager.ProductName_rmm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Ticket-Time-Entry-Format.htm">Ticket Time Entry Format</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/SLA-adjustments-based-upon-a-project-start-end-date.htm">SLA adjustments based upon a project start/end date</MadCap:xref>
+                <MadCap:xref href="../../kb/SQL-timeout-when-creating-new-billing-batch-in-MSP-Manager.htm">SQL timeout when creating new billing batch in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Recurring-tickets-in-MSP-Manager.htm">Recurring tickets in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Ticket-routing-with-multiple-locations.htm">Ticket routing with multiple locations</MadCap:xref>
                 <MadCap:xref href="../../kb/MSP-Manager-Show-On-Dash-Option.htm">[%=General.ProductName_mspm_short%] Show On Dash Option</MadCap:xref>
             </li>
             <li>
@@ -52,36 +52,36 @@
                 <MadCap:xref href="../../kb/Unable-to-log-into-MSP-Manager-due-to-SSO-error.htm">Unable to log into [%=General.ProductName_mspm_short%] due to SSO error</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm">Some UI elements no longer display or missing in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm">Tickets created from Workflow rules are assigned to the correct User, however the Status is still "New" and can be viewed using Unassigned Tickets filter</MadCap:xref>
             </li>
-            <li><a href="../../kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm"><MadCap:xref href="../../kb/Ticket-routing-with-multiple-locations.htm">Ticket routing with multiple locations</MadCap:xref></a>
-            </li>
-            <li>
-                <MadCap:xref href="../../kb/MSP-Manager-Can-deleted-Service-Items-be-recovered.htm">[%=General.ProductName_mspm_short%] : Can deleted Service Items be recovered?</MadCap:xref>
+            <li><a href="../../kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm"><MadCap:xref href="../../kb/Unable-to-choose-a-contact-in-another-site-when-I-do-a-response.htm">Unable to choose a contact in another site when I do a response</MadCap:xref></a>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Importing-Customers-into-MSP-Manager-from-N-central.htm">Importing Customers into [%=General.ProductName_mspm_short%] from [%=MSPManager.ProductName_nc_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/MSPM-Export-all-ticket-data.htm">[%=General.ProductName_mspm_short%]Export all ticket data</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Is-there-a-way-to-batch-delete-Passwords-from-Knowledge-Legacy-Knowledge-in-MSP-Manager.htm">Is there a way to batch delete Knowledge Passwords from [%=General.ProductName_mspm_short%]?</MadCap:xref>
+                <MadCap:xref href="../../kb/Is-there-a-way-to-export-Knowledge-Passwords-from-MSP-Manager.htm">Is there a way to export Knowledge Passwords from [%=General.ProductName_mspm_short%]?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Give-Contact-Permissions-for-Customer-Portal.htm">Give Contact Permissions for Customer Portal</MadCap:xref>
+                <MadCap:xref href="../../kb/Insufficient-access-to-add-Asset-Status-in-MSP-Manager-despite-being-administrator.htm">Insufficient access to add Asset Status in [%=General.ProductName_mspm_short%] despite being administrator</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/How-do-ticket-replies-get-added-to-a-ticket-in-MSP-Manager.htm">How do ticket replies get added to a ticket in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Getting-the-message-Set-Xero-Reference-field-when-generating-invoices-in-MSP-Manager.htm">Getting the message "Set Xero Reference field" when generating invoices in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Does-MSP-Manager-have-an-option-for-a-report-builder.htm">Does [%=General.ProductName_mspm_short%] have an option for a report builder?</MadCap:xref>
+                <MadCap:xref href="../../kb/How-can-you-prevent-MSP-Manager-customers-syncing-to-RMM.htm">How can you prevent [%=General.ProductName_mspm_short%] customer's syncing to RMM?</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Error-2020-Cannot-Export-To-Quickbooks.htm">Error: 2020 Cannot Export To Quickbooks</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Can-you-download-or-share-Procedures-from-MSP-Manager.htm">Can you download or share Procedures from [%=General.ProductName_mspm_short%]?</MadCap:xref>
+                <MadCap:xref href="../../kb/Does-MSP-Manager-automatically-refresh-after-changes-are-made.htm">Does [%=General.ProductName_mspm_short%] automatically refresh after changes are made?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Billing-scenario--Managed-desktops-or-servers.htm">Billing scenario: Managed desktops or servers</MadCap:xref>
+                <MadCap:xref href="../../kb/Deleting-users-in-MSP-Manager-causes-them-to-be-deleted-in-RMM.htm">Deleting users in [%=General.ProductName_mspm_short%] causes them to be deleted in [%=General.ProductName_msp_rmm_acronym%]</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Customize-default-password-for-portal-users-in-MSP-Manager.htm">Customize default password for portal users in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
         </ul>
     </body>

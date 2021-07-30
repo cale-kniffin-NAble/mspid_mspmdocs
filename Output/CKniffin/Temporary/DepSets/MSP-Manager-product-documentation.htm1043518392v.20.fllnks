@@ -9,7 +9,9 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="https://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/Default.htm" />
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/MSPM/userguide/en/Content/StartPages/MenuPage/GuideStart.htm" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
   </Links>
@@ -17,7 +19,9 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="https://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/Default.htm" />
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/MSPM/userguide/en/Content/StartPages/MenuPage/GuideStart.htm" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
   </LongLinks>
@@ -31,6 +35,8 @@
       Name="General.ProductName_mspm_short" />
     <Variable
       Name="General.ProductName_mspm" />
+    <Variable
+      Name="Documents.ProductShortName" />
   </Variables>
   <FileConditions />
   <FileTags />
