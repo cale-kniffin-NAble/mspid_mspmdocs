@@ -13,8 +13,6 @@
       Link="/Content/MSP-BETA-Uninstall-Service-Desk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
-  <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/MSP-BETA-What-is-OData.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>

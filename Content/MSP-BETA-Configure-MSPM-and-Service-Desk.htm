@@ -3,7 +3,7 @@
     <head />
     <body>
         <h1>Configure <MadCap:variable name="MSPManager.ProductName_Long" /> and test the Service Desk migration process</h1>
-        <p>There are a few sections of your <MadCap:variable name="MSPManager.ProductName_Long" /> account that need to be properly configured before beginning the migration of Service Desk data. Get familiar with <MadCap:variable name="MSPManager.ProductName_Long" /> by setting up your <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Multiple-ticket-mailboxes.htm" target="_blank">ticket mailbox</a> and <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" target="_blank">customer portal</a>, creating <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Service-plans.htm" target="_blank">Service Plans</a> and <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Getting-started.htm" target="_blank">a test customer</a>, opening a ticket, and <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Run-a-billing-batch.htm" target="_blank">running a billing batch</a>. </p>
+        <p>There are a few sections of your <MadCap:variable name="MSPManager.ProductName_Long" /> account that need to be properly configured before beginning the migration of Service Desk data. Get familiar with <MadCap:variable name="MSPManager.ProductName_Long" /> by setting up your <a href="https://documentation.n-able.com/MSPM/userguide/en/Content/MSP-NGP-Configure-ticket-mailbox.htm" target="_blank">Ticket Mailbox</a> configuring your <a href="https://documentation.n-able.com/MSPM/userguide/en/Content/MSP-NGP-Give-ticket-access-to-your-customers.htm" target="_blank">Customer Portal</a>, creating <a href="https://documentation.n-able.com/MSPM/userguide/en/Content/MSP-NGP-Service-plans.htm" target="_blank">Service Plans</a> and <a href="https://documentation.n-able.com/MSPM/userguide/en/Content/MSP-NGP-Getting-started.htm" target="_blank">a test customer</a>, opening and completing a ticket, and <a href="https://documentation.n-able.com/MSPM/userguide/en/Content/MSP-NGP-Run-a-billing-batch.htm" target="_blank">running a billing batch</a>. </p>
         <p>Reference this table for terminology and feature differences between Service Desk and <MadCap:variable name="MSPManager.ProductName_Short" />:</p>
         <table>
             <col style="width: 278pt;" />
@@ -11,13 +11,11 @@
             <tbody>
                 <tr style="height: 16pt;">
                     <td>
-                        <p class="TableParagraph_1">
-                            <b>Service Desk Terms &amp; Features</b>
+                        <p class="TableParagraph_1"><b>Service Desk Terms &amp; Features</b>
                         </p>
                     </td>
                     <td>
-                        <p class="TableParagraph_1">
-                            <b>MSP Manager Terms &amp; Features</b>
+                        <p class="TableParagraph_1"><b>MSP Manager Terms &amp; Features</b>
                         </p>
                     </td>
                 </tr>
@@ -238,15 +236,13 @@
             <li>Navigate to <b>Settings</b> &gt; <b>Billing</b> &gt; <b>Service Plans</b> and <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Service-plans.htm" target="_blank">create a Service Plans</a>. In order to start creating tickets in MSP Manager, you need to <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Charge-for-your-work-with-Service-items.htm" target="_blank">create Service Items and specify a default Service Item for your customers.</a></li>
             <p class="info">A Service Plan is a Service Item contract that can be assigned to multiple customers. You can also assign Service Items on a per customer basis, or use <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Create-program-levels-for-multiple-customers.htm" target="_blank">Program Levels</a> to apply multiple Service Plans to all your customers.</p>
             <li>Navigate to <b>Settings</b> &gt; <b>SLA</b> &gt; <b>SLA Policies</b> to <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-SLA.htm" target="_blank">create a new SLA policy.</a></li>
-            <li>
-                <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Getting-started.htm" target="_blank">Create a customer</a> and create a test <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" target="_blank">Helpdesk Ticket</a> for that customer. Add a time entry to the ticket, and mark it complete in order to bill for it's time.</li>
+            <li><a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Getting-started.htm" target="_blank">Create a customer</a> and create a test <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" target="_blank">Helpdesk Ticket</a> for that customer. Add a time entry to the ticket, and mark it complete in order to bill for it's time.</li>
             <li>Navigate to <b>Billing</b> and <a href="http://documentation.solarwindsmsp.com/MSPM/documentation/en/Content/MSP-NGP-Run-a-billing-batch.htm" target="_blank">run a Billing Batch</a> to familiarize yourself with the ticketing and billing functionality of <MadCap:variable name="MSPManager.ProductName_Long" />.</li>
         </ol>
         <p>After configuring your MSP Manager account and adding some data, run a test migration using a single customer prior to migrating all of your Service Desk data.</p>
         <h2>Test the migration process before migrating all Service Desk data</h2>
         <p>Test the migration process by only bringing over your Service Desk Staff Agents, one Service Desk Customer and the Task Templates, Assets and Queues for that customer. During the migration process, you can track the status and progress of each data type using the status chart at the bottom of the page.</p>
-        <p>
-            <b>Recommended best practices:</b>
+        <p><b>Recommended best practices:</b>
         </p>
         <ul>
             <li>Do not import contacts yet. This will send an invite email for the MSP Manager Customer Portal to all Service Desk Users/Contacts. This could potentially confuse your Service Desk customers on which ticketing system to use.</li>

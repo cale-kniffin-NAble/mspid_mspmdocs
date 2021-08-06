@@ -14,8 +14,8 @@
     Comment="MSP Manager Troubleshooting Guide">Troubleshooting</Variable>
   <Variable
     Name="NotesURL"
-    EvaluatedDefinition="https://status.n-able.com/release-notes/"
-    Comment="N-able Release Notes">https://status.n-able.com/release-notes/</Variable>
+    EvaluatedDefinition="https://status.n-able.com/category/msp-manager/"
+    Comment="N-able Release Notes">https://status.n-able.com/category/msp-manager/</Variable>
   <Variable
     Name="NotesText"
     EvaluatedDefinition="Release Notes"
