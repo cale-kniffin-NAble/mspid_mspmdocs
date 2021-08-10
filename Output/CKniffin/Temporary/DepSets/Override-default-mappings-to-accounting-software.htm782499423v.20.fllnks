@@ -9,11 +9,15 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
+      Url="https://documentation.n-able.com/MSPM/userguide/en/Content/MSP-Override-default-mappings-to-accounting-software.htm" />
+    <Link
       Url="Project/ConditionTagSets/Default.flcts" />
   </Links>
   <LongLinks>
     <Link
       Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/MSPM/userguide/en/Content/MSP-Override-default-mappings-to-accounting-software.htm?Highlight=rate%20mapping" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
   </LongLinks>
