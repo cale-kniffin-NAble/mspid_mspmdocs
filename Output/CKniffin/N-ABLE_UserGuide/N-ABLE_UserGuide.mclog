@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_UserGuide.fltar" Date="2021-08-05T17:00:17.5727473-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_UserGuide.fltar" Date="2021-08-25T16:27:04.2751975-05:00">
     <Messages>Compiling target N-ABLE_UserGuide...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Default.Online
@@ -313,6 +313,7 @@ Link points outside project file:///C:/GitHub/Default.htm
 Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated MSP-Restore-deleted-service-items.htm
 Processing topic: MSP-NGP-Ticketing.htm...
+CSS: Circular CSS stylesheet file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Stylesheets/N-ABLE_Structure.css
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
 Link points outside project file:///C:/GitHub/Default.htm
@@ -458,6 +459,12 @@ Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
 Link points outside project file:///C:/GitHub/Default.htm
 Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated MSP-M365-configuration.htm
+Processing topic: MSP-mailbox-reply-settings-configuration.htm...
+Applying master page N-ABLE_GuideTopics.flmsp...
+Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
+Link points outside project file:///C:/GitHub/Default.htm
+Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
+Generated MSP-mailbox-reply-settings-configuration.htm
 Processing topic: MSP-NGP-Give-ticket-access-to-your-customers.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm
@@ -853,8 +860,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 1159
-Output generated in 1 minute(s) and 1 second(s).
+Ignored Compiler Warnings: 1166
+Output generated in 54 second(s).
 
 Done
 Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE_UserGuide.mclog"
@@ -1019,6 +1026,7 @@ Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE_
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
+        <LogEntry Message="CSS: Circular CSS stylesheet file:///C:/GitHub/mspid_mspmdocs/Content/Resources/Stylesheets/N-ABLE_Structure.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_UserGuide" ErrorID="10013" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
@@ -1069,6 +1077,9 @@ Saving log to "C:\GitHub\mspid_mspmdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE_
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/MSP-Add-canned-responses-to-tickets.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Images/print_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/MSP-Add-canned-responses-to-tickets.htm" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Skins/Default/Stylesheets/Images/home_2.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/mspid_mspmdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />

@@ -222,6 +222,9 @@
       <TocEntry
         Title="Configure your M365 mailbox"
         Link="/Content/MSP-M365-configuration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Mailbox reply settings"
+        Link="/Content/MSP-mailbox-reply-settings-configuration.htm" />
     </TocEntry>
     <TocEntry
       Title="Customer Portal"

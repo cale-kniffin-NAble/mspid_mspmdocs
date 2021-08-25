@@ -8,6 +8,10 @@
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
@@ -41,6 +45,10 @@
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
     <Link
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
@@ -87,5 +95,9 @@
   <Stylesheets>
     <Url
       Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

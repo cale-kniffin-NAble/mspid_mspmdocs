@@ -16,7 +16,7 @@
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
     <Link
-      Url="Content/Resources/Images/MSPMScreenshots/MoneyRetainer.png" />
+      Url="Content/Resources/Images/MSPMScreenshots/MoneyRetainerConfig.png" />
   </Links>
   <LongLinks>
     <Link
@@ -30,7 +30,7 @@
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
     <Link
-      Url="Content/Resources/Images/MSPMScreenshots/MoneyRetainer.png" />
+      Url="Content/Resources/Images/MSPMScreenshots/MoneyRetainerConfig.png" />
   </LongLinks>
   <Anchors />
   <Keywords />

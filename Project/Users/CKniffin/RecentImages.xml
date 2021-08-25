@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPMScreenshots/MoneyRetainerConfig.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EdgeBrowserNotifications.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications.png" />
     <Url Source="Resources/Images/MSPMScreenshots/BrowserNotificationExample.png" />
@@ -19,5 +20,4 @@
     <Url Source="Resources/Images/MSPMScreenshots/AccountingServiceColumn.png" />
     <Url Source="Resources/Images/MSPMScreenshots/XeroUserConsent.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
 </UrlList>
