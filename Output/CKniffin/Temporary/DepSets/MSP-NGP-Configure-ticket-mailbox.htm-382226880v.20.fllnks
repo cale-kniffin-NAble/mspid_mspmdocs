@@ -16,11 +16,11 @@
     <Link
       Url="Content/MSP-Add-Responses-to-Tickets.htm" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
+      Url="Content/MSP-mailbox-reply-settings-configuration.htm" />
     <Link
-      Url="Project/VariableSets/PDFVariables.flvar" />
+      Url="Project/VariableSets/Documents.flvar" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/settings.png" />
+      Url="Content/MSP-Configure-IMAP-mailbox.htm" />
     <Link
       Url="Content/MSP-Configure-M365-integration.htm" />
   </Links>
@@ -36,11 +36,11 @@
     <Link
       Url="Content/MSP-Add-Responses-to-Tickets.htm" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
+      Url="Content/MSP-mailbox-reply-settings-configuration.htm" />
     <Link
-      Url="Project/VariableSets/PDFVariables.flvar" />
+      Url="Project/VariableSets/Documents.flvar" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/settings.png" />
+      Url="Content/MSP-Configure-IMAP-mailbox.htm" />
     <Link
       Url="Content/MSP-Configure-M365-integration.htm" />
   </LongLinks>
@@ -53,7 +53,7 @@
     <Variable
       Name="MSPManager.ProductName_Long" />
     <Variable
-      Name="PDFVariables.ProductName" />
+      Name="Documents.ProductShortName" />
   </Variables>
   <FileConditions />
   <FileTags />

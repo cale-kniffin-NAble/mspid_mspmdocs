@@ -6,7 +6,7 @@
         <h1>Popular Topics</h1>
         <ul>
             <li>
-                <MadCap:xref href="../../kb/How-to-edit-Mail-Template-for-MSP-Manager-notification.htm">How to edit Mail Template for [%=General.ProductName_mspm_short%] notification</MadCap:xref>
+                <MadCap:xref href="../../kb/Automatically-reopen-a-ticket-if-a-customer-responds-in-MSP-Manager.htm">Automatically reopen a ticket if a customer responds in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm">[%=General.ProductName_mspm_short%]: Cannot Change Existing Help Desk Ticket To Another Customer After Adding Time entries</MadCap:xref>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Configure your IMAP ticket mailbox</h1>
+        <p>The initial configuration of your monitored ticket mailbox is a crucial step in setting up your <MadCap:variable name="MSPManager.ProductName_Long" /> account. Create an IMAP enabled mailbox to receive reported issues and requests from your customers via email. </p>
+        <p>If you are using a Gmail account for your ticket mailbox, make sure to <MadCap:xref href="#Enable">enable IMAP and SSL for your Gmail mailbox</MadCap:xref> in order for the mailbox to work correctly with <MadCap:variable name="Documents.ProductShortName" />.</p>
+        <h2>Configure permissions for creating ticket mailboxes</h2>
+        <p>Make sure all technicians who need to configure ticket mailboxes have the necessary permissions to do so.</p>
+        <ol>
+            <li>Navigate to <b>Settings</b> &gt; <b>Users &amp; Permissions</b> &gt; <b>Roles</b>.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewEdit.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;"></img>next to the Role you would like to edit. </li>
+            <li>Select the <b>MSP Company Management</b> section  to expand and view it's options. </li>
+            <li>Make sure the <b>Configure Ticket Mailbox</b> option is checked. </li>
+            <li>Click <b>Save Role</b> to add the ability to configure ticket mailboxes to all users in that specific Role. </li>
+        </ol>
+        <h2>Set up your IMAP enabled mailbox</h2>
+        <ol>
+            <li>Navigate to <strong>Settings</strong> &gt; <strong>Tickets &amp; Workflows</strong> &gt;  <strong>Ticket Mailboxes</strong>.</li>
+            <li>Click the mailbox drop-down menu <img src="Resources/Images/MSPManagerIcons/AddTicketMailbox.png" style="width: 24px;height: 24px;" /> in the top right corner of the page and select <strong>Add IMAP Mailbox</strong>.<br /><img src="Resources/Images/MSPMScreenshots/TicketMailboxOptions.png" style="width: 165px;height: 97px;" /></li>
+            <li>Enter credentials for email address, server address, and server port.</li>
+            <li>Click <strong>Use SSL</strong>, if required, and enter your user name and password. </li>
+            <li>Select <strong>Default Reply Mailbox</strong> to make this the default ticket mailbox for customers without an assigned ticket mailbox. Learn more about the <a href="MSP-mailbox-reply-settings-configuration.htm">'Send reply using this mailbox' </a>setting. </li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewSave.png" style="width: 20px;height: 20px;border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;" /> to save the mailbox settings.</li>
+        </ol>
+        <h2>Assign a ticket mailbox to specific customers</h2>
+        <p>With multiple ticket mailbox configured in your <MadCap:variable name="Documents.ProductShortName" /> account, you can assign different mailboxes to specific customers. </p>
+        <ol>
+            <li>Navigate to the <strong>Customer Menu</strong><img src="Resources/Images/MSPManagerIcons/SelectCustomer.png" style="width: 17px;height: 17px;" class="no_border" /> and select a customer from the list.</li>
+            <li>Click <strong>Actions</strong> &gt; <strong>Edit Customer</strong>.</li>
+            <li>Select a default mailbox from the <strong>Send Emails From</strong> list.</li>
+            <li>Click <strong>Save Customer</strong>. </li>
+        </ol>
+        <h2>Send responses from any mailbox inside tickets</h2>
+        <p class="warning">Image files sent as attachments can be no larger than 200KB.</p>
+        <ol>
+            <li>Navigate to <strong>Helpdesk</strong>, and select a ticket to edit it. </li>
+            <li>Click <strong>Add response</strong>.</li>
+            <li>In the <strong>New Response</strong> window, click the <strong>From</strong> field to specify a mailbox.</li>
+        </ol>
+        <p class="info">In some cases, you may receive the ticket notification before the ticket or ticket request gets created in <MadCap:variable name="PDFVariables.ProductName" />.</p>
+        <h2><a name="Enable"></a>Enable IMAP for Gmail mailboxes</h2>
+        <p>When using a new Gmail account for your ticket mailbox, IMAP is not enabled by default. Follow these steps to enable IMAP and SSL.</p>
+        <ol>
+            <li>From your Gmail account, click <img src="Resources/Images/MSPManagerIcons/settings.png" style="width: 20px;height: 20px;" class="no_border"></img> in the top right corner and click <strong>Settings</strong>.</li>
+            <li>Click the <strong>Forwarding and POP/IMAP</strong> tab.</li>
+            <li>In the <strong>IMAP Access</strong> section click <strong>Enable IMAP</strong> &gt; <strong>Save Changes</strong>. </li>
+            <li>Navigate to your <MadCap:variable name="MSPManager.ProductName_Long"></MadCap:variable> account and click <span class="Term">Settings</span> &gt; <strong>Tickets &amp; Workflows</strong> &gt; <strong>Ticket Mailbox</strong>. </li>
+            <li>Enter your Email and Server credentials, and set the <span class="Term">Server Port</span> to 993.</li>
+            <li>Select <b>Use SSL</b> and save your changes. </li>
+        </ol>
+    </body>
+</html>

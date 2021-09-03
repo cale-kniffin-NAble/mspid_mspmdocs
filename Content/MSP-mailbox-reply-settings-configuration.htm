@@ -1,21 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html>
     <head>
     </head>
     <body>
-        <h1>Configure mailbox reply settings for specific customers</h1>
-        <p>Delete this text and replace it with your own content.</p>
-        <p>Image file notes – no larger than 200KB</p>
-        <p>Add new mailbox – select ‘send reply using MSPM service’</p>
-        <p>Mail goes thru Mail Assure now but we put the partners mailbox and it comes off as an attempt at spoofing</p>
-        <p>Partners need to indicate MSPM mail is safe</p>
-        <p>Now we can send mail using partners mailbox, not mail assure, this is a way for partners to control security settings, so mail MSPM sends will not be flagged as spoofing mail</p>
-        <p>Confusing for partners to ‘Use those settings for the following customers’ – only used in case of more than 1 monitored mailbox and they want to send mail to specific customers from a specific mailbox</p>
-        <p>If nothing is selected then no override and if all mailboxes are set to ‘reply using this mailbox’ then full security is in place for all mailboxes</p>
-        <p>If DMARC is an issue then always send through their own mailbox</p>
-        <p>If there is more than 1 mailbox then other settings comes into play – make one the default and any custs not listed</p>
-        <p>For additional mailboxes listed, that’s where customers can specify using the mailbox reply settings field</p>
-        <p>Add new topic for sending through own mailbox, key benefit is full control over email security</p>
-        <p>Assign a ticket mailbox to specific partners is different now – need to update topic</p>
+        <h1>Send <MadCap:variable name="MSPManager.ProductName_Long" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> mail through your own server</h1>
+        <p><MadCap:variable name="Documents.ProductShortName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> now provides the option to send mail and ticket responses using your own mailbox. This allows for full control over email security, avoids issues with DMARC and DKIM authentication, and helps to indicate <MadCap:variable name="Documents.ProductShortName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> mail is safe. As a result, mail sent from your ticket mailbox will not be flagged as spoofing or spam mail. </p>
+        <p class="warning">Image files sent as attachments can be no larger than 200KB</p>
+        <h2>Add a ticket mailbox to <MadCap:variable name="Documents.ProductShortName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></h2>
+        <ol>
+            <li>Click <strong>Settings</strong> &gt; <strong>Tickets &amp; Workflows</strong> &gt;  <strong>Ticket Mailboxes</strong>.</li>
+            <li>Click the mailbox drop-down menu <img src="Resources/Images/MSPManagerIcons/AddTicketMailbox.png" style="width: 26px;height: 26px;" /> in the top right corner of the page and select <strong>Add IMAP Mailbox</strong> or <b>Add M365 Mailbox</b>.<br /><img src="Resources/Images/MSPMScreenshots/TicketMailboxOptions.png" style="width: 165px;height: 97px;" /></li>
+            <li> Enter your own mailbox's information required for<a href="MSP-NGP-Configure-ticket-mailbox.htm"> IMAP configuration </a>or <a href="MSP-Configure-M365-integration.htm">M365 configuration</a>.</li>
+            <li>Select <b>Default Reply Mailbox (fallback)</b> to use this as the 'reply as' mailbox for customers not assigned to a mailbox. </li>
+            <li>Select <b>Send reply using this mailbox</b>.</li>
+            <li>In the SMTP Connection Settings section, enter your <b>Server Address</b> and <b>Server Port</b>, and click <strong>Use SSL</strong> if required.</li>
+            <li>Optionally select customers to add to the <b>Use those mailbox reply settings for the following customers</b> field. This applies the SMTP settings to the customers listed, and uses those settings for replies sent to the selected customers. </li>
+            <p class="nugget">Use this option if you have more than one monitored mailbox configured and you would like to send mail to specific customers from a specific mailbox.</p>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewSave.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;" /> to save the mailbox settings. </li>
+        </ol>
+        <p>After all mailboxes are configured to send mail using your own mailbox, you'll have full control over DKIM and DMARC authentication through your own mail server settings. </p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">&#160;</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Add new mailbox – select ‘send reply using MSPM service’</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Mail goes thru Mail Assure now but we put the partners mailbox and it comes off as an attempt at spoofing</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Partners need e</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Now we can send mail using partners mailbox, not mail assure, this is a way for partners to control security settings, so mail MSPM sends will not be flagged as spoofing mail</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Confusing for partners to ‘Use those settings for the following customers’ – only used in case of more than 1 monitored mailbox and they want to send mail to specific customers from a specific mailbox</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">If nothing is selected then no override and if all mailboxes are set to ‘reply using this mailbox’ then full security is in place for all mailboxes</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">If DMARC is an issue then always send through their own mailbox</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">If there is more than 1 mailbox then other settings comes into play – make one the default and any custs not listed</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">For additional mailboxes listed, that’s where customers can specify using the mailbox reply settings field</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Add new topic for sending through own mailbox, key benefit is full control over email security</p>
+        <p MadCap:conditions="Default.Ignore" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Assign a ticket mailbox to specific partners is different now – need to update topic</p>
     </body>
 </html>

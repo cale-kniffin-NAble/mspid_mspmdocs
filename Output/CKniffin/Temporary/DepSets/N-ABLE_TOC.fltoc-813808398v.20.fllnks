@@ -96,6 +96,10 @@
     <Link
       Url="Content/MSP-Restore-deleted-service-items.htm" />
     <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/MSP-Workspace-billing.htm" />
+    <Link
       Url="Content/MSP-NGP-Ticketing.htm" />
     <Link
       Url="Content/MSP-NGP-Track-work-with-helpdesk-tickets.htm" />
@@ -141,6 +145,8 @@
       Url="Content/MSP-Workflow-use-cases.htm" />
     <Link
       Url="Content/MSP-NGP-Configure-ticket-mailbox.htm" />
+    <Link
+      Url="Content/MSP-Configure-IMAP-mailbox.htm" />
     <Link
       Url="Content/MSP-M365-configuration.htm" />
     <Link
@@ -253,6 +259,9 @@
   <Variables />
   <FileConditions />
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
   <Stylesheets />
 </CatapultFileLinkSet>

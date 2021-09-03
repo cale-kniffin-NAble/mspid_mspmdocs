@@ -144,6 +144,10 @@
     <TocEntry
       Title="Recover deleted service items"
       Link="/Content/MSP-Restore-deleted-service-items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MSP-Workspace-billing.htm"
+      conditions="Default.Ignore" />
   </TocEntry>
   <TocEntry
     Title="Helpdesk &amp; Ticketing"
@@ -220,10 +224,13 @@
       Title="Configure your ticket mailbox"
       Link="/Content/MSP-NGP-Configure-ticket-mailbox.htm">
       <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/MSP-Configure-IMAP-mailbox.htm" />
+      <TocEntry
         Title="Configure your M365 mailbox"
         Link="/Content/MSP-M365-configuration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
-        Title="Mailbox reply settings"
+        Title="Send mail using your own server"
         Link="/Content/MSP-mailbox-reply-settings-configuration.htm" />
     </TocEntry>
     <TocEntry

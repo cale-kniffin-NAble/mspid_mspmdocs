@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/TicketMailboxOptions.png" />
     <Url Source="Resources/Images/MSPMScreenshots/MoneyRetainerConfig.png" />
     <Url Source="Resources/Images/MSPMScreenshots/EdgeBrowserNotifications.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FirefoxBrowserNotifications.png" />
@@ -8,7 +10,6 @@
     <Url Source="Resources/Images/MSPMScreenshots/ChangeLanguage.png" />
     <Url Source="Resources/Images/MSPMScreenshots/HDworkspaceTicketFilters.png" />
     <Url Source="Resources/Images/MSPMScreenshots/QuickFilterFinal.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
     <Url Source="Resources/Images/MSPMScreenshots/QuickFilterFormatting.png" />
     <Url Source="Resources/Images/MSPMScreenshots/FilterSettings.png" />
     <Url Source="Resources/Images/MSPMScreenshots/NameNewQuickFilter.png" />
@@ -19,5 +20,4 @@
     <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
     <Url Source="Resources/Images/MSPMScreenshots/AccountingServiceColumn.png" />
     <Url Source="Resources/Images/MSPMScreenshots/XeroUserConsent.png" />
-    <Url Source="Resources/Images/MSPManagerIcons/NewEdit.png" />
 </UrlList>

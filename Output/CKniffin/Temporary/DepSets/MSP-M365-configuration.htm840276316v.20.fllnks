@@ -14,13 +14,23 @@
     <Link
       Url="Content/MSP-NGP-Prerequisites-for-ticket-routing.htm" />
     <Link
+      Url="Content/MSP-mailbox-reply-settings-configuration.htm" />
+    <Link
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
       Url="Content/MSP-Configure-M365-integration.htm" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/AddTicketMailbox.png" />
     <Link
+      Url="Content/Resources/Images/MSPMScreenshots/TicketMailboxOptions.png" />
+    <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
   </Links>
   <LongLinks>
     <Link
@@ -32,13 +42,23 @@
     <Link
       Url="Content/MSP-NGP-Prerequisites-for-ticket-routing.htm" />
     <Link
+      Url="Content/MSP-mailbox-reply-settings-configuration.htm" />
+    <Link
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
       Url="Content/MSP-Configure-M365-integration.htm" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewEdit.png" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/AddTicketMailbox.png" />
     <Link
+      Url="Content/Resources/Images/MSPMScreenshots/TicketMailboxOptions.png" />
+    <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
+    <Link
+      Url="Content/Resources/Images/MSPManagerIcons/SelectCustomer.png" />
+    <Link
+      Url="Project/VariableSets/PDFVariables.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -48,6 +68,10 @@
   <Variables>
     <Variable
       Name="MSPManager.ProductName_Long" />
+    <Variable
+      Name="Documents.ProductShortName" />
+    <Variable
+      Name="PDFVariables.ProductName" />
   </Variables>
   <FileConditions />
   <FileTags />

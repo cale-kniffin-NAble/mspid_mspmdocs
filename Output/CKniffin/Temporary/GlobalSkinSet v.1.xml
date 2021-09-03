@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalSkinCache
+  SavedSource="file:///C:/GitHub/mspid_mspmdocs/Output/CKniffin/Temporary/GlobalSkinSet v.1.xml">
+  <Map>
+    <Tag
+      Name="Search Bar" />
+    <Tag
+      Name="Search Submit Button" />
+    <Tag
+      Name="Search Filter" />
+    <Tag
+      Name="Header" />
+    <Tag
+      Name="Menu Item">
+      <Class
+        Name="2nd Level" />
+      <Class
+        Name="3rd Level" />
+      <Class
+        Name="4th Level" />
+      <Class
+        Name="Selected" />
+      <Class
+        Name="1st Level" />
+    </Tag>
+    <Tag
+      Name="Search Input" />
+    <Tag
+      Name="Menu" />
+    <Tag
+      Name="Logo" />
+    <Tag
+      Name="Search Filter Drop-down (hover)" />
+    <Tag
+      Name="Search Heading" />
+    <Tag
+      Name="Search Result Abstract" />
+    <Tag
+      Name="Search Result Link" />
+    <Tag
+      Name="Search Result Path" />
+    <Tag
+      Name="Search Glossary Result" />
+    <Tag
+      Name="Search Glossary Term" />
+    <Tag
+      Name="Search Pagination Item" />
+    <Tag
+      Name="Main Page" />
+    <Tag
+      Name="Topic Container" />
+    <Tag
+      Name="ToolbarItem">
+      <Class
+        Name="EditUserProfile" />
+      <Class
+        Name="NextTopic" />
+      <Class
+        Name="PreviousTopic" />
+      <Class
+        Name="home" />
+      <Class
+        Name="RemoveHighlight" />
+      <Class
+        Name="Print" />
+      <Class
+        Name="Feedback" />
+      <Class
+        Name="AccordionTitle" />
+      <Class
+        Name="QuickSearch" />
+      <Class
+        Name="Logo" />
+      <Class
+        Name="ExpandAll" />
+      <Class
+        Name="CollapseAll" />
+      <Class
+        Name="ToggleNavigationPane" />
+      <Class
+        Name="Back" />
+      <Class
+        Name="Forward" />
+      <Class
+        Name="Home" />
+      <Class
+        Name="Stop" />
+      <Class
+        Name="Refresh" />
+      <Class
+        Name="SelectTOC" />
+      <Class
+        Name="SelectIndex" />
+      <Class
+        Name="SelectSearch" />
+      <Class
+        Name="SelectFavorites" />
+      <Class
+        Name="SelectGlossary" />
+      <Class
+        Name="SelectBrowseSequence" />
+      <Class
+        Name="SelectCommunity" />
+      <Class
+        Name="AddTopicToFavorites" />
+      <Class
+        Name="TopicRatings" />
+      <Class
+        Name="CurrentTopicIndex" />
+      <Class
+        Name="Separator" />
+      <Class
+        Name="SelectLanguage" />
+      <Class
+        Name="SelectSkin" />
+    </Tag>
+    <Tag
+      Name="Toolbar Button Separator" />
+    <Tag
+      Name="Navigation Tab (inactive)" />
+    <Tag
+      Name="Navigation Link" />
+    <Tag
+      Name="Search Filter Drop-down" />
+    <Tag
+      Name="Navigation Tab (active)">
+      <Class
+        Name="Browse Sequences" />
+    </Tag>
+    <Tag
+      Name="Navigation Panel Item (selected)" />
+    <Tag
+      Name="Navigation Panel Item" />
+    <Tag
+      Name="Navigation Panel Item (hover)" />
+    <Tag
+      Name="Navigation Panel Item Definition" />
+    <Tag
+      Name="Feedback Comment Comment" />
+    <Tag
+      Name="Feedback Comment Header" />
+    <Tag
+      Name="Feedback Comment Subject" />
+    <Tag
+      Name="Feedback Comment Timestamp" />
+    <Tag
+      Name="Feedback Comment Username" />
+    <Tag
+      Name="Navigation Panel">
+      <Class
+        Name="Browse Sequences" />
+      <Class
+        Name="Browse Sequences1" />
+    </Tag>
+    <Tag
+      Name="Navigation Tab">
+      <Class
+        Name="Browse Sequences" />
+    </Tag>
+    <Tag
+      Name="TocEntry" />
+    <Tag
+      Name="Menu Item (hover)">
+      <Class
+        Name="1st Level" />
+      <Class
+        Name="Selected" />
+    </Tag>
+    <Tag
+      Name="Search Micro Content Response Path" />
+    <Tag
+      Name="Search Micro Content Result" />
+    <Tag
+      Name="Search Micro Content Response" />
+    <Tag
+      Name="Search Micro Content Response Link" />
+    <Tag
+      Name="Toolbar" />
+    <Tag
+      Name="Home Button" />
+    <Tag
+      Name="Navigation Element">
+      <Class
+        Name="TOC - Home Page Row" />
+      <Class
+        Name="Index - Home Page Row" />
+      <Class
+        Name="Glossary - Home Page Row" />
+      <Class
+        Name="Browse Sequence - Home Page Row" />
+      <Class
+        Name="About - Home Page Row" />
+      <Class
+        Name="TOC Page" />
+      <Class
+        Name="Index Page" />
+      <Class
+        Name="Glossary Page Entry" />
+      <Class
+        Name="Browse Sequence Page" />
+      <Class
+        Name="Glossary Page Definition" />
+      <Class
+        Name="Search Results Page" />
+    </Tag>
+    <Tag
+      Name="Item Count">
+      <Class
+        Name="TOC" />
+      <Class
+        Name="Index" />
+      <Class
+        Name="Browse Sequences" />
+    </Tag>
+    <Tag
+      Name="Search Button" />
+    <Tag
+      Name="Formats" />
+    <Tag
+      Name="Relationships">
+      <Class
+        Name="concept" />
+      <Class
+        Name="task" />
+      <Class
+        Name="reference" />
+    </Tag>
+    <Tag
+      Name="IndexEntry" />
+    <Tag
+      Name="IndexEntryPopup" />
+    <Tag
+      Name="AccordionItem">
+      <Class
+        Name="IconTray" />
+      <Class
+        Name="TOC" />
+      <Class
+        Name="Index" />
+      <Class
+        Name="Favorites" />
+      <Class
+        Name="Glossary" />
+      <Class
+        Name="BrowseSequence" />
+      <Class
+        Name="Search" />
+      <Class
+        Name="Community" />
+    </Tag>
+    <Tag
+      Name="Frame">
+      <Class
+        Name="Toolbar" />
+      <Class
+        Name="TopicToolbar" />
+      <Class
+        Name="NavigationTopDivider" />
+      <Class
+        Name="NavigationDragHandle" />
+      <Class
+        Name="AccordionTOC" />
+      <Class
+        Name="AccordionIndex" />
+      <Class
+        Name="AccordionSearch" />
+      <Class
+        Name="AccordionGlossary" />
+      <Class
+        Name="AccordionFavorites" />
+      <Class
+        Name="AccordionBrowseSequence" />
+      <Class
+        Name="BodyComments" />
+    </Tag>
+    <Tag
+      Name="Control">
+      <Class
+        Name="SearchButton" />
+      <Class
+        Name="SearchBox" />
+      <Class
+        Name="SearchFiltersLabel" />
+      <Class
+        Name="SearchUnfilteredLabel" />
+      <Class
+        Name="SearchFavoritesLabel" />
+      <Class
+        Name="TopicFavoritesLabel" />
+      <Class
+        Name="SearchFavoritesDeleteButton" />
+      <Class
+        Name="TopicFavoritesDeleteButton" />
+      <Class
+        Name="EmptySearchFavoritesLabel" />
+      <Class
+        Name="EmptyTopicFavoritesLabel" />
+      <Class
+        Name="AddSearchToFavoritesButton" />
+      <Class
+        Name="IndexSearchBox" />
+      <Class
+        Name="SearchResults" />
+      <Class
+        Name="Messages" />
+      <Class
+        Name="CommentsAddButton" />
+      <Class
+        Name="CommentsReplyButton" />
+      <Class
+        Name="CommentsRefreshButton" />
+      <Class
+        Name="CommentNode" />
+      <Class
+        Name="CommentReplyNode" />
+      <Class
+        Name="NavigationLinkTop" />
+      <Class
+        Name="NavigationLinkBottom" />
+    </Tag>
+    <Tag
+      Name="Dialog">
+      <Class
+        Name="AddComment" />
+      <Class
+        Name="ReplyComment" />
+      <Class
+        Name="RegisterUser" />
+    </Tag>
+  </Map>
+  <SourceUrls>
+    <Url
+      Source="../Project/Skins/Default.flskn" />
+    <Url
+      Source="../Project/Skins/HomeSearchBar.flskn" />
+    <Url
+      Source="../Project/Skins/HTML5.flskn" />
+    <Url
+      Source="../Project/Skins/HTML5Top NavigationUnbranded.flskn" />
+    <Url
+      Source="../Project/Skins/HTML5TopNavigation.flskn" />
+    <Url
+      Source="../Project/Skins/MSPManager.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_Favicon.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_MainMenu.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_MainSkin.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_SearchBar.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_SideMenu.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_Toolbar-Next.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_Toolbar-Prev.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_ToolBar.flskn" />
+    <Url
+      Source="../Project/Skins/SideMenu.flskn" />
+    <Url
+      Source="../Project/Skins/SolarWindsHTML5.flskn" />
+    <Url
+      Source="../Project/Skins/SW2015.flskn" />
+    <Url
+      Source="../Project/Skins/TopicToolBar.flskn" />
+    <Url
+      Source="../../../Program Files/MadCap Software/MadCap Flare 17/Flare.app/Resources/Stylesheets/MasterSkin.xmlstylesdef" />
+  </SourceUrls>
+</CatapultGlobalSkinCache>
