@@ -16,6 +16,8 @@
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
     <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
       Url="Content/Resources/Images/MSPMScreenshots/MoneyRetainerConfig.png" />
   </Links>
   <LongLinks>
@@ -30,6 +32,8 @@
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
     <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
       Url="Content/Resources/Images/MSPMScreenshots/MoneyRetainerConfig.png" />
   </LongLinks>
   <Anchors />
@@ -40,7 +44,10 @@
   <Variables />
   <FileConditions />
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
   <Stylesheets>
     <Url
       Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />

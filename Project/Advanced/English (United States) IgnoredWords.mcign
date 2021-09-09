@@ -9,5 +9,6 @@
     <Word Comment="">Checkbox</Word>
     <Word Comment="">workspaces</Word>
     <Word Comment="">resize</Word>
-    <Word>https://app.mspmanager.com/forgot-password</Word>
+    <Word Comment="">https://app.mspmanager.com/forgot-password</Word>
+    <Word>SMTP</Word>
 </IgnoredWordsDictionary>

@@ -10,17 +10,13 @@
     <Link
       Url="Project/VariableSets/Documents.flvar" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/AddTicketMailbox.png" />
-    <Link
-      Url="Content/Resources/Images/MSPMScreenshots/TicketMailboxOptions.png" />
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Content/MSP-NGP-Configure-ticket-mailbox.htm" />
     <Link
       Url="Content/MSP-Configure-M365-integration.htm" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
-    <Link
-      Url="Project/ConditionTagSets/Default.flcts" />
   </Links>
   <LongLinks>
     <Link
@@ -28,17 +24,13 @@
     <Link
       Url="Project/VariableSets/Documents.flvar" />
     <Link
-      Url="Content/Resources/Images/MSPManagerIcons/AddTicketMailbox.png" />
-    <Link
-      Url="Content/Resources/Images/MSPMScreenshots/TicketMailboxOptions.png" />
+      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Content/MSP-NGP-Configure-ticket-mailbox.htm" />
     <Link
       Url="Content/MSP-Configure-M365-integration.htm" />
     <Link
       Url="Content/Resources/Images/MSPManagerIcons/NewSave.png" />
-    <Link
-      Url="Project/ConditionTagSets/Default.flcts" />
   </LongLinks>
   <Anchors />
   <Keywords />
