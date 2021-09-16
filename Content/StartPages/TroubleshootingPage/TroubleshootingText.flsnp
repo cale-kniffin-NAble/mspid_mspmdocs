@@ -12,77 +12,76 @@
                 <MadCap:xref href="../../kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm">[%=General.ProductName_mspm_short%]: Cannot Change Existing Help Desk Ticket To Another Customer After Adding Time entries</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Manager---How-It-Polls-Email.htm">[%=General.ProductName_mspm_short%] - How It Polls Email</MadCap:xref>
+                <MadCap:xref href="../../kb/Client-Contact-User-cannot-reset-password-in-MSP-manager-portal.htm">Client Contact User cannot reset password in [%=General.ProductName_mspm_short%] portal</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/How-to-Add-Roles-in-MSP-Manager.htm">How to Add Roles in [%=General.ProductName_mspm_short%]?</MadCap:xref>
+                <MadCap:xref href="../../kb/Assets-are-missing-from-a-customer-in-MSP-Manager-after-SolarWinds-RMM-Integration.htm">Assets are missing from a customer in [%=General.ProductName_mspm_short%] after [%=General.ProductName_msp_rmm_acronym%] Integration</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Notifications-not-sending-from-MSP-Manager.htm">Notifications not sending from [%=General.ProductName_mspm_short%]</MadCap:xref>
-                <MadCap:xref href="../../kb/Give-Contact-Permissions-for-Customer-Portal.htm">Give Contact Permissions for Customer Portal</MadCap:xref>
+                <MadCap:xref href="../../kb/Can-you-download-or-share-Procedures-from-MSP-Manager.htm">Can you download or share Procedures from [%=General.ProductName_mspm_short%]?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/How-can-I-get-MSP-Manager-Mobile-app-on-my-iPad.htm">How can I get [%=General.ProductName_mspm_short%] Mobile app on my iPad</MadCap:xref>
+                <MadCap:xref href="../../kb/Automatically-reopen-a-ticket-if-a-customer-responds-in-MSP-Manager.htm">Automatically reopen a ticket if a customer responds in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Prevent-associated-tickets-from-being-deleted-when-deleting-a-service-item.htm">Prevent associated tickets from being deleted when deleting a service item</MadCap:xref>
+                <MadCap:xref href="../../kb/Change-displayed-hours-in-Scheduling-in-MSP-Manager.htm">Change displayed hours in Scheduling in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Set-customers-as-inactive.htm">Set customers as inactive</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Manager-product-documentation.htm">[%=General.ProductName_mspm_short%] Product Documentation</MadCap:xref>
+                <MadCap:xref href="../../kb/How-to-specify-hours-to-put-service-level-agreements-on-hold.htm">How to specify hours to put service level agreements on hold</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm">Some UI elements no longer display or missing in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Change-the-Customer-on-an-Existing-Ticket.htm">Change the Customer on an Existing Ticket</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Set-up-IMAP-in-GMAIL-for-your-ticket-mailbox.htm">Set up IMAP in GMAIL for your ticket mailbox</MadCap:xref>
+                <MadCap:xref href="../../kb/Meaning-of-creating-a-Project-in-MSP-Manager.htm">Meaning of creating a Project in [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Prevent-associated-tickets-from-being-deleted-when-deleting-a-service-item.htm">Prevent associated tickets from being deleted when deleting a service item</MadCap:xref>
+                <MadCap:xref href="../../kb/My-MSP-Manager-account-is-locked-out.htm">My [%=General.ProductName_mspm_short%] account is locked out</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/My-credentials-are-not-accepted-when-trying-to-integrate-N-Central-and-MSP-Manager.htm">My credentials are not accepted when trying to integrate [%=MSPManager.ProductName_nc_short%] and [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm">Not able to select a contact when editing a ticket in [%=General.ProductName_mspm_short%]</MadCap:xref>
                 <MadCap:xref href="../../kb/MSP-Manager-Show-On-Dash-Option.htm">[%=General.ProductName_mspm_short%] Show On Dash Option</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Tickets-missing-from-generated-billing-batch-list.htm">Tickets missing from generated billing batch list</MadCap:xref>
+                <MadCap:xref href="../../kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm">Service Item list is not available in [%=General.ProductName_mspm_short%] when new Ticket Request is accepted.</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/New-tickets-are-being-created-in-MSP-Manager-every-time-a-reply-is-sent.htm">New tickets are being created in [%=General.ProductName_mspm_short%] every time a reply is sent</MadCap:xref>
+                <MadCap:xref href="../../kb/MSPM-Export-all-ticket-data.htm">[%=General.ProductName_mspm_short%]Export all ticket data</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm">Tickets created from Workflow rules are assigned to the correct User, however the Status is still "New" and can be viewed using Unassigned Tickets filter</MadCap:xref>
+                <MadCap:xref href="../../kb/Passwords-are-not-available-in-MSP-Manager-Mobile-app.htm">Passwords are not available in [%=General.ProductName_mspm_short%] Mobile app</MadCap:xref>
             </li>
-            <li><a href="../../kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm"><MadCap:xref href="../../kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm">Service Item list is not available in [%=General.ProductName_mspm_short%] when new Ticket Request is accepted.</MadCap:xref></a>
-            </li>
-            <li>
-                <MadCap:xref href="../../kb/Override-default-mappings-to-accounting-software.htm">Override default mappings to accounting software</MadCap:xref>
+            <li><a href="../../kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm"><MadCap:xref href="../../kb/Override-default-mappings-to-accounting-software.htm">Override default mappings to accounting software</MadCap:xref></a>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Manager-Missing-the-option-to-use-Take-Control.htm">[%=General.ProductName_mspm_short%]: Missing the option to use [%=MSPManager.ProductName_tc%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm">Quickbooks Desktop Web connector failing to login to [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Manager-Ticket-Mailboxes-Are-Not-Being-Logged-As-Open-Tickets.htm">[%=General.ProductName_mspm_short%] Ticket Mailboxes Are Not Being Logged As Open Tickets</MadCap:xref>
+                <MadCap:xref href="../../kb/Stay-in-sync-with-MSP-Manager-and-SolarWinds-RMM.htm">Stay in "sync" with [%=General.ProductName_mspm_short%] and [%=MSPManager.ProductName_rmm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Is-there-a-way-to-hide-values-of-rates-in-MSP-Manager.htm">Is there a way to hide values of rates in [%=General.ProductName_mspm_short%]?</MadCap:xref>
+                <MadCap:xref href="../../kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm">How can you customize invoices to include notes on tickets?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/How-to-add-User-to-an-Access-Group.htm">How to add User to an Access Group?</MadCap:xref>
+                <MadCap:xref href="../../kb/Error-when-logging-into-Customer-User-Portal-for-MSP-Manager.htm">Error when logging into Customer User Portal for [%=General.ProductName_mspm_short%]</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/ERROR-Your-contract-has-expired-Please-check-the-contract-date-when-creating-a-new-ticket-in-MSP-Manager.htm">ERROR: "Your contract has expired. Please check the contract date" when creating a new ticket in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Could-not-establish-trust-relationship-for-the-SSL-TLS-secure-channel-when-importing-customers-from-N-central.htm">When attempting to "import customers from [%=General.ProductName_mspm_short%]" getting "Error: The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel."</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Connectivity-test-for-MSP-Manager-ticket-mailbox.htm">IMAP Connectivity test for [%=General.ProductName_mspm_short%] ticket mailbox</MadCap:xref>
+                <MadCap:xref href="../../kb/Device-Status-option-is-empty-during-configuration.htm">Device Status option is empty during configuration</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Customize-default-password-for-portal-users-in-MSP-Manager.htm">Customize default password for portal users in [%=General.ProductName_mspm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/Can-you-retrieve-deleted-tickets-in-MSP-Manager.htm">Can you retrieve deleted tickets in [%=General.ProductName_mspm_short%]?</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Can-I-change-the-frequency-that-I-receive-daily-notifications-regarding-expiring-Service-Items.htm">Can I change the frequency that I receive daily notifications regarding expiring Service Items?</MadCap:xref>
+                <MadCap:xref href="../../kb/Check-user-status-and-meaning.htm">Check user status and meaning</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Bounce-back-email-messages-when-trying-to-create-tickets-in-MSP-Manager-The-HTTP-response-contains-an-error-statusCode-402-statusText-Payment-Required.htm">Bounce back email messages when trying to create tickets in [%=General.ProductName_mspm_short%] </MadCap:xref>
             </li>
         </ul>
     </body>

@@ -6,123 +6,123 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/kb/How-to-edit-Mail-Template-for-MSP-Manager-notification.htm" />
+      Url="Content/kb/Automatically-reopen-a-ticket-if-a-customer-responds-in-MSP-Manager.htm" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
       Url="Content/kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm" />
     <Link
-      Url="Content/kb/MSP-Manager---How-It-Polls-Email.htm" />
+      Url="Content/kb/Client-Contact-User-cannot-reset-password-in-MSP-manager-portal.htm" />
     <Link
-      Url="Content/kb/How-to-Add-Roles-in-MSP-Manager.htm" />
+      Url="Content/kb/Assets-are-missing-from-a-customer-in-MSP-Manager-after-SolarWinds-RMM-Integration.htm" />
     <Link
-      Url="Content/kb/Notifications-not-sending-from-MSP-Manager.htm" />
+      Url="Content/kb/Can-you-download-or-share-Procedures-from-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Give-Contact-Permissions-for-Customer-Portal.htm" />
-    <Link
-      Url="Content/kb/How-can-I-get-MSP-Manager-Mobile-app-on-my-iPad.htm" />
-    <Link
-      Url="Content/kb/Prevent-associated-tickets-from-being-deleted-when-deleting-a-service-item.htm" />
+      Url="Content/kb/Change-displayed-hours-in-Scheduling-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Set-customers-as-inactive.htm" />
     <Link
-      Url="Content/kb/MSP-Manager-product-documentation.htm" />
+      Url="Content/kb/How-to-specify-hours-to-put-service-level-agreements-on-hold.htm" />
     <Link
-      Url="Content/kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm" />
+      Url="Content/kb/Change-the-Customer-on-an-Existing-Ticket.htm" />
     <Link
-      Url="Content/kb/Set-up-IMAP-in-GMAIL-for-your-ticket-mailbox.htm" />
+      Url="Content/kb/Meaning-of-creating-a-Project-in-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/My-credentials-are-not-accepted-when-trying-to-integrate-N-Central-and-MSP-Manager.htm" />
+      Url="Content/kb/My-MSP-Manager-account-is-locked-out.htm" />
     <Link
-      Url="Project/VariableSets/MSPManager.flvar" />
+      Url="Content/kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Show-On-Dash-Option.htm" />
     <Link
-      Url="Content/kb/Tickets-missing-from-generated-billing-batch-list.htm" />
-    <Link
-      Url="Content/kb/New-tickets-are-being-created-in-MSP-Manager-every-time-a-reply-is-sent.htm" />
-    <Link
-      Url="Content/kb/Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm" />
-    <Link
       Url="Content/kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm" />
+    <Link
+      Url="Content/kb/MSPM-Export-all-ticket-data.htm" />
+    <Link
+      Url="Content/kb/Passwords-are-not-available-in-MSP-Manager-Mobile-app.htm" />
+    <Link
+      Url="Content/kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm" />
     <Link
       Url="Content/kb/Override-default-mappings-to-accounting-software.htm" />
     <Link
-      Url="Content/kb/MSP-Manager-Missing-the-option-to-use-Take-Control.htm" />
+      Url="Content/kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/MSP-Manager-Ticket-Mailboxes-Are-Not-Being-Logged-As-Open-Tickets.htm" />
+      Url="Content/kb/Stay-in-sync-with-MSP-Manager-and-SolarWinds-RMM.htm" />
     <Link
-      Url="Content/kb/Is-there-a-way-to-hide-values-of-rates-in-MSP-Manager.htm" />
+      Url="Project/VariableSets/MSPManager.flvar" />
     <Link
-      Url="Content/kb/How-to-add-User-to-an-Access-Group.htm" />
+      Url="Content/kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm" />
     <Link
-      Url="Content/kb/ERROR-Your-contract-has-expired-Please-check-the-contract-date-when-creating-a-new-ticket-in-MSP-Manager.htm" />
+      Url="Content/kb/Error-when-logging-into-Customer-User-Portal-for-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Connectivity-test-for-MSP-Manager-ticket-mailbox.htm" />
+      Url="Content/kb/Could-not-establish-trust-relationship-for-the-SSL-TLS-secure-channel-when-importing-customers-from-N-central.htm" />
     <Link
-      Url="Content/kb/Customize-default-password-for-portal-users-in-MSP-Manager.htm" />
+      Url="Content/kb/Device-Status-option-is-empty-during-configuration.htm" />
     <Link
-      Url="Content/kb/Can-I-change-the-frequency-that-I-receive-daily-notifications-regarding-expiring-Service-Items.htm" />
+      Url="Content/kb/Can-you-retrieve-deleted-tickets-in-MSP-Manager.htm" />
+    <Link
+      Url="Content/kb/Check-user-status-and-meaning.htm" />
+    <Link
+      Url="Content/kb/Bounce-back-email-messages-when-trying-to-create-tickets-in-MSP-Manager-The-HTTP-response-contains-an-error-statusCode-402-statusText-Payment-Required.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/kb/How-to-edit-Mail-Template-for-MSP-Manager-notification.htm" />
+      Url="Content/kb/Automatically-reopen-a-ticket-if-a-customer-responds-in-MSP-Manager.htm" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
       Url="Content/kb/MSP-Manager-Cannot-Change-Existing-Help-Desk-Ticket-To-Another-Customer.htm" />
     <Link
-      Url="Content/kb/MSP-Manager---How-It-Polls-Email.htm" />
+      Url="Content/kb/Client-Contact-User-cannot-reset-password-in-MSP-manager-portal.htm" />
     <Link
-      Url="Content/kb/How-to-Add-Roles-in-MSP-Manager.htm" />
+      Url="Content/kb/Assets-are-missing-from-a-customer-in-MSP-Manager-after-SolarWinds-RMM-Integration.htm" />
     <Link
-      Url="Content/kb/Notifications-not-sending-from-MSP-Manager.htm" />
+      Url="Content/kb/Can-you-download-or-share-Procedures-from-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Give-Contact-Permissions-for-Customer-Portal.htm" />
-    <Link
-      Url="Content/kb/How-can-I-get-MSP-Manager-Mobile-app-on-my-iPad.htm" />
-    <Link
-      Url="Content/kb/Prevent-associated-tickets-from-being-deleted-when-deleting-a-service-item.htm" />
+      Url="Content/kb/Change-displayed-hours-in-Scheduling-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/Set-customers-as-inactive.htm" />
     <Link
-      Url="Content/kb/MSP-Manager-product-documentation.htm" />
+      Url="Content/kb/How-to-specify-hours-to-put-service-level-agreements-on-hold.htm" />
     <Link
-      Url="Content/kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm" />
+      Url="Content/kb/Change-the-Customer-on-an-Existing-Ticket.htm" />
     <Link
-      Url="Content/kb/Set-up-IMAP-in-GMAIL-for-your-ticket-mailbox.htm" />
+      Url="Content/kb/Meaning-of-creating-a-Project-in-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/My-credentials-are-not-accepted-when-trying-to-integrate-N-Central-and-MSP-Manager.htm" />
+      Url="Content/kb/My-MSP-Manager-account-is-locked-out.htm" />
     <Link
-      Url="Project/VariableSets/MSPManager.flvar" />
+      Url="Content/kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm" />
     <Link
       Url="Content/kb/MSP-Manager-Show-On-Dash-Option.htm" />
     <Link
-      Url="Content/kb/Tickets-missing-from-generated-billing-batch-list.htm" />
-    <Link
-      Url="Content/kb/New-tickets-are-being-created-in-MSP-Manager-every-time-a-reply-is-sent.htm" />
-    <Link
-      Url="Content/kb/Tickets-created-from-Workflow-rules-are-assigned-to-the-correct-User-however-the-Status-is-still-New-and-can-be-viewed-using-Unassigned-Tickets-filter.htm" />
-    <Link
       Url="Content/kb/Service-Item-list-is-not-available-in-MSP-Manager-when-new-Ticket-Request-is-accepted.htm" />
+    <Link
+      Url="Content/kb/MSPM-Export-all-ticket-data.htm" />
+    <Link
+      Url="Content/kb/Passwords-are-not-available-in-MSP-Manager-Mobile-app.htm" />
+    <Link
+      Url="Content/kb/Some-UI-elements-no-longer-display-or-missing-in-MSP-manager.htm" />
     <Link
       Url="Content/kb/Override-default-mappings-to-accounting-software.htm" />
     <Link
-      Url="Content/kb/MSP-Manager-Missing-the-option-to-use-Take-Control.htm" />
+      Url="Content/kb/Quickbooks-Desktop-Web-connector-failing-to-login-to-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/MSP-Manager-Ticket-Mailboxes-Are-Not-Being-Logged-As-Open-Tickets.htm" />
+      Url="Content/kb/Stay-in-sync-with-MSP-Manager-and-SolarWinds-RMM.htm" />
     <Link
-      Url="Content/kb/Is-there-a-way-to-hide-values-of-rates-in-MSP-Manager.htm" />
+      Url="Project/VariableSets/MSPManager.flvar" />
     <Link
-      Url="Content/kb/How-to-add-User-to-an-Access-Group.htm" />
+      Url="Content/kb/How-can-you-customize-invoices-to-include-notes-on-tickets.htm" />
     <Link
-      Url="Content/kb/ERROR-Your-contract-has-expired-Please-check-the-contract-date-when-creating-a-new-ticket-in-MSP-Manager.htm" />
+      Url="Content/kb/Error-when-logging-into-Customer-User-Portal-for-MSP-Manager.htm" />
     <Link
-      Url="Content/kb/Connectivity-test-for-MSP-Manager-ticket-mailbox.htm" />
+      Url="Content/kb/Could-not-establish-trust-relationship-for-the-SSL-TLS-secure-channel-when-importing-customers-from-N-central.htm" />
     <Link
-      Url="Content/kb/Customize-default-password-for-portal-users-in-MSP-Manager.htm" />
+      Url="Content/kb/Device-Status-option-is-empty-during-configuration.htm" />
     <Link
-      Url="Content/kb/Can-I-change-the-frequency-that-I-receive-daily-notifications-regarding-expiring-Service-Items.htm" />
+      Url="Content/kb/Can-you-retrieve-deleted-tickets-in-MSP-Manager.htm" />
+    <Link
+      Url="Content/kb/Check-user-status-and-meaning.htm" />
+    <Link
+      Url="Content/kb/Bounce-back-email-messages-when-trying-to-create-tickets-in-MSP-Manager-The-HTTP-response-contains-an-error-statusCode-402-statusText-Payment-Required.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -133,9 +133,9 @@
     <Variable
       Name="General.ProductName_mspm_short" />
     <Variable
-      Name="MSPManager.ProductName_nc_short" />
+      Name="General.ProductName_msp_rmm_acronym" />
     <Variable
-      Name="MSPManager.ProductName_tc" />
+      Name="MSPManager.ProductName_rmm_short" />
   </Variables>
   <FileConditions />
   <FileTags />

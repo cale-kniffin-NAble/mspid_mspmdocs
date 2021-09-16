@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ObjectList>
     <Object Value="Documents.ProductShortName" />
+    <Object Value="General.ProductName_nc_short" />
     <Object Value="MSPManager.ProductName_Long" />
     <Object Value="General.ProductName_msp_cn" />
     <Object Value="General.ProductName_mspm_short" />
@@ -9,7 +10,6 @@
     <Object Value="MSPManager.Company" />
     <Object Value="MSPManager.ProductName_mspm_short" />
     <Object Value="General.ProductName_mspm" />
-    <Object Value="General.ProductName_nc_short" />
     <Object Value="Documents.ProductLongName" />
     <Object Value="MSPManager.ProductName_Short" />
     <Object Value="General.ProductName_msp_rmm_acronym" />

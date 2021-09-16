@@ -973,12 +973,5 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/kb/Will-Users-integrated-from-RMM-into-MSP-Manager-be-chargeable.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/kb/Workflow-Rules-are-not-applying-to-some-customers-or-not-applying-at-all.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="New entry 1" />
-    <TocEntry
-      Title="New entry 2" />
   </TocEntry>
 </CatapultToc>

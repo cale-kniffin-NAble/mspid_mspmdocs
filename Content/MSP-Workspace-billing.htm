@@ -4,7 +4,28 @@
     </head>
     <body>
         <h1>Run billing batches from your Workspace</h1>
-        <p>When it comes time to bill your customers for completed work in a given week or month, use the billing and invoicing options available in Workspaces to view all your customers' service items, including all their completed tickets. Create a new billing batch and choose which customers you want to invoice, or select all customers and combine all their services into a single invoice for each customer. After the invoices are generated you can export them to your Quickbooks or Xero accounting system. </p>
+        <p>When it comes time to bill your customers for work in a given week or month, use the billing and invoicing options available in Workspaces to view all your customers' service items, including all their completed tickets. Configure your workspace billing widgets to show the customer's invoicing information you want to view and filter by service item, customer, or view invoices for a specific date range. </p>
+        <p>When you are ready to create a new billing batch, select the customers you want to invoice, or select all customers and combine all their services into a single invoice for each customer, and export them to your Quickbooks or Xero accounting system. </p>
+        <p class="info" MadCap:conditions="Default.Ignore">If you are creating a Billing Workspace to share with other users, navigate to <b>Settings</b> &gt; <b>Users &amp; Permissions</b> &gt; <b>Roles</b> and edit the role to which you would like to grant shared workspace permissions. Select the <b>MSP Company Management</b> section to expand its options, and select <b>Manage Shared Workspaces</b>. Save the Role to grant it's assigned users access to Shared&#160;Workspaces. </p>
+        <h2>Create a Billing Workspace</h2>
+        <ol>
+            <li>From the navigation bar on the left of your <MadCap:variable name="MSPManager.ProductName_Long" /> account, select <b>Workspaces</b>.</li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;width: 17px;height: 16px;" /> and select <b>Add Workspace</b>.</li>
+            <li>Enter a title - Billing or Invoicing, for example - and select a type. There are 3 levels of workspaces to choose from:<ol><li>Personal - all users have full access to personal workspaces. </li><li>Template - visible and accessible to all users. Templates are read-only in partner accounts, though they can use them and filter using our filter controls.</li><li>Shared - all users can view shared workspaces, but permission is required in order to edit &amp; share them. </li></ol></li>
+            <li>Click <img src="Resources/Images/MSPManagerIcons/NewSave.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;width: 18px;height: 18px;" /> to save the Workspace and on the next page, click <b>Add Page</b>.</li>
+            <li>Enter a name for the page - Billing batches, for example - and save the page. </li>
+            <li>Next, click <b>Add Widgets</b> and from the filter options on the left, select <b>Billing</b>. <br /><img src="Resources/Images/MSPMScreenshots/BillingWidgets.png" style="width: 445px;height: 321px;" /></li>
+            <li>The Billing Widgets are all useful for viewing invoices, billing batches and billing analytics. In order to create and explort invoices, click the plus sign next to <b>Invoice Explorer</b> to add it to the billing workspace page. </li>
+            <li>Close the Add Widget window to confirm the addition of the widgets to your page, and click <b>Finish Editing</b> in the top right of the workspace page to confirm the addition to your Billing Workspace. </li>
+        </ol>
+        <h2>View and export invoices from your Billing Workspace</h2>
+        <ol>
+            <li>Search for customers or service items and select the ones you want to invoice. </li>
+            <li>Click plus icon <img src="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;width: 20px;height: 19px;" /> in the top right of the invoice explorer to create an Invoice Batch. </li>
+            <li>Enter a name for the batch and click <img src="Resources/Images/MSPManagerIcons/NewSave.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;width: 18px;height: 18px;" /> to save the Invoice Batch. </li>
+        </ol>
+        <p>&#160;</p>
+        <p>&#160;</p>
         <ol>
             <li>Navigate to <strong>Billing</strong> and select <strong>Add Billing Batch</strong>. </li>
             <li>Select which customers and services to include in the new billing batch:<ul><li>Use the <strong>Select All</strong> option to choose all customers' service items.</li><li>Click <strong>Filter Service Items</strong> to narrow down the customers and services.</li><li>Expand a customer's service item in the list, and select Include.</li></ul></li>
@@ -14,8 +35,8 @@
             <li>Click <strong>Generate Invoices</strong>.</li>
         </ol>
         <h2>Export invoices to your accounting software</h2>
-        <p><MadCap:variable name="MSPManager.ProductName_Long" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></MadCap:variable>'s functionality stops at billing. Your accounting software is responsible for sending invoices to your customers, and collecting their payment.</p>
-        <p>See one of the following topics to integrate your accounting software with <MadCap:variable name="MSPManager.ProductName_Long" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></MadCap:variable> and export invoices:</p>
+        <p><MadCap:variable name="MSPManager.ProductName_Long"></MadCap:variable>'s functionality stops at billing. Your accounting software is responsible for sending invoices to your customers, and collecting their payment.</p>
+        <p>See one of the following topics to integrate your accounting software with <MadCap:variable name="MSPManager.ProductName_Long"></MadCap:variable> and export invoices:</p>
         <ul>
             <li><a href="MSP-NGP-Quickbooks-online.htm">QuickBooks Online</a>
             </li>

@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPManagerIcons/AddKnowledgeType.png" />
+    <Url Source="Resources/Images/MSPMScreenshots/BillingWidgets.png" />
     <Url Source="Resources/Images/MSPManagerIcons/NewSave.png" />
     <Url Source="Resources/Images/MSPMScreenshots/TicketMailboxOptions.png" />
     <Url Source="Resources/Images/MSPMScreenshots/MoneyRetainerConfig.png" />
@@ -18,6 +20,4 @@
     <Url Source="Resources/Images/MSPManagerIcons/ExpandFilterOptions.png" />
     <Url Source="Resources/Images/MSPMScreenshots/QuickFilterConfig.png" />
     <Url Source="Resources/Images/MSPManagerIcons/EditWidget.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/AccountingServiceColumn.png" />
-    <Url Source="Resources/Images/MSPMScreenshots/XeroUserConsent.png" />
 </UrlList>
