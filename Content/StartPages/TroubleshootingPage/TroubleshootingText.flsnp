@@ -43,6 +43,8 @@
             </li>
             <li>
                 <MadCap:xref href="../../kb/Not-able-to-select-a-contact-when-editing-a-ticket-in-MSP-Manager.htm">Not able to select a contact when editing a ticket in [%=General.ProductName_mspm_short%]</MadCap:xref>
+            </li>
+            <li>
                 <MadCap:xref href="../../kb/MSP-Manager-Show-On-Dash-Option.htm">[%=General.ProductName_mspm_short%] Show On Dash Option</MadCap:xref>
             </li>
             <li>

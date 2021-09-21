@@ -13,6 +13,10 @@
       Url="Content/MSP-NGP-Setup-Ncentral-integration.htm" />
     <Link
       Url="Content/MSP-NGP-export-assets-from-Ncentral.htm" />
+    <Link
+      Url="Content/MSP-Launch-TC-session.htm" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
   </Links>
   <LongLinks>
     <Link
@@ -23,6 +27,10 @@
       Url="Content/MSP-NGP-Setup-Ncentral-integration.htm" />
     <Link
       Url="Content/MSP-NGP-export-assets-from-Ncentral.htm" />
+    <Link
+      Url="Content/MSP-Launch-TC-session.htm" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -34,6 +42,8 @@
       Name="PDFVariables.ProductName" />
     <Variable
       Name="MSPManager.N-central" />
+    <Variable
+      Name="General.ProductName_nc_short" />
   </Variables>
   <FileConditions />
   <FileTags />

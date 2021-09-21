@@ -12,6 +12,8 @@
     <Link
       Url="https://documentation.solarwindsmsp.com/N-central/documentation/Content/Administration/PSA_Integration/MSP Manager/PSA_MSPMgr_Configuring.htm" />
     <Link
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
       Url="Content/MSP-Create-Asset-classes-and-statuses.htm" />
     <Link
       Url="Content/MSP-NGP-export-assets-from-Ncentral.htm" />
@@ -23,6 +25,8 @@
       Url="Project/VariableSets/PDFVariables.flvar" />
     <Link
       Url="https://documentation.solarwindsmsp.com/N-central/documentation/Content/Administration/PSA_Integration/MSP Manager/PSA_MSPMgr_Configuring.htm" />
+    <Link
+      Url="Project/VariableSets/Documents.flvar" />
     <Link
       Url="Content/MSP-Create-Asset-classes-and-statuses.htm" />
     <Link
@@ -40,6 +44,8 @@
       Name="PDFVariables.ProductName" />
     <Variable
       Name="MSPManager.ProductName_Long" />
+    <Variable
+      Name="Documents.ProductShortName" />
   </Variables>
   <FileConditions />
   <FileTags />
